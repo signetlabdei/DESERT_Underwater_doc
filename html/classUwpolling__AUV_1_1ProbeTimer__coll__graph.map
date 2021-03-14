@@ -1,0 +1,9 @@
+<map id="Uwpolling_AUV::ProbeTimer" name="Uwpolling_AUV::ProbeTimer">
+<area shape="rect" id="node4" href="$classUwpolling__AUV.html" title="Class used to represent the UWPOLLING MAC layer of the AUV. " alt="" coords="363,77,485,104"/>
+<area shape="rect" id="node2" href="$classUwpolling__AUV_1_1Uwpolling__AUV__Timer.html" title="Class that describes the timer in the AUV. " alt="" coords="587,177,781,218"/>
+<area shape="rect" id="node6" href="$classUwpolling__AUV_1_1PollTimer.html" title="Uwpolling_AUV::PollTimer" alt="" coords="835,7,1025,33"/>
+<area shape="rect" id="node7" href="$classUwpolling__AUV_1_1AckTimer.html" title="Uwpolling_AUV::AckTimer" alt="" coords="835,79,1025,105"/>
+<area shape="rect" id="node9" href="$classUwpolling__AUV_1_1DataTimer.html" title="Class (inherited from Uwpolling_AUV_Timer) used to handle the timer of data packets When the AUV give..." alt="" coords="831,160,1029,187"/>
+<area shape="rect" id="node8" href="$structprobbed__node.html" title="Internal structure where the AUV store the informations about the node to POLL. " alt="" coords="50,107,165,133"/>
+<area shape="rect" id="node10" href="$structprobe__cicle__counters.html" title="Struct used for handling the number of probes detected and received to estimate the number of neighbo..." alt="" coords="28,5,187,32"/>
+</map>

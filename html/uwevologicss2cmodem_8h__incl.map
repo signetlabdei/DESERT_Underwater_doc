@@ -1,0 +1,10 @@
+<map id="uwevologicss2cmodem.h" name="uwevologicss2cmodem.h">
+<area shape="rect" id="node2" href="$uwconnector_8h.html" title="Generic class that provides a method to interface with the devices. Will be specialized for..." alt="" coords="5,229,121,256"/>
+<area shape="rect" id="node6" href="$uwinterpreters2c_8h.html" title="Header of the interepreter class: this class is used ot translate form DESERT software to/from EvoLog..." alt="" coords="343,80,487,107"/>
+<area shape="rect" id="node10" href="$uwmodem_8h.html" title="Header of the main class that implements the general interface between DESERT and real acoustic modem..." alt="" coords="688,80,791,107"/>
+<area shape="rect" id="node14" href="$hdr-uwal_8h.html" title="Header of the class providing the Uwal header&#39;s description. " alt="" coords="530,304,621,331"/>
+<area shape="rect" id="node19" href="$uwal_8h.html" title="Header of the main class that implements the adaptation layer between ns2/NS&#45;Miracle and binary data ..." alt="" coords="1437,155,1503,181"/>
+<area shape="rect" id="node40" href="$uwip-module_8h.html" title="Provides the UWIP packets header description. Definition of the class that define the network layer..." alt="" coords="2277,229,2396,256"/>
+<area shape="rect" id="node20" href="$frame-set_8h.html" title="Header of the classes defining the frame elements (key and set) exploited by Uwal objects to reassebl..." alt="" coords="1829,229,1927,256"/>
+<area shape="rect" id="node27" href="$packer_8h.html" title="Header of the class responsible to map an NS&#45;Miracle packet into a bit stream, and vice&#45;versa..." alt="" coords="641,229,718,256"/>
+</map>

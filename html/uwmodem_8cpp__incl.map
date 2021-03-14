@@ -1,0 +1,8 @@
+<map id="uwmodem.cpp" name="uwmodem.cpp">
+<area shape="rect" id="node4" href="$uwmodem_8h.html" title="Header of the main class that implements the general interface between DESERT and real acoustic modem..." alt="" coords="969,80,1071,107"/>
+<area shape="rect" id="node10" href="$hdr-uwal_8h.html" title="Header of the class providing the Uwal header&#39;s description. " alt="" coords="1248,304,1339,331"/>
+<area shape="rect" id="node15" href="$uwal_8h.html" title="Header of the main class that implements the adaptation layer between ns2/NS&#45;Miracle and binary data ..." alt="" coords="987,155,1053,181"/>
+<area shape="rect" id="node37" href="$uwip-module_8h.html" title="Provides the UWIP packets header description. Definition of the class that define the network layer..." alt="" coords="47,229,166,256"/>
+<area shape="rect" id="node16" href="$frame-set_8h.html" title="Header of the classes defining the frame elements (key and set) exploited by Uwal objects to reassebl..." alt="" coords="568,229,667,256"/>
+<area shape="rect" id="node23" href="$packer_8h.html" title="Header of the class responsible to map an NS&#45;Miracle packet into a bit stream, and vice&#45;versa..." alt="" coords="843,229,920,256"/>
+</map>

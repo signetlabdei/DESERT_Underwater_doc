@@ -1,0 +1,8 @@
+<map id="CheckTimer" name="CheckTimer">
+<area shape="rect" id="node3" href="$classUwModem.html" title="Class that implements the interface to DESERT, as used through Tcl scripts. " alt="" coords="313,171,404,197"/>
+<area shape="rect" id="node5" href="$classUWMPhy__modem.html" title="The main class implementing the module used to implement the interface between ns2/NS&#45;Miracle and rea..." alt="" coords="74,171,211,197"/>
+<area shape="rect" id="node6" href="$classDropTimer.html" title="DropTimer" alt="" coords="5,260,96,287"/>
+<area shape="rect" id="node7" href="$classUWMdriver.html" title="The class needed by UWMPhy_modem to handle the different transmissions cases and corresponding protoc..." alt="" coords="255,260,350,287"/>
+<area shape="rect" id="node8" href="$classUWMconnector.html" title="The class needed by UWMPhy_modem to manage string exchange with the modem. " alt="" coords="151,349,271,376"/>
+<area shape="rect" id="node9" href="$classUWMinterpreter.html" title="This class is in charge of building/parsing the necessary messages to make the UWMdriver able to comm..." alt="" coords="331,349,456,376"/>
+</map>

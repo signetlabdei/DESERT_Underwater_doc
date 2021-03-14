@@ -1,0 +1,9 @@
+<map id="Msocket" name="Msocket">
+<area shape="rect" id="node2" href="$classUWMconnector.html" title="The class needed by UWMPhy_modem to manage string exchange with the modem. " alt="" coords="87,5,207,32"/>
+<area shape="rect" id="node3" href="$classUWMdriver.html" title="The class needed by UWMPhy_modem to handle the different transmissions cases and corresponding protoc..." alt="" coords="179,95,274,121"/>
+<area shape="rect" id="node4" href="$classUWMPhy__modem.html" title="The main class implementing the module used to implement the interface between ns2/NS&#45;Miracle and rea..." alt="" coords="325,184,462,211"/>
+<area shape="rect" id="node10" href="$classUWMinterpreter.html" title="This class is in charge of building/parsing the necessary messages to make the UWMdriver able to comm..." alt="" coords="5,184,131,211"/>
+<area shape="rect" id="node6" href="$classDropTimer.html" title="DropTimer" alt="" coords="400,273,491,300"/>
+<area shape="rect" id="node8" href="$classCheckTimer.html" title="The class used by UWMPhy_modem to handle simulator&#39;s event expirations; it is exploited to schedule t..." alt="" coords="150,273,250,300"/>
+<area shape="rect" id="node9" href="$classUwModem.html" title="Class that implements the interface to DESERT, as used through Tcl scripts. " alt="" coords="267,363,357,389"/>
+</map>

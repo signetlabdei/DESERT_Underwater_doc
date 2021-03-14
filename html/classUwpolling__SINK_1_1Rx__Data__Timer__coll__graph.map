@@ -1,0 +1,5 @@
+<map id="Uwpolling_SINK::Rx_Data_Timer" name="Uwpolling_SINK::Rx_Data_Timer">
+<area shape="rect" id="node4" href="$classUwpolling__SINK.html" title="Class used to represents the UWPOLLING MAC layer of a node. " alt="" coords="201,109,326,136"/>
+<area shape="rect" id="node2" href="$classUwpolling__SINK_1_1Uwpolling__SINK__Timer.html" title="Class that describes the timer in the SINK. " alt="" coords="19,199,217,240"/>
+<area shape="rect" id="node6" href="$classUwpolling__SINK_1_1BackOffTimer.html" title="Class (inherited from Uwpolling_SINK_Timer) used to handle the time of backoff of the node before tra..." alt="" coords="80,289,303,316"/>
+</map>
