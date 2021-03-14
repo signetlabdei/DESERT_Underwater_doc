@@ -14,6 +14,10 @@ importance to realize a communication and networking architecture that
 allows heterogeneous nodes to communicate reliably in the underwater 
 environment.
 
-### Doxygen
+# Code
+
+The code is hosted [on Github](https://github.com/signetlabdei/DESERT_Underwater)
+
+# Doxygen
 
 Please find [here our doxygen documentation](./html/index.html)
