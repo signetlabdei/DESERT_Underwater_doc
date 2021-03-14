@@ -14,12 +14,6 @@ var NAVTREE =
       [ "After the installation has been completed", "INSTALL1.html#todoafter", null ]
     ] ],
     [ "How to add a new custom installer", "HowTo.html", null ],
-    [ "Embedded Systems", "OurDevices.html", [
-      [ "Gumstix Overo", "OurDevices.html#gumstix", null ],
-      [ "Raspberry Pi", "OurDevices.html#raspberry", null ],
-      [ "Udoo", "OurDevices.html#udoo", null ]
-    ] ],
-    [ "Acknowledgments", "ack.html", null ],
     [ "License Terms", "License.html", null ],
     [ "In memory of Giovanni Toso", "Giovanni.html", null ],
     [ "Namespaces", null, [
@@ -61,29 +55,29 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "Giovanni.html",
-"classCsmaAloha_1_1ListenTimer.html#a94314f30c53f00b9800dad904b7fd3b9",
-"classMMacTLOHI.html#a51918a435cd56e214f016d7e87689767",
-"classMMacUWSR.html#adc099d9feea54732a9a5dd601e500138",
-"classPackerClass.html#a15b560fc87d7e5301dc10366f07cde70",
-"classTRIGGERHeaderClass.html#abda2bb408535e3d4794810dc54d5dcce",
-"classUWMPhy__modem.html#a912980b5e071eff2c4f00286f3bcc85f",
-"classUnderwaterPhysicaldb.html",
-"classUwCsmaAloha__Trigger__SINK.html#a4d8031e1e081d4a1717fffad4d08b141",
-"classUwIcrpNode.html#a3ed1718ca5e37d86427043b6eb011fbb",
-"classUwSocket.html#a7ca1dc8515f68658cb03414595ca38b6",
-"classUwpolling__AUV.html#a22d485e92372351592e27a7ea1a0b2fc",
-"classUwpolling__NODE.html#a7eca76927fa40c527ff69c9aff37b39fa63109a9cf6a811da93a74a57c995e1db",
-"classpacker.html#a02e38a8b6d056b0072278f746f1b27b4",
-"classuwUFetch__AUV.html#a203b72ecb77b29124b3e9d2e9f0ea7d8",
-"classuwUFetch__NODE.html#a35271de50cca0312be6187f7eaf77c79a0972595dc43b14ee09b0e4a6fb725891",
-"classuwUFetch__NODE.html#ace188d05898a81df0b80cce18e2105f8",
-"frame-set_8cpp.html",
-"mdriverS2C__Evo__lowlev_8h.html#a2848cb08f9fcecabcab8362c314b7057adefefce9df8ec2eb2e4ab5f9bd6ec753",
-"structhdr__DATA__APPLICATION.html#a3dbf8a7be21310cf9bc4bb5a256d4391",
-"structprobbed__node.html#a81a680b3bd29512ff60c3b3f67e89bd5",
-"uw-mac-TLohi_8h.html",
-"uwflooding_8cpp_source.html",
-"uwpolling__SINK_8h.html#ace96f1cdfe05e5c896d23167c8ee608d"
+"classDACAPBTimer.html#a5f3a8f399c8ae37a8d8464f6ad9c9f00",
+"classMMacTLOHI.html#a5cf7d353a799629f07d3f6777773d943",
+"classMMacUWSR.html#aea206b815f2f320e62d846ab5d1375cd",
+"classPollHeaderClass.html",
+"classTriggerHeaderClass.html",
+"classUWMPhy__modem.html#abc0c34034a16b96b3d060bbfe7a4ea94",
+"classUnderwaterPhysicaldb.html#a23dac474e8a2c68d2a6dec258f0e9c00",
+"classUwCsmaAloha__Trigger__SINK.html#a769b70dbb5d0ae798a3f0144268caaa3",
+"classUwIcrpNode.html#a6038ee4f5bf751a593827eda2361f84f",
+"classUwSocket.html#ab68feaf3a95eb111b992276f427389ef",
+"classUwpolling__AUV.html#a2f4314189ece0af2dd154e2b1956ddaa",
+"classUwpolling__NODE.html#a8702af274bb2eb6199b2cb3b0463e92e",
+"classpacker.html#a0c85bc661d579fc77d0e4046f6b0dcdd",
+"classuwUFetch__AUV.html#a30045d2230f26d25b5d9dbb3a872eefd",
+"classuwUFetch__NODE.html#a35cfa2752fbf9465d0afb5ea2d4474e2",
+"classuwUFetch__NODE.html#ad25d592d78277f9dce6e05648a76048f",
+"frame-set_8cpp.html#aab8c832598d3cf8dc66d3cdadca3777f",
+"mdriverS2C__Evo__lowlev_8h.html#a2848cb08f9fcecabcab8362c314b7057af39ca784ab6602910b80ccc920984fc1",
+"structhdr__DATA__APPLICATION.html#a78db7edd069c98984e48e789515a2333",
+"structprobbed__node.html#a91bdeac227216dc0ef00ea87a608f54b",
+"uw-mac-TLohi_8h.html#a281140103fd59ea6dd5c4b72273ceffc",
+"uwflooding_8h_source.html",
+"uwpolling__cmn__hdr_8h.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
