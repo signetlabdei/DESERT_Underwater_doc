@@ -4,7 +4,7 @@
 <meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.5"/>
-<title>My Project: License Terms</title>
+<title>My Project: How to cross-compile DESERT for EvoLogics ARM Debian Sandbox</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -73,17 +73,54 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 </div><!-- top -->
 <div class="header">
   <div class="headertitle">
-<div class="title">License Terms </div>  </div>
+<div class="title">How to cross-compile DESERT for EvoLogics ARM Debian Sandbox </div>  </div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><p>Copyright (c) 2022 Regents of the SIGNET lab, University of Padova. All rights reserved.</p>
-<p>Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:</p>
-<ol type="1">
-<li>Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.</li>
-<li>Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.</li>
-<li>Neither the name of the University of Padova (SIGNET lab) nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.</li>
-</ol>
-<p>THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </p>
+<div class="textblock"><h1><a class="anchor" id="CROSS-COMPILE-EVO-bare"></a>
+Cross-compilation on Debian/Ubuntu workstation</h1>
+<p>To download and setup the appropriate toolchain, you can use the following commands (<em>validated on Debian 11 and Ubuntu 22.04</em>)</p>
+<p><small> </p>
+<pre class="fragment">dpkg --add-architecture armhf
+apt-get update
+apt-get install -y gcc-arm-linux-gnueabihf g++-arm-linux-gnueabihf
+</pre><p></small></p>
+<p><small></small></p>
+<blockquote class="doxtable">
+<p>NOTE: These commands requires sudo capabilities and workstation should be connected to the internet. </p>
+</blockquote>
+<p>After script correctly finished, you can compile DESERT for EvoLogics sandbox selecting the appropriate arch and selecting *"release"* modality when asked during wizard procedure in order not to copy unnecessary files.</p>
+<p><small> </p>
+<pre class="fragment">./install.sh --target EvoLogics-sandbox-debian_armhf --inst_mode release --dest_folder /home/yourhome/DESERT_Underwater/DESERT_buildCopy_EvoLogics-sandbox-debian_armhf
+</pre><p></small></p>
+<p><small></small></p>
+<p>After installation has been correctly completed, you can copy *_buildCopy* folder inside your EvoLogics modem, source the environment files and run you tcl files inside the EvoLogics modem's sandbox</p>
+<p><small> </p>
+<pre class="fragment">scp -r /home/yourhome/DESERT_Underwater/DESERT_buildCopy_EvoLogics-sandbox-debian_armhf root@&lt;your-modem-ip-address&gt;:~
+</pre><p></small></p>
+<p><small></small></p>
+<p>you can now get access via ssh to your modem sandbox and source the DESERT env file in order to setup PATH and LD_LIBRARY_PATH variables</p>
+<p><small> </p>
+<pre class="fragment">ssh root@&lt;your-modem-ip-address&gt;
+source .../DESERT_buildCopy_EvoLogics-sandbox-debian_armhf/environment
+</pre><p></small></p>
+<p><small></small></p>
+<h1><a class="anchor" id="CROSS-COMPILE-EVO-docker"></a>
+Use docker</h1>
+<p>In order to simplify the cross-compilation process, a Dockerfile is present in .../DESERT_Framework/Docker/xcompile folder, which prepares for you the right environment to cross-compile DESERT for Evologics modem sandbox</p>
+<blockquote class="doxtable">
+<p>NOTE: The following section requires Docker to be installed and working on workstation </p>
+</blockquote>
+<p>You have to first build your docker image</p>
+<p><small> </p>
+<pre class="fragment">docker build --network=host -t evologics/desert-cross-compile:latest -f Dockerfile-EvoLogics-sandbox .
+</pre><p></small></p>
+<p><small></small></p>
+<p>You can now use the just built docker image to run a container and build DESERT inside it. To run that container you can use the provided script inside .../DESERT_Framework/Docker/xcompile</p>
+<p><small> </p>
+<pre class="fragment">./docker-init.sh evologics/desert-cross-compile:latest
+</pre><p></small></p>
+<p><small></small></p>
+<p>You will have a shell inside the running container with DESERT framework mounted on its filesystem, and you can now proceed to compile DESERT as in the previous section. At the end of the installation, you can exit the docker container shell (container will now die) and copy the *_buildCopy* folder inside your EvoLogics modem, as explained in the previous section </p>
 </div></div><!-- contents -->
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>

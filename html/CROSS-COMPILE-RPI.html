@@ -4,7 +4,7 @@
 <meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.5"/>
-<title>My Project: Related Pages</title>
+<title>My Project: How to cross-compile DESERT for Raspberry Pi Zero</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -56,7 +56,6 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
       </li>
     </ul>
   </div>
-</div><!-- top -->
 <!-- window showing the filter options -->
 <div id="MSearchSelectWindow"
      onmouseover="return searchBox.OnSearchSelectShow()"
@@ -71,22 +70,56 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 </iframe>
 </div>
 
+</div><!-- top -->
 <div class="header">
   <div class="headertitle">
-<div class="title">Related Pages</div>  </div>
+<div class="title">How to cross-compile DESERT for Raspberry Pi Zero </div>  </div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock">Here is a list of all related documentation pages:</div><div class="directory">
-<table class="directory">
-<tr id="row_0_" class="even"><td class="entry"><img src="ftv2node.png" alt="o" width="16" height="22" /><a class="el" href="INSTALL1.html" target="_self">Installation Guidelines</a></td><td class="desc"></td></tr>
-<tr id="row_1_"><td class="entry"><img src="ftv2node.png" alt="o" width="16" height="22" /><a class="el" href="CROSS-COMPILE-RPI.html" target="_self">How to cross-compile DESERT for Raspberry Pi Zero</a></td><td class="desc"></td></tr>
-<tr id="row_2_" class="even"><td class="entry"><img src="ftv2node.png" alt="o" width="16" height="22" /><a class="el" href="CROSS-COMPILE-EVO.html" target="_self">How to cross-compile DESERT for EvoLogics ARM Debian Sandbox</a></td><td class="desc"></td></tr>
-<tr id="row_3_"><td class="entry"><img src="ftv2node.png" alt="o" width="16" height="22" /><a class="el" href="DEV.html" target="_self">Developer guide</a></td><td class="desc"></td></tr>
-<tr id="row_4_" class="even"><td class="entry"><img src="ftv2node.png" alt="o" width="16" height="22" /><a class="el" href="License.html" target="_self">License Terms</a></td><td class="desc"></td></tr>
-<tr id="row_5_"><td class="entry"><img src="ftv2lastnode.png" alt="\" width="16" height="22" /><a class="el" href="Giovanni.html" target="_self">In memory of Giovanni Toso</a></td><td class="desc"></td></tr>
-</table>
-</div><!-- directory -->
-</div><!-- contents -->
+<div class="textblock"><h1><a class="anchor" id="CROSS-COMPILE-RPI-bare"></a>
+Cross-compilation on Debian/Ubuntu workstation</h1>
+<p>To download the appropriate toolchain, you can use the script provided inside</p>
+<p><small> </p>
+<pre class="fragment">.../DESERT_Framework/Installer/make-rpi-toolchain.sh
+</pre><p></small></p>
+<p><small></small></p>
+<blockquote class="doxtable">
+<p>NOTE: this script requires sudo capabilities and workstation should be connected to the internet. </p>
+</blockquote>
+<p>After script correctly finished, you can compile DESERT for Raspberry Pi Zero selecting the appropriate arch and selecting *"release"* modality when asked during wizard procedure in order not to copy unnecessary files.</p>
+<p><small> </p>
+<pre class="fragment">./install.sh --target Raspberry-Pi-zero-Raspbian --inst_mode release --dest_folder /home/yourhome/DESERT_Underwater/DESERT_buildCopy_Raspberry-Pi-zero-Raspbian
+</pre><p></small></p>
+<p><small></small></p>
+<p>After installation has been correctly completed, you can copy *_buildCopy* folder inside your Raspberry, source the environment files and run you tcl files inside the Raspberry.</p>
+<p><small> </p>
+<pre class="fragment">scp -r /home/yourhome/DESERT_Underwater/DESERT_buildCopy_Raspberry-Pi-zero-Raspbian pi@&lt;your-raspi-ip-address&gt;:~
+</pre><p></small></p>
+<p><small></small></p>
+<p>you can now get access via ssh to your Raspberry and source the DESERT env file in order to setup PATH and LD_LIBRARY_PATH variables</p>
+<p><small> </p>
+<pre class="fragment">ssh root@&lt;your-modem-ip-address&gt;
+source .../DESERT_buildCopy_Raspberry-Pi-zero-Raspbian/environment
+</pre><p></small></p>
+<p><small></small></p>
+<h1><a class="anchor" id="CROSS-COMPILE-RPI-docker"></a>
+Use docker</h1>
+<p>In order to simplify the cross-compilation process, a Dockerfile is present in .../DESERT_Framework/Docker/xcompile folder, which prepares for you the right environment to cross-compile DESERT on Raspberry</p>
+<blockquote class="doxtable">
+<p>NOTE: The following section requires Docker to be installed and working on workstation </p>
+</blockquote>
+<p>You have to first build your docker image</p>
+<p><small> </p>
+<pre class="fragment">docker build --network=host -t desert/raspi-zero-cross:latest -f Dockerfile-Raspberry-Pi-Zero .
+</pre><p></small></p>
+<p><small></small></p>
+<p>You can now use the just built docker image to run a container and build DESERT inside it. To run that container you can use the provided script inside .../DESERT_Framework/Docker/xcompile</p>
+<p><small> </p>
+<pre class="fragment">./docker-init.sh desert/raspi-zero-cross:latest
+</pre><p></small></p>
+<p><small></small></p>
+<p>You will have a shell inside the running container with DESERT framework mounted on its filesystem, and you can now proceed to compile DESERT as in the previous section. At the end of the installation, you can exit the docker container shell (container will now die) and copy the *_buildCopy* folder inside your Raspberry, as explained in the previous section </p>
+</div></div><!-- contents -->
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>
 Generated by &#160;<a href="http://www.doxygen.org/index.html">
