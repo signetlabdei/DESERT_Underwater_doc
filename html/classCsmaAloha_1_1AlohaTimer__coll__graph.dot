@@ -1,0 +1,22 @@
+digraph "CsmaAloha::AlohaTimer"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="CsmaAloha::AlohaTimer",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip="Class that describes the timers in the node."];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="TimerHandler",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",tooltip=" "];
+  Node3 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" module" ,fontname="Helvetica"];
+  Node3 [label="CsmaAloha",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classCsmaAloha.html",tooltip="Class that describes a CsmaAloha module."];
+  Node4 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="MMac",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",tooltip=" "];
+  Node5 -> Node3 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" ack_timer" ,fontname="Helvetica"];
+  Node5 [label="CsmaAloha::AckTimer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classCsmaAloha_1_1AckTimer.html",tooltip="Class used to handle the timer for waiting the ACK."];
+  Node1 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 -> Node3 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" listen_timer" ,fontname="Helvetica"];
+  Node6 [label="CsmaAloha::ListenTimer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classCsmaAloha_1_1ListenTimer.html",tooltip="Class used to handle the Listen Timer."];
+  Node1 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 -> Node3 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" backoff_timer" ,fontname="Helvetica"];
+  Node7 [label="CsmaAloha::BackOffTimer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classCsmaAloha_1_1BackOffTimer.html",tooltip="Class used to handle the timer of the backoff period."];
+  Node1 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

@@ -1,0 +1,11 @@
+digraph "uwstaticrouting" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_bce92bcee51198345c21c8b524b3c6a2 {
+    graph [ bgcolor="#ddddee", pencolor="black", label="network" fontname="Helvetica", fontsize="10", URL="dir_bce92bcee51198345c21c8b524b3c6a2.html"]
+  dir_7f4931294124831fc48c64d37ca1cfa0 [shape=box label="uwip" URL="dir_7f4931294124831fc48c64d37ca1cfa0.html"];
+  dir_06d860c3e0dca740e3bdf18aab7b806d [shape=box, label="uwstaticrouting", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_06d860c3e0dca740e3bdf18aab7b806d.html"];
+  }
+  dir_06d860c3e0dca740e3bdf18aab7b806d->dir_7f4931294124831fc48c64d37ca1cfa0 [headlabel="1", labeldistance=1.5 headhref="dir_000016_000014.html"];
+}

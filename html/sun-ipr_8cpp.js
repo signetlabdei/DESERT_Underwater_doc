@@ -4,8 +4,8 @@ var sun_ipr_8cpp =
     [ "SunDataPktClass", "classSunDataPktClass.html", "classSunDataPktClass" ],
     [ "SunPestPktClass", "classSunPestPktClass.html", "classSunPestPktClass" ],
     [ "SunProbePktClass", "classSunProbePktClass.html", "classSunProbePktClass" ],
-    [ "class_sun_ack_pkt", "sun-ipr_8cpp.html#aa584f7cc74c5f4ffe7c958b4b8fe8040", null ],
-    [ "class_sun_data_pkt", "sun-ipr_8cpp.html#a2e96a5732455e637a5cd6417eee31aff", null ],
-    [ "class_sun_pest_pkt", "sun-ipr_8cpp.html#a00fb8583aa1658043b4b041c56b8e6de", null ],
-    [ "class_sun_probe_pkt", "sun-ipr_8cpp.html#ad9898ed5f100f9c914f72a5be2049e46", null ]
+    [ "class_sun_ack_pkt", "sun-ipr_8cpp.html#a0a2e212dc0c0b849a2a730114e20afe7", null ],
+    [ "class_sun_data_pkt", "sun-ipr_8cpp.html#af2b404dd826a1a2c5386931ec619427c", null ],
+    [ "class_sun_pest_pkt", "sun-ipr_8cpp.html#a30c3dd20d7a15fe83ea04cfd63693d08", null ],
+    [ "class_sun_probe_pkt", "sun-ipr_8cpp.html#ac117ca80c561daeeee18226477abe75a", null ]
 ];

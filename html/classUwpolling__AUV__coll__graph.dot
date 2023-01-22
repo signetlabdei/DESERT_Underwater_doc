@@ -1,0 +1,30 @@
+digraph "Uwpolling_AUV"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="Uwpolling_AUV",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip="Class used to represent the UWPOLLING MAC layer of the AUV."];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="MMac",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",tooltip=" "];
+  Node3 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" poll_timer" ,fontname="Helvetica"];
+  Node3 [label="Uwpolling_AUV::PollTimer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classUwpolling__AUV_1_1PollTimer.html",tooltip=" "];
+  Node4 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="Uwpolling_AUV::Uwpolling\l_AUV_Timer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classUwpolling__AUV_1_1Uwpolling__AUV__Timer.html",tooltip="Class that describes the timer in the AUV."];
+  Node5 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="TimerHandler",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",tooltip=" "];
+  Node1 -> Node4 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" module" ,fontname="Helvetica"];
+  Node6 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" ack_timer" ,fontname="Helvetica"];
+  Node6 [label="Uwpolling_AUV::AckTimer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classUwpolling__AUV_1_1AckTimer.html",tooltip=" "];
+  Node4 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" probbed_sink" ,fontname="Helvetica"];
+  Node7 [label="probbed_node",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structprobbed__node.html",tooltip="Internal structure where the AUV store the informations about the node to POLL."];
+  Node8 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" data_timer" ,fontname="Helvetica"];
+  Node8 [label="Uwpolling_AUV::DataTimer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classUwpolling__AUV_1_1DataTimer.html",tooltip="Class (inherited from Uwpolling_AUV_Timer) used to handle the timer of data packets When the AUV give..."];
+  Node4 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" probe_counters" ,fontname="Helvetica"];
+  Node9 [label="probe_cicle_counters",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structprobe__cicle__counters.html",tooltip="Struct used for handling the number of probes detected and received to estimate the number of neighbo..."];
+  Node10 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" probe_timer" ,fontname="Helvetica"];
+  Node10 [label="Uwpolling_AUV::ProbeTimer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classUwpolling__AUV_1_1ProbeTimer.html",tooltip="Class (inherited from Uwpolling_AUV_Timer) used to handle the Probe Timer."];
+  Node4 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

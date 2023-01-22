@@ -1,0 +1,18 @@
+digraph "Graphical Class Hierarchy"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node75 [label="MPhy",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",tooltip=" "];
+  Node75 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node0 [label="MPhy_WakeUp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classMPhy__WakeUp.html",tooltip="Class that describes the WakeUp PHY layer for T-LOHI MAC protocol."];
+  Node75 -> Node77 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node77 [label="UWMPhypatch",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classUWMPhypatch.html",tooltip="Class to patch the absence of a PHY layer's module when we want to use a module of the MAC layer."];
+  Node75 -> Node78 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node78 [label="UwModem",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classUwModem.html",tooltip="Class that implements the interface to DESERT, as used through Tcl scripts."];
+  Node78 -> Node79 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node79 [label="UwEvoLogicsS2CModem",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classUwEvoLogicsS2CModem.html",tooltip=" "];
+  Node75 -> Node80 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node80 [label="Uwal",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classUwal.html",tooltip="The main class implementing the module used to implement the adaptation layer between ns2/NS-Miracle ..."];
+}

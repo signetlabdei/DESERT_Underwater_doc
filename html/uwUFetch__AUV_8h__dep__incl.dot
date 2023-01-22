@@ -1,0 +1,15 @@
+digraph "uwUFetch_AUV.h"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="uwUFetch_AUV.h",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip="Declaration of class that implement AUV for UFetch protocol."];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="initlib.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$data__link_2uwUFetch_2initlib_8cpp.html",tooltip="file to initialize the libuwufetch.so library"];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="uwUFetch_AUV.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$uwUFetch__AUV_8cpp.html",tooltip="Class that provide the implementation of the AUV entity of uwUFetch protocol."];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="uwUFetch_AUV_mod_1.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$uwUFetch__AUV__mod__1_8cpp.html",tooltip=" "];
+  Node1 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="uwUFetch_AUV_mod_2.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$uwUFetch__AUV__mod__2_8cpp.html",tooltip=" "];
+}

@@ -31,6 +31,7 @@ var classUnderwaterPhysical =
     [ "recv", "classUnderwaterPhysical.html#a7fe7aa74ee3bb0c9906aa413c4f7a77c", null ],
     [ "recvSyncClMsg", "classUnderwaterPhysical.html#a2271872ff4409c731645fca33f5e47b8", null ],
     [ "startRx", "classUnderwaterPhysical.html#a7e7b97ac802526dbf15efbf093ca7832", null ],
+    [ "updateInstantaneousStats", "classUnderwaterPhysical.html#a795bea0d4ea99b0bf25a48c41be1fbde", null ],
     [ "collisionCTRL", "classUnderwaterPhysical.html#a3bfc5fe042f2dffb5be280b71d0a1282", null ],
     [ "collisionDATA", "classUnderwaterPhysical.html#aa041163c4c6a137533550acb2cea4c53", null ],
     [ "collisionDataCTRL", "classUnderwaterPhysical.html#ab1331e2c2da8837752ab40a16b18fd9d", null ],

@@ -1,0 +1,8 @@
+digraph "Graphical Class Hierarchy"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="hdr_uwflooding",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structhdr__uwflooding.html",tooltip="hdr_uwflooding describes packets used by UWFLOODING."];
+}

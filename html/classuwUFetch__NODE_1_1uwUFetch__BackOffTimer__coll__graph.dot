@@ -1,0 +1,38 @@
+digraph "uwUFetch_NODE::uwUFetch_BackOffTimer"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="uwUFetch_NODE::uwUFetch\l_BackOffTimer",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip="Class (inherited from uwUFetch_NODE_Timer) used to handle the time of back-off of the node before tra..."];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="uwUFetch_NODE::uwUFetch\l_NODE_timer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classuwUFetch__NODE_1_1uwUFetch__NODE__timer.html",tooltip="Class that handle the timers of SN or HN."];
+  Node3 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="TimerHandler",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",tooltip=" "];
+  Node4 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" module" ,fontname="Helvetica"];
+  Node4 [label="uwUFetch_NODE",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classuwUFetch__NODE.html",tooltip=" "];
+  Node5 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="MMac",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",tooltip=" "];
+  Node6 -> Node4 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" PROBE_timer" ,fontname="Helvetica"];
+  Node6 [label="uwUFetch_NODE::uwUFetch\l_PROBE_timer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classuwUFetch__NODE_1_1uwUFetch__PROBE__timer.html",tooltip="Class inherited the method and variable of uwUFetch_NODE_timer that handle the timer of PROBE packets..."];
+  Node2 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 -> Node4 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" CBEACON_timer" ,fontname="Helvetica"];
+  Node7 [label="uwUFetch_NODE::uwUFetch\l_CBeacon_timer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classuwUFetch__NODE_1_1uwUFetch__CBeacon__timer.html",tooltip="Class inherited the method and variable of uwUFetch_NODE_timer that handle the timer of CBEACON packe..."];
+  Node2 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 -> Node4 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" CTS_timer" ,fontname="Helvetica"];
+  Node8 [label="uwUFetch_NODE::uwUFetch\l_CTS_timer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classuwUFetch__NODE_1_1uwUFetch__CTS__timer.html",tooltip="Class inherited the method and variable of uwUFetch_NODE_timer that handle the timer of CTS packets."];
+  Node2 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 -> Node4 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" DATA_BEFORE_TX_timer" ,fontname="Helvetica"];
+  Node9 [label="uwUFetch_NODE::uwUFetch\l_DATA_BEFORE_TX_timer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classuwUFetch__NODE_1_1uwUFetch__DATA__BEFORE__TX__timer.html",tooltip="Class inherited the method and variable of uwUFetch_NODE_timer that handle the timer of DATA packets."];
+  Node2 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 -> Node4 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" POLL_timer" ,fontname="Helvetica"];
+  Node10 [label="uwUFetch_NODE::uwUFetch\l_POLL_timer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classuwUFetch__NODE_1_1uwUFetch__POLL__timer.html",tooltip="Class inherited the method and variable of uwUFetch_NODE_timer that handle the timer of POLL packets."];
+  Node2 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 -> Node4 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" DATA_timer" ,fontname="Helvetica"];
+  Node11 [label="uwUFetch_NODE::uwUFetch\l_DATA_timer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classuwUFetch__NODE_1_1uwUFetch__DATA__timer.html",tooltip="Class inherited the method and variable of uwUFetch_NODE_timer that handle the timer of DATA packets."];
+  Node2 -> Node11 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 -> Node4 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" BeaconBeforeTx_timer" ,fontname="Helvetica"];
+  Node12 [label="uwUFetch_NODE::uwUFetch\l_BEACON_timer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classuwUFetch__NODE_1_1uwUFetch__BEACON__timer.html",tooltip="Timer associated to the HN."];
+  Node2 -> Node12 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 -> Node4 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" BCK_timer_data\nBCK_timer_probe\nBCK_timer_rts" ,fontname="Helvetica"];
+}

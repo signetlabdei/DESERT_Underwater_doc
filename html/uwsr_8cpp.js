@@ -1,5 +1,5 @@
 var uwsr_8cpp =
 [
     [ "UWSRModuleClass", "classUWSRModuleClass.html", "classUWSRModuleClass" ],
-    [ "class_module_uwsr", "uwsr_8cpp.html#af91a1b48d5df1b051934d1ce929b83bf", null ]
+    [ "class_module_uwsr", "uwsr_8cpp.html#a63af6a0006d9136d1c2035e39cd5d30f", null ]
 ];

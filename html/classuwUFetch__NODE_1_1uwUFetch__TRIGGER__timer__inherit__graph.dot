@@ -1,0 +1,11 @@
+digraph "uwUFetch_NODE::uwUFetch_TRIGGER_timer"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="uwUFetch_NODE::uwUFetch\l_TRIGGER_timer",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip="Class inherited the method and variable of uwUFetch_NODE_timer that handle the timer of TRIGGER packe..."];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="uwUFetch_NODE::uwUFetch\l_NODE_timer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classuwUFetch__NODE_1_1uwUFetch__NODE__timer.html",tooltip="Class that handle the timers of SN or HN."];
+  Node3 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="TimerHandler",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",tooltip=" "];
+}

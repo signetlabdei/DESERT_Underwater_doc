@@ -19,7 +19,7 @@ var sun_ipr_common_structures_8h =
     [ "DROP_WRONG_NODE_PATH_EST", "sun-ipr-common-structures_8h.html#a0ca18a41e5c999eadfd91474c59f25fb", null ],
     [ "MIN_SNR", "sun-ipr-common-structures_8h.html#a731a9aa1439156dbfa006aa3d8da5e91", null ],
     [ "STACK_TRACE", "sun-ipr-common-structures_8h.html#ab6f00ecf059e2f045a29810c8d35de52", null ],
-    [ "buffer_element", "sun-ipr-common-structures_8h.html#aac30d510008db50d8f73b1ae9f8c4abe", null ],
+    [ "buffer_element", "sun-ipr-common-structures_8h.html#a7ac0ad5af709f7a7ebc9af1ce5b53b1f", null ],
     [ "MAX_HOP_NUMBER", "sun-ipr-common-structures_8h.html#ac0c574d55b38de653f802dc771df55d5", null ],
     [ "sunuid_", "sun-ipr-common-structures_8h.html#abd7c45d155fd318ab88d9a8477d35a58", null ]
 ];

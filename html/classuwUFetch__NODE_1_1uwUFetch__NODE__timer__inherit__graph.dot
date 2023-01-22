@@ -1,0 +1,28 @@
+digraph "uwUFetch_NODE::uwUFetch_NODE_timer"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="uwUFetch_NODE::uwUFetch\l_NODE_timer",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip="Class that handle the timers of SN or HN."];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="TimerHandler",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",tooltip=" "];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="uwUFetch_NODE::uwUFetch\l_BEACON_timer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classuwUFetch__NODE_1_1uwUFetch__BEACON__timer.html",tooltip="Timer associated to the HN."];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="uwUFetch_NODE::uwUFetch\l_BackOffTimer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classuwUFetch__NODE_1_1uwUFetch__BackOffTimer.html",tooltip="Class (inherited from uwUFetch_NODE_Timer) used to handle the time of back-off of the node before tra..."];
+  Node1 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="uwUFetch_NODE::uwUFetch\l_CBeacon_timer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classuwUFetch__NODE_1_1uwUFetch__CBeacon__timer.html",tooltip="Class inherited the method and variable of uwUFetch_NODE_timer that handle the timer of CBEACON packe..."];
+  Node1 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="uwUFetch_NODE::uwUFetch\l_CTS_timer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classuwUFetch__NODE_1_1uwUFetch__CTS__timer.html",tooltip="Class inherited the method and variable of uwUFetch_NODE_timer that handle the timer of CTS packets."];
+  Node1 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="uwUFetch_NODE::uwUFetch\l_DATA_BEFORE_TX_timer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classuwUFetch__NODE_1_1uwUFetch__DATA__BEFORE__TX__timer.html",tooltip="Class inherited the method and variable of uwUFetch_NODE_timer that handle the timer of DATA packets."];
+  Node1 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="uwUFetch_NODE::uwUFetch\l_DATA_timer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classuwUFetch__NODE_1_1uwUFetch__DATA__timer.html",tooltip="Class inherited the method and variable of uwUFetch_NODE_timer that handle the timer of DATA packets."];
+  Node1 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="uwUFetch_NODE::uwUFetch\l_POLL_timer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classuwUFetch__NODE_1_1uwUFetch__POLL__timer.html",tooltip="Class inherited the method and variable of uwUFetch_NODE_timer that handle the timer of POLL packets."];
+  Node1 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="uwUFetch_NODE::uwUFetch\l_PROBE_timer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classuwUFetch__NODE_1_1uwUFetch__PROBE__timer.html",tooltip="Class inherited the method and variable of uwUFetch_NODE_timer that handle the timer of PROBE packets..."];
+  Node1 -> Node11 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="uwUFetch_NODE::uwUFetch\l_TRIGGER_timer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classuwUFetch__NODE_1_1uwUFetch__TRIGGER__timer.html",tooltip="Class inherited the method and variable of uwUFetch_NODE_timer that handle the timer of TRIGGER packe..."];
+}

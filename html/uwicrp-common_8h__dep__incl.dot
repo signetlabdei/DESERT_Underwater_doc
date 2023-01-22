@@ -1,0 +1,29 @@
+digraph "uwicrp-common.h"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="uwicrp-common.h",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip="Common structures and definition used by UWICRP."];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="uwicrp-hdr-data.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$uwicrp-hdr-data_8h.html",tooltip="Provides the Data Messages header description."];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="initlib.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$network_2uwicrp_2initlib_8cpp.html",tooltip="Provides the initialization of uwicrp libraries."];
+  Node2 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="uwicrp-module-node.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$uwicrp-module-node_8h.html",tooltip="Provides a module for nodes that needs a simple and dynamic routing protocol."];
+  Node4 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="uwicrp-module-node.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$uwicrp-module-node_8cpp.html",tooltip="Implements UWIcrpNode."];
+  Node2 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="uwicrp-module-sink.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$uwicrp-module-sink_8h.html",tooltip="Provides a module for sinks that needs a simple and dynamic routing protocol."];
+  Node6 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="uwicrp-module-sink.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$uwicrp-module-sink_8cpp.html",tooltip="Implements UWIcrpSink."];
+  Node2 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="uwicrp.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$uwicrp_8cpp.html",tooltip="Packets' class implementation."];
+  Node1 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="uwicrp-hdr-status.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$uwicrp-hdr-status_8h.html",tooltip="Provides the Status Messages header description."];
+  Node9 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

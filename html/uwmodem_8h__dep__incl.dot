@@ -1,0 +1,13 @@
+digraph "uwmodem.h"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="uwmodem.h",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip="Header of the main class that implements the general interface between DESERT and real acoustic modem..."];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="uwmodem.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$uwmodem_8cpp.html",tooltip=" "];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="uwevologicss2cmodem.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$uwevologicss2cmodem_8h.html",tooltip="Header of the main class that implements the drivers to manage the EvoLogics S2C line of devices...."];
+  Node3 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="uwevologicss2cmodem.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$uwevologicss2cmodem_8cpp.html",tooltip=" "];
+}

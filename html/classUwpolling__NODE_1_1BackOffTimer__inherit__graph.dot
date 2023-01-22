@@ -1,0 +1,11 @@
+digraph "Uwpolling_NODE::BackOffTimer"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="Uwpolling_NODE::BackOffTimer",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip="Class (inherited from Uwpolling_NODE_Timer) used to handle the time of backoff of the node before tra..."];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="Uwpolling_NODE::Uwpolling\l_NODE_Timer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classUwpolling__NODE_1_1Uwpolling__NODE__Timer.html",tooltip="Class that describes the timer in the AUV."];
+  Node3 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="TimerHandler",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",tooltip=" "];
+}

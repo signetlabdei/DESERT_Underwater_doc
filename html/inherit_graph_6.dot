@@ -1,0 +1,14 @@
+digraph "Graphical Class Hierarchy"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node241 [label="Tracer",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",tooltip=" "];
+  Node241 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node0 [label="DACAPTracer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classDACAPTracer.html",tooltip="DACAP Tracer class."];
+  Node241 -> Node243 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node243 [label="TLohiTracer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classTLohiTracer.html",tooltip="Class that represents a Tracer for T-LOHI protocol."];
+  Node241 -> Node244 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node244 [label="UWCbrTracer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classUWCbrTracer.html",tooltip="Class that defines a tracer for hdr_uwcbr packets."];
+}

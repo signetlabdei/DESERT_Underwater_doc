@@ -1,0 +1,13 @@
+digraph "uwmodem" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_72e4c916a7f28a58468fd1f36d6e4463 {
+    graph [ bgcolor="#ddddee", pencolor="black", label="physical" fontname="Helvetica", fontsize="10", URL="dir_72e4c916a7f28a58468fd1f36d6e4463.html"]
+  dir_22f4f8ff8791849c68712423f6f475cc [shape=box label="uw-al" fillcolor="white" style="filled" color="red" URL="dir_22f4f8ff8791849c68712423f6f475cc.html"];
+  dir_9dd89c4ae6c92e9fac380ce84ffcd40f [shape=box, label="uwmodem", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_9dd89c4ae6c92e9fac380ce84ffcd40f.html"];
+  }
+  dir_bce92bcee51198345c21c8b524b3c6a2 [shape=box label="network" fillcolor="white" style="filled" color="red" URL="dir_bce92bcee51198345c21c8b524b3c6a2.html"];
+  dir_9dd89c4ae6c92e9fac380ce84ffcd40f->dir_22f4f8ff8791849c68712423f6f475cc [headlabel="2", labeldistance=1.5 headhref="dir_000046_000005.html"];
+  dir_9dd89c4ae6c92e9fac380ce84ffcd40f->dir_bce92bcee51198345c21c8b524b3c6a2 [headlabel="1", labeldistance=1.5 headhref="dir_000046_000012.html"];
+}

@@ -1,0 +1,18 @@
+digraph "Timer"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="Timer",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip="Class that handles the timers in T-LOHI nodes."];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="TimerHandler",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",tooltip=" "];
+  Node3 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" module" ,fontname="Helvetica"];
+  Node3 [label="MMacTLOHI",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classMMacTLOHI.html",tooltip="Class that represents the T-LOHI MAC protocol for a node."];
+  Node4 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="MMac",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",tooltip=" "];
+  Node5 -> Node3 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" data_phy_timer" ,fontname="Helvetica"];
+  Node5 [label="DataTimer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classDataTimer.html",tooltip="Class that represents the timer that describe the time needed for the DATA Phy layer to receive packe..."];
+  Node2 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 -> Node5 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" module" ,fontname="Helvetica"];
+  Node1 -> Node3 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" timer" ,fontname="Helvetica"];
+}

@@ -9,7 +9,7 @@ var uw_mac_TLohi_8h =
     [ "TLOHI_DROP_REASON_UNKNOWN_TYPE", "uw-mac-TLohi_8h.html#a6006b835614e67d25e1990f3f9abe5ce", null ],
     [ "TLOHI_DROP_REASON_WRONG_RECEIVER", "uw-mac-TLohi_8h.html#a688345c92b8bd0c8d476f6ab5dc89df9", null ],
     [ "TLOHI_DROP_REASON_WRONG_STATE", "uw-mac-TLohi_8h.html#ad3076044a74bd566b26c9b4ad04c3069", null ],
-    [ "hdr_tlohi", "uw-mac-TLohi_8h.html#adbe3bdf9edc7cd6b8baaee750900e795", null ],
+    [ "hdr_tlohi", "uw-mac-TLohi_8h.html#a8d4feff2d5da4cf7d87ed7856b2b110e", null ],
     [ "TIMER_STATUS", "uw-mac-TLohi_8h.html#a281140103fd59ea6dd5c4b72273ceffc", [
       [ "RUNNING", "uw-mac-TLohi_8h.html#a281140103fd59ea6dd5c4b72273ceffca1061be6c3fb88d32829cba6f6b2be304", null ],
       [ "STOPPED", "uw-mac-TLohi_8h.html#a281140103fd59ea6dd5c4b72273ceffca948b2aee15f52b421fa4770c47bcfe8c", null ],

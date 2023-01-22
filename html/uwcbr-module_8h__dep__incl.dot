@@ -1,0 +1,56 @@
+digraph "uwcbr-module.h"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="uwcbr-module.h",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip="Provides the UWCBR packets header description and the definition of the class UWCBR."];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="initlib.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$application_2uwcbr_2initlib_8cpp.html",tooltip="Provides the initialization of uwcbr libraries."];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="uwcbr-module.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$uwcbr-module_8cpp.html",tooltip=" "];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="uwcbr-tracer.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$uwcbr-tracer_8cpp.html",tooltip=" "];
+  Node1 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="uwflooding.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$uwflooding_8h.html",tooltip="Flooding based routing protocol."];
+  Node5 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="uwflooding.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$uwflooding_8cpp.html",tooltip="Implements UwFlooding class."];
+  Node1 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="sun-ipr-node-buffermanager.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$sun-ipr-node-buffermanager_8cpp.html",tooltip="Provides the implementation of all the methods regarding Buffer Management."];
+  Node1 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="sun-ipr-node.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$sun-ipr-node_8h.html",tooltip="Dinamic source routing protocol, this file contains Nodes specifications."];
+  Node8 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="sun-ipr-node-ack.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$sun-ipr-node-ack_8cpp.html",tooltip="Provides the implementation of all the methods regarding Ack Packets."];
+  Node8 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="sun-ipr-node-data.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$sun-ipr-node-data_8cpp.html",tooltip=" "];
+  Node8 -> Node11 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="sun-ipr-node-loadmetric.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$sun-ipr-node-loadmetric_8cpp.html",tooltip="Provides the implementation of all the methods regarding the Load metric."];
+  Node8 -> Node12 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 [label="sun-ipr-node-pathest\l-answer.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$sun-ipr-node-pathest-answer_8cpp.html",tooltip="Provides the implementation of all the methods regarding Path Establishment Answer Packets."];
+  Node8 -> Node13 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node13 [label="sun-ipr-node-pathest\l-search.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$sun-ipr-node-pathest-search_8cpp.html",tooltip="Provides the implementation of all the methods regarding Path Establishment Search Packets."];
+  Node8 -> Node14 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node14 [label="sun-ipr-node.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$sun-ipr-node_8cpp.html",tooltip="Implements a SunIPRoutingNode."];
+  Node1 -> Node15 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node15 [label="sun-ipr-sink.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$sun-ipr-sink_8h.html",tooltip="Dinamic source routing protocol, this file contains Sinks specifications."];
+  Node15 -> Node16 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node16 [label="sun-ipr-sink.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$sun-ipr-sink_8cpp.html",tooltip="Implements a SunIPRoutingSink."];
+  Node1 -> Node17 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node17 [label="uwpolling_AUV.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$uwpolling__AUV_8cpp.html",tooltip="Provides the implementation of Uwpolling_AUV class."];
+  Node1 -> Node18 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node18 [label="uwpolling_NODE.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$uwpolling__NODE_8cpp.html",tooltip="Implementation of Uwpolling_NODE class."];
+  Node1 -> Node19 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node19 [label="uwpolling_SINK.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$uwpolling__SINK_8cpp.html",tooltip="Implementation of Uwpolling_SINK class."];
+  Node1 -> Node20 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node20 [label="uwUFetch_AUV_mod_1.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$uwUFetch__AUV__mod__1_8cpp.html",tooltip=" "];
+  Node1 -> Node21 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node21 [label="uwUFetch_AUV_mod_2.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$uwUFetch__AUV__mod__2_8cpp.html",tooltip=" "];
+  Node1 -> Node22 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node22 [label="uwUFetch_NODE_HEADNODE\l_mod_1.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$uwUFetch__NODE__HEADNODE__mod__1_8cpp.html",tooltip="Class that provide the implementation of HEAD NODE entity of uwUFetch protocol using a RTS and CTS pa..."];
+  Node1 -> Node23 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node23 [label="uwUFetch_NODE_HEADNODE\l_mod_2.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$uwUFetch__NODE__HEADNODE__mod__2_8cpp.html",tooltip=" "];
+  Node1 -> Node24 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node24 [label="uwUFetch_NODE_SENSOR.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$uwUFetch__NODE__SENSOR_8cpp.html",tooltip="Class that provide the implementation of the SENSOR NODE entity of uwUFetch protocol."];
+  Node1 -> Node25 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node25 [label="uwtdma.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$uwtdma_8cpp.html",tooltip="Provides the implementation of the class UWTDMA."];
+}

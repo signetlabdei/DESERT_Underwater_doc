@@ -1,0 +1,20 @@
+digraph "uwconnector.h"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="uwconnector.h",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip="Generic class that provides a method to interface with the devices. Will be specialized for,..."];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="uwserial.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$uwserial_8h.html",tooltip="This implements a generic serial connector ."];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="uwserial.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$uwserial_8cpp.html",tooltip=" "];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="uwsocket.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$uwsocket_8h.html",tooltip="Class that implements a connector and, specifically, the socket connector. BSD sockets are used,..."];
+  Node4 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="uwsocket.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$uwsocket_8cpp.html",tooltip=" "];
+  Node4 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="uwevologicss2cmodem.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$uwevologicss2cmodem_8cpp.html",tooltip=" "];
+  Node1 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="uwevologicss2cmodem.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$uwevologicss2cmodem_8h.html",tooltip="Header of the main class that implements the drivers to manage the EvoLogics S2C line of devices...."];
+  Node7 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

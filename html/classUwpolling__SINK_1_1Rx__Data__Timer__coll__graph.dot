@@ -1,0 +1,19 @@
+digraph "Uwpolling_SINK::Rx_Data_Timer"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="Uwpolling_SINK::Rx\l_Data_Timer",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip="Class (inherited from Uwpolling_SINK_Timer) used to handle the time in which the NODE wait for the DA..."];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="Uwpolling_SINK::Uwpolling\l_SINK_Timer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classUwpolling__SINK_1_1Uwpolling__SINK__Timer.html",tooltip="Class that describes the timer in the SINK."];
+  Node3 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="TimerHandler",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",tooltip=" "];
+  Node4 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" module" ,fontname="Helvetica"];
+  Node4 [label="Uwpolling_SINK",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classUwpolling__SINK.html",tooltip="Class used to represents the UWPOLLING MAC layer of a node."];
+  Node5 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="MMac",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",tooltip=" "];
+  Node1 -> Node4 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" rx_data_timer" ,fontname="Helvetica"];
+  Node6 -> Node4 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" backoff_timer" ,fontname="Helvetica"];
+  Node6 [label="Uwpolling_SINK::BackOffTimer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classUwpolling__SINK_1_1BackOffTimer.html",tooltip="Class (inherited from Uwpolling_SINK_Timer) used to handle the time of backoff of the node before tra..."];
+  Node2 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

@@ -20,7 +20,7 @@ var uwUFetch__NODE_8h =
     [ "UWUFETCH_NODE_DROP_REASON_BUFFER_FULL", "uwUFetch__NODE_8h.html#a14da788bf94c56a79c70ff53ccd2cd90", null ],
     [ "UWUFETCH_NODE_DROP_REASON_NOT_ENABLE", "uwUFetch__NODE_8h.html#af9f4eea9c49368a6265d84ccb2f6dd84", null ],
     [ "UWUFETCH_NODE_DROP_REASON_NOT_MY_TURN", "uwUFetch__NODE_8h.html#a235cef5338a3205eebb26ccb6c91006c", null ],
-    [ "probbed_node", "uwUFetch__NODE_8h.html#ad0e1906776b5b880ba7c95eaa02e7e66", null ],
+    [ "probbed_node", "uwUFetch__NODE_8h.html#a3d73a6d26768853ff1120e3842a83037", null ],
     [ "PT_BEACON_UFETCH", "uwUFetch__NODE_8h.html#a6c3e907ddb90923ba089b12c12aa580f", null ],
     [ "PT_CBEACON_UFETCH", "uwUFetch__NODE_8h.html#a29629aa3857f612245af6f1c4d0a9adf", null ],
     [ "PT_CTS_UFETCH", "uwUFetch__NODE_8h.html#a5eeffd718bbe4c52c4d5d7f1e1b83cea", null ],

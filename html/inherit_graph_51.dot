@@ -1,0 +1,32 @@
+digraph "Graphical Class Hierarchy"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node62 [label="Module",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",tooltip=" "];
+  Node62 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node0 [label="SunIPRoutingNode",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classSunIPRoutingNode.html",tooltip="SunIPRoutingNode class is used to represent the routing layer of a node."];
+  Node62 -> Node64 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node64 [label="SunIPRoutingSink",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classSunIPRoutingSink.html",tooltip="SunIPRoutingSink class is used to represent the routing layer of a sink."];
+  Node62 -> Node65 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node65 [label="UWIPModule",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classUWIPModule.html",tooltip="UWIPModule class is used to define the Internet Protocol (IP) layer of a node."];
+  Node65 -> Node66 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node66 [label="UwStaticRoutingModule",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classUwStaticRoutingModule.html",tooltip="UwStaticRoutingModule class implements basic routing functionalities."];
+  Node62 -> Node67 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node67 [label="UWMllModule",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classUWMllModule.html",tooltip="Module for ARP-resolve."];
+  Node62 -> Node68 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node68 [label="UwCbrModule",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classUwCbrModule.html",tooltip="UwCbrModule class is used to manage UWCBR packets and to collect statistics about them."];
+  Node62 -> Node69 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node69 [label="UwFlooding",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classUwFlooding.html",tooltip="UwFlooding class is used to represent the routing layer of a node."];
+  Node62 -> Node70 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node70 [label="UwIcrpNode",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classUwIcrpNode.html",tooltip="UwIcrpNode class is used to represent the routing layer of a node."];
+  Node62 -> Node71 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node71 [label="UwIcrpSink",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classUwIcrpSink.html",tooltip="UwIcrpSink class is used to represent the routing layer of a node."];
+  Node62 -> Node72 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node72 [label="UwUdp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classUwUdp.html",tooltip="UwUdp class is used to manage UWUDP packets, and flows to and from upper modules."];
+  Node62 -> Node73 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node73 [label="UwVbrModule",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classUwVbrModule.html",tooltip="UwVbrModule class is used to manage UWVBR packets, and to collect statistics about them."];
+  Node62 -> Node74 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node74 [label="uwApplicationModule",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classuwApplicationModule.html",tooltip=" "];
+}

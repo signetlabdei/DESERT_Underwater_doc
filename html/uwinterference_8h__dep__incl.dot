@@ -1,0 +1,26 @@
+digraph "uwinterference.h"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="uwinterference.h",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip="Implementation of uwinterference class."];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="uwinterference.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$uwinterference_8cpp.html",tooltip="Implementation of uwinterference class."];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="uwphysical.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$uwphysical_8h.html",tooltip="Definition of UwPhysical class."];
+  Node3 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="uwphysical.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$uwphysical_8cpp.html",tooltip="Implementation of UnderwaterPhysical class."];
+  Node3 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="uwgainfromdb.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$uwgainfromdb_8h.html",tooltip="Definition of UnderwaterGainFromDb class."];
+  Node5 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="uwgainfromdb.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$uwgainfromdb_8cpp.html",tooltip="Implementation of UnderwaterGainFromDb class."];
+  Node3 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="uwphysicaldb.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$uwphysicaldb_8h.html",tooltip="Definition of UnderwaterPhysicaldb class."];
+  Node7 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="uwphysicaldb.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$uwphysicaldb_8cpp.html",tooltip="Implementation of UnderwaterPhysicaldb class."];
+  Node3 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="uwhermesphy.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$uwhermesphy_8h.html",tooltip="Definition of UwHermesPhy class."];
+  Node9 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="uwhermesphy.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$uwhermesphy_8cpp.html",tooltip="Implementation of UwHermesPhy class."];
+  Node1 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}
