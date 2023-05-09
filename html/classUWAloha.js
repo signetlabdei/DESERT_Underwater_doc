@@ -116,7 +116,7 @@ var classUWAloha =
     [ "last_sent_data_id", "classUWAloha.html#a3f2861ab7ada1c797ae4a47d9e8f9084", null ],
     [ "mapAckTimer", "classUWAloha.html#ab1f002bb491dfd4ea0941a3796238f14", null ],
     [ "mapPacket", "classUWAloha.html#ad7415769f784f03ee3736cd3f718fdc2", null ],
-    [ "max_backoff_counter", "classUWAloha.html#af163cb48454c34f949c2cba93d906a48", null ],
+    [ "max_backoff_counter", "classUWAloha.html#a9d877d9cf3960342ba22a952e778bfee", null ],
     [ "max_payload", "classUWAloha.html#a32870ceb645d16359df73c6f039d9f04", null ],
     [ "max_tx_tries", "classUWAloha.html#aba47484bbd7f9fc7b1bd6a6df40127bc", null ],
     [ "pkt_type_info", "classUWAloha.html#abb548c1b07f4bd89ec265dcfa555c23c", null ],

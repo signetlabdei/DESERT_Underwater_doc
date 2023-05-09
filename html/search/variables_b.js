@@ -26,7 +26,7 @@ var searchData=
   ['maptxstatus_5334',['mapTxStatus',['../classMMacUWSR.html#a2b78e4d2de640ae2e3248039ae555191',1,'MMacUWSR']]],
   ['max_5fack_5ferror_5f_5335',['max_ack_error_',['../classSunIPRoutingNode.html#ab80596d812a67e5455c671783d63490c',1,'SunIPRoutingNode']]],
   ['max_5fallowed_5fcbeacon_5ftx_5336',['MAX_ALLOWED_CBEACON_TX',['../classuwUFetch__NODE.html#a3d7338feb07088fed72ee6ee9cfb8f08',1,'uwUFetch_NODE']]],
-  ['max_5fbackoff_5fcounter_5337',['max_backoff_counter',['../classCsmaAloha.html#af9cd943d6309ca29ffb9dd58f70a7251',1,'CsmaAloha::max_backoff_counter()'],['../classMMacDACAP.html#a7bfc39314765dda4cc11d5ea2fb9c7df',1,'MMacDACAP::max_backoff_counter()'],['../classUWAloha.html#af163cb48454c34f949c2cba93d906a48',1,'UWAloha::max_backoff_counter()'],['../classMMacUWSR.html#a772ec20fe4930bf8a259c265a3935d27',1,'MMacUWSR::max_backoff_counter()']]],
+  ['max_5fbackoff_5fcounter_5337',['max_backoff_counter',['../classCsmaAloha.html#ab33646d297235dbd0bbca9a233485b11',1,'CsmaAloha::max_backoff_counter()'],['../classMMacDACAP.html#a7bfc39314765dda4cc11d5ea2fb9c7df',1,'MMacDACAP::max_backoff_counter()'],['../classUWAloha.html#a9d877d9cf3960342ba22a952e778bfee',1,'UWAloha::max_backoff_counter()'],['../classMMacUWSR.html#a772ec20fe4930bf8a259c265a3935d27',1,'MMacUWSR::max_backoff_counter()']]],
   ['max_5fbuffer_5fsize_5338',['MAX_BUFFER_SIZE',['../uwpolling__cmn__hdr_8h.html#a8d3cb50f02428a383f3eb5004d962bfe',1,'uwpolling_cmn_hdr.h']]],
   ['max_5fbuffer_5fsize_5339',['max_buffer_size',['../classUwpolling__AUV.html#a71c677e1c943beefcecb57799216fb65',1,'Uwpolling_AUV']]],
   ['max_5fdata_5fhn_5fcan_5ftx_5340',['max_data_HN_can_tx',['../classuwUFetch__NODE.html#ae1d73481a0426ed038b395d55bd14d31',1,'uwUFetch_NODE']]],

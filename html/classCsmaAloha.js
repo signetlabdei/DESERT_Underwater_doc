@@ -128,7 +128,7 @@ var classCsmaAloha =
     [ "last_sent_data_id", "classCsmaAloha.html#a2f3ab9a124d35555926da22d315f6f2b", null ],
     [ "listen_time", "classCsmaAloha.html#af71f7f383920328da3bfb7f1b2d16de0", null ],
     [ "listen_timer", "classCsmaAloha.html#aca59890ecfa0ec19070232d83e9d6c9d", null ],
-    [ "max_backoff_counter", "classCsmaAloha.html#af9cd943d6309ca29ffb9dd58f70a7251", null ],
+    [ "max_backoff_counter", "classCsmaAloha.html#ab33646d297235dbd0bbca9a233485b11", null ],
     [ "max_payload", "classCsmaAloha.html#a8e65650219c729995f19caf6dc5db614", null ],
     [ "max_tx_tries", "classCsmaAloha.html#aea15e787ac91593db4550b8f400b8bcb", null ],
     [ "pkt_type_info", "classCsmaAloha.html#a5add1d0a18283fdbc9d8f0c26879e27e", null ],
