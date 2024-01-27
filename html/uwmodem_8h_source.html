@@ -26,7 +26,7 @@
  <tr style="height: 56px;">
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">DESERT
-   &#160;<span id="projectnumber">3.3.2</span>
+   &#160;<span id="projectnumber">3.4.0</span>
    </div>
   </td>
  </tr>
@@ -246,31 +246,31 @@ $(document).ready(function(){initNavTree('uwmodem_8h_source.html',''); initResiz
 <div class="line"><a name="l00325"></a><span class="lineno"><a class="line" href="classCheckTimer.html">  325</a></span>&#160;<span class="keyword">class </span><a class="code" href="classCheckTimer.html">CheckTimer</a> : <span class="keyword">public</span> TimerHandler</div>
 <div class="line"><a name="l00326"></a><span class="lineno">  326</span>&#160;{</div>
 <div class="line"><a name="l00327"></a><span class="lineno">  327</span>&#160;<span class="keyword">public</span>:</div>
-<div class="line"><a name="l00334"></a><span class="lineno"><a class="line" href="classCheckTimer.html#abe2116e3a3b3a2a837fac883d8f42ad0">  334</a></span>&#160;    <a class="code" href="classCheckTimer.html#abe2116e3a3b3a2a837fac883d8f42ad0">CheckTimer</a>(<a class="code" href="classUwModem.html">UwModem</a> *pmModem_)</div>
-<div class="line"><a name="l00335"></a><span class="lineno">  335</span>&#160;        : TimerHandler()</div>
-<div class="line"><a name="l00336"></a><span class="lineno">  336</span>&#160;    {</div>
-<div class="line"><a name="l00337"></a><span class="lineno">  337</span>&#160;        <a class="code" href="classCheckTimer.html#a125cc8301925b19242f4117d7468a057">pmModem</a> = pmModem_;</div>
-<div class="line"><a name="l00338"></a><span class="lineno">  338</span>&#160;        <span class="keywordflow">if</span> (<a class="code" href="classCheckTimer.html#a125cc8301925b19242f4117d7468a057">pmModem</a>-&gt;<a class="code" href="classUwModem.html#ac23dd1a3012dc93e5a67d94054634bda">getDebug</a>() &gt;= 2) {</div>
-<div class="line"><a name="l00339"></a><span class="lineno">  339</span>&#160;            cout &lt;&lt; <span class="keyword">this</span></div>
-<div class="line"><a name="l00340"></a><span class="lineno">  340</span>&#160;                 &lt;&lt; <span class="stringliteral">&quot;: in constructor of CheckTimer which points to modem: &quot;</span></div>
-<div class="line"><a name="l00341"></a><span class="lineno">  341</span>&#160;                 &lt;&lt; <a class="code" href="classCheckTimer.html#a125cc8301925b19242f4117d7468a057">pmModem</a> &lt;&lt; <span class="stringliteral">&quot;\n&quot;</span>;</div>
-<div class="line"><a name="l00342"></a><span class="lineno">  342</span>&#160;        }</div>
-<div class="line"><a name="l00343"></a><span class="lineno">  343</span>&#160;    }</div>
+<div class="line"><a name="l00334"></a><span class="lineno"><a class="line" href="classCheckTimer.html#abe2116e3a3b3a2a837fac883d8f42ad0">  334</a></span>&#160;  <a class="code" href="classCheckTimer.html#abe2116e3a3b3a2a837fac883d8f42ad0">CheckTimer</a>(<a class="code" href="classUwModem.html">UwModem</a> *pmModem_)</div>
+<div class="line"><a name="l00335"></a><span class="lineno">  335</span>&#160;    : TimerHandler()</div>
+<div class="line"><a name="l00336"></a><span class="lineno">  336</span>&#160;  {</div>
+<div class="line"><a name="l00337"></a><span class="lineno">  337</span>&#160;    <a class="code" href="classCheckTimer.html#a125cc8301925b19242f4117d7468a057">pmModem</a> = pmModem_;</div>
+<div class="line"><a name="l00338"></a><span class="lineno">  338</span>&#160;    <span class="keywordflow">if</span> (<a class="code" href="classCheckTimer.html#a125cc8301925b19242f4117d7468a057">pmModem</a>-&gt;<a class="code" href="classUwModem.html#ac23dd1a3012dc93e5a67d94054634bda">getDebug</a>() &gt;= 2) {</div>
+<div class="line"><a name="l00339"></a><span class="lineno">  339</span>&#160;      std::cout &lt;&lt; <span class="keyword">this</span></div>
+<div class="line"><a name="l00340"></a><span class="lineno">  340</span>&#160;                &lt;&lt; <span class="stringliteral">&quot;: in constructor of CheckTimer which points to modem: &quot;</span></div>
+<div class="line"><a name="l00341"></a><span class="lineno">  341</span>&#160;                &lt;&lt; <a class="code" href="classCheckTimer.html#a125cc8301925b19242f4117d7468a057">pmModem</a> &lt;&lt; std::endl;</div>
+<div class="line"><a name="l00342"></a><span class="lineno">  342</span>&#160;    }</div>
+<div class="line"><a name="l00343"></a><span class="lineno">  343</span>&#160;  }</div>
 <div class="line"><a name="l00344"></a><span class="lineno">  344</span>&#160; </div>
 <div class="line"><a name="l00345"></a><span class="lineno">  345</span>&#160;<span class="keyword">protected</span>:</div>
-<div class="line"><a name="l00351"></a><span class="lineno">  351</span>&#160;    <span class="keyword">virtual</span> <span class="keywordtype">void</span> <a class="code" href="classCheckTimer.html#a3c69bba27f4ef1881736200681655303">expire</a>(Event *e);</div>
+<div class="line"><a name="l00351"></a><span class="lineno">  351</span>&#160;  <span class="keyword">virtual</span> <span class="keywordtype">void</span> <a class="code" href="classCheckTimer.html#a3c69bba27f4ef1881736200681655303">expire</a>(Event *e);</div>
 <div class="line"><a name="l00352"></a><span class="lineno">  352</span>&#160; </div>
-<div class="line"><a name="l00353"></a><span class="lineno"><a class="line" href="classCheckTimer.html#a125cc8301925b19242f4117d7468a057">  353</a></span>&#160;    <a class="code" href="classUwModem.html">UwModem</a> *<a class="code" href="classCheckTimer.html#a125cc8301925b19242f4117d7468a057">pmModem</a>; </div>
-<div class="line"><a name="l00357"></a><span class="lineno">  357</span>&#160;};</div>
-<div class="line"><a name="l00358"></a><span class="lineno">  358</span>&#160; </div>
-<div class="line"><a name="l00359"></a><span class="lineno"><a class="line" href="structModemEvent.html">  359</a></span>&#160;<span class="keyword">struct </span><a class="code" href="structModemEvent.html">ModemEvent</a> {</div>
-<div class="line"><a name="l00360"></a><span class="lineno"><a class="line" href="structModemEvent.html#a55c9609bdc25258092ab8b89b5126178">  360</a></span>&#160;    std::function&lt;void(<a class="code" href="classUwModem.html">UwModem</a> &amp;, Packet *<a class="code" href="structModemEvent.html#ab3c9024983a67776b55fe97e2c327c2f">p</a>)&gt; <a class="code" href="structModemEvent.html#a55c9609bdc25258092ab8b89b5126178">f</a>;</div>
-<div class="line"><a name="l00361"></a><span class="lineno"><a class="line" href="structModemEvent.html#ab3c9024983a67776b55fe97e2c327c2f">  361</a></span>&#160;    Packet *<a class="code" href="structModemEvent.html#ab3c9024983a67776b55fe97e2c327c2f">p</a>;</div>
-<div class="line"><a name="l00362"></a><span class="lineno">  362</span>&#160;};</div>
-<div class="line"><a name="l00363"></a><span class="lineno">  363</span>&#160; </div>
-<div class="line"><a name="l00364"></a><span class="lineno">  364</span>&#160;<span class="preprocessor">#endif</span></div>
+<div class="line"><a name="l00353"></a><span class="lineno"><a class="line" href="classCheckTimer.html#a125cc8301925b19242f4117d7468a057">  353</a></span>&#160;  <a class="code" href="classUwModem.html">UwModem</a> *<a class="code" href="classCheckTimer.html#a125cc8301925b19242f4117d7468a057">pmModem</a>; </div>
+<div class="line"><a name="l00356"></a><span class="lineno">  356</span>&#160;};</div>
+<div class="line"><a name="l00357"></a><span class="lineno">  357</span>&#160; </div>
+<div class="line"><a name="l00358"></a><span class="lineno"><a class="line" href="structModemEvent.html">  358</a></span>&#160;<span class="keyword">struct </span><a class="code" href="structModemEvent.html">ModemEvent</a> {</div>
+<div class="line"><a name="l00359"></a><span class="lineno"><a class="line" href="structModemEvent.html#a55c9609bdc25258092ab8b89b5126178">  359</a></span>&#160;    std::function&lt;void(<a class="code" href="classUwModem.html">UwModem</a> &amp;, Packet *<a class="code" href="structModemEvent.html#ab3c9024983a67776b55fe97e2c327c2f">p</a>)&gt; <a class="code" href="structModemEvent.html#a55c9609bdc25258092ab8b89b5126178">f</a>;</div>
+<div class="line"><a name="l00360"></a><span class="lineno"><a class="line" href="structModemEvent.html#ab3c9024983a67776b55fe97e2c327c2f">  360</a></span>&#160;    Packet *<a class="code" href="structModemEvent.html#ab3c9024983a67776b55fe97e2c327c2f">p</a>;</div>
+<div class="line"><a name="l00361"></a><span class="lineno">  361</span>&#160;};</div>
+<div class="line"><a name="l00362"></a><span class="lineno">  362</span>&#160; </div>
+<div class="line"><a name="l00363"></a><span class="lineno">  363</span>&#160;<span class="preprocessor">#endif</span></div>
 <div class="ttc" id="aclassCheckTimer_html"><div class="ttname"><a href="classCheckTimer.html">CheckTimer</a></div><div class="ttdoc">The class used by UwModem to handle simulator's event expirations; it is exploited to schedule the re...</div><div class="ttdef"><b>Definition:</b> <a href="uwmodem_8h_source.html#l00325">uwmodem.h:326</a></div></div>
-<div class="ttc" id="aclassCheckTimer_html_a125cc8301925b19242f4117d7468a057"><div class="ttname"><a href="classCheckTimer.html#a125cc8301925b19242f4117d7468a057">CheckTimer::pmModem</a></div><div class="ttdeci">UwModem * pmModem</div><div class="ttdoc">Pointer to an UWMPhy_modem object.</div><div class="ttdef"><b>Definition:</b> <a href="uwmodem_8h_source.html#l00353">uwmodem.h:353</a></div></div>
+<div class="ttc" id="aclassCheckTimer_html_a125cc8301925b19242f4117d7468a057"><div class="ttname"><a href="classCheckTimer.html#a125cc8301925b19242f4117d7468a057">CheckTimer::pmModem</a></div><div class="ttdeci">UwModem * pmModem</div><div class="ttdoc">Pointer to an UwModem object.</div><div class="ttdef"><b>Definition:</b> <a href="uwmodem_8h_source.html#l00353">uwmodem.h:353</a></div></div>
 <div class="ttc" id="aclassCheckTimer_html_a3c69bba27f4ef1881736200681655303"><div class="ttname"><a href="classCheckTimer.html#a3c69bba27f4ef1881736200681655303">CheckTimer::expire</a></div><div class="ttdeci">virtual void expire(Event *e)</div><div class="ttdoc">Method to handle the expiration of a given event.</div><div class="ttdef"><b>Definition:</b> <a href="uwmodem_8cpp_source.html#l00181">uwmodem.cpp:181</a></div></div>
 <div class="ttc" id="aclassCheckTimer_html_abe2116e3a3b3a2a837fac883d8f42ad0"><div class="ttname"><a href="classCheckTimer.html#abe2116e3a3b3a2a837fac883d8f42ad0">CheckTimer::CheckTimer</a></div><div class="ttdeci">CheckTimer(UwModem *pmModem_)</div><div class="ttdoc">Class constructor.</div><div class="ttdef"><b>Definition:</b> <a href="uwmodem_8h_source.html#l00334">uwmodem.h:334</a></div></div>
 <div class="ttc" id="aclassUwModem_html"><div class="ttname"><a href="classUwModem.html">UwModem</a></div><div class="ttdoc">Class that implements the interface to DESERT, as used through Tcl scripts.</div><div class="ttdef"><b>Definition:</b> <a href="uwmodem_8h_source.html#l00061">uwmodem.h:62</a></div></div>
@@ -318,9 +318,9 @@ $(document).ready(function(){initNavTree('uwmodem_8h_source.html',''); initResiz
 <div class="ttc" id="aclassUwModem_html_ade7987148dd186f4fc3cc608c168a877"><div class="ttname"><a href="classUwModem.html#ade7987148dd186f4fc3cc608c168a877">UwModem::getLogLevel</a></div><div class="ttdeci">LogLevel getLogLevel()</div><div class="ttdoc">Method to return the flag used to enable the printing of log messages in UwEvoLogicsS2CModem::logFile...</div><div class="ttdef"><b>Definition:</b> <a href="uwmodem_8h_source.html#l00189">uwmodem.h:189</a></div></div>
 <div class="ttc" id="aclassUwModem_html_afb2af7572f53771dacf4c335a1e70216"><div class="ttname"><a href="classUwModem.html#afb2af7572f53771dacf4c335a1e70216">UwModem::getLogFile</a></div><div class="ttdeci">std::string getLogFile()</div><div class="ttdoc">Method to return the name of the file where to log messages.</div><div class="ttdef"><b>Definition:</b> <a href="uwmodem_8h_source.html#l00209">uwmodem.h:209</a></div></div>
 <div class="ttc" id="ahdr-uwal_8h_html"><div class="ttname"><a href="hdr-uwal_8h.html">hdr-uwal.h</a></div><div class="ttdoc">Header of the class providing the Uwal header's description.</div></div>
-<div class="ttc" id="astructModemEvent_html"><div class="ttname"><a href="structModemEvent.html">ModemEvent</a></div><div class="ttdef"><b>Definition:</b> <a href="uwmodem_8h_source.html#l00359">uwmodem.h:359</a></div></div>
-<div class="ttc" id="astructModemEvent_html_a55c9609bdc25258092ab8b89b5126178"><div class="ttname"><a href="structModemEvent.html#a55c9609bdc25258092ab8b89b5126178">ModemEvent::f</a></div><div class="ttdeci">std::function&lt; void(UwModem &amp;, Packet *p)&gt; f</div><div class="ttdef"><b>Definition:</b> <a href="uwmodem_8h_source.html#l00360">uwmodem.h:360</a></div></div>
-<div class="ttc" id="astructModemEvent_html_ab3c9024983a67776b55fe97e2c327c2f"><div class="ttname"><a href="structModemEvent.html#ab3c9024983a67776b55fe97e2c327c2f">ModemEvent::p</a></div><div class="ttdeci">Packet * p</div><div class="ttdef"><b>Definition:</b> <a href="uwmodem_8h_source.html#l00361">uwmodem.h:361</a></div></div>
+<div class="ttc" id="astructModemEvent_html"><div class="ttname"><a href="structModemEvent.html">ModemEvent</a></div><div class="ttdef"><b>Definition:</b> <a href="uwmodem_8h_source.html#l00358">uwmodem.h:358</a></div></div>
+<div class="ttc" id="astructModemEvent_html_a55c9609bdc25258092ab8b89b5126178"><div class="ttname"><a href="structModemEvent.html#a55c9609bdc25258092ab8b89b5126178">ModemEvent::f</a></div><div class="ttdeci">std::function&lt; void(UwModem &amp;, Packet *p)&gt; f</div><div class="ttdef"><b>Definition:</b> <a href="uwmodem_8h_source.html#l00359">uwmodem.h:359</a></div></div>
+<div class="ttc" id="astructModemEvent_html_ab3c9024983a67776b55fe97e2c327c2f"><div class="ttname"><a href="structModemEvent.html#ab3c9024983a67776b55fe97e2c327c2f">ModemEvent::p</a></div><div class="ttdeci">Packet * p</div><div class="ttdef"><b>Definition:</b> <a href="uwmodem_8h_source.html#l00360">uwmodem.h:360</a></div></div>
 <div class="ttc" id="auwal_8h_html"><div class="ttname"><a href="uwal_8h.html">uwal.h</a></div><div class="ttdoc">Header of the main class that implements the adaptation layer between ns2/NS-Miracle and binary data ...</div></div>
 <div class="ttc" id="auwip-module_8h_html"><div class="ttname"><a href="uwip-module_8h.html">uwip-module.h</a></div><div class="ttdoc">Provides the UWIP packets header description. Definition of the class that define the network layer.</div></div>
 </div><!-- fragment --></div><!-- contents -->

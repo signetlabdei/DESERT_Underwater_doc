@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['refractive_5findex_5fmin_6845',['REFRACTIVE_INDEX_MIN',['../uwoptical-channel_8cpp.html#a11cf861d5f76960ca64a19f4f780560c',1,'uwoptical-channel.cpp']]],
-  ['refractive_5findex_5fwater_6846',['REFRACTIVE_INDEX_WATER',['../uwoptical-channel_8cpp.html#a4d32e7f6c47a3df7393ed4b9db4762b5',1,'uwoptical-channel.cpp']]]
+  ['sgn_6831',['sgn',['../uwgmposition_8h.html#ae1b5a554c1d4d97654c06032a92f800a',1,'sgn():&#160;uwgmposition.h'],['../uwsmposition_8h.html#ae1b5a554c1d4d97654c06032a92f800a',1,'sgn():&#160;uwsmposition.h']]],
+  ['stack_5ftrace_6832',['STACK_TRACE',['../sun-ipr-common-structures_8h.html#ab6f00ecf059e2f045a29810c8d35de52',1,'sun-ipr-common-structures.h']]]
 ];

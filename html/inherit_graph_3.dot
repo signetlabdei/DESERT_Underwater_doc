@@ -4,13 +4,13 @@ digraph "Graphical Class Hierarchy"
   edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
   node [fontname="Helvetica",fontsize="10",shape=record];
   rankdir="LR";
-  Node4 [label="ClMessage",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",tooltip=" "];
-  Node4 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="ClMessage",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",tooltip=" "];
+  Node2 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
   Node0 [label="ClMsgMac2PhyTxTone",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classClMsgMac2PhyTxTone.html",tooltip="Class that describe the Mac2PhyTxTone CrossLayer message."];
-  Node4 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
-  Node6 [label="UWIPClMsgReqAddr",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classUWIPClMsgReqAddr.html",tooltip="Class that manages cross layer messages that require the IP of the node."];
-  Node4 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
-  Node7 [label="UWIPClMsgSendAddr",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classUWIPClMsgSendAddr.html",tooltip="Class used to answer to UWIPClMsgReqAddr cross layer messages."];
-  Node4 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
-  Node8 [label="UWIpClMsgUpdRoute",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classUWIpClMsgUpdRoute.html",tooltip="Class that manages cross layer messages that contain route updates."];
+  Node2 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="UWIPClMsgReqAddr",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classUWIPClMsgReqAddr.html",tooltip="Class that manages cross layer messages that require the IP of the node."];
+  Node2 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="UWIPClMsgSendAddr",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classUWIPClMsgSendAddr.html",tooltip="Class used to answer to UWIPClMsgReqAddr cross layer messages."];
+  Node2 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="UWIpClMsgUpdRoute",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classUWIpClMsgUpdRoute.html",tooltip="Class that manages cross layer messages that contain route updates."];
 }

@@ -1,11 +1,5 @@
 var NAVTREEINDEX18 =
 {
-"structhdr__dacap.html#a49c75ac842a71c3e61c3c836c06bc1c0":[8,0,26,4],
-"structhdr__dacap.html#a5b21d2934de68d172c18f7862e8318ad":[8,0,26,2],
-"structhdr__dacap.html#a67ec4d032e04c1b48780195fb75ebd2f":[8,0,26,8],
-"structhdr__dacap.html#a7448094a73bf687bd7df7db7b60ac3f7":[8,0,26,0],
-"structhdr__dacap.html#a7771e4b96d0ec414e628e71fc25f25a0":[8,0,26,3],
-"structhdr__dacap.html#aa9d7e748439da768b706426cdee08dbb":[8,0,26,7],
 "structhdr__dacap.html#ac626437f41f62c01e14bc629d4fc5ad3":[8,0,26,5],
 "structhdr__sun__ack.html":[8,0,34],
 "structhdr__sun__ack.html#a12bd29dac6c14baf7554c42247b680e4":[8,0,34,0],
@@ -249,5 +243,11 @@ var NAVTREEINDEX18 =
 "sun-ipr-node-loadmetric_8cpp.html":[9,0,62],
 "sun-ipr-node-loadmetric_8cpp_source.html":[9,0,62],
 "sun-ipr-node-pathest-answer_8cpp.html":[9,0,63],
-"sun-ipr-node-pathest-answer_8cpp.html#a4cf235327e3ecfda24d7c38bce31416b":[9,0,63,0]
+"sun-ipr-node-pathest-answer_8cpp.html#a4cf235327e3ecfda24d7c38bce31416b":[9,0,63,0],
+"sun-ipr-node-pathest-answer_8cpp.html#a7f37f33ffcebb82aa3ab93640f036002":[9,0,63,1],
+"sun-ipr-node-pathest-answer_8cpp_source.html":[9,0,63],
+"sun-ipr-node-pathest-search_8cpp.html":[9,0,64],
+"sun-ipr-node-pathest-search_8cpp.html#a4cf235327e3ecfda24d7c38bce31416b":[9,0,64,0],
+"sun-ipr-node-pathest-search_8cpp.html#a7f37f33ffcebb82aa3ab93640f036002":[9,0,64,1],
+"sun-ipr-node-pathest-search_8cpp_source.html":[9,0,64]
 };

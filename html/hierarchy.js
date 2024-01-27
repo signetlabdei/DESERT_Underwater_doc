@@ -1,9 +1,6 @@
 var hierarchy =
 [
     [ "buffer_element", "structbuffer__element.html", null ],
-    [ "ChannelModule", null, [
-      [ "UwOpticalChannel", "classUwOpticalChannel.html", null ]
-    ] ],
     [ "ClMessage", null, [
       [ "ClMsgMac2PhyTxTone", "classClMsgMac2PhyTxTone.html", null ],
       [ "UWIPClMsgReqAddr", "classUWIPClMsgReqAddr.html", null ],
@@ -290,6 +287,9 @@ var hierarchy =
     [ "UwConnector", "classUwConnector.html", [
       [ "UwSerial", "classUwSerial.html", null ],
       [ "UwSocket", "classUwSocket.html", null ]
+    ] ],
+    [ "UwElectroMagneticChannel", null, [
+      [ "UwOpticalChannel", "classUwOpticalChannel.html", null ]
     ] ],
     [ "UwInterpreterS2C", "classUwInterpreterS2C.html", null ]
 ];

@@ -1,11 +1,5 @@
 var NAVTREEINDEX20 =
 {
-"uwUFetch__cmn__hdr_8h.html#a6c3e907ddb90923ba089b12c12aa580f":[9,0,171,23],
-"uwUFetch__cmn__hdr_8h.html#a6cb599e45ad97f9d88facfb7d2ffcaba":[9,0,171,9],
-"uwUFetch__cmn__hdr_8h.html#a7290ae5e4d642d8e710c095d9a70d9fd":[9,0,171,21],
-"uwUFetch__cmn__hdr_8h.html#a76202ae2f536d2d6cd712ad1409a4811":[9,0,171,8],
-"uwUFetch__cmn__hdr_8h.html#a853b265de5bf09d681decb3d54ba94b0":[9,0,171,27],
-"uwUFetch__cmn__hdr_8h.html#a87c732b54105660cbc2b6bed5e7a8d58":[9,0,171,13],
 "uwUFetch__cmn__hdr_8h.html#a8ef7030d7529cf97cb53f94e6997daf1":[9,0,171,30],
 "uwUFetch__cmn__hdr_8h.html#a8fbeecc25a43da5a78fee4e347b85d2a":[9,0,171,15],
 "uwUFetch__cmn__hdr_8h.html#a9e9c8afaaae260fb32e86429de56a585":[9,0,171,11],
@@ -206,10 +200,7 @@ var NAVTREEINDEX20 =
 "uwmphypatch_8h.html":[9,0,133],
 "uwmphypatch_8h_source.html":[9,0,133],
 "uwoptical-channel_8cpp.html":[9,0,134],
-"uwoptical-channel_8cpp.html#a11cf861d5f76960ca64a19f4f780560c":[9,0,134,1],
-"uwoptical-channel_8cpp.html#a3b88b05653a7aa453252503dc59bc984":[9,0,134,3],
-"uwoptical-channel_8cpp.html#a4d32e7f6c47a3df7393ed4b9db4762b5":[9,0,134,2],
-"uwoptical-channel_8cpp.html#a749add726093c4832eac5b6a816bc79f":[9,0,134,4],
+"uwoptical-channel_8cpp.html#a749add726093c4832eac5b6a816bc79f":[9,0,134,1],
 "uwoptical-channel_8cpp_source.html":[9,0,134],
 "uwoptical-channel_8h.html":[9,0,135],
 "uwoptical-channel_8h_source.html":[9,0,135],
@@ -249,5 +240,14 @@ var NAVTREEINDEX20 =
 "uwphysicalrogersmodel_8cpp.html":[9,0,144],
 "uwphysicalrogersmodel_8cpp.html#a5b4afa04cd6123271e8cc96181e6c7de":[9,0,144,1],
 "uwphysicalrogersmodel_8cpp_source.html":[9,0,144],
-"uwphysicalrogersmodel_8h.html":[9,0,145]
+"uwphysicalrogersmodel_8h.html":[9,0,145],
+"uwphysicalrogersmodel_8h_source.html":[9,0,145],
+"uwpolling__AUV_8cpp.html":[9,0,146],
+"uwpolling__AUV_8cpp.html#a9ab313ed5d31e5996a6f3159235f779d":[9,0,146,1],
+"uwpolling__AUV_8cpp_source.html":[9,0,146],
+"uwpolling__AUV_8h.html":[9,0,147],
+"uwpolling__AUV_8h.html#a2832beac127c4da758580fe4d2d0d80e":[9,0,147,8],
+"uwpolling__AUV_8h.html#a3d73a6d26768853ff1120e3842a83037":[9,0,147,14],
+"uwpolling__AUV_8h.html#a6fc641d3cdbd43df87be6712f347df77":[9,0,147,12],
+"uwpolling__AUV_8h.html#ada4829733d167e513e5165a6e393b9bb":[9,0,147,9]
 };
