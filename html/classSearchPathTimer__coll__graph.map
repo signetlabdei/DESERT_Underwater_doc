@@ -1,6 +1,9 @@
 <map id="SearchPathTimer" name="SearchPathTimer">
-<area shape="rect" id="node3" href="$classSunIPRoutingNode.html" title="SunIPRoutingNode class is used to represent the routing layer of a node. " alt="" coords="369,171,511,197"/>
-<area shape="rect" id="node5" href="$classSinkProbeTimer.html" title="SinkProbeTimer class is used to handle the validity time of a probe message. " alt="" coords="5,260,131,287"/>
-<area shape="rect" id="node6" href="$classBufferTimer.html" title="AckWaiting class is used to handle the timer of acks. " alt="" coords="581,260,680,287"/>
-<area shape="rect" id="node7" href="$classRemoveHopTableTimer.html" title="RemoveHopTableTimer class is used to handle the validity time of hop tables. " alt="" coords="353,260,527,287"/>
+<area shape="rect" id="node1" title="SearchPathTimer class is used to handle the timer of Search Path requests." alt="" coords="393,81,525,108"/>
+<area shape="rect" id="node3" href="$classSunIPRoutingNode.html" title="SunIPRoutingNode class is used to represent the routing layer of a node." alt="" coords="369,171,511,197"/>
+<area shape="rect" id="node2" title=" " alt="" coords="605,5,715,32"/>
+<area shape="rect" id="node5" href="$classSinkProbeTimer.html" title="SinkProbeTimer class is used to handle the validity time of a probe message." alt="" coords="5,260,131,287"/>
+<area shape="rect" id="node6" href="$classBufferTimer.html" title="‍**" alt="" coords="581,260,680,287"/>
+<area shape="rect" id="node7" href="$classRemoveHopTableTimer.html" title="RemoveHopTableTimer class is used to handle the validity time of hop tables." alt="" coords="353,260,527,287"/>
+<area shape="rect" id="node4" title=" " alt="" coords="549,81,619,108"/>
 </map>

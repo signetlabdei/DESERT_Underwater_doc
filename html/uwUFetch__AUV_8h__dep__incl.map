@@ -1,6 +1,7 @@
 <map id="uwUFetch_AUV.h" name="uwUFetch_AUV.h">
-<area shape="rect" id="node2" href="$data__link_2uwUFetch_2initlib_8cpp.html" title="initlib.cpp" alt="" coords="5,80,92,107"/>
-<area shape="rect" id="node3" href="$uwUFetch__AUV_8cpp.html" title="Class that provide the implementation of the AUV entity of uwUFetch protocol. " alt="" coords="116,80,261,107"/>
-<area shape="rect" id="node4" href="$uwUFetch__AUV__mod__1_8cpp.html" title="uwUFetch_AUV_mod_1.cpp" alt="" coords="285,80,484,107"/>
-<area shape="rect" id="node5" href="$uwUFetch__AUV__mod__2_8cpp.html" title="uwUFetch_AUV_mod_2.cpp" alt="" coords="508,80,707,107"/>
+<area shape="rect" id="node1" title="Declaration of class that implement AUV for UFetch protocol." alt="" coords="223,5,354,32"/>
+<area shape="rect" id="node2" href="$data__link_2uwUFetch_2initlib_8cpp.html" title="file to initialize the libuwufetch.so library" alt="" coords="5,80,92,107"/>
+<area shape="rect" id="node3" href="$uwUFetch__AUV_8cpp.html" title="Class that provide the implementation of the AUV entity of uwUFetch protocol." alt="" coords="117,80,263,107"/>
+<area shape="rect" id="node4" href="$uwUFetch__AUV__mod__1_8cpp.html" title=" " alt="" coords="288,80,487,107"/>
+<area shape="rect" id="node5" href="$uwUFetch__AUV__mod__2_8cpp.html" title=" " alt="" coords="511,80,709,107"/>
 </map>

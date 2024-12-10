@@ -1,7 +1,10 @@
 <map id="MMacUWSR::AckTimer" name="MMacUWSR::AckTimer">
-<area shape="rect" id="node4" href="$classMMacUWSR.html" title="This is the base class of MMacUWSR protocol, which is a derived class of MMac. " alt="" coords="221,95,319,121"/>
-<area shape="rect" id="node2" href="$classMMacUWSR_1_1UWSRTimer.html" title="Base class of all the timer used in this protocol. " alt="" coords="34,184,218,211"/>
-<area shape="rect" id="node6" href="$classMMacUWSR_1_1BackOffTimer.html" title="Base class of BackoffTimer. " alt="" coords="245,260,441,287"/>
-<area shape="rect" id="node7" href="$classMMacUWSR_1_1WaitTxTimer.html" title="Base class of WaitTxTimer, which is a derived class of UWSRTimer. " alt="" coords="31,260,221,287"/>
-<area shape="rect" id="node8" href="$classMMacUWSR_1_1ListenTimer.html" title="Base class of ListenTimer, which is a derived class of UWSRTimer. " alt="" coords="466,260,650,287"/>
+<area shape="rect" id="node1" title="Base class of AckTimer, which is a derived class of UWSRTimer." alt="" coords="5,5,176,32"/>
+<area shape="rect" id="node4" href="$classMMacUWSR.html" title="This is the base class of MMacUWSR protocol, which is a derived class of MMac." alt="" coords="221,95,323,121"/>
+<area shape="rect" id="node2" href="$classMMacUWSR_1_1UWSRTimer.html" title="Base class of all the timer used in this protocol." alt="" coords="33,184,220,211"/>
+<area shape="rect" id="node6" href="$classMMacUWSR_1_1BackOffTimer.html" title="Base class of BackoffTimer." alt="" coords="246,260,445,287"/>
+<area shape="rect" id="node7" href="$classMMacUWSR_1_1WaitTxTimer.html" title="Base class of WaitTxTimer, which is a derived class of UWSRTimer." alt="" coords="29,260,221,287"/>
+<area shape="rect" id="node8" href="$classMMacUWSR_1_1ListenTimer.html" title="Base class of ListenTimer, which is a derived class of UWSRTimer." alt="" coords="469,260,656,287"/>
+<area shape="rect" id="node3" title=" " alt="" coords="86,95,197,121"/>
+<area shape="rect" id="node5" title=" " alt="" coords="241,5,303,32"/>
 </map>

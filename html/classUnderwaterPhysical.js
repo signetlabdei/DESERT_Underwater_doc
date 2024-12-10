@@ -1,7 +1,7 @@
 var classUnderwaterPhysical =
 [
     [ "UnderwaterPhysical", "classUnderwaterPhysical.html#a206b2b177bc576489f0c8213051f92fb", null ],
-    [ "~UnderwaterPhysical", "classUnderwaterPhysical.html#a6dc5da617345465389a5b600c7700272", null ],
+    [ "~UnderwaterPhysical", "classUnderwaterPhysical.html#aeb8c2db8baaaa6e0098092f25da4bf36", null ],
     [ "command", "classUnderwaterPhysical.html#aec051803a5f4aa6fd2e8ff40a5ef411a", null ],
     [ "consumedEnergyRx", "classUnderwaterPhysical.html#a34c81f008035b92c1962be14fef89077", null ],
     [ "consumedEnergyTx", "classUnderwaterPhysical.html#a1b0244b1376c4dda3c00a111ba5c3060", null ],

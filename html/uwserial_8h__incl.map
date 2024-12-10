@@ -1,3 +1,12 @@
 <map id="uwserial.h" name="uwserial.h">
-<area shape="rect" id="node2" href="$uwconnector_8h.html" title="Generic class that provides a method to interface with the devices. Will be specialized for..." alt="" coords="57,80,173,107"/>
+<area shape="rect" id="node1" title="This implements a generic serial connector ." alt="" coords="315,5,405,32"/>
+<area shape="rect" id="node2" href="$uwconnector_8h.html" title="Generic class that provides a method to interface with the devices. Will be specialized for,..." alt="" coords="57,80,173,107"/>
+<area shape="rect" id="node6" title=" " alt="" coords="197,80,259,107"/>
+<area shape="rect" id="node7" title=" " alt="" coords="283,80,349,107"/>
+<area shape="rect" id="node8" title=" " alt="" coords="374,80,437,107"/>
+<area shape="rect" id="node9" title=" " alt="" coords="461,80,545,107"/>
+<area shape="rect" id="node10" title=" " alt="" coords="569,80,644,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,155,61,181"/>
+<area shape="rect" id="node4" title=" " alt="" coords="85,155,144,181"/>
+<area shape="rect" id="node5" title=" " alt="" coords="169,155,231,181"/>
 </map>

@@ -25,6 +25,7 @@ var classUwal =
     [ "force_endTx_", "classUwal.html#a6e6b93d1bc8d6dc3991b585bacfa9303", null ],
     [ "frame_padding", "classUwal.html#ac1e6da5cd475ec8420eab11bd7fd98fb", null ],
     [ "frame_set_validity", "classUwal.html#addef57ebe9e51a072dd5fa7c3a7362b4", null ],
+    [ "has_tap_clmsg", "classUwal.html#a670d95f5edc559c293bcc14778035583", null ],
     [ "interframe_period", "classUwal.html#a442d9ab65ae13d919732992d618ffa75", null ],
     [ "InterframeTmr", "classUwal.html#a5abe9f9b8b4a1773158c5c5b2224ec03", null ],
     [ "nodeID", "classUwal.html#a2bf3ece9f865179022385842e018dbf5", null ],

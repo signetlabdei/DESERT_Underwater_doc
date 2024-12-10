@@ -1,4 +1,7 @@
 <map id="Timer" name="Timer">
-<area shape="rect" id="node3" href="$classMMacTLOHI.html" title="Class that represents the T&#45;LOHI MAC protocol for a node. " alt="" coords="43,171,142,197"/>
+<area shape="rect" id="node1" title="Class that handles the timers in T&#45;LOHI nodes." alt="" coords="36,81,96,108"/>
+<area shape="rect" id="node3" href="$classMMacTLOHI.html" title="Class that represents the T&#45;LOHI MAC protocol for a node." alt="" coords="41,171,141,197"/>
+<area shape="rect" id="node2" title=" " alt="" coords="87,5,197,32"/>
 <area shape="rect" id="node5" href="$classDataTimer.html" title="Class that represents the timer that describe the time needed for the DATA Phy layer to receive packe..." alt="" coords="101,260,191,287"/>
+<area shape="rect" id="node4" title=" " alt="" coords="121,81,182,108"/>
 </map>

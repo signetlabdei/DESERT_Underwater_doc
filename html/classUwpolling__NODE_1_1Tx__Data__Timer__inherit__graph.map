@@ -1,3 +1,5 @@
 <map id="Uwpolling_NODE::Tx_Data_Timer" name="Uwpolling_NODE::Tx_Data_Timer">
-<area shape="rect" id="node2" href="$classUwpolling__NODE_1_1Uwpolling__NODE__Timer.html" title="Class that describes the timer in the AUV. " alt="" coords="5,80,211,121"/>
+<area shape="rect" id="node1" title="Class (inherited from Uwpolling_NODE_Timer) used to handle the time between the transmission of the D..." alt="" coords="30,169,186,211"/>
+<area shape="rect" id="node2" href="$classUwpolling__NODE_1_1Uwpolling__NODE__Timer.html" title="Class that describes the timer in the AUV." alt="" coords="5,80,211,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="53,5,163,32"/>
 </map>

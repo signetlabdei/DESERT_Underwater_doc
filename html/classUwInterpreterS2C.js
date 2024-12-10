@@ -8,6 +8,7 @@ var classUwInterpreterS2C =
       [ "BUSY", "classUwInterpreterS2C.html#a5be37575f8a596c88ad71bc80769cfcea802706a9238e2928077f97736854bad4", null ],
       [ "DELIVERING", "classUwInterpreterS2C.html#a5be37575f8a596c88ad71bc80769cfcea35f9e6bc5be6d625a4fd787bd4cb0bd3", null ],
       [ "DELIVERED", "classUwInterpreterS2C.html#a5be37575f8a596c88ad71bc80769cfceade843dd17a4d6e97207e279b4d8c727f", null ],
+      [ "DELIVEREDIM", "classUwInterpreterS2C.html#a5be37575f8a596c88ad71bc80769cfceadcc4db57d1541e58e4486488e1b66aee", null ],
       [ "DROPCNT", "classUwInterpreterS2C.html#a5be37575f8a596c88ad71bc80769cfcea1205481dd69b64b92d10a933752a6f8c", null ],
       [ "PHYOFF", "classUwInterpreterS2C.html#a5be37575f8a596c88ad71bc80769cfcea50bc274134aab4711f497c8fcc4c8fdd", null ],
       [ "NOT_ACCEPTED", "classUwInterpreterS2C.html#a5be37575f8a596c88ad71bc80769cfceaab99a6002b430785d0599cbbe9293226", null ],
@@ -31,6 +32,8 @@ var classUwInterpreterS2C =
       [ "SENDEND", "classUwInterpreterS2C.html#a5be37575f8a596c88ad71bc80769cfcea700d1880d93fc33eddefabe9d00321f7", null ],
       [ "BITRATE", "classUwInterpreterS2C.html#a5be37575f8a596c88ad71bc80769cfceabe314588af441633718b8a80aa72dd34", null ],
       [ "UNKNOWN", "classUwInterpreterS2C.html#a5be37575f8a596c88ad71bc80769cfcea696b031073e74bf2cb98e5ef201d4aa3", null ],
+      [ "USBLANGLES", "classUwInterpreterS2C.html#a5be37575f8a596c88ad71bc80769cfceaab57e99b8862dfd999f39401b1d02ee5", null ],
+      [ "USBLLONG", "classUwInterpreterS2C.html#a5be37575f8a596c88ad71bc80769cfcea68d962921047ba34113581d90d125c6d", null ],
       [ "NO_COMMAND", "classUwInterpreterS2C.html#a5be37575f8a596c88ad71bc80769cfcea7c855892af458b76d7cce2dd38d746f0", null ]
     ] ],
     [ "UwInterpreterS2C", "classUwInterpreterS2C.html#a5adde377415810552635dd189a19c5fd", null ],
@@ -46,9 +49,13 @@ var classUwInterpreterS2C =
     [ "buildSetATAL", "classUwInterpreterS2C.html#a656e75c6fcc2c559d76eb87192dc9d72", null ],
     [ "buildSetATL", "classUwInterpreterS2C.html#af0664c7b92c8e84f8c995306d6c50042", null ],
     [ "findResponse", "classUwInterpreterS2C.html#a864dded813c7b4c3a5d3052b3391bdf5", null ],
+    [ "getUSBLInfo", "classUwInterpreterS2C.html#a3238334ed4248aa4f6d29562c1a4efb1", null ],
     [ "parseResponse", "classUwInterpreterS2C.html#a88274afc2875d53ae4a121434831eb87", null ],
+    [ "setExtProtoMode", "classUwInterpreterS2C.html#abd82d94e2261d8207e72e11063daef64", null ],
+    [ "ext_proto_mode", "classUwInterpreterS2C.html#a2b4022951c5d209772d20266863905b9", null ],
     [ "r_term", "classUwInterpreterS2C.html#abed8d15472ef7e81e085cf3a3c7cd341", null ],
     [ "sep", "classUwInterpreterS2C.html#a9a95c6f329b252d4b6bc71e7382dc5a2", null ],
     [ "syntax_pool", "classUwInterpreterS2C.html#a0b5c309a6341726f46fcbd8e91d7be36", null ],
+    [ "usbl_info", "classUwInterpreterS2C.html#adaac51e394376bedd36c31c1f5395606", null ],
     [ "w_term", "classUwInterpreterS2C.html#a7f4dccfbc9af7e17bea1ff41c79f9828", null ]
 ];

@@ -1,5 +1,8 @@
 var classSunIPRoutingNode =
 [
+    [ "HOPCOUNT", "classSunIPRoutingNode.html#a3a1543e0f1d694a1548139da355cd586a154560f54f94ff25a283160536515fcc", null ],
+    [ "SNR", "classSunIPRoutingNode.html#a3a1543e0f1d694a1548139da355cd586a0055780913c11a421041733073fb08ad", null ],
+    [ "LESSCONGESTED", "classSunIPRoutingNode.html#a3a1543e0f1d694a1548139da355cd586a8fda3aabc9b00b94e3c2399272360a4c", null ],
     [ "SunIPRoutingNode", "classSunIPRoutingNode.html#a8d2772a1758ca2f19b5b22a44c38862d", null ],
     [ "~SunIPRoutingNode", "classSunIPRoutingNode.html#abeaf6f3548c85688ecbd10991893a4a4", null ],
     [ "SunIPRoutingNode", "classSunIPRoutingNode.html#a59b34ae88f3c91dc698ef34db16a78d5", null ],

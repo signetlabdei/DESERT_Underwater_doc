@@ -1,5 +1,5 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classUwConnector.html" title="Class UwConnector allows to specify an interface between the UwDriver object and the device..." alt="" coords="5,31,115,57"/>
-<area shape="rect" id="node2" href="$classUwSerial.html" title="Class that implements serial port connection. " alt="" coords="166,5,246,32"/>
-<area shape="rect" id="node3" href="$classUwSocket.html" title="Class that implements a TCP or UDP socket. " alt="" coords="163,56,249,83"/>
+<area shape="rect" id="node1" href="$classUwConnector.html" title="Class UwConnector allows to specify an interface between the UwDriver object and the device." alt="" coords="5,31,115,57"/>
+<area shape="rect" id="node2" href="$classUwSerial.html" title="Class that implements serial port connection." alt="" coords="166,5,246,32"/>
+<area shape="rect" id="node3" href="$classUwSocket.html" title="Class that implements a TCP or UDP socket." alt="" coords="163,56,249,83"/>
 </map>

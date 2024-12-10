@@ -1,5 +1,8 @@
 <map id="UwCsmaAloha_Trigger_NODE" name="UwCsmaAloha_Trigger_NODE">
-<area shape="rect" id="node4" href="$classUwCsmaAloha__Trigger__NODE_1_1Csma__Aloha__Triggered__Timer.html" title="Class that describes the timers in the node. " alt="" coords="428,42,659,98"/>
-<area shape="rect" id="node3" href="$classUwCsmaAloha__Trigger__NODE_1_1ListenTimer.html" title="Class used to handle the timer to handle the listen time. " alt="" coords="723,85,891,127"/>
-<area shape="rect" id="node6" href="$classUwCsmaAloha__Trigger__NODE_1_1TransmissionTimer.html" title="Class used to handle the time in which the node is allowed to transmit to the sink. " alt="" coords="708,5,907,47"/>
+<area shape="rect" id="node1" title="Class that describes a CsmaAloha_TRIGGERED module of the node." alt="" coords="116,57,329,83"/>
+<area shape="rect" id="node4" href="$classUwCsmaAloha__Trigger__NODE_1_1Csma__Aloha__Triggered__Timer.html" title="Class that describes the timers in the node." alt="" coords="431,42,661,98"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,57,67,83"/>
+<area shape="rect" id="node3" href="$classUwCsmaAloha__Trigger__NODE_1_1ListenTimer.html" title="Class used to handle the timer to handle the listen time." alt="" coords="726,85,894,127"/>
+<area shape="rect" id="node6" href="$classUwCsmaAloha__Trigger__NODE_1_1TransmissionTimer.html" title="Class used to handle the time in which the node is allowed to transmit to the sink." alt="" coords="711,5,909,47"/>
+<area shape="rect" id="node5" title=" " alt="" coords="167,157,278,183"/>
 </map>

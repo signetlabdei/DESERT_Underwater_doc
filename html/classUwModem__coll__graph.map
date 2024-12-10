@@ -1,8 +1,6 @@
 <map id="UwModem" name="UwModem">
-<area shape="rect" id="node3" href="$classCheckTimer.html" title="The class used by UWMPhy_modem to handle simulator&#39;s event expirations; it is exploited to schedule t..." alt="" coords="67,171,167,197"/>
-<area shape="rect" id="node5" href="$classUWMPhy__modem.html" title="The main class implementing the module used to implement the interface between ns2/NS&#45;Miracle and rea..." alt="" coords="156,260,293,287"/>
-<area shape="rect" id="node6" href="$classDropTimer.html" title="DropTimer" alt="" coords="14,349,105,376"/>
-<area shape="rect" id="node7" href="$classUWMdriver.html" title="The class needed by UWMPhy_modem to handle the different transmissions cases and corresponding protoc..." alt="" coords="268,349,363,376"/>
-<area shape="rect" id="node8" href="$classUWMconnector.html" title="The class needed by UWMPhy_modem to manage string exchange with the modem. " alt="" coords="163,439,283,465"/>
-<area shape="rect" id="node9" href="$classUWMinterpreter.html" title="This class is in charge of building/parsing the necessary messages to make the UWMdriver able to comm..." alt="" coords="343,439,469,465"/>
+<area shape="rect" id="node1" title="Class that implements the interface to DESERT, as used through Tcl scripts." alt="" coords="152,81,244,108"/>
+<area shape="rect" id="node3" href="$classCheckTimer.html" title="The class used by UwModem to handle simulator&#39;s event expirations; it is exploited to schedule the re..." alt="" coords="55,171,155,197"/>
+<area shape="rect" id="node2" title=" " alt="" coords="169,5,227,32"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,81,116,108"/>
 </map>

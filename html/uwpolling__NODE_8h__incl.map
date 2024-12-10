@@ -1,3 +1,15 @@
 <map id="uwpolling_NODE.h" name="uwpolling_NODE.h">
-<area shape="rect" id="node2" href="$uwpolling__cmn__hdr_8h.html" title="Common structures and variables in the protocol. " alt="" coords="81,80,239,107"/>
+<area shape="rect" id="node1" title="Class that represents a node of UWPOLLING." alt="" coords="405,5,547,32"/>
+<area shape="rect" id="node2" href="$uwpolling__cmn__hdr_8h.html" title="Common structures and variables in the protocol." alt="" coords="81,80,239,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,155,80,181"/>
+<area shape="rect" id="node7" title=" " alt="" coords="264,80,344,107"/>
+<area shape="rect" id="node8" title=" " alt="" coords="368,80,427,107"/>
+<area shape="rect" id="node9" title=" " alt="" coords="451,80,501,107"/>
+<area shape="rect" id="node10" title=" " alt="" coords="525,80,568,107"/>
+<area shape="rect" id="node11" title=" " alt="" coords="593,80,655,107"/>
+<area shape="rect" id="node12" title=" " alt="" coords="679,80,753,107"/>
+<area shape="rect" id="node13" title=" " alt="" coords="777,80,844,107"/>
+<area shape="rect" id="node4" title=" " alt="" coords="104,155,187,181"/>
+<area shape="rect" id="node5" title=" " alt="" coords="211,155,288,181"/>
+<area shape="rect" id="node6" title=" " alt="" coords="312,155,355,181"/>
 </map>

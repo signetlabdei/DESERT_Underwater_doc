@@ -1,5 +1,8 @@
 <map id="Uwpolling_SINK::Uwpolling_SINK_Timer" name="Uwpolling_SINK::Uwpolling_SINK_Timer">
-<area shape="rect" id="node5" href="$classUwpolling__SINK_1_1Rx__Data__Timer.html" title="Class (inherited from Uwpolling_SINK_Timer) used to handle the time in which the NODE wait for the DA..." alt="" coords="89,172,239,213"/>
-<area shape="rect" id="node6" href="$classUwpolling__SINK_1_1BackOffTimer.html" title="Class (inherited from Uwpolling_SINK_Timer) used to handle the time of backoff of the node before tra..." alt="" coords="263,179,486,206"/>
-<area shape="rect" id="node3" href="$classUwpolling__SINK.html" title="Class used to represents the UWPOLLING MAC layer of a node. " alt="" coords="228,276,353,303"/>
+<area shape="rect" id="node1" title="Class that describes the timer in the SINK." alt="" coords="278,81,477,123"/>
+<area shape="rect" id="node5" href="$classUwpolling__SINK_1_1Rx__Data__Timer.html" title="Class (inherited from Uwpolling_SINK_Timer) used to handle the time in which the NODE wait for the DA..." alt="" coords="91,172,242,213"/>
+<area shape="rect" id="node6" href="$classUwpolling__SINK_1_1BackOffTimer.html" title="Class (inherited from Uwpolling_SINK_Timer) used to handle the time of backoff of the node before tra..." alt="" coords="266,179,489,206"/>
+<area shape="rect" id="node2" title=" " alt="" coords="322,5,433,32"/>
+<area shape="rect" id="node3" href="$classUwpolling__SINK.html" title="Class used to represents the UWPOLLING MAC layer of a node." alt="" coords="231,276,356,303"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,179,67,206"/>
 </map>

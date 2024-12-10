@@ -1,7 +1,10 @@
 <map id="MMacUWSR" name="MMacUWSR">
-<area shape="rect" id="node4" href="$classMMacUWSR_1_1UWSRTimer.html" title="Base class of all the timer used in this protocol. " alt="" coords="325,112,509,139"/>
-<area shape="rect" id="node3" href="$classMMacUWSR_1_1BackOffTimer.html" title="Base class of BackoffTimer. " alt="" coords="559,261,755,288"/>
-<area shape="rect" id="node6" href="$classMMacUWSR_1_1AckTimer.html" title="Base class of AckTimer, which is a derived class of UWSRTimer. " alt="" coords="572,140,741,167"/>
-<area shape="rect" id="node7" href="$classMMacUWSR_1_1WaitTxTimer.html" title="Base class of WaitTxTimer, which is a derived class of UWSRTimer. " alt="" coords="561,197,752,224"/>
-<area shape="rect" id="node8" href="$classMMacUWSR_1_1ListenTimer.html" title="Base class of ListenTimer, which is a derived class of UWSRTimer. " alt="" coords="565,56,749,83"/>
+<area shape="rect" id="node1" title="This is the base class of MMacUWSR protocol, which is a derived class of MMac." alt="" coords="121,172,222,199"/>
+<area shape="rect" id="node4" href="$classMMacUWSR_1_1UWSRTimer.html" title="Base class of all the timer used in this protocol." alt="" coords="328,112,515,139"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,172,67,199"/>
+<area shape="rect" id="node3" href="$classMMacUWSR_1_1BackOffTimer.html" title="Base class of BackoffTimer." alt="" coords="564,261,763,288"/>
+<area shape="rect" id="node6" href="$classMMacUWSR_1_1AckTimer.html" title="Base class of AckTimer, which is a derived class of UWSRTimer." alt="" coords="578,140,749,167"/>
+<area shape="rect" id="node7" href="$classMMacUWSR_1_1WaitTxTimer.html" title="Base class of WaitTxTimer, which is a derived class of UWSRTimer." alt="" coords="567,197,759,224"/>
+<area shape="rect" id="node8" href="$classMMacUWSR_1_1ListenTimer.html" title="Base class of ListenTimer, which is a derived class of UWSRTimer." alt="" coords="570,56,757,83"/>
+<area shape="rect" id="node5" title=" " alt="" coords="116,5,227,32"/>
 </map>

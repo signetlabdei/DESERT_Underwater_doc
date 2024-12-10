@@ -1,9 +1,10 @@
 <map id="uwpolling_cmn_hdr.h" name="uwpolling_cmn_hdr.h">
-<area shape="rect" id="node2" href="$uwpolling__AUV_8h.html" title="Class that represents the AUV of UWPOLLING. " alt="" coords="82,80,213,107"/>
-<area shape="rect" id="node3" href="$data__link_2uwpolling_2initlib_8cpp.html" title="Provides the initialization of the uwpolling libraries. " alt="" coords="207,155,293,181"/>
-<area shape="rect" id="node4" href="$uwpolling__AUV_8cpp.html" title="Provides the implementation of Uwpolling_AUV class. " alt="" coords="5,155,151,181"/>
-<area shape="rect" id="node5" href="$uwpolling__NODE_8h.html" title="Class that represents a node of UWPOLLING. " alt="" coords="447,80,589,107"/>
-<area shape="rect" id="node6" href="$uwpolling__NODE_8cpp.html" title="Implementation of Uwpolling_NODE class. " alt="" coords="521,155,678,181"/>
-<area shape="rect" id="node7" href="$uwpolling__SINK_8h.html" title="Class that represents a node of UWPOLLING. " alt="" coords="288,80,423,107"/>
-<area shape="rect" id="node8" href="$uwpolling__SINK_8cpp.html" title="Implementation of Uwpolling_SINK class. " alt="" coords="317,155,468,181"/>
+<area shape="rect" id="node1" title="Common structures and variables in the protocol." alt="" coords="223,5,381,32"/>
+<area shape="rect" id="node2" href="$uwpolling__AUV_8h.html" title="Class that represents the AUV of UWPOLLING." alt="" coords="82,80,213,107"/>
+<area shape="rect" id="node3" href="$data__link_2uwpolling_2initlib_8cpp.html" title="Provides the initialization of the uwpolling libraries." alt="" coords="207,155,293,181"/>
+<area shape="rect" id="node4" href="$uwpolling__AUV_8cpp.html" title="Provides the implementation of Uwpolling_AUV class." alt="" coords="5,155,151,181"/>
+<area shape="rect" id="node5" href="$uwpolling__NODE_8h.html" title="Class that represents a node of UWPOLLING." alt="" coords="447,80,589,107"/>
+<area shape="rect" id="node6" href="$uwpolling__NODE_8cpp.html" title="Implementation of Uwpolling_NODE class." alt="" coords="521,155,678,181"/>
+<area shape="rect" id="node7" href="$uwpolling__SINK_8h.html" title="Class that represents a node of UWPOLLING." alt="" coords="288,80,423,107"/>
+<area shape="rect" id="node8" href="$uwpolling__SINK_8cpp.html" title="Implementation of Uwpolling_SINK class." alt="" coords="317,155,468,181"/>
 </map>

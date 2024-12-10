@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['good_6268',['GOOD',['../classUwPhysicalStats.html#a1fe739d64b27eee2e6cfdea4873df7a2a488cacb3adb775c5d5e28d007318520b',1,'UwPhysicalStats']]]
+  ['hardwall_6141',['HARDWALL',['../uwgmposition_8h.html#aa7705d3535cb72e125dab05d3ae4137eabfb353434e11cbc5c245ee727f3a518b',1,'uwgmposition.h']]],
+  ['hopcount_6142',['HOPCOUNT',['../classSunIPRoutingNode.html#a3a1543e0f1d694a1548139da355cd586a154560f54f94ff25a283160536515fcc',1,'SunIPRoutingNode']]]
 ];

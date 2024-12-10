@@ -1,3 +1,5 @@
 <map id="uwUFetch_NODE::uwUFetch_BEACON_timer" name="uwUFetch_NODE::uwUFetch_BEACON_timer">
-<area shape="rect" id="node2" href="$classuwUFetch__NODE_1_1uwUFetch__NODE__timer.html" title="Class that handle the timers of SN or HN. " alt="" coords="5,80,207,121"/>
+<area shape="rect" id="node1" title="Timer associated to the HN." alt="" coords="5,169,208,211"/>
+<area shape="rect" id="node2" href="$classuwUFetch__NODE_1_1uwUFetch__NODE__timer.html" title="Class that handle the timers of SN or HN." alt="" coords="5,80,208,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="51,5,162,32"/>
 </map>

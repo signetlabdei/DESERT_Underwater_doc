@@ -1,4 +1,8 @@
 <map id="Uwal" name="Uwal">
-<area shape="rect" id="node3" href="$classTxFrameTimer.html" title="The class used by Uwal to handle simulator&#39;s event expirations; it is exploited to schedule the sendD..." alt="" coords="47,260,163,287"/>
-<area shape="rect" id="node5" href="$classpacker.html" title="Class exploited by the Uwal module to map an NS&#45;Miracle packet into a bit stream, and vice&#45;versa..." alt="" coords="199,81,266,108"/>
+<area shape="rect" id="node1" title="The main class implementing the module used to implement the adaptation layer between ns2/NS&#45;Miracle ..." alt="" coords="151,171,205,197"/>
+<area shape="rect" id="node3" href="$classTxFrameTimer.html" title="The class used by Uwal to handle simulator&#39;s event expirations; it is exploited to schedule the sendD..." alt="" coords="46,260,163,287"/>
+<area shape="rect" id="node2" title=" " alt="" coords="117,81,175,108"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,171,116,197"/>
+<area shape="rect" id="node5" href="$classpacker.html" title="Class exploited by the Uwal module to map an NS&#45;Miracle packet into a bit stream, and vice&#45;versa." alt="" coords="200,81,265,108"/>
+<area shape="rect" id="node6" title=" " alt="" coords="192,5,273,32"/>
 </map>

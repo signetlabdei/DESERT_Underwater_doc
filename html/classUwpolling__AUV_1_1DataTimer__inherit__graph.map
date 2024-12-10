@@ -1,3 +1,5 @@
 <map id="Uwpolling_AUV::DataTimer" name="Uwpolling_AUV::DataTimer">
-<area shape="rect" id="node2" href="$classUwpolling__AUV_1_1Uwpolling__AUV__Timer.html" title="Class that describes the timer in the AUV. " alt="" coords="7,80,202,121"/>
+<area shape="rect" id="node1" title="Class (inherited from Uwpolling_AUV_Timer) used to handle the timer of data packets When the AUV give..." alt="" coords="5,169,204,196"/>
+<area shape="rect" id="node2" href="$classUwpolling__AUV_1_1Uwpolling__AUV__Timer.html" title="Class that describes the timer in the AUV." alt="" coords="7,80,202,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="49,5,160,32"/>
 </map>

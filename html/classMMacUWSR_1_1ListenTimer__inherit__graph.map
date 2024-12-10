@@ -1,3 +1,5 @@
 <map id="MMacUWSR::ListenTimer" name="MMacUWSR::ListenTimer">
-<area shape="rect" id="node2" href="$classMMacUWSR_1_1UWSRTimer.html" title="Base class of all the timer used in this protocol. " alt="" coords="5,80,189,107"/>
+<area shape="rect" id="node1" title="Base class of ListenTimer, which is a derived class of UWSRTimer." alt="" coords="5,155,192,181"/>
+<area shape="rect" id="node2" href="$classMMacUWSR_1_1UWSRTimer.html" title="Base class of all the timer used in this protocol." alt="" coords="5,80,192,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="43,5,154,32"/>
 </map>

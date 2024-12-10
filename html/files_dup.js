@@ -150,6 +150,7 @@ var files_dup =
     [ "UwInterferenceCollisionCounterInitTcl.cpp", "UwInterferenceCollisionCounterInitTcl_8cpp.html", "UwInterferenceCollisionCounterInitTcl_8cpp" ],
     [ "uwinterpreters2c.cpp", "uwinterpreters2c_8cpp.html", null ],
     [ "uwinterpreters2c.h", "uwinterpreters2c_8h.html", [
+      [ "USBLInfo", "structUSBLInfo.html", "structUSBLInfo" ],
       [ "UwInterpreterS2C", "classUwInterpreterS2C.html", "classUwInterpreterS2C" ]
     ] ],
     [ "uwip-clmsg.cpp", "uwip-clmsg_8cpp.html", "uwip-clmsg_8cpp" ],

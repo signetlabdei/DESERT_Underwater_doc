@@ -1,4 +1,13 @@
 <map id="initlib.cpp" name="initlib.cpp">
-<area shape="rect" id="node2" href="$uwudp-module_8h.html" title="Provides the UWUDP packets header description and the definition of the class UWUDP. " alt="" coords="141,80,272,107"/>
-<area shape="rect" id="node3" href="$uwip-module_8h.html" title="Provides the UWIP packets header description. Definition of the class that define the network layer..." alt="" coords="93,155,211,181"/>
+<area shape="rect" id="node1" title="Provides the initialization of uwudp libraries." alt="" coords="283,5,370,32"/>
+<area shape="rect" id="node2" href="$uwudp-module_8h.html" title="Provides the UWUDP packets header description and the definition of the class UWUDP." alt="" coords="141,80,272,107"/>
+<area shape="rect" id="node10" title=" " alt="" coords="296,80,357,107"/>
+<area shape="rect" id="node11" title=" " alt="" coords="381,80,448,107"/>
+<area shape="rect" id="node3" href="$uwip-module_8h.html" title="Provides the UWIP packets header description. Definition of the class that define the network layer." alt="" coords="93,155,211,181"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,229,88,256"/>
+<area shape="rect" id="node8" title=" " alt="" coords="236,155,287,181"/>
+<area shape="rect" id="node9" title=" " alt="" coords="311,155,353,181"/>
+<area shape="rect" id="node5" title=" " alt="" coords="112,229,192,256"/>
+<area shape="rect" id="node6" title=" " alt="" coords="216,229,275,256"/>
+<area shape="rect" id="node7" title=" " alt="" coords="299,229,373,256"/>
 </map>

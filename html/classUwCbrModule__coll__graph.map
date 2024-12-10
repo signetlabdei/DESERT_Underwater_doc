@@ -1,3 +1,6 @@
 <map id="UwCbrModule" name="UwCbrModule">
-<area shape="rect" id="node3" href="$classUwSendTimer.html" title="UwSendTimer class is used to handle the scheduling period of UWCBR packets. " alt="" coords="56,171,169,197"/>
+<area shape="rect" id="node1" title="UwCbrModule class is used to manage UWCBR packets and to collect statistics about them." alt="" coords="140,81,253,108"/>
+<area shape="rect" id="node3" href="$classUwSendTimer.html" title="UwSendTimer class is used to handle the scheduling period of UWCBR packets." alt="" coords="56,171,169,197"/>
+<area shape="rect" id="node2" title=" " alt="" coords="161,5,232,32"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,81,116,108"/>
 </map>

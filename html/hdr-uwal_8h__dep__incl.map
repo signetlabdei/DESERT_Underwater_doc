@@ -1,26 +1,17 @@
 <map id="hdr&#45;uwal.h" name="hdr&#45;uwal.h">
-<area shape="rect" id="node2" href="$uwmphy__modem_8h.html" title="Header of the main class that implements the general interface between ns2/NS&#45;Miracle and real acoust..." alt="" coords="701,229,847,256"/>
-<area shape="rect" id="node12" href="$packer_8h.html" title="Header of the class responsible to map an NS&#45;Miracle packet into a bit stream, and vice&#45;versa..." alt="" coords="1750,80,1827,107"/>
-<area shape="rect" id="node19" href="$uwal_8h.html" title="Header of the main class that implements the adaptation layer between ns2/NS&#45;Miracle and binary data ..." alt="" coords="1549,155,1615,181"/>
-<area shape="rect" id="node21" href="$uwmodem_8h.html" title="Header of the main class that implements the general interface between DESERT and real acoustic modem..." alt="" coords="1420,229,1523,256"/>
-<area shape="rect" id="node24" href="$uwevologicss2cmodem_8cpp.html" title="uwevologicss2cmodem.cpp" alt="" coords="1501,379,1703,405"/>
-<area shape="rect" id="node25" href="$hdr-uwal_8cpp.html" title="Class that allocate the memory for the Uwal header. " alt="" coords="1852,80,1957,107"/>
-<area shape="rect" id="node3" href="$uwmdriver_8cpp.html" title="Implementation of the UWMdriver class. " alt="" coords="555,304,673,331"/>
-<area shape="rect" id="node4" href="$uwminterpreter_8cpp.html" title="Implementation of the UWMinterpreter class. " alt="" coords="874,304,1023,331"/>
-<area shape="rect" id="node5" href="$uwmphy__modem_8cpp.html" title="Implementation of the UWMPhy_modem class. " alt="" coords="1047,304,1210,331"/>
-<area shape="rect" id="node6" href="$mS2C__EvoLogics_8h.html" title="Header of the main class that implements the general interface between ns2/NS&#45;Miracle and the S2C Evo..." alt="" coords="106,304,250,331"/>
-<area shape="rect" id="node7" href="$mdriverS2C__EvoLogics_8cpp.html" title="Implementation of the MdriverS2C_EvoLogics class. " alt="" coords="189,379,386,405"/>
-<area shape="rect" id="node9" href="$mdriverS2C__Evo__lowlev_8cpp.html" title="mdriverS2C_Evo_lowlev.cpp" alt="" coords="325,304,530,331"/>
-<area shape="rect" id="node10" href="$mS2C__Evo__lowlev_8h.html" title="Header of the main class that implements the general interface between ns2/NS&#45;Miracle and the S2C Evo..." alt="" coords="698,304,850,331"/>
-<area shape="rect" id="node8" href="$mS2C__EvoLogics_8cpp.html" title="Implementation of the MS2C_EvoLogics class. " alt="" coords="5,379,164,405"/>
-<area shape="rect" id="node11" href="$mS2C__Evo__lowlev_8cpp.html" title="Implementation of the MS2C_Evo_lowlev class. " alt="" coords="691,379,857,405"/>
-<area shape="rect" id="node13" href="$frame-set_8cpp.html" title="Implementation of the classes defining the frame elements (key and set) exploited by Uwal objects to ..." alt="" coords="1732,155,1845,181"/>
-<area shape="rect" id="node14" href="$packer_8cpp.html" title="Header of the class responsible to map an NS&#45;Miracle packet into a bit stream, and vice&#45;versa..." alt="" coords="1869,155,1961,181"/>
-<area shape="rect" id="node15" href="$packer-common_8h.html" title="Header of the class responsible to map the ns2 common header into a bit stream, and vice&#45;versa..." alt="" coords="1986,155,2125,181"/>
-<area shape="rect" id="node17" href="$packer-mac_8h.html" title="Header of the class responsible to map the ns2 packet of mac into a bit stream, and vice&#45;versa..." alt="" coords="2156,155,2267,181"/>
-<area shape="rect" id="node16" href="$packer-common_8cpp.html" title="Implementation of the class responsible to map the ns2 common header into a bit stream, and vice&#45;versa. " alt="" coords="1974,229,2129,256"/>
-<area shape="rect" id="node18" href="$packer-mac_8cpp.html" title="Implementation of the class responsible to map the ns2 packet of mac into a bit stream, and vice&#45;versa. " alt="" coords="2153,229,2278,256"/>
-<area shape="rect" id="node20" href="$uwal_8cpp.html" title="Implementation of the main class that implements the adaptation layer between ns2/NS&#45;Miracle and bina..." alt="" coords="1598,229,1678,256"/>
-<area shape="rect" id="node22" href="$uwmodem_8cpp.html" title="uwmodem.cpp" alt="" coords="1235,304,1353,331"/>
-<area shape="rect" id="node23" href="$uwevologicss2cmodem_8h.html" title="Header of the main class that implements the drivers to manage the EvoLogics S2C line of devices..." alt="" coords="1378,304,1565,331"/>
+<area shape="rect" id="node1" title="Header of the class providing the Uwal header&#39;s description." alt="" coords="644,5,735,32"/>
+<area shape="rect" id="node2" href="$packer_8h.html" title="Header of the class responsible to map an NS&#45;Miracle packet into a bit stream, and vice&#45;versa." alt="" coords="362,80,438,107"/>
+<area shape="rect" id="node9" href="$uwal_8h.html" title="Header of the main class that implements the adaptation layer between ns2/NS&#45;Miracle and binary data ..." alt="" coords="563,155,629,181"/>
+<area shape="rect" id="node11" href="$uwmodem_8h.html" title="Header of the main class that implements the general interface between DESERT and real acoustic modem..." alt="" coords="638,229,741,256"/>
+<area shape="rect" id="node14" href="$uwevologicss2cmodem_8cpp.html" title=" " alt="" coords="628,379,831,405"/>
+<area shape="rect" id="node15" href="$hdr-uwal_8cpp.html" title="Class that allocate the memory for the Uwal header." alt="" coords="897,80,1004,107"/>
+<area shape="rect" id="node3" href="$frame-set_8cpp.html" title="Implementation of the classes defining the frame elements (key and set) exploited by Uwal objects to ..." alt="" coords="147,155,261,181"/>
+<area shape="rect" id="node4" href="$packer_8cpp.html" title="Header of the class responsible to map an NS&#45;Miracle packet into a bit stream, and vice&#45;versa." alt="" coords="285,155,376,181"/>
+<area shape="rect" id="node5" href="$packer-common_8h.html" title="Header of the class responsible to map the ns2 common header into a bit stream, and vice&#45;versa." alt="" coords="400,155,539,181"/>
+<area shape="rect" id="node7" href="$packer-mac_8h.html" title="Header of the class responsible to map the ns2 packet of mac into a bit stream, and vice&#45;versa." alt="" coords="13,155,123,181"/>
+<area shape="rect" id="node6" href="$packer-common_8cpp.html" title="Implementation of the class responsible to map the ns2 common header into a bit stream,..." alt="" coords="263,229,417,256"/>
+<area shape="rect" id="node8" href="$packer-mac_8cpp.html" title="Implementation of the class responsible to map the ns2 packet of mac into a bit stream,..." alt="" coords="5,229,131,256"/>
+<area shape="rect" id="node10" href="$uwal_8cpp.html" title="Implementation of the main class that implements the adaptation layer between ns2/NS&#45;Miracle and bina..." alt="" coords="533,229,613,256"/>
+<area shape="rect" id="node12" href="$uwmodem_8cpp.html" title=" " alt="" coords="493,304,611,331"/>
+<area shape="rect" id="node13" href="$uwevologicss2cmodem_8h.html" title="Header of the main class that implements the drivers to manage the EvoLogics S2C line of devices...." alt="" coords="636,304,823,331"/>
 </map>

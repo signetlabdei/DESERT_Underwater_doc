@@ -1,6 +1,7 @@
 var uwevologicss2cmodem_8h =
 [
     [ "UwEvoLogicsS2CModem", "classUwEvoLogicsS2CModem.html", "classUwEvoLogicsS2CModem" ],
+    [ "TransmissionDurationLUT", "uwevologicss2cmodem_8h.html#a8361ce9e4ae371725b81986f176d95d6", null ],
     [ "ModemState", "uwevologicss2cmodem_8h.html#a333c8c06f623852af0eea2afdf849eaa", [
       [ "AVAILABLE", "uwevologicss2cmodem_8h.html#a333c8c06f623852af0eea2afdf849eaaa1588118736b5ecdb1ac20c16428d8ea7", null ],
       [ "BUSY", "uwevologicss2cmodem_8h.html#a333c8c06f623852af0eea2afdf849eaaa802706a9238e2928077f97736854bad4", null ],
