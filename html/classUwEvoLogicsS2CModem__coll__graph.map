@@ -1,7 +1,0 @@
-<map id="UwEvoLogicsS2CModem" name="UwEvoLogicsS2CModem">
-<area shape="rect" id="node1" title=" " alt="" coords="220,171,403,197"/>
-<area shape="rect" id="node2" href="$classUwModem.html" title="Class that implements the interface to DESERT, as used through Tcl scripts." alt="" coords="164,81,256,108"/>
-<area shape="rect" id="node4" href="$classCheckTimer.html" title="The class used by UwModem to handle simulator&#39;s event expirations; it is exploited to schedule the re..." alt="" coords="55,171,155,197"/>
-<area shape="rect" id="node3" title=" " alt="" coords="181,5,239,32"/>
-<area shape="rect" id="node5" title=" " alt="" coords="5,81,116,108"/>
-</map>

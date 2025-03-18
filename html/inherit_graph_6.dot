@@ -1,14 +1,13 @@
 digraph "Graphical Class Hierarchy"
 {
  // LATEX_PDF_SIZE
-  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
-  node [fontname="Helvetica",fontsize="10",shape=record];
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
   rankdir="LR";
-  Node239 [label="Tracer",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",tooltip=" "];
-  Node239 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
-  Node0 [label="DACAPTracer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classDACAPTracer.html",tooltip="DACAP Tracer class."];
-  Node239 -> Node241 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
-  Node241 [label="TLohiTracer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classTLohiTracer.html",tooltip="Class that represents a Tracer for T-LOHI protocol."];
-  Node239 -> Node242 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
-  Node242 [label="UWCbrTracer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classUWCbrTracer.html",tooltip="Class that defines a tracer for hdr_uwcbr packets."];
+  Node0 [id="Node000000",label="Handler",height=0.2,width=0.4,color="grey60", fillcolor="#E0E0E0", style="filled",tooltip=" "];
+  Node0 -> Node1 [id="edge27_Node000000_Node000001",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node1 [id="Node000001",label="EndInterfTimer",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classEndInterfTimer.html",tooltip=" "];
+  Node0 -> Node2 [id="edge28_Node000000_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="EndInterfTimerOFDM",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classEndInterfTimerOFDM.html",tooltip=" "];
 }

@@ -1,0 +1,25 @@
+var classUwMultiStackControllerPhyMaster =
+[
+    [ "UwMultiStackSignalingTimer", "classUwMultiStackControllerPhyMaster_1_1UwMultiStackSignalingTimer.html", "classUwMultiStackControllerPhyMaster_1_1UwMultiStackSignalingTimer" ],
+    [ "UwMultiStackControllerPhyMaster", "classUwMultiStackControllerPhyMaster.html#a6cedcc34bd6b3515c3a73001502d5fc9", null ],
+    [ "~UwMultiStackControllerPhyMaster", "classUwMultiStackControllerPhyMaster.html#a3e54263f9f309e9b397437e74d95a571", null ],
+    [ "checkAndSignal", "classUwMultiStackControllerPhyMaster.html#a5fdb6201feeb274f4163dd516b55cf1d", null ],
+    [ "checkBestLayer", "classUwMultiStackControllerPhyMaster.html#a2b573f710e20ff28cc1b9aad30835e97", null ],
+    [ "command", "classUwMultiStackControllerPhyMaster.html#a74287c12b117a1d8a16e5bf47903ec1b", null ],
+    [ "getBestLayer", "classUwMultiStackControllerPhyMaster.html#a2d2bb280acff94bf7b950b583ac1f96a", null ],
+    [ "getLongerRangeLayer", "classUwMultiStackControllerPhyMaster.html#a0301af7a1b5ace62b89638a82146e4d3", null ],
+    [ "getShorterRangeLayer", "classUwMultiStackControllerPhyMaster.html#a03cdab7c245b1ace60861e675eb6b8b6", null ],
+    [ "recv", "classUwMultiStackControllerPhyMaster.html#acc5aacc973b9749b09e88e4121b99b62", null ],
+    [ "recvSyncClMsg", "classUwMultiStackControllerPhyMaster.html#aca5389ea262d6550cc68abdd477b2b82", null ],
+    [ "resetCheckAndSignal", "classUwMultiStackControllerPhyMaster.html#a06f7c61bdb686c2bc387742330231a04", null ],
+    [ "signalsBestPhy", "classUwMultiStackControllerPhyMaster.html#a6c18eb8debbab6d259c83bd5a4c5359b", null ],
+    [ "updateMasterStatistics", "classUwMultiStackControllerPhyMaster.html#ab27e436c1d6f1cdff7e771d8144113a2", null ],
+    [ "alpha_", "classUwMultiStackControllerPhyMaster.html#a321e7474f966807f17fc7838e7cc9ed9", null ],
+    [ "last_layer_used_", "classUwMultiStackControllerPhyMaster.html#a6a16c919ec07d8b818d2aec5d3a9c5dc", null ],
+    [ "power_stat_node_", "classUwMultiStackControllerPhyMaster.html#a588a89b7cd33f0c791eda4cc11ebae96", null ],
+    [ "power_statistics_", "classUwMultiStackControllerPhyMaster.html#a2898180c4cffefe397d884c3e0ab7611", null ],
+    [ "signaling_active_", "classUwMultiStackControllerPhyMaster.html#affd23dc430ea64ced9bd923256ecc809", null ],
+    [ "signaling_period_", "classUwMultiStackControllerPhyMaster.html#aad2f7124d20c3fa65447926911c2f073", null ],
+    [ "signaling_sent_", "classUwMultiStackControllerPhyMaster.html#aa74e65a7096b1bed26db516f1a347254", null ],
+    [ "signaling_timer_", "classUwMultiStackControllerPhyMaster.html#a3174f5a1cf68f981f10ee05d12026fb1", null ]
+];

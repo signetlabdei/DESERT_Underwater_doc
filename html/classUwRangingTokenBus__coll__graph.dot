@@ -1,0 +1,19 @@
+digraph "UwRangingTokenBus"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  Node1 [id="Node000001",label="UwRangingTokenBus",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Class that represents a TokenBus Node."];
+  Node2 -> Node1 [id="edge1_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="UwTokenBus",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$classUwTokenBus.html",tooltip="Class that represents a TokenBus Node."];
+  Node3 -> Node2 [id="edge2_Node000002_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="MMac",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",tooltip=" "];
+  Node4 -> Node2 [id="edge3_Node000002_Node000004",dir="back",color="darkorchid3",style="dashed",tooltip=" ",label=" token_pass_timer",fontcolor="grey" ];
+  Node4 [id="Node000004",label="UwTokenBus::TimerTokenPass",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$classUwTokenBus_1_1TimerTokenPass.html",tooltip="TimerTokenPass when expires it resends the token."];
+  Node5 -> Node4 [id="edge4_Node000004_Node000005",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="TimerHandler",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",tooltip=" "];
+  Node6 -> Node2 [id="edge5_Node000002_Node000006",dir="back",color="darkorchid3",style="dashed",tooltip=" ",label=" bus_idle_timer",fontcolor="grey" ];
+  Node6 [id="Node000006",label="UwTokenBus::TimerBusIdle",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$classUwTokenBus_1_1TimerBusIdle.html",tooltip="TimerBusIdle when expires calls UwTokenBus::TxData() to start the transmission."];
+  Node5 -> Node6 [id="edge6_Node000006_Node000005",dir="back",color="steelblue1",style="solid",tooltip=" "];
+}

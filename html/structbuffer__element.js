@@ -1,5 +1,7 @@
 var structbuffer__element =
 [
+    [ "buffer_element", "structbuffer__element.html#afacde40b21f441267479ad436f42caeb", null ],
+    [ "buffer_element", "structbuffer__element.html#a311c17467589ee004d95168f4f5a6ee3", null ],
     [ "id_pkt_", "structbuffer__element.html#ac0293e9c99b7d3772ec0b9c72631710a", null ],
     [ "num_attempts_", "structbuffer__element.html#af58173d49754c9645c5850a6fefe5ac0", null ],
     [ "p_", "structbuffer__element.html#a7c87fd6ae5dea4a9b60d4a0b624a2269", null ],

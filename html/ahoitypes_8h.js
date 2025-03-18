@@ -1,0 +1,37 @@
+var ahoitypes_8h =
+[
+    [ "Command", "ahoitypes_8h.html#ab5c39ad6abd60704d7c93bd733cf0cad", [
+      [ "send", "ahoitypes_8h.html#ab5c39ad6abd60704d7c93bd733cf0cada2541d938b0a58946090d7abdde0d3890", null ],
+      [ "confirm", "ahoitypes_8h.html#ab5c39ad6abd60704d7c93bd733cf0cadad0cf705f201ddc526f49ba2e62392e21", null ],
+      [ "id", "ahoitypes_8h.html#ab5c39ad6abd60704d7c93bd733cf0cadab80bb7740288fda1f201890375a60c8f", null ],
+      [ "batvol", "ahoitypes_8h.html#ab5c39ad6abd60704d7c93bd733cf0cadacd64c86e74a549d349893ba17dc88dfe", null ],
+      [ "reset", "ahoitypes_8h.html#ab5c39ad6abd60704d7c93bd733cf0cada86266ee937d97f812a8e57d22b62ee29", null ],
+      [ "agc", "ahoitypes_8h.html#ab5c39ad6abd60704d7c93bd733cf0cadaf5004da563fb254400b4aa3b6b010767", null ],
+      [ "rxgain", "ahoitypes_8h.html#ab5c39ad6abd60704d7c93bd733cf0cadaeb0c02db2a6613380285582cce7496e4", null ],
+      [ "txgain", "ahoitypes_8h.html#ab5c39ad6abd60704d7c93bd733cf0cada8b234950151fb2e20655a5369eac565c", null ],
+      [ "range_delay", "ahoitypes_8h.html#ab5c39ad6abd60704d7c93bd733cf0cada16d22f19cb12b2e65f59fd85ebd3c551", null ],
+      [ "distance", "ahoitypes_8h.html#ab5c39ad6abd60704d7c93bd733cf0cadaa74ec9c5b6882f79e32a8fbd8da90c1b", null ],
+      [ "packetstat", "ahoitypes_8h.html#ab5c39ad6abd60704d7c93bd733cf0cada4e0a08fc9d0ec9b5fedfc01335be1d04", null ],
+      [ "packetstatreset", "ahoitypes_8h.html#ab5c39ad6abd60704d7c93bd733cf0cada7dcf7df33759f92c910105c09e28af33", null ],
+      [ "syncstat", "ahoitypes_8h.html#ab5c39ad6abd60704d7c93bd733cf0cada16207f6b5e257bff0a6d3f17fa4c9d3d", null ],
+      [ "syncstatreset", "ahoitypes_8h.html#ab5c39ad6abd60704d7c93bd733cf0cada25b88fb8553bfe013a5b688975d7559a", null ],
+      [ "sfdstat", "ahoitypes_8h.html#ab5c39ad6abd60704d7c93bd733cf0cadac4b212e4ec12847b835894ae775fbd61", null ],
+      [ "sfdstatreset", "ahoitypes_8h.html#ab5c39ad6abd60704d7c93bd733cf0cada8a5ae484381f005a569ac87cbae3d946", null ],
+      [ "allstat", "ahoitypes_8h.html#ab5c39ad6abd60704d7c93bd733cf0cadaab711a34c6273ee63c5f4833ce796781", null ],
+      [ "allstatreset", "ahoitypes_8h.html#ab5c39ad6abd60704d7c93bd733cf0cada341110718a42baba680c2c4d61b5cdf8", null ]
+    ] ],
+    [ "__attribute__", "ahoitypes_8h.html#a0e5528b41d1387f1747f292533583dfb", null ],
+    [ "ACK_NONE", "ahoitypes_8h.html#a22ff0f8a37091d716aaacfca84231e6f", null ],
+    [ "ACK_PLAIN", "ahoitypes_8h.html#a6f1cd30801548ee48e1be91088ed6c67", null ],
+    [ "ACK_RANGING", "ahoitypes_8h.html#af6321b793d0d7606f1ce6970c9ac48df", null ],
+    [ "AHOI_ADDR_BCAST", "ahoitypes_8h.html#a100b8bee9348357692165bb3655cd734", null ],
+    [ "AHOI_SERIAL_ACK", "ahoitypes_8h.html#a570d3c094ade8b6979d3d8a987f5023c", null ],
+    [ "AHOI_TYPE_ACK", "ahoitypes_8h.html#a694c85cf47d699950410063b8bdae9f6", null ],
+    [ "commands_id", "ahoitypes_8h.html#a7a3ad0fbd97f939f9e9c440c657a31e8", null ],
+    [ "FOOTER_LEN", "ahoitypes_8h.html#a4b9cf783697a825eaf76c3417d03a748", null ],
+    [ "HEADER_LEN", "ahoitypes_8h.html#a4f5dfd4f6a9dd128bcdcfacf86d0e057", null ],
+    [ "MAX_PKT_LEN", "ahoitypes_8h.html#aa0cd93af555af2bb1a4701b46923398c", null ],
+    [ "MM_HEADER_CRC_LEN", "ahoitypes_8h.html#a83d93424c40a5542616cffe1fae5d331", null ],
+    [ "MM_PAYLOAD_CRC_LEN", "ahoitypes_8h.html#a90c275d267bb54d3f4c504dc7fac8659", null ],
+    [ "PAYLOAD_MAXLEN", "ahoitypes_8h.html#a28470ea3048cabd1b17c14a0fb3134b6", null ]
+];

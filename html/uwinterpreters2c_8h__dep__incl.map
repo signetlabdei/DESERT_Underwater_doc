@@ -1,6 +1,0 @@
-<map id="uwinterpreters2c.h" name="uwinterpreters2c.h">
-<area shape="rect" id="node1" title="Header of the interepreter class: this class is used ot translate form DESERT software to/from EvoLog..." alt="" coords="133,5,277,32"/>
-<area shape="rect" id="node2" href="$uwevologicss2cmodem_8h.html" title="Header of the main class that implements the drivers to manage the EvoLogics S2C line of devices...." alt="" coords="13,80,200,107"/>
-<area shape="rect" id="node4" href="$uwinterpreters2c_8cpp.html" title=" " alt="" coords="225,80,383,107"/>
-<area shape="rect" id="node3" href="$uwevologicss2cmodem_8cpp.html" title=" " alt="" coords="5,155,208,181"/>
-</map>

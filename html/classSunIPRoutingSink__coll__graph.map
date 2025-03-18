@@ -1,6 +1,0 @@
-<map id="SunIPRoutingSink" name="SunIPRoutingSink">
-<area shape="rect" id="node1" title="SunIPRoutingSink class is used to represent the routing layer of a sink." alt="" coords="141,81,277,108"/>
-<area shape="rect" id="node3" href="$classSunIPRoutingSink_1_1SendTimer.html" title="SendTimer class is used to handle the timer of probe messages." alt="" coords="17,171,232,197"/>
-<area shape="rect" id="node2" title=" " alt="" coords="173,5,244,32"/>
-<area shape="rect" id="node4" title=" " alt="" coords="5,81,116,108"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="RemoveHopTableTimer" name="RemoveHopTableTimer">
-<area shape="rect" id="node1" title="RemoveHopTableTimer class is used to handle the validity time of hop tables." alt="" coords="351,81,526,108"/>
-<area shape="rect" id="node3" href="$classSunIPRoutingNode.html" title="SunIPRoutingNode class is used to represent the routing layer of a node." alt="" coords="365,171,507,197"/>
-<area shape="rect" id="node2" title=" " alt="" coords="598,5,709,32"/>
-<area shape="rect" id="node5" href="$classSinkProbeTimer.html" title="SinkProbeTimer class is used to handle the validity time of a probe message." alt="" coords="5,260,131,287"/>
-<area shape="rect" id="node6" href="$classBufferTimer.html" title="‍**" alt="" coords="577,260,676,287"/>
-<area shape="rect" id="node7" href="$classSearchPathTimer.html" title="SearchPathTimer class is used to handle the timer of Search Path requests." alt="" coords="370,260,502,287"/>
-<area shape="rect" id="node4" title=" " alt="" coords="550,81,621,108"/>
-</map>

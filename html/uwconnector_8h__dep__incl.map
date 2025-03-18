@@ -1,9 +1,0 @@
-<map id="uwconnector.h" name="uwconnector.h">
-<area shape="rect" id="node1" title="Generic class that provides a method to interface with the devices. Will be specialized for,..." alt="" coords="135,5,251,32"/>
-<area shape="rect" id="node2" href="$uwserial_8h.html" title="This implements a generic serial connector ." alt="" coords="25,80,114,107"/>
-<area shape="rect" id="node4" href="$uwsocket_8h.html" title="Class that implements a connector and, specifically, the socket connector. BSD sockets are used,..." alt="" coords="146,80,241,107"/>
-<area shape="rect" id="node7" href="$uwevologicss2cmodem_8h.html" title="Header of the main class that implements the drivers to manage the EvoLogics S2C line of devices...." alt="" coords="273,80,460,107"/>
-<area shape="rect" id="node3" href="$uwserial_8cpp.html" title=" " alt="" coords="5,155,109,181"/>
-<area shape="rect" id="node5" href="$uwsocket_8cpp.html" title=" " alt="" coords="134,155,245,181"/>
-<area shape="rect" id="node6" href="$uwevologicss2cmodem_8cpp.html" title=" " alt="" coords="269,155,472,181"/>
-</map>

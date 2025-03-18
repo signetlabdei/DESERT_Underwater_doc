@@ -1,11 +1,11 @@
 var uwsr_8h =
 [
     [ "MMacUWSR", "classMMacUWSR.html", "classMMacUWSR" ],
-    [ "UWSRTimer", "classMMacUWSR_1_1UWSRTimer.html", "classMMacUWSR_1_1UWSRTimer" ],
-    [ "BackOffTimer", "classMMacUWSR_1_1BackOffTimer.html", "classMMacUWSR_1_1BackOffTimer" ],
-    [ "AckTimer", "classMMacUWSR_1_1AckTimer.html", "classMMacUWSR_1_1AckTimer" ],
-    [ "ListenTimer", "classMMacUWSR_1_1ListenTimer.html", "classMMacUWSR_1_1ListenTimer" ],
-    [ "WaitTxTimer", "classMMacUWSR_1_1WaitTxTimer.html", "classMMacUWSR_1_1WaitTxTimer" ],
+    [ "MMacUWSR::UWSRTimer", "classMMacUWSR_1_1UWSRTimer.html", "classMMacUWSR_1_1UWSRTimer" ],
+    [ "MMacUWSR::BackOffTimer", "classMMacUWSR_1_1BackOffTimer.html", "classMMacUWSR_1_1BackOffTimer" ],
+    [ "MMacUWSR::AckTimer", "classMMacUWSR_1_1AckTimer.html", "classMMacUWSR_1_1AckTimer" ],
+    [ "MMacUWSR::ListenTimer", "classMMacUWSR_1_1ListenTimer.html", "classMMacUWSR_1_1ListenTimer" ],
+    [ "MMacUWSR::WaitTxTimer", "classMMacUWSR_1_1WaitTxTimer.html", "classMMacUWSR_1_1WaitTxTimer" ],
     [ "UWSR_DROP_REASON_BUFFER_FULL", "uwsr_8h.html#ad55ccbf43a566f349a642b34285c8d61", null ],
     [ "UWSR_DROP_REASON_ERROR", "uwsr_8h.html#a857d6e482c0e2c2cf82df0a5e4a2de12", null ],
     [ "UWSR_DROP_REASON_UNKNOWN_TYPE", "uwsr_8h.html#ac43f58ae22ec5eae9d642c0f0c55ff2f", null ],

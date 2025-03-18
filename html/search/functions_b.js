@@ -1,19 +1,4 @@
 var searchData=
 [
-  ['mac2phystarttx_4169',['Mac2PhyStartTx',['../classCsmaAloha.html#ad91530c7996eacfd0eeb93f84e248af1',1,'CsmaAloha::Mac2PhyStartTx()'],['../classUwpolling__AUV.html#a2520b8e6d298f0431544e026e00ee080',1,'Uwpolling_AUV::Mac2PhyStartTx()'],['../classUwpolling__NODE.html#a5dd4bc7e155fe7def3eeb2f84c42020d',1,'Uwpolling_NODE::Mac2PhyStartTx()'],['../classUwpolling__SINK.html#af0f2bb3d70b481fbb0076aec94d5cdb0',1,'Uwpolling_SINK::Mac2PhyStartTx()'],['../classUWAloha.html#ab0283788983b3d3ba4a597397e97e303',1,'UWAloha::Mac2PhyStartTx()'],['../classuwUFetch__AUV.html#a56b2c6ef31ccf542675e0381c33697e1',1,'uwUFetch_AUV::Mac2PhyStartTx()'],['../classuwUFetch__NODE.html#a7c9257d54ebc8c7f93adb5ef8ff83464',1,'uwUFetch_NODE::Mac2PhyStartTx()'],['../classUwTDMA.html#a9b42c6c964fe03ae3b4e5b35be3aea85',1,'UwTDMA::Mac2PhyStartTx()'],['../classUwCsmaAloha__Trigger__NODE.html#a631b223a99a3552df9edf72e19ee6acb',1,'UwCsmaAloha_Trigger_NODE::Mac2PhyStartTx()'],['../classUwCsmaAloha__Trigger__SINK.html#ac43f1fe38a0066a25c63c312ee90b76f',1,'UwCsmaAloha_Trigger_SINK::Mac2PhyStartTx()'],['../classMMacUWSR.html#a65b14c30b6db89cb1c1a95ae5b5b4522',1,'MMacUWSR::Mac2PhyStartTx()']]],
-  ['mac2phystarttx_5fhn_4170',['Mac2PhyStartTx_HN',['../classuwUFetch__NODE.html#a5bd3ad908386eaedcdea32445b3ff8b7',1,'uwUFetch_NODE']]],
-  ['mac2phystarttx_5fwithout_4171',['Mac2PhyStartTx_without',['../classuwUFetch__AUV.html#a94b5b205dcea527b417478c712c6244f',1,'uwUFetch_AUV']]],
-  ['mac_5faddr_5fhn_5fctsed_4172',['mac_addr_HN_ctsed',['../structhdr__CTS__UFETCH.html#a3f6840d586b0654880845eb69e5eb054',1,'hdr_CTS_UFETCH']]],
-  ['mac_5faddr_5fnode_5fpolled_4173',['mac_addr_Node_polled',['../structhdr__POLL__UFETCH.html#a0108a7f650f83480cc29816eb709e532',1,'hdr_POLL_UFETCH']]],
-  ['mac_5faddress_4174',['mac_address',['../structprobbed__node.html#ad070306ee7472b6da4c087090ea4849a',1,'probbed_node']]],
-  ['matchps_4175',['matchPS',['../classUwHermesPhy.html#a0617f7ed7a237c527fe458dc5e7c0c4f',1,'UwHermesPhy']]],
-  ['max_5fpck_5fwant_5frx_4176',['max_pck_want_rx',['../structhdr__TRIGGER__UFETCH.html#a8fa1273644e002392a849dcf414fd311',1,'hdr_TRIGGER_UFETCH']]],
-  ['mbit_4177',['Mbit',['../structhdr__uwal.html#aac784eabcd5eaa6b55a35d3952e64f55',1,'hdr_uwal']]],
-  ['minterferencemivwkupclass_4178',['MInterferenceMIVWkUPClass',['../classMInterferenceMIVWkUPClass.html#ab40a533f0695961b06824db730159d18',1,'MInterferenceMIVWkUPClass']]],
-  ['minterfmivuwwakeup_4179',['MInterfMivUwWakeUp',['../classMInterfMivUwWakeUp.html#a03a7642023d9761a8223a21765b5a9f6',1,'MInterfMivUwWakeUp']]],
-  ['mmacdacap_4180',['MMacDACAP',['../classMMacDACAP.html#a0bf0d9043b5a2a99cdc416df32493d57',1,'MMacDACAP']]],
-  ['mmactlohi_4181',['MMacTLOHI',['../classMMacTLOHI.html#acc51390e7fb8bb5fcfe737d821a8e06a',1,'MMacTLOHI']]],
-  ['mmacuwsr_4182',['MMacUWSR',['../classMMacUWSR.html#a5fdec97c35e680505573dcc01eb4dab8',1,'MMacUWSR']]],
-  ['mphy_5fwakeup_4183',['MPhy_WakeUp',['../classMPhy__WakeUp.html#a11d7ce5bcf3afbbbf43b1a25e009036e',1,'MPhy_WakeUp']]],
-  ['mphy_5fwakeupclass_4184',['MPhy_WakeUpClass',['../classMPhy__WakeUpClass.html#a3c1324cd4a33696783a8456fd5e599fb',1,'MPhy_WakeUpClass']]]
+  ['keepdatapkt_0',['keepDataPkt',['../classCsmaAloha.html#ae0736bc1b4988533dc6b3e78e3ece101',1,'CsmaAloha']]]
 ];

@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['loglevel_6013',['LogLevel',['../classUwModem.html#a0b459a7fe6912d1acc765e001f7949de',1,'UwModem']]]
+  ['errordistribution_0',['errordistribution',['../uwofdmphy_8h.html#a54f2850ae5f7c12e4704074cf942e352',1,'uwofdmphy.h']]]
 ];

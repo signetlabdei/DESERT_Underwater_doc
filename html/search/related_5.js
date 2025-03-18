@@ -1,6 +1,4 @@
 var searchData=
 [
-  ['searchpathtimer_6600',['SearchPathTimer',['../classSunIPRoutingNode.html#ad4232fe3281e37c7aae1230e348e880f',1,'SunIPRoutingNode']]],
-  ['sendtimer_6601',['SendTimer',['../classSunIPRoutingSink.html#a2a646bb9bfa25454d0b895ce5e874b80',1,'SunIPRoutingSink']]],
-  ['sinkprobetimer_6602',['SinkProbeTimer',['../classSunIPRoutingNode.html#a70220722d55b035c35b3f9dcf4ccac28',1,'SunIPRoutingNode']]]
+  ['operator_3c_3c_0',['operator&lt;&lt;',['../structLocalConnection.html#adc232e1209cbbd04fe650131beb2a262',1,'LocalConnection::operator&lt;&lt;'],['../structRemoteConnection.html#a12398763420c6a7908a38965937bdcc4',1,'RemoteConnection::operator&lt;&lt;'],['../classPriorityMap.html#a1dd531eb48d94fdfd7dd30aec66f19a4',1,'PriorityMap::operator&lt;&lt;']]]
 ];

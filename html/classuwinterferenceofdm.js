@@ -1,0 +1,26 @@
+var classuwinterferenceofdm =
+[
+    [ "uwinterferenceofdm", "classuwinterferenceofdm.html#a70c3453361a84f902136fbfab2e06f85", null ],
+    [ "~uwinterferenceofdm", "classuwinterferenceofdm.html#a776cc041cbd07f4721770fd67ab1f5f0", null ],
+    [ "addToInterference", "classuwinterferenceofdm.html#aea14059a7f6997bb5abd89ad571fb6c7", null ],
+    [ "addToInterference", "classuwinterferenceofdm.html#a9cc998f506693ede093426bfdc430880", null ],
+    [ "command", "classuwinterferenceofdm.html#a0a46709894bb9b3a069559c4e81773e4", null ],
+    [ "getCounters", "classuwinterferenceofdm.html#a9bb63a0ce6547e22409740c101c69745", null ],
+    [ "getCounters", "classuwinterferenceofdm.html#a81e6cdd263c7ea4471a7c5da2a4b874d", null ],
+    [ "getCurrentTotalPower", "classuwinterferenceofdm.html#afe7ec46869ce9d3819d3125065e11718", null ],
+    [ "getCurrentTotalPowerOnCarrier", "classuwinterferenceofdm.html#a78805a13e260dbbba0c8447aadc4debd", null ],
+    [ "getEndRxTime", "classuwinterferenceofdm.html#ad78c875b9f0447875c0cd1217630b293", null ],
+    [ "getInitialInterferenceTime", "classuwinterferenceofdm.html#a432a95b93849f1855be7296ebb248187", null ],
+    [ "getInterfCarriers", "classuwinterferenceofdm.html#ae86d02ea453d9fa02960c9a2c46d0c24", null ],
+    [ "getInterferencePower", "classuwinterferenceofdm.html#a24798034d98783d3732bbc52ffaac4ec", null ],
+    [ "getInterferencePower", "classuwinterferenceofdm.html#aa41165a0c5094ad668bb933d3750dc34", null ],
+    [ "getStartRxTime", "classuwinterferenceofdm.html#a08912acf7b3c395555052a1456bb1867", null ],
+    [ "getTimeOverlap", "classuwinterferenceofdm.html#aa0a25da1b7eefe119dcda0458ded0ca6", null ],
+    [ "getTimeOverlap", "classuwinterferenceofdm.html#afe5c9a712b70298f1731c1fc05925162", null ],
+    [ "removeFromInterference", "classuwinterferenceofdm.html#a41f6a534a4f83ee90f9979f5af1da4b4", null ],
+    [ "setInterfCarriers", "classuwinterferenceofdm.html#a2b31d56c13e642b81d276a926aaf37c7", null ],
+    [ "end_timerOFDM", "classuwinterferenceofdm.html#a90f84da1bac2446948d4a66bc72c2d57", null ],
+    [ "inodeID", "classuwinterferenceofdm.html#abb6a5a7f26f92105cc5af003010bc8e7", null ],
+    [ "interfSubCarriers_", "classuwinterferenceofdm.html#af6b57acb51f42cf4a74b9a86af35746f", null ],
+    [ "power_list", "classuwinterferenceofdm.html#a198758929b6c4d956d19221718b8077f", null ]
+];

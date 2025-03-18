@@ -1,4 +1,0 @@
-<map id="uwmphypatch.h" name="uwmphypatch.h">
-<area shape="rect" id="node1" title="Header of a dumb module intended to patch the absence of a PHY layer&#39;s module when we want to use a m..." alt="" coords="13,5,139,32"/>
-<area shape="rect" id="node2" href="$uwmphypatch_8cpp.html" title="Implementation of the class UWMPhypatch." alt="" coords="5,80,147,107"/>
-</map>

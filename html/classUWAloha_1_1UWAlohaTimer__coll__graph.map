@@ -1,8 +1,0 @@
-<map id="UWAloha::UWAlohaTimer" name="UWAloha::UWAlohaTimer">
-<area shape="rect" id="node1" title="Base class of all the timer used in this protocol." alt="" coords="276,81,463,108"/>
-<area shape="rect" id="node5" href="$classUWAloha_1_1BackOffTimer.html" title="Base class of BackoffTimer." alt="" coords="91,157,269,184"/>
-<area shape="rect" id="node6" href="$classUWAloha_1_1AckTimer.html" title="Base class of AckTimer, which is a derived class of UWAlohaTimer." alt="" coords="294,157,445,184"/>
-<area shape="rect" id="node2" title=" " alt="" coords="314,5,425,32"/>
-<area shape="rect" id="node3" href="$classUWAloha.html" title="This is the base class of UWAloha protocol, which is a derived class of MMac." alt="" coords="250,247,331,273"/>
-<area shape="rect" id="node4" title=" " alt="" coords="5,157,67,184"/>
-</map>

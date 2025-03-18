@@ -1,8 +1,0 @@
-<map id="uwsmposition.h" name="uwsmposition.h">
-<area shape="rect" id="node1" title="Provides the definition of the class UWSMPosition." alt="" coords="189,5,314,32"/>
-<area shape="rect" id="node2" href="$uwpolling__AUV_8h.html" title="Class that represents the AUV of UWPOLLING." alt="" coords="53,80,183,107"/>
-<area shape="rect" id="node5" href="$mobility_2uwsmposition_2initlib_8cpp.html" title="Provides the initialization of uwsmposition libraries." alt="" coords="208,80,295,107"/>
-<area shape="rect" id="node6" href="$uwsmposition_8cpp.html" title="Provides the UWSMPosition class implementation." alt="" coords="319,80,459,107"/>
-<area shape="rect" id="node3" href="$data__link_2uwpolling_2initlib_8cpp.html" title="Provides the initialization of the uwpolling libraries." alt="" coords="5,155,92,181"/>
-<area shape="rect" id="node4" href="$uwpolling__AUV_8cpp.html" title="Provides the implementation of Uwpolling_AUV class." alt="" coords="116,155,261,181"/>
-</map>

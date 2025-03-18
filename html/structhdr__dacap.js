@@ -1,7 +1,7 @@
 var structhdr__dacap =
 [
-    [ "access", "structhdr__dacap.html#a7448094a73bf687bd7df7db7b60ac3f7", null ],
-    [ "offset", "structhdr__dacap.html#a20f4dfa694b9e1822434402b152a39d7", null ],
+    [ "access", "structhdr__dacap.html#a8b78dc5ae5d6826e06c843ab36ab2b8d", null ],
+    [ "offset", "structhdr__dacap.html#a50e3d15d13f8336903c9a34432f71018", null ],
     [ "dacap_type", "structhdr__dacap.html#a5b21d2934de68d172c18f7862e8318ad", null ],
     [ "data_sn", "structhdr__dacap.html#a7771e4b96d0ec414e628e71fc25f25a0", null ],
     [ "offset_", "structhdr__dacap.html#a49c75ac842a71c3e61c3c836c06bc1c0", null ],

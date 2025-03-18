@@ -1,9 +1,9 @@
 var uwpolling__SINK_8h =
 [
     [ "Uwpolling_SINK", "classUwpolling__SINK.html", "classUwpolling__SINK" ],
-    [ "Uwpolling_SINK_Timer", "classUwpolling__SINK_1_1Uwpolling__SINK__Timer.html", "classUwpolling__SINK_1_1Uwpolling__SINK__Timer" ],
-    [ "BackOffTimer", "classUwpolling__SINK_1_1BackOffTimer.html", "classUwpolling__SINK_1_1BackOffTimer" ],
-    [ "Rx_Data_Timer", "classUwpolling__SINK_1_1Rx__Data__Timer.html", "classUwpolling__SINK_1_1Rx__Data__Timer" ],
+    [ "Uwpolling_SINK::Uwpolling_SINK_Timer", "classUwpolling__SINK_1_1Uwpolling__SINK__Timer.html", "classUwpolling__SINK_1_1Uwpolling__SINK__Timer" ],
+    [ "Uwpolling_SINK::BackOffTimer", "classUwpolling__SINK_1_1BackOffTimer.html", "classUwpolling__SINK_1_1BackOffTimer" ],
+    [ "Uwpolling_SINK::Rx_Data_Timer", "classUwpolling__SINK_1_1Rx__Data__Timer.html", "classUwpolling__SINK_1_1Rx__Data__Timer" ],
     [ "UWPOLLING_SINK_DROP_REASON_BUFFER_FULL", "uwpolling__SINK_8h.html#a0b6d338f11d568a42cfc91eb9407e64d", null ],
     [ "UWPOLLING_SINK_DROP_REASON_ERROR", "uwpolling__SINK_8h.html#a39f0a312829688a6223754071fc1326d", null ],
     [ "UWPOLLING_SINK_DROP_REASON_IMINLIST_NOT_POLLED", "uwpolling__SINK_8h.html#a0a7d57bae5f6f4d4376591cf4fd803cb", null ],

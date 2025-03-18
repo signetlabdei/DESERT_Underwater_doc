@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['removehoptabletimer_6599',['RemoveHopTableTimer',['../classSunIPRoutingNode.html#a3adb8d227e685b6f2c1ebaf6de801a7f',1,'SunIPRoutingNode']]]
+  ['neighborreputationhandler_0',['NeighborReputationHandler',['../classUwFloodingSec.html#aedb83b0c121a597e3cebed73d060a838',1,'UwFloodingSec']]]
 ];

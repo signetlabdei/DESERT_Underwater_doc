@@ -1,7 +1,7 @@
 var structhdr__tlohi =
 [
-    [ "access", "structhdr__tlohi.html#a4bc1bf77ae75f68037a49980b5157cba", null ],
-    [ "offset", "structhdr__tlohi.html#ab323afdf3a0bd0ddb901365016057d54", null ],
+    [ "access", "structhdr__tlohi.html#a493ece60362315fce7b7953f6518e4ce", null ],
+    [ "offset", "structhdr__tlohi.html#a40ef79d20b5cf6268936d9511d267c83", null ],
     [ "data_sn", "structhdr__tlohi.html#a06e5cae4ce41cb6206c892916d0ba797", null ],
     [ "offset_", "structhdr__tlohi.html#a6e00635dd8e775d8b4ca16c0446494cd", null ],
     [ "orig_type", "structhdr__tlohi.html#aea6a4352d92104cd1d3247b28b9deab2", null ],

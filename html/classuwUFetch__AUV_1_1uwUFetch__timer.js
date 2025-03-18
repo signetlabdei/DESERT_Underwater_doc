@@ -17,7 +17,6 @@ var classuwUFetch__AUV_1_1uwUFetch__timer =
     [ "unFreeze", "classuwUFetch__AUV_1_1uwUFetch__timer.html#af8a0fd1bcfa666662ded05a2cd4277a9", null ],
     [ "counter", "classuwUFetch__AUV_1_1uwUFetch__timer.html#a608cf73f8d203417686122b61565231e", null ],
     [ "left_duration", "classuwUFetch__AUV_1_1uwUFetch__timer.html#a83bbf4d7e955f831be1140f377379a2c", null ],
-    [ "module", "classuwUFetch__AUV_1_1uwUFetch__timer.html#ae44aeeba53b2ea59b0aa17d05372b1e1", null ],
     [ "start_time", "classuwUFetch__AUV_1_1uwUFetch__timer.html#ac74e86124c7b471708122716c331d535", null ],
-    [ "timer_status", "classuwUFetch__AUV_1_1uwUFetch__timer.html#aa1c69e25afe380facf1ea2658d512db7", null ]
+    [ "timer_status", "classuwUFetch__AUV_1_1uwUFetch__timer.html#adaf5036c5620cd702cc400eb3f42f95c", null ]
 ];

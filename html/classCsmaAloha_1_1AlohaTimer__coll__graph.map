@@ -1,9 +1,0 @@
-<map id="CsmaAloha::AlohaTimer" name="CsmaAloha::AlohaTimer">
-<area shape="rect" id="node1" title="Class that describes the timers in the node." alt="" coords="376,81,555,108"/>
-<area shape="rect" id="node5" href="$classCsmaAloha_1_1AckTimer.html" title="Class used to handle the timer for waiting the ACK." alt="" coords="91,157,258,184"/>
-<area shape="rect" id="node6" href="$classCsmaAloha_1_1ListenTimer.html" title="Class used to handle the Listen Timer." alt="" coords="283,157,464,184"/>
-<area shape="rect" id="node7" href="$classCsmaAloha_1_1BackOffTimer.html" title="Class used to handle the timer of the backoff period." alt="" coords="489,157,682,184"/>
-<area shape="rect" id="node2" title=" " alt="" coords="410,5,521,32"/>
-<area shape="rect" id="node3" href="$classCsmaAloha.html" title="Class that describes a CsmaAloha module." alt="" coords="325,247,421,273"/>
-<area shape="rect" id="node4" title=" " alt="" coords="5,157,67,184"/>
-</map>

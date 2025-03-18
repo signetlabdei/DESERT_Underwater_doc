@@ -1,13 +1,22 @@
 var searchData=
 [
-  ['ack_5fmode_6058',['ACK_MODE',['../uw-mac-DACAP-alter_8cpp.html#a99fb83031ce9923c84392b4e92f956b5a4475ec565add8f33ca5bdf9504df88fa',1,'ACK_MODE():&#160;uw-mac-DACAP-alter.cpp'],['../uw-mac-TLohi_8h.html#a28f4238d1cdff3d35dd59d974fa62ac2a4475ec565add8f33ca5bdf9504df88fa',1,'ACK_MODE():&#160;uw-mac-TLohi.h']]],
-  ['ack_5fpkt_6059',['ACK_PKT',['../uw-mac-DACAP-alter_8cpp.html#a99fb83031ce9923c84392b4e92f956b5aadf42985ffe5a8e183eb4ca78f46e241',1,'ACK_PKT():&#160;uw-mac-DACAP-alter.cpp'],['../uw-mac-DACAP-tracer_8cpp.html#abc6126af1d45847bc59afa0aa3216b04aadf42985ffe5a8e183eb4ca78f46e241',1,'ACK_PKT():&#160;uw-mac-DACAP-tracer.cpp'],['../uw-mac-TLohi_8h.html#a2fc201bf58a211fd9435ed410e267e75aadf42985ffe5a8e183eb4ca78f46e241',1,'ACK_PKT():&#160;uw-mac-TLohi.h']]],
-  ['addr_5ftype_6060',['ADDR_TYPE',['../classpackerCOMMON.html#a868e0108c5921257bdeb9f1f63990543a838efab8b1bc3341afa5c8960d0777fd',1,'packerCOMMON']]],
-  ['aggressive_5funsync_5fmode_6061',['AGGRESSIVE_UNSYNC_MODE',['../uw-mac-TLohi_8h.html#a9662ba726f7ca219358836aa89961072a181ac856cbe348e39ac6b10a457f6f07',1,'uw-mac-TLohi.h']]],
-  ['aomdv_5fsalvage_5fcount_5f_6062',['aomdv_salvage_count_',['../classpackerCOMMON.html#a868e0108c5921257bdeb9f1f63990543af735ee5c45af567af724b5d57b73f3f8',1,'packerCOMMON']]],
-  ['atal_5fget_6063',['ATAL_GET',['../classUwEvoLogicsS2CModem.html#a8538ad6e4227719ddb87e29b76bd088aad5156f2d4cc2a7df4d16a884dbefa7db',1,'UwEvoLogicsS2CModem']]],
-  ['atal_5fset_6064',['ATAL_SET',['../classUwEvoLogicsS2CModem.html#a8538ad6e4227719ddb87e29b76bd088aaca5fb9627d078317cf6f8d14782f2344',1,'UwEvoLogicsS2CModem']]],
-  ['atl_5fget_6065',['ATL_GET',['../classUwEvoLogicsS2CModem.html#a8538ad6e4227719ddb87e29b76bd088aa653ac93ccfb4fb77414f6ee91ecbc22b',1,'UwEvoLogicsS2CModem']]],
-  ['atl_5fset_6066',['ATL_SET',['../classUwEvoLogicsS2CModem.html#a8538ad6e4227719ddb87e29b76bd088aa8769ead3e1a9463396d3136c80bb451a',1,'UwEvoLogicsS2CModem']]],
-  ['available_6067',['AVAILABLE',['../uwevologicss2cmodem_8h.html#a333c8c06f623852af0eea2afdf849eaaa1588118736b5ecdb1ac20c16428d8ea7',1,'uwevologicss2cmodem.h']]]
+  ['ack_5farray_5fsize_0',['ACK_ARRAY_SIZE',['../classpackerUwpolling.html#a8c5378ee08e72892d0d88c400c6d1ebba95958dee070aca6d22e24cde14b9fe99',1,'packerUwpolling']]],
+  ['ack_5felem_5fbits_1',['ACK_ELEM_BITS',['../classpackerUwpolling.html#a8c5378ee08e72892d0d88c400c6d1ebbace0b3c7ed935ae89a1ca6d53d04f3481',1,'packerUwpolling']]],
+  ['ack_5fimmediately_2',['ACK_IMMEDIATELY',['../classUwROVModule.html#ae515c596508d39c98703488b3c28d418a86094d496f1f3d174e8c2c103a0e8e63',1,'UwROVModule']]],
+  ['ack_5fmode_3',['ack_mode',['../uw-mac-DACAP-alter_8cpp.html#abc6126af1d45847bc59afa0aa3216b04a4475ec565add8f33ca5bdf9504df88fa',1,'ACK_MODE:&#160;uw-mac-DACAP-alter.cpp'],['../uw-mac-TLohi_8h.html#a28f4238d1cdff3d35dd59d974fa62ac2a4475ec565add8f33ca5bdf9504df88fa',1,'ACK_MODE:&#160;uw-mac-TLohi.h']]],
+  ['ack_5fpgbk_5for_5fto_4',['ACK_PGBK_OR_TO',['../classUwROVModule.html#ae515c596508d39c98703488b3c28d418ae7b275278d2147612f99db661ca1920a',1,'UwROVModule']]],
+  ['ack_5fpiggyback_5',['ACK_PIGGYBACK',['../classUwROVModule.html#ae515c596508d39c98703488b3c28d418a46c46375852f02e06c274507b6034c20',1,'UwROVModule']]],
+  ['ack_5fpkt_6',['ack_pkt',['../uw-mac-TLohi_8h.html#a2fc201bf58a211fd9435ed410e267e75aadf42985ffe5a8e183eb4ca78f46e241',1,'ACK_PKT:&#160;uw-mac-TLohi.h'],['../uw-mac-DACAP-tracer_8cpp.html#adc29c2ff13d900c2f185ee95427fb06caadf42985ffe5a8e183eb4ca78f46e241',1,'ACK_PKT:&#160;uw-mac-DACAP-tracer.cpp'],['../uw-mac-DACAP-alter_8cpp.html#abc6126af1d45847bc59afa0aa3216b04aadf42985ffe5a8e183eb4ca78f46e241',1,'ACK_PKT:&#160;uw-mac-DACAP-alter.cpp']]],
+  ['addr_5ftype_7',['ADDR_TYPE',['../classpackerCOMMON.html#a868e0108c5921257bdeb9f1f63990543a838efab8b1bc3341afa5c8960d0777fd',1,'packerCOMMON']]],
+  ['agc_8',['agc',['../namespaceahoi.html#ab5c39ad6abd60704d7c93bd733cf0cadaf5004da563fb254400b4aa3b6b010767',1,'ahoi']]],
+  ['aggressive_5funsync_5fmode_9',['AGGRESSIVE_UNSYNC_MODE',['../uw-mac-TLohi_8h.html#a9662ba726f7ca219358836aa89961072a181ac856cbe348e39ac6b10a457f6f07',1,'uw-mac-TLohi.h']]],
+  ['allstat_10',['allstat',['../namespaceahoi.html#ab5c39ad6abd60704d7c93bd733cf0cadaab711a34c6273ee63c5f4833ce796781',1,'ahoi']]],
+  ['allstatreset_11',['allstatreset',['../namespaceahoi.html#ab5c39ad6abd60704d7c93bd733cf0cada341110718a42baba680c2c4d61b5cdf8',1,'ahoi']]],
+  ['aomdv_5fsalvage_5fcount_5f_12',['aomdv_salvage_count_',['../classpackerCOMMON.html#a868e0108c5921257bdeb9f1f63990543af735ee5c45af567af724b5d57b73f3f8',1,'packerCOMMON']]],
+  ['atal_5fget_13',['ATAL_GET',['../classUwEvoLogicsS2CModem.html#a8538ad6e4227719ddb87e29b76bd088aad5156f2d4cc2a7df4d16a884dbefa7db',1,'UwEvoLogicsS2CModem']]],
+  ['atal_5fset_14',['ATAL_SET',['../classUwEvoLogicsS2CModem.html#a8538ad6e4227719ddb87e29b76bd088aaca5fb9627d078317cf6f8d14782f2344',1,'UwEvoLogicsS2CModem']]],
+  ['atl_5fget_15',['ATL_GET',['../classUwEvoLogicsS2CModem.html#a8538ad6e4227719ddb87e29b76bd088aa653ac93ccfb4fb77414f6ee91ecbc22b',1,'UwEvoLogicsS2CModem']]],
+  ['atl_5fset_16',['ATL_SET',['../classUwEvoLogicsS2CModem.html#a8538ad6e4227719ddb87e29b76bd088aa8769ead3e1a9463396d3136c80bb451a',1,'UwEvoLogicsS2CModem']]],
+  ['auv_17',['AUV',['../namespaceship__noise.html#ade8ca603fb5b8fc6748bec303606ef99a40d24e858c614efa38e21f9c8a720b48',1,'ship_noise']]],
+  ['available_18',['available',['../classUwMODAModem.html#ad11dace48e4c1c5893d027a9dfd8d228a1588118736b5ecdb1ac20c16428d8ea7',1,'UwMODAModem::AVAILABLE'],['../classUwAhoiModem.html#a25c619331f0aeac7b13114a22557d53da1588118736b5ecdb1ac20c16428d8ea7',1,'UwAhoiModem::AVAILABLE'],['../uwevologicss2cmodem_8h.html#a333c8c06f623852af0eea2afdf849eaaa1588118736b5ecdb1ac20c16428d8ea7',1,'AVAILABLE:&#160;uwevologicss2cmodem.h'],['../uwmodemcsa_8h.html#a333c8c06f623852af0eea2afdf849eaaa1588118736b5ecdb1ac20c16428d8ea7',1,'AVAILABLE:&#160;uwmodemcsa.h'],['../uwevologicss2cmodem_8h.html#a333c8c06f623852af0eea2afdf849eaaa1588118736b5ecdb1ac20c16428d8ea7',1,'AVAILABLE:&#160;uwevologicss2cmodem.h'],['../uwmodemcsa_8h.html#a333c8c06f623852af0eea2afdf849eaaa1588118736b5ecdb1ac20c16428d8ea7',1,'AVAILABLE:&#160;uwmodemcsa.h']]]
 ];

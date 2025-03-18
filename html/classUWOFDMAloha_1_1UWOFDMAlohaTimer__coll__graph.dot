@@ -1,0 +1,20 @@
+digraph "UWOFDMAloha::UWOFDMAlohaTimer"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  Node1 [id="Node000001",label="UWOFDMAloha::UWOFDMAloha\lTimer",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Base class of all the timer used in this protocol."];
+  Node2 -> Node1 [id="edge1_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="TimerHandler",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",tooltip=" "];
+  Node3 -> Node1 [id="edge2_Node000001_Node000003",dir="back",color="darkorchid3",style="dashed",tooltip=" ",label=" timer_status",fontcolor="grey" ];
+  Node3 [id="Node000003",label="UWOFDMAloha",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$classUWOFDMAloha.html",tooltip=" "];
+  Node4 -> Node3 [id="edge3_Node000003_Node000004",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="MMac",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",tooltip=" "];
+  Node5 -> Node3 [id="edge4_Node000003_Node000005",dir="back",color="darkorchid3",style="dashed",tooltip=" ",label=" ack_timer",fontcolor="grey" ];
+  Node5 [id="Node000005",label="UWOFDMAloha::AckTimer",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$classUWOFDMAloha_1_1AckTimer.html",tooltip="Base class of AckTimer, which is a derived class of UWOFDMAlohaTimer."];
+  Node1 -> Node5 [id="edge5_Node000005_Node000001",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node6 -> Node3 [id="edge6_Node000003_Node000006",dir="back",color="darkorchid3",style="dashed",tooltip=" ",label=" backoff_timer",fontcolor="grey" ];
+  Node6 [id="Node000006",label="UWOFDMAloha::BackOffTimer",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$classUWOFDMAloha_1_1BackOffTimer.html",tooltip="Base class of BackoffTimer."];
+  Node1 -> Node6 [id="edge7_Node000006_Node000001",dir="back",color="steelblue1",style="solid",tooltip=" "];
+}

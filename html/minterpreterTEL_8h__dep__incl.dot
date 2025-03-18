@@ -1,0 +1,18 @@
+digraph "minterpreterTEL.h"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  Node1 [id="Node000001",label="minterpreterTEL.h",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Class that is in charge of building and parsing the required messages to make the UWMdriver able to c..."];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="mdriverS2C_Evo_lowlev.h",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$mdriverS2C__Evo__lowlev_8h.html",tooltip="Class derived from UWMdriver to interface ns2/NS-Miracle with the S2C EvoLogics acoustic modems throu..."];
+  Node2 -> Node3 [id="edge2_Node000002_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="mS2C_Evo_lowlev.h",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$mS2C__Evo__lowlev_8h.html",tooltip="Header of the main class that implements the general interface between ns2/NS-Miracle and the S2C Evo..."];
+  Node3 -> Node4 [id="edge3_Node000003_Node000004",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="mS2C_Evo_lowlev.cpp",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$mS2C__Evo__lowlev_8cpp.html",tooltip="Implementation of the MS2C_Evo_lowlev class."];
+  Node2 -> Node5 [id="edge4_Node000002_Node000005",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="mdriverS2C_Evo_lowlev.cpp",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$mdriverS2C__Evo__lowlev_8cpp.html",tooltip=" "];
+  Node1 -> Node6 [id="edge5_Node000001_Node000006",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node6 [id="Node000006",label="minterpreterTEL.cpp",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$minterpreterTEL_8cpp.html",tooltip="Implementation of the MinterpreterTEL class."];
+}

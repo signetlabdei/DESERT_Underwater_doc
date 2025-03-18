@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['nbits_5findex_6015',['nbits_index',['../classpackerCOMMON.html#a868e0108c5921257bdeb9f1f63990543',1,'packerCOMMON']]]
+  ['jammerstatus_0',['JammerStatus',['../classUwjammer.html#a63ea0907139fcd6daf6562aea511a6a7',1,'Uwjammer']]]
 ];

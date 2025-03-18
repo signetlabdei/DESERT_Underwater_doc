@@ -17,7 +17,6 @@ var classUwCsmaAloha__Trigger__NODE_1_1Csma__Aloha__Triggered__Timer =
     [ "unFreeze", "classUwCsmaAloha__Trigger__NODE_1_1Csma__Aloha__Triggered__Timer.html#a7a2d8406b8a3f7dfe44f40b77a28d17d", null ],
     [ "counter", "classUwCsmaAloha__Trigger__NODE_1_1Csma__Aloha__Triggered__Timer.html#a19c54e719cf98bf12af50b1a25fc81bc", null ],
     [ "left_duration", "classUwCsmaAloha__Trigger__NODE_1_1Csma__Aloha__Triggered__Timer.html#a9e9e939d76c658334d4b68ae6fff99a9", null ],
-    [ "module", "classUwCsmaAloha__Trigger__NODE_1_1Csma__Aloha__Triggered__Timer.html#a4f28a603c5d8133e8f519677d45f6958", null ],
     [ "start_time", "classUwCsmaAloha__Trigger__NODE_1_1Csma__Aloha__Triggered__Timer.html#a10e57ab5d7b54b52fa8e5d9227f2457b", null ],
-    [ "timer_status", "classUwCsmaAloha__Trigger__NODE_1_1Csma__Aloha__Triggered__Timer.html#af099a4080f5d0fc80e674d7eeea8a06b", null ]
+    [ "timer_status", "classUwCsmaAloha__Trigger__NODE_1_1Csma__Aloha__Triggered__Timer.html#a530e1a6a6712beda1203af60e241cc31", null ]
 ];

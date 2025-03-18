@@ -1,9 +1,16 @@
 var searchData=
 [
-  ['n_5fdata_5fpcks_5fnode_5ftx_4185',['n_DATA_pcks_Node_tx',['../structhdr__PROBE__UFETCH.html#a780650e3f65488301e169868e4b868a2',1,'hdr_PROBE_UFETCH']]],
-  ['n_5fpcks_5fnode_5fwant_5ftx_4186',['n_pcks_NODE_want_tx',['../structprobbed__node.html#a3b45e4c04aa7d940215bb79fa0876ece',1,'probbed_node']]],
-  ['n_5fpkts_4187',['n_pkts',['../structhdr__PROBE.html#ac1936f2ddfd1fa760b9ce7e3a3883aba',1,'hdr_PROBE']]],
-  ['num_5fdata_5fpcks_4188',['num_DATA_pcks',['../structhdr__RTS__UFETCH.html#ae0e9a628b0387cbba3df6cbe1312a367',1,'hdr_RTS_UFETCH']]],
-  ['num_5fdata_5fpcks_5fmax_5frx_4189',['num_DATA_pcks_MAX_rx',['../structhdr__CTS__UFETCH.html#a1d3d287c8dd517ffe564d1b5d9bb4f1a',1,'hdr_CTS_UFETCH::num_DATA_pcks_MAX_rx()'],['../structhdr__POLL__UFETCH.html#a276e8173e7621d4d7e7693c43251c37b',1,'hdr_POLL_UFETCH::num_DATA_pcks_MAX_rx()']]],
-  ['num_5fmax_5fcbeacon_5ftx_5fby_5fhn_4190',['num_Max_CBEACON_tx_by_HN',['../structhdr__BEACON__UFETCH.html#a3374b09396cccbec1d6a6f49054d3382',1,'hdr_BEACON_UFETCH::num_Max_CBEACON_tx_by_HN()'],['../structhdr__CBEACON__UFETCH.html#a4a6a0db5462685ad158c53bb7c9f6123',1,'hdr_CBEACON_UFETCH::num_Max_CBEACON_tx_by_HN()']]]
+  ['last_5fpkt_5fuid_0',['last_pkt_uid',['../structhdr__AUV__MULE.html#a2f51fb2e0441b16866236f59e320fa0a',1,'hdr_AUV_MULE']]],
+  ['leftduration_1',['leftDuration',['../classMMacUWSR_1_1UWSRTimer.html#a92f7f5b1ba2ef46f68942de07fa82100',1,'MMacUWSR::UWSRTimer']]],
+  ['linearinterpolator_2',['linearinterpolator',['../classUwpolling__AUV.html#a5f68fb6db6736968ec1ffe77870791a9',1,'Uwpolling_AUV::linearInterpolator()'],['../classUwAhoiPhy.html#aa73dd935a0fa6ea600c99010299da717',1,'UwAhoiPhy::linearInterpolator()'],['../classUwElectroMagneticPhy.html#a0d234d5e28a9134645538dd70a05f9ab',1,'UwElectroMagneticPhy::linearInterpolator()'],['../classUwHermesPhy.html#a51feb9632002333e4b50c9069fa83975',1,'UwHermesPhy::linearInterpolator()'],['../classUwOpticalPhy.html#af77b21f1a36d1430ca048ea95336da95',1,'UwOpticalPhy::linearInterpolator()'],['../classUwOpticalMPropagation.html#a18944d73c8f01ab32e336c397475691d',1,'UwOpticalMPropagation::linearInterpolator()']]],
+  ['list_5fof_5fhops_3',['list_of_hops',['../structhdr__uwicrp__data.html#a8891adc36f74d3de33b6954f08d06e1d',1,'hdr_uwicrp_data::list_of_hops()'],['../structhdr__uwicrp__status.html#a3e6a62e087f368f1f1f4c3f488e4b1d1',1,'hdr_uwicrp_status::list_of_hops()'],['../structhdr__sun__data.html#af71a662d33ffa367fe44a3396916fde6',1,'hdr_sun_data::list_of_hops()'],['../structhdr__sun__path__est.html#a53fb53c5cd50d7a51883a64904cabe75',1,'hdr_sun_path_est::list_of_hops()']]],
+  ['list_5fof_5fhops_5flength_4',['list_of_hops_length',['../structhdr__uwicrp__status.html#a19695122ad007bc4fe05969d67ba851d',1,'hdr_uwicrp_status::list_of_hops_length()'],['../structhdr__sun__path__est.html#aecb88ed7e3c99af12fce8d04a1ac4d6a',1,'hdr_sun_path_est::list_of_hops_length()'],['../structhdr__sun__data.html#a86dc2fc847c66b08a7a2b089b78b45e9',1,'hdr_sun_data::list_of_hops_length()'],['../structhdr__uwicrp__data.html#a785275964cc52880cfacde6e1e30a0a4',1,'hdr_uwicrp_data::list_of_hops_length()']]],
+  ['listentimer_5',['listentimer',['../classCsmaAloha_1_1ListenTimer.html#a6ed8c934f6fd42973de8badaa84d6f3d',1,'CsmaAloha::ListenTimer::ListenTimer()'],['../classUwCsmaAloha__Trigger__NODE_1_1ListenTimer.html#a13303f4fe362f1434aa226d43bed15a4',1,'UwCsmaAloha_Trigger_NODE::ListenTimer::ListenTimer()'],['../classMMacUWSR_1_1ListenTimer.html#a18b8c53c27cb790ee90d5e5f06507fcb',1,'MMacUWSR::ListenTimer::ListenTimer()']]],
+  ['listnode_6',['listnode',['../classListNode.html#ac8e8674ba4da13a5074bfdf49471c585',1,'ListNode::ListNode()'],['../classListNode.html#a1f0ae941cfdf85c273152b52dc6db0ba',1,'ListNode::ListNode(double t, double sum_pw, int ctrl, int data)']]],
+  ['listnodeofdm_7',['ListNodeOFDM',['../classListNodeOFDM.html#ac51c41138f2cb95df5424602add58b63',1,'ListNodeOFDM']]],
+  ['log2_8',['log2',['../classUnderwaterPhysical.html#a84664d313157ec0a255ec3a10644656f',1,'UnderwaterPhysical']]],
+  ['log2string_9',['log2string',['../classUwModem.html#a66a5da471c180d44d6e78aa1397f1142',1,'UwModem']]],
+  ['lookup_10',['lookup',['../classUWARPTable.html#a7d3e7de3a1dcbf518a8de8bfd2d6fd53',1,'UWARPTable']]],
+  ['lookuplightnoisee_11',['lookUpLightNoiseE',['../classUwOpticalPhy.html#a078b1e2c4eca50fad3c0fa08b94e94e9',1,'UwOpticalPhy']]],
+  ['lostsink_12',['lostSink',['../classSunIPRoutingNode.html#a9dba6a202e7cd8c1ec39e947c7269121',1,'SunIPRoutingNode']]]
 ];

@@ -17,7 +17,6 @@ var classUwpolling__AUV_1_1Uwpolling__AUV__Timer =
     [ "unFreeze", "classUwpolling__AUV_1_1Uwpolling__AUV__Timer.html#af9919247dd53aec7c100f6fca2f132f4", null ],
     [ "counter", "classUwpolling__AUV_1_1Uwpolling__AUV__Timer.html#a7781d45e5791ca3f3d0fee4fbae3de8a", null ],
     [ "left_duration", "classUwpolling__AUV_1_1Uwpolling__AUV__Timer.html#af5d4477e5b715a406a5a56e1c9ec923a", null ],
-    [ "module", "classUwpolling__AUV_1_1Uwpolling__AUV__Timer.html#ab494ea21cdecd0ffff2bc3a4ecd06a02", null ],
     [ "start_time", "classUwpolling__AUV_1_1Uwpolling__AUV__Timer.html#add9abf91a6149ba005f20568ff4018a0", null ],
-    [ "timer_status", "classUwpolling__AUV_1_1Uwpolling__AUV__Timer.html#a465ea94db78b47a5e95d41535f37c055", null ]
+    [ "timer_status", "classUwpolling__AUV_1_1Uwpolling__AUV__Timer.html#a632ca7b6960731445f7b68d5f90ef1c7", null ]
 ];

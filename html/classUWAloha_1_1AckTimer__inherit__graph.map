@@ -1,5 +1,0 @@
-<map id="UWAloha::AckTimer" name="UWAloha::AckTimer">
-<area shape="rect" id="node1" title="Base class of AckTimer, which is a derived class of UWAlohaTimer." alt="" coords="23,155,174,181"/>
-<area shape="rect" id="node2" href="$classUWAloha_1_1UWAlohaTimer.html" title="Base class of all the timer used in this protocol." alt="" coords="5,80,192,107"/>
-<area shape="rect" id="node3" title=" " alt="" coords="43,5,154,32"/>
-</map>

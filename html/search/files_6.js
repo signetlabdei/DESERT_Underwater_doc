@@ -1,7 +1,6 @@
 var searchData=
 [
-  ['initlib_2ecpp_3478',['initlib.cpp',['../mobility_2uwgmposition_2initlib_8cpp.html',1,'(Global Namespace)'],['../mobility_2uwdriftposition_2initlib_8cpp.html',1,'(Global Namespace)'],['../mobility_2uwsmposition_2initlib_8cpp.html',1,'(Global Namespace)']]],
-  ['mainpage_2edox_3479',['Mainpage.dox',['../Mainpage_8dox.html',1,'']]],
-  ['marptable_2ecpp_3480',['marptable.cpp',['../marptable_8cpp.html',1,'']]],
-  ['marptable_2eh_3481',['marptable.h',['../marptable_8h.html',1,'']]]
+  ['least_5fsquares_2ecpp_0',['least_squares.cpp',['../least__squares_8cpp.html',1,'']]],
+  ['least_5fsquares_2eh_1',['least_squares.h',['../least__squares_8h.html',1,'']]],
+  ['logging_2eh_2',['logging.h',['../logging_8h.html',1,'']]]
 ];

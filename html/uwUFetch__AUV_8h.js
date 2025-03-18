@@ -1,11 +1,11 @@
 var uwUFetch__AUV_8h =
 [
     [ "uwUFetch_AUV", "classuwUFetch__AUV.html", "classuwUFetch__AUV" ],
-    [ "uwUFetch_timer", "classuwUFetch__AUV_1_1uwUFetch__timer.html", "classuwUFetch__AUV_1_1uwUFetch__timer" ],
-    [ "uwUFetch_TRIGGER_timer", "classuwUFetch__AUV_1_1uwUFetch__TRIGGER__timer.html", "classuwUFetch__AUV_1_1uwUFetch__TRIGGER__timer" ],
-    [ "uwUFetch_RTS_timer", "classuwUFetch__AUV_1_1uwUFetch__RTS__timer.html", "classuwUFetch__AUV_1_1uwUFetch__RTS__timer" ],
-    [ "uwUFetch_DATA_timer", "classuwUFetch__AUV_1_1uwUFetch__DATA__timer.html", "classuwUFetch__AUV_1_1uwUFetch__DATA__timer" ],
-    [ "uwUFetch_FIRST_DATA_timer", "classuwUFetch__AUV_1_1uwUFetch__FIRST__DATA__timer.html", "classuwUFetch__AUV_1_1uwUFetch__FIRST__DATA__timer" ],
+    [ "uwUFetch_AUV::uwUFetch_timer", "classuwUFetch__AUV_1_1uwUFetch__timer.html", "classuwUFetch__AUV_1_1uwUFetch__timer" ],
+    [ "uwUFetch_AUV::uwUFetch_TRIGGER_timer", "classuwUFetch__AUV_1_1uwUFetch__TRIGGER__timer.html", "classuwUFetch__AUV_1_1uwUFetch__TRIGGER__timer" ],
+    [ "uwUFetch_AUV::uwUFetch_RTS_timer", "classuwUFetch__AUV_1_1uwUFetch__RTS__timer.html", "classuwUFetch__AUV_1_1uwUFetch__RTS__timer" ],
+    [ "uwUFetch_AUV::uwUFetch_DATA_timer", "classuwUFetch__AUV_1_1uwUFetch__DATA__timer.html", "classuwUFetch__AUV_1_1uwUFetch__DATA__timer" ],
+    [ "uwUFetch_AUV::uwUFetch_FIRST_DATA_timer", "classuwUFetch__AUV_1_1uwUFetch__FIRST__DATA__timer.html", "classuwUFetch__AUV_1_1uwUFetch__FIRST__DATA__timer" ],
     [ "UUFETCH_AUV_DROP_REASON_NOT_ENABLE", "uwUFetch__AUV_8h.html#aa9781d9c0680e997f698a85db3938eba", null ],
     [ "UWFETCH_AUV_DROP_PHY_CAN_NOT_TX", "uwUFetch__AUV_8h.html#a0806b630b225036c6ff83baa44d67455", null ],
     [ "UWFETCH_AUV_DROP_REASON_ALREADY_ONE_RTS_RX", "uwUFetch__AUV_8h.html#a87fbb1f974b2dee54898a3920a6319a9", null ],

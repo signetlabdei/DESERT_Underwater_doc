@@ -1,21 +1,14 @@
 var searchData=
 [
-  ['has_5fbuffer_5fqueue_5089',['has_buffer_queue',['../classCsmaAloha.html#a6d55bcb02d20145bbb0bfb29cc54a368',1,'CsmaAloha::has_buffer_queue()'],['../classMMacDACAP.html#a1cfe66865d650772edc0204dbc9771a4',1,'MMacDACAP::has_buffer_queue()'],['../classUWAloha.html#aaa93b3fea76652badbe6a7f7525ef435',1,'UWAloha::has_buffer_queue()'],['../classMMacTLOHI.html#a6dc4399e3c2ef1eca88250b50e990b0c',1,'MMacTLOHI::has_buffer_queue()'],['../classUwCsmaAloha__Trigger__NODE.html#a337984cd4869642835c731f1408e8f81',1,'UwCsmaAloha_Trigger_NODE::has_buffer_queue()'],['../classMMacUWSR.html#aec98e0400ec04110129b05602f2d1201',1,'MMacUWSR::has_buffer_queue()']]],
-  ['has_5ferror_5090',['has_error',['../classUwPhysicalStats.html#a90185bb54492dca36698d2a02fa00093',1,'UwPhysicalStats']]],
-  ['has_5ftap_5fclmsg_5091',['has_tap_clmsg',['../classUwal.html#a670d95f5edc559c293bcc14778035583',1,'Uwal']]],
-  ['hdr_5flength_5092',['hdr_length',['../classpacker.html#aad863e13f1acf6f52541cf20ef97d1af',1,'packer']]],
-  ['hdr_5fsize_5093',['HDR_size',['../classCsmaAloha.html#aa0389c5241501f5fd1108e5e31c92035',1,'CsmaAloha::HDR_size()'],['../classMMacDACAP.html#a76adba6f3249f5de99cf8fc52fc78f6a',1,'MMacDACAP::HDR_size()'],['../classUWAloha.html#afdfc9f43a133e102cf9bc1d427305991',1,'UWAloha::HDR_size()'],['../classMMacTLOHI.html#ad78c56a4527c5ec3c69d75b967766d9c',1,'MMacTLOHI::HDR_size()'],['../classUwTDMA.html#a6ff68bd7c5663f7b748e526b8a3c61b4',1,'UwTDMA::HDR_size()'],['../classUwCsmaAloha__Trigger__NODE.html#a721406e464581ee9f0d0e6302a119f92',1,'UwCsmaAloha_Trigger_NODE::HDR_size()'],['../classMMacUWSR.html#ad52e2d6734eb5e93af76986def062a96',1,'MMacUWSR::HDR_size()']]],
-  ['head_5fnode_5f1_5094',['HEAD_NODE_1',['../classuwUFetch__AUV.html#a44d4cad2151015ec24ad95e8329d44dd',1,'uwUFetch_AUV']]],
-  ['head_5fnode_5f2_5095',['HEAD_NODE_2',['../classuwUFetch__AUV.html#a2168c81b727aae8a9078e2cb38e665f5',1,'uwUFetch_AUV']]],
-  ['head_5fnode_5f3_5096',['HEAD_NODE_3',['../classuwUFetch__AUV.html#a5fd6b7d9b7f644bf6faf71a8c384f136',1,'uwUFetch_AUV']]],
-  ['head_5fnode_5f4_5097',['HEAD_NODE_4',['../classuwUFetch__AUV.html#a141ea28e6bed4fa5f34cb99478bd0832',1,'uwUFetch_AUV']]],
-  ['headnode_5098',['HEADNODE',['../classuwUFetch__NODE.html#a6438f98a29d86920639ba52c8202844b',1,'uwUFetch_NODE']]],
-  ['hit_5fcount_5099',['hit_count',['../classMMacUWSR.html#a485939b2c0df2abd8b994c5c644e1fc6',1,'MMacUWSR']]],
-  ['hn_5ftrigg_5100',['hn_trigg',['../classuwUFetch__AUV.html#a93e4bc24a924efd6fe0e9ddcf43a5847',1,'uwUFetch_AUV']]],
-  ['hold_5f_5101',['hold_',['../classUWARPEntry.html#a872ca7635bd05881af8b4b34f24400d7',1,'UWARPEntry']]],
-  ['hop_5ftable_5102',['hop_table',['../classSunIPRoutingNode.html#a3448c2c932c932520f2f5301b469d0b5',1,'SunIPRoutingNode']]],
-  ['hop_5ftable_5flength_5103',['hop_table_length',['../classSunIPRoutingNode.html#a487c52bbb2a4e0eab53fe3061359ad0d',1,'SunIPRoutingNode::hop_table_length()'],['../uwicrp-common_8h.html#a9c86149fc4dbde722e73a21e88740fbf',1,'HOP_TABLE_LENGTH():&#160;uwicrp-common.h']]],
-  ['hopcount_5104',['hopcount',['../structrouting__table__entry.html#ac5069dc50278d96354bf03699d233e6d',1,'routing_table_entry']]],
-  ['hrsn_5105',['hrsn',['../classUwCbrModule.html#acdc4626404ca9a252df8cc8a540ef72a',1,'UwCbrModule::hrsn()'],['../classUwVbrModule.html#ae3a5aeaa4862b958a2247f2da73a712b',1,'UwVbrModule::hrsn()'],['../classuwApplicationModule.html#a1e7ff627abce4ad0b384583a73ca4f8c',1,'uwApplicationModule::hrsn()']]],
-  ['htype_5fbits_5106',['Htype_Bits',['../classpackerMAC.html#a164f8de2d72bc719d29d8c8856d7ef2c',1,'packerMAC']]]
+  ['gain_5f_0',['gain_',['../classUwElectroMagneticAntenna.html#ab35e03889e39240822f502a9388e4d77',1,'UwElectroMagneticAntenna']]],
+  ['galpha_5f_1',['galpha_',['../classWossGroupMob3D.html#a143dc307272706a49c9e0c986b42406c',1,'WossGroupMob3D']]],
+  ['getop_2',['getop',['../classClMsgUwPhyTxBusy.html#a6c629557e0a95ff0e5bcaaab789827d2',1,'ClMsgUwPhyTxBusy']]],
+  ['gm3dgrouptracefile_3',['gm3dGroupTraceFile',['../classWossGroupMob3D.html#a1b7705ba5100e1ae24827862d6e9a061',1,'WossGroupMob3D']]],
+  ['gm3dtracefile_4',['gm3dTraceFile',['../classWossGMMob3D.html#a465882b2a6a736705a9459fed375c1c7',1,'WossGMMob3D']]],
+  ['gmmobilityinittclcode_5',['GmMobilityInitTclCode',['../DESERT__Addons_2wossgmmob3D_2initlib_8cc.html#a1d4571d85b017ec9690d7938392426e6',1,'initlib.cc']]],
+  ['got_5ftoken_6',['got_token',['../classUwTokenBus.html#abfa84024be8d7df2eb7e86874f427e15',1,'UwTokenBus']]],
+  ['granularity_7',['granularity',['../classUnderwaterPhysicalNoise.html#aba9138cde1f4dce70bca843bdb4388b9',1,'UnderwaterPhysicalNoise']]],
+  ['green_8',['Green',['../namespaceConsoleColours.html#ac397ecc3251ef3ba0d0b8027448b816f',1,'ConsoleColours']]],
+  ['groupmobilityinittclcode_9',['GroupMobilityInitTclCode',['../DESERT__Addons_2wossgroupmob3D_2initlib_8cc.html#ae7cf3b219ad5506314448bad5d50c79f',1,'initlib.cc']]],
+  ['guard_5ftime_10',['guard_time',['../classMMacUWSR.html#a72b47905be2eeb67210de18c2a233d0a',1,'MMacUWSR::guard_time'],['../classUwTDMA.html#a510b37904fb060fa3671220742f7b169',1,'UwTDMA::guard_time']]]
 ];

@@ -17,7 +17,6 @@ var classUWAloha_1_1UWAlohaTimer =
     [ "unFreeze", "classUWAloha_1_1UWAlohaTimer.html#a13aad9f07da7362f509765a91c239979", null ],
     [ "counter", "classUWAloha_1_1UWAlohaTimer.html#a017ce956852a5f3efbe100f61b09d8d9", null ],
     [ "left_duration", "classUWAloha_1_1UWAlohaTimer.html#a9415ea0485836d99caedc7f221e1fb11", null ],
-    [ "module", "classUWAloha_1_1UWAlohaTimer.html#a86203f710ae8795e493cb043e2d5a9a9", null ],
     [ "start_time", "classUWAloha_1_1UWAlohaTimer.html#a59ad81aaed28c270f22528ec5d5abd34", null ],
-    [ "timer_status", "classUWAloha_1_1UWAlohaTimer.html#a36f1963418e4b2fcacbd42e08292935d", null ]
+    [ "timer_status", "classUWAloha_1_1UWAlohaTimer.html#a9538c66539b011494e279dd6cfa42392", null ]
 ];

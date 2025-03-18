@@ -17,7 +17,6 @@ var classUwpolling__SINK_1_1Uwpolling__SINK__Timer =
     [ "unFreeze", "classUwpolling__SINK_1_1Uwpolling__SINK__Timer.html#a5d3eb3fe293f7580472d7c1f2b23ddd5", null ],
     [ "counter", "classUwpolling__SINK_1_1Uwpolling__SINK__Timer.html#a89fce882ace1866cec3848f211bbd665", null ],
     [ "left_duration", "classUwpolling__SINK_1_1Uwpolling__SINK__Timer.html#ad6b06474cd25f6e74243ed69373b0762", null ],
-    [ "module", "classUwpolling__SINK_1_1Uwpolling__SINK__Timer.html#a738616d036d55b646732f210ad5a200a", null ],
     [ "start_time", "classUwpolling__SINK_1_1Uwpolling__SINK__Timer.html#a4c758adc78ec4843f57a2d8ff206cf49", null ],
-    [ "timer_status", "classUwpolling__SINK_1_1Uwpolling__SINK__Timer.html#ac45c8fe320e191e838fec4d37b25a061", null ]
+    [ "timer_status", "classUwpolling__SINK_1_1Uwpolling__SINK__Timer.html#aeafd311a73f16fc992f773c6936f8f58", null ]
 ];

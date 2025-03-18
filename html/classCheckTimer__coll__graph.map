@@ -1,6 +1,0 @@
-<map id="CheckTimer" name="CheckTimer">
-<area shape="rect" id="node1" title="The class used by UwModem to handle simulator&#39;s event expirations; it is exploited to schedule the re..." alt="" coords="114,81,214,108"/>
-<area shape="rect" id="node3" href="$classUwModem.html" title="Class that implements the interface to DESERT, as used through Tcl scripts." alt="" coords="33,171,125,197"/>
-<area shape="rect" id="node2" title=" " alt="" coords="109,5,219,32"/>
-<area shape="rect" id="node4" title=" " alt="" coords="5,81,64,108"/>
-</map>

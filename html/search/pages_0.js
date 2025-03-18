@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['developer_20guide_6780',['Developer guide',['../DEV.html',1,'']]]
+  ['arm_20debian_20sandbox_0',['How to cross-compile DESERT for EvoLogics ARM Debian Sandbox',['../CROSS-COMPILE-EVO.html',1,'']]]
 ];

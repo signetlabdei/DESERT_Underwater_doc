@@ -18,7 +18,6 @@ var classMMacUWSR_1_1UWSRTimer =
     [ "unFreeze", "classMMacUWSR_1_1UWSRTimer.html#a99f200b2526d30932a1e80db11401a46", null ],
     [ "counter", "classMMacUWSR_1_1UWSRTimer.html#a03ba0911f29e28392e983dc41c0ab551", null ],
     [ "left_duration", "classMMacUWSR_1_1UWSRTimer.html#ad2639b89f5a0594f53318a67c212c12a", null ],
-    [ "module", "classMMacUWSR_1_1UWSRTimer.html#a77a35a5da4786077631b03ef51d21581", null ],
     [ "start_time", "classMMacUWSR_1_1UWSRTimer.html#ab091d2a6ad08de40fd79319815b1c9ee", null ],
-    [ "timer_status", "classMMacUWSR_1_1UWSRTimer.html#a8031381abf51f16d095d175180892d36", null ]
+    [ "timer_status", "classMMacUWSR_1_1UWSRTimer.html#a306cdea9b0da3026116e69479ef676e7", null ]
 ];

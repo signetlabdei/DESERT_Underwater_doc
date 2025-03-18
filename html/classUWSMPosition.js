@@ -10,6 +10,7 @@ var classUWSMPosition =
     [ "getYdest", "classUWSMPosition.html#a72dd435b0259cbaad1ad41787b10ecc0", null ],
     [ "getZ", "classUWSMPosition.html#a8bf5f1357467a3531b9087a576afd935", null ],
     [ "getZdest", "classUWSMPosition.html#a710f1cf881cd5eca5edc9560fa3591a0", null ],
+    [ "isDestReached", "classUWSMPosition.html#a5549974478bf51f875eeea45cebd3c26", null ],
     [ "setdest", "classUWSMPosition.html#ace69e377c844621eb794e8b87193f3f2", null ],
     [ "setdest", "classUWSMPosition.html#af82dcab2288e5a3acc49044e7a08683b", null ],
     [ "setX", "classUWSMPosition.html#aa7fdc01e029303f5faabdb088d36af43", null ],

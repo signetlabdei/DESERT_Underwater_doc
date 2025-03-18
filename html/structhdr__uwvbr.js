@@ -1,10 +1,10 @@
 var structhdr__uwvbr =
 [
-    [ "access", "structhdr__uwvbr.html#a17971a9cf7e6438d042a39ec5eda63a1", null ],
-    [ "offset", "structhdr__uwvbr.html#ad476dc6013ad1eaba68de20fef717c37", null ],
-    [ "rftt", "structhdr__uwvbr.html#a0a1b4c4395c0c9f3184ed9c1def5a90d", null ],
-    [ "rftt_valid", "structhdr__uwvbr.html#ae3d38f22b2e83b7e9c68fc4df695bb31", null ],
-    [ "sn", "structhdr__uwvbr.html#a6fa5804072c6e9ee54bc8bbff4e4e2a5", null ],
+    [ "access", "structhdr__uwvbr.html#a01261bbc5ec9bc61770c310e63606666", null ],
+    [ "offset", "structhdr__uwvbr.html#afe389d3766a5e15b2367d13db6cd87ca", null ],
+    [ "rftt", "structhdr__uwvbr.html#a1fcf6f64b1d1cf7f04b239dbecae2607", null ],
+    [ "rftt_valid", "structhdr__uwvbr.html#a2b0e080283ea70a9b0c3ef368158411b", null ],
+    [ "sn", "structhdr__uwvbr.html#a4544be307d68eb3b760caef694bb949a", null ],
     [ "offset_", "structhdr__uwvbr.html#a5db5e32a83de589af66710f6764cdfe8", null ],
     [ "rftt_", "structhdr__uwvbr.html#a3ac895210c4699b50200bd4799273d65", null ],
     [ "rftt_valid_", "structhdr__uwvbr.html#abe5ab59b83b7e12fced5043f104db849", null ],
