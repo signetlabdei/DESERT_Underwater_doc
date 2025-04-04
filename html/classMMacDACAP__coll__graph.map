@@ -1,0 +1,14 @@
+<map id="MMacDACAP" name="MMacDACAP">
+<area shape="rect" id="Node000001" title="Class that represents a DACAP node." alt="" coords="112,80,218,105"/>
+<area shape="rect" id="Node000003" href="$classDACAPTimer.html" title="Class that represents the timers in DACAP." alt="" coords="244,168,350,193"/>
+<area shape="poly" id="edge4_Node000003_Node000001" title=" " alt="" coords="233,107,269,127,285,147,295,167,290,169,281,150,266,131,230,112"/>
+<area shape="rect" id="Node000005" href="$classDACAPBTimer.html" title="Class that represents the backoff timer in DACAP." alt="" coords="45,168,160,193"/>
+<area shape="poly" id="edge7_Node000005_Node000001" title=" " alt="" coords="99,104,45,114,25,122,12,131,9,142,14,151,28,159,46,165,44,170,25,164,10,154,3,142,8,128,22,117,44,109,98,98"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="134,5,196,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,45,168,80,162,80,162,45"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="258,164,226,146,176,108,179,103,229,142,260,159"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="362,80,472,105"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="425,119,423,133,418,146,404,159,387,169,350,180,349,175,385,164,401,155,413,142,418,132,419,119"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="403,119,389,134,371,146,340,154,286,162,160,176,159,171,285,157,339,149,369,142,386,130,399,115"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="96,154,97,141,101,128,114,114,130,103,133,108,118,118,106,131,102,142,101,154"/>
+</map>

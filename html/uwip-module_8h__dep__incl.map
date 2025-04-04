@@ -1,0 +1,110 @@
+<map id="uwip&#45;module.h" name="uwip&#45;module.h">
+<area shape="rect" id="Node000001" title="Provides the UWIP packets header description. Definition of the class that define the network layer." alt="" coords="2361,5,2480,31"/>
+<area shape="rect" id="Node000002" href="$DESERT__Framework_2DESERT_2network_2uwip_2initlib_8cpp.html" title="Provides the initialization of uwip libraries." alt="" coords="1289,86,1376,111"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="2348,24,1860,41,1587,58,1473,69,1388,81,1362,89,1360,83,1387,76,1473,63,1586,52,1860,35,2348,18"/>
+<area shape="rect" id="Node000003" href="$packer-uwip_8h.html" title=" " alt="" coords="1400,86,1513,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="2347,23,2198,26,1995,35,1765,53,1533,81,1498,89,1497,83,1532,76,1765,48,1995,30,2198,21,2347,17"/>
+<area shape="rect" id="Node000005" href="$sun-ipr-node_8h.html" title="Dinamic source routing protocol, this file contains Nodes specifications." alt="" coords="615,247,731,273"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="2347,21,2184,23,1980,30,1877,38,1784,48,1704,63,1646,81,1625,93,1609,107,1588,137,1565,168,1549,182,1527,194,1493,206,1454,216,1360,228,1253,233,1139,234,915,233,819,235,742,243,710,250,709,245,742,237,818,230,915,228,1139,229,1253,228,1360,222,1453,210,1492,201,1525,190,1546,178,1561,164,1583,134,1605,103,1622,89,1644,76,1703,58,1783,43,1877,33,1979,25,2184,17,2347,16"/>
+<area shape="rect" id="Node000013" href="$sun-ipr-sink_8h.html" title="Dinamic source routing protocol, this file contains Sinks specifications." alt="" coords="3284,247,3395,273"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="2348,22,2246,25,2131,34,2028,52,1988,65,1960,81,1934,107,1919,135,1916,149,1917,163,1923,176,1933,190,1955,199,2001,206,2153,218,2359,225,2594,229,3039,233,3273,237,3305,245,3304,250,3272,243,3039,238,2594,234,2359,230,2152,223,2000,212,1953,204,1930,194,1918,179,1912,164,1911,148,1914,133,1930,104,1956,77,1985,60,2026,47,2131,29,2246,20,2348,17"/>
+<area shape="rect" id="Node000015" href="$uwApplication__module_8h.html" title=" " alt="" coords="1944,167,2127,192"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="2348,26,2123,46,2023,62,1989,71,1972,81,1966,91,1966,101,1977,125,1997,147,2020,164,2016,169,1994,151,1972,128,1960,102,1961,89,1968,77,1987,66,2022,57,2122,41,2348,21"/>
+<area shape="rect" id="Node000019" href="$uwPosBasedRt_8h.html" title="Routing protocol for static node based on ROV position." alt="" coords="2187,86,2318,111"/>
+<area shape="poly" id="edge18_Node000001_Node000019" title=" " alt="" coords="2385,39,2278,88,2276,84,2383,34"/>
+<area shape="rect" id="Node000021" href="$uwPosBasedRtROV_8h.html" title="Routing protocol for vehicles based on ROV position." alt="" coords="2343,86,2499,111"/>
+<area shape="poly" id="edge20_Node000001_Node000021" title=" " alt="" coords="2423,44,2423,86,2418,86,2418,44"/>
+<area shape="rect" id="Node000023" href="$uwcbr-module_8h.html" title="Provides the UWCBR packets header description and the definition of the class UWCBR." alt="" coords="1741,167,1868,192"/>
+<area shape="poly" id="edge22_Node000001_Node000023" title=" " alt="" coords="2347,23,2230,26,2092,36,1964,53,1914,66,1877,81,1853,100,1835,124,1811,168,1807,165,1830,121,1850,96,1874,76,1912,61,1963,48,2092,30,2230,21,2347,17"/>
+<area shape="rect" id="Node000034" href="$uwflooding-sec_8h.html" title="Flooding based routing protocol with security enhanced." alt="" coords="755,247,887,273"/>
+<area shape="poly" id="edge39_Node000001_Node000034" title=" " alt="" coords="2347,22,2196,26,2008,34,1829,52,1757,65,1703,81,1680,93,1663,107,1638,137,1613,168,1595,182,1571,194,1508,212,1428,223,1336,229,1238,231,1046,233,964,236,898,243,863,250,862,245,898,237,963,231,1046,228,1238,226,1335,224,1427,218,1507,207,1569,190,1592,178,1609,164,1634,134,1659,103,1677,89,1701,76,1756,60,1829,47,2008,29,2195,20,2347,17"/>
+<area shape="rect" id="Node000036" href="$uwflooding_8h.html" title="Flooding based routing protocol." alt="" coords="911,247,1016,273"/>
+<area shape="poly" id="edge40_Node000001_Node000036" title=" " alt="" coords="2348,23,2209,28,2039,38,1878,55,1813,67,1764,81,1740,93,1722,107,1694,137,1666,168,1647,182,1622,194,1536,223,1461,236,1394,240,1330,237,1196,229,1119,231,1029,243,999,250,998,245,1028,237,1118,226,1196,224,1330,232,1394,235,1461,231,1535,217,1620,190,1644,178,1662,164,1690,134,1718,103,1737,89,1762,76,1812,62,1878,50,2039,33,2209,23,2348,18"/>
+<area shape="rect" id="Node000040" href="$uwmulti-multiphy-controller_8h.html" title="Definition of UwMultiPhyControl class." alt="" coords="1041,247,1257,273"/>
+<area shape="poly" id="edge50_Node000001_Node000040" title=" " alt="" coords="2348,25,2223,31,2074,42,1932,59,1875,69,1832,81,1806,93,1785,107,1753,137,1721,167,1700,182,1672,194,1617,214,1568,225,1525,231,1483,234,1397,235,1288,243,1233,250,1232,245,1287,237,1397,229,1483,228,1524,226,1567,220,1615,208,1670,190,1697,177,1717,163,1749,133,1782,103,1803,89,1830,76,1874,64,1932,53,2073,37,2223,26,2348,19"/>
+<area shape="rect" id="Node000063" href="$uwgainfromdb_8cpp.html" title="Implementation of UnderwaterGainFromDb class." alt="" coords="2523,86,2665,111"/>
+<area shape="poly" id="edge41_Node000001_Node000063" title=" " alt="" coords="2459,34,2570,84,2568,88,2457,39"/>
+<area shape="rect" id="Node000064" href="$uwicrp-module-node_8h.html" title="Provides a module for nodes that needs a simple and dynamic routing protocol." alt="" coords="2690,86,2858,111"/>
+<area shape="poly" id="edge42_Node000001_Node000064" title=" " alt="" coords="2486,31,2723,83,2722,89,2485,36"/>
+<area shape="rect" id="Node000066" href="$uwicrp-module-sink_8h.html" title="Provides a module for sinks that needs a simple and dynamic routing protocol." alt="" coords="2882,86,3045,111"/>
+<area shape="poly" id="edge43_Node000001_Node000066" title=" " alt="" coords="2494,25,2666,46,2870,76,2910,83,2909,89,2870,81,2665,51,2493,30"/>
+<area shape="rect" id="Node000068" href="$uwip-module_8cpp.html" title="Implements UWIPModule." alt="" coords="3069,86,3204,111"/>
+<area shape="poly" id="edge44_Node000001_Node000068" title=" " alt="" coords="2494,20,2744,38,2900,54,3057,76,3093,83,3092,89,3056,81,2900,60,2744,44,2494,26"/>
+<area shape="rect" id="Node000069" href="$uwmll-module_8h.html" title="Provides the declaration of UWMllModule class that represents the MLL class." alt="" coords="3229,86,3357,111"/>
+<area shape="poly" id="edge45_Node000001_Node000069" title=" " alt="" coords="2494,18,2629,23,2809,33,3012,50,3217,76,3252,83,3251,89,3216,81,3012,55,2809,38,2629,28,2494,23"/>
+<area shape="rect" id="Node000071" href="$uwmodem_8h.html" title="Header of the main class that implements the general interface between DESERT and real acoustic modem..." alt="" coords="3381,86,3484,111"/>
+<area shape="poly" id="edge46_Node000001_Node000071" title=" " alt="" coords="2494,16,2653,17,2871,24,3119,43,3245,57,3369,76,3399,83,3398,89,3368,81,3245,63,3118,48,2870,30,2653,22,2494,21"/>
+<area shape="rect" id="Node000081" href="$DESERT__Framework_2DESERT_2physical_2uwmphy__modem_2uwmphy__modem_8h.html" title="Header of the main class that implements the general interface between ns2/NS&#45;Miracle and real acoust..." alt="" coords="3509,86,3655,111"/>
+<area shape="poly" id="edge47_Node000001_Node000081" title=" " alt="" coords="2494,17,2672,19,2921,28,3207,45,3353,59,3497,76,3537,83,3536,89,3496,81,3353,64,3206,51,2920,33,2672,24,2494,22"/>
+<area shape="rect" id="Node000085" href="$DESERT__Addons_2uwmphy__modem_2uwmphy__modem_8h.html" title="Header of the main class that implements the general interface between ns2/NS&#45;Miracle and real acoust..." alt="" coords="3679,86,3826,111"/>
+<area shape="poly" id="edge48_Node000001_Node000085" title=" " alt="" coords="2494,16,2696,17,2987,24,3325,42,3498,57,3668,76,3708,83,3707,89,3667,81,3497,62,3324,47,2987,29,2696,22,2494,21"/>
+<area shape="rect" id="Node000089" href="$uwmulti-destination_8h.html" title="Definition of UwMultiDestination class." alt="" coords="3850,86,4015,111"/>
+<area shape="poly" id="edge49_Node000001_Node000089" title=" " alt="" coords="2494,16,2721,16,3053,22,3442,41,3642,56,3838,76,3883,83,3882,89,3838,81,3642,61,3442,46,3053,28,2721,21,2494,21"/>
+<area shape="rect" id="Node000091" href="$uwmulti-traffic-range-crt_8h.html" title=" " alt="" coords="4039,79,4199,119"/>
+<area shape="poly" id="edge51_Node000001_Node000091" title=" " alt="" coords="2494,18,3249,35,3698,52,3886,63,4028,76,4040,78,4039,83,4027,81,3885,69,3698,58,3249,40,2494,23"/>
+<area shape="rect" id="Node000093" href="$uwphysicaldb_8h.html" title="Definition of UnderwaterPhysicaldb class." alt="" coords="4223,86,4346,111"/>
+<area shape="poly" id="edge52_Node000001_Node000093" title=" " alt="" coords="2494,17,2838,20,3335,29,3841,47,4052,60,4212,76,4247,83,4246,89,4211,81,4052,65,3841,52,3335,34,2838,25,2494,22"/>
+<area shape="rect" id="Node000095" href="$uwstaticrouting_8h.html" title="Provides basic routing functionalities." alt="" coords="4371,86,4505,111"/>
+<area shape="poly" id="edge53_Node000001_Node000095" title=" " alt="" coords="2494,17,2862,20,3402,29,3954,47,4184,60,4358,76,4397,83,4396,89,4358,81,4184,65,3953,52,3402,34,2862,25,2494,22"/>
+<area shape="rect" id="Node000098" href="$uwudp-module_8h.html" title="Provides the UWUDP packets header description and the definition of the class UWUDP." alt="" coords="1982,86,2113,111"/>
+<area shape="poly" id="edge54_Node000001_Node000098" title=" " alt="" coords="2351,36,2132,81,2099,89,2097,83,2131,76,2350,31"/>
+<area shape="rect" id="Node000103" href="$uwvbr-module_8h.html" title="Provides the UWVBR packets header description and the definition of the class UWVBR." alt="" coords="2151,167,2279,192"/>
+<area shape="poly" id="edge58_Node000001_Node000103" title=" " alt="" coords="2348,30,2246,49,2203,63,2177,80,2172,90,2171,101,2177,124,2191,147,2206,165,2202,168,2186,150,2172,127,2165,101,2167,89,2173,77,2201,58,2245,43,2347,24"/>
+<area shape="rect" id="Node000004" href="$packer-uwip_8cpp.html" title="Implementation of the class responsible to map the NS&#45;Miracle packet of uw&#45;ip into a bit stream,..." alt="" coords="1386,167,1514,192"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1457,125,1454,167,1448,166,1452,125"/>
+<area shape="rect" id="Node000006" href="$sun-ipr-node-ack_8cpp.html" title="Provides the implementation of all the methods regarding Ack Packets." alt="" coords="5,335,164,361"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="601,272,409,296,177,331,138,338,137,333,176,325,408,291,600,267"/>
+<area shape="rect" id="Node000007" href="$sun-ipr-node-buffermanager_8cpp.html" title="Provides the implementation of all the methods regarding Buffer Management." alt="" coords="1163,335,1393,361"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="725,274,742,277,924,302,1181,333,1180,338,923,307,742,283,724,279"/>
+<area shape="rect" id="Node000008" href="$sun-ipr-node-data_8cpp.html" title=" " alt="" coords="189,335,354,361"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="606,278,325,338,324,333,605,273"/>
+<area shape="rect" id="Node000009" href="$sun-ipr-node-loadmetric_8cpp.html" title="Provides the implementation of all the methods regarding the Load metric." alt="" coords="379,335,585,361"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="636,281,509,338,507,333,633,276"/>
+<area shape="rect" id="Node000010" href="$sun-ipr-node-pathest-answer_8cpp.html" title="Provides the implementation of all the methods regarding Path Establishment Answer Packets." alt="" coords="609,328,768,368"/>
+<area shape="poly" id="edge9_Node000005_Node000010" title=" " alt="" coords="680,286,688,327,682,328,675,287"/>
+<area shape="rect" id="Node000011" href="$sun-ipr-node-pathest-search_8cpp.html" title="Provides the implementation of all the methods regarding Path Establishment Search Packets." alt="" coords="792,328,951,368"/>
+<area shape="poly" id="edge10_Node000005_Node000011" title=" " alt="" coords="713,276,829,325,826,330,711,281"/>
+<area shape="rect" id="Node000012" href="$sun-ipr-node_8cpp.html" title="Implements a SunIPRoutingNode." alt="" coords="975,335,1106,361"/>
+<area shape="poly" id="edge11_Node000005_Node000012" title=" " alt="" coords="728,274,743,277,963,325,994,333,993,338,961,331,741,283,726,279"/>
+<area shape="rect" id="Node000014" href="$sun-ipr-sink_8cpp.html" title="Implements a SunIPRoutingSink." alt="" coords="3276,335,3403,361"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="3342,287,3342,335,3337,335,3337,287"/>
+<area shape="rect" id="Node000016" href="$uwApplication__TCP__socket_8cpp.html" title=" " alt="" coords="3890,247,4111,273"/>
+<area shape="poly" id="edge15_Node000015_Node000016" title=" " alt="" coords="2141,189,2406,203,2630,209,3012,207,3196,206,3392,208,3615,218,3878,237,3936,245,3936,250,3878,243,3615,223,3392,214,3196,211,3012,212,2630,214,2406,209,2141,195"/>
+<area shape="rect" id="Node000017" href="$uwApplication__UDP__socket_8cpp.html" title=" " alt="" coords="3419,247,3644,273"/>
+<area shape="poly" id="edge16_Node000015_Node000017" title=" " alt="" coords="2141,189,2334,201,2498,207,2776,209,3054,213,3216,222,3408,237,3466,245,3465,250,3407,243,3216,227,3054,219,2776,214,2498,212,2334,206,2140,195"/>
+<area shape="rect" id="Node000018" href="$uwApplication__module_8cpp.html" title="Provides the definition of uwApplicationmodule class." alt="" coords="3669,247,3866,273"/>
+<area shape="poly" id="edge17_Node000015_Node000018" title=" " alt="" coords="2141,189,2372,202,2568,207,2901,206,3062,205,3233,208,3428,218,3657,237,3709,245,3709,250,3656,243,3428,223,3233,214,3062,210,2901,211,2568,212,2372,207,2141,195"/>
+<area shape="rect" id="Node000020" href="$uwPosBasedRt_8cpp.html" title="Routing protocol for static node based on ROV position." alt="" coords="2304,167,2449,192"/>
+<area shape="poly" id="edge19_Node000019_Node000020" title=" " alt="" coords="2284,116,2360,164,2357,169,2281,121"/>
+<area shape="rect" id="Node000022" href="$uwPosBasedRtROV_8cpp.html" title="Routing protocol for vehicles based on ROV position." alt="" coords="2474,167,2645,192"/>
+<area shape="poly" id="edge21_Node000021_Node000022" title=" " alt="" coords="2454,116,2540,164,2537,169,2452,120"/>
+<area shape="poly" id="edge26_Node000023_Node000005" title=" " alt="" coords="1728,187,1165,216,742,243,710,250,709,245,742,237,1164,211,1728,182"/>
+<area shape="poly" id="edge25_Node000023_Node000007" title=" " alt="" coords="1728,194,1722,195,1631,199,1514,202,1455,206,1400,213,1354,225,1321,242,1303,263,1291,289,1281,336,1276,335,1286,287,1298,260,1318,238,1352,220,1399,208,1454,201,1514,197,1631,194,1722,189,1727,189"/>
+<area shape="poly" id="edge27_Node000023_Node000013" title=" " alt="" coords="1882,189,1888,189,2098,203,2277,206,2582,198,2729,195,2886,197,3064,210,3273,237,3305,245,3304,250,3272,243,3063,216,2886,203,2729,200,2582,203,2277,211,2098,208,1887,195,1882,194"/>
+<area shape="rect" id="Node000024" href="$DESERT__Framework_2DESERT_2application_2uwcbr_2initlib_8cpp.html" title="Provides the initialization of uwcbr libraries." alt="" coords="1697,247,1784,273"/>
+<area shape="poly" id="edge23_Node000023_Node000024" title=" " alt="" coords="1789,204,1752,249,1748,245,1785,201"/>
+<area shape="rect" id="Node000025" href="$packer-uwcbr_8h.html" title="Header of the class responsible to map the NS&#45;Miracle packet of uw&#45;cbr into a bit stream,..." alt="" coords="1809,247,1929,273"/>
+<area shape="poly" id="edge24_Node000023_Node000025" title=" " alt="" coords="1825,201,1861,245,1857,249,1821,204"/>
+<area shape="rect" id="Node000027" href="$uwUFetch__AUV__mod__1_8cpp.html" title=" " alt="" coords="1953,247,2152,273"/>
+<area shape="poly" id="edge28_Node000023_Node000027" title=" " alt="" coords="1854,194,2017,245,2016,250,1853,199"/>
+<area shape="rect" id="Node000028" href="$uwUFetch__AUV__mod__2_8cpp.html" title=" " alt="" coords="2176,247,2375,273"/>
+<area shape="poly" id="edge29_Node000023_Node000028" title=" " alt="" coords="1882,191,2164,237,2208,245,2207,250,2163,243,1881,196"/>
+<area shape="rect" id="Node000029" href="$uwUFetch__NODE__HEADNODE__mod__1_8cpp.html" title="Class that provide the implementation of HEAD NODE entity of uwUFetch protocol using a RTS and CTS pa..." alt="" coords="2399,240,2613,280"/>
+<area shape="poly" id="edge30_Node000023_Node000029" title=" " alt="" coords="1882,189,1888,189,2137,213,2246,222,2386,237,2399,239,2398,244,2386,243,2246,227,2137,218,1887,195,1882,194"/>
+<area shape="rect" id="Node000030" href="$uwUFetch__NODE__HEADNODE__mod__2_8cpp.html" title=" " alt="" coords="2637,240,2850,280"/>
+<area shape="poly" id="edge31_Node000023_Node000030" title=" " alt="" coords="1882,189,1888,189,2095,206,2256,212,2418,219,2625,237,2637,239,2636,244,2624,243,2418,225,2256,217,2094,211,1887,195,1882,194"/>
+<area shape="rect" id="Node000031" href="$uwUFetch__NODE__SENSOR_8cpp.html" title="Class that provide the implementation of the SENSOR NODE entity of uwUFetch protocol." alt="" coords="2874,247,3093,273"/>
+<area shape="poly" id="edge32_Node000023_Node000031" title=" " alt="" coords="1882,189,1888,189,2036,201,2161,208,2375,212,2589,217,2714,224,2862,237,2918,245,2917,250,2862,243,2714,230,2588,222,2375,217,2161,213,2035,206,1887,195,1882,194"/>
+<area shape="rect" id="Node000032" href="$uwcbr-module_8cpp.html" title=" " alt="" coords="3117,247,3260,273"/>
+<area shape="poly" id="edge33_Node000023_Node000032" title=" " alt="" coords="1882,189,1888,189,2073,202,2230,207,2497,205,2626,204,2764,207,2921,217,3105,237,3145,245,3144,250,3104,243,2920,223,2764,212,2626,209,2497,210,2230,212,2072,208,1887,195,1882,194"/>
+<area shape="rect" id="Node000033" href="$uwcbr-tracer_8cpp.html" title=" " alt="" coords="1331,247,1462,273"/>
+<area shape="poly" id="edge34_Node000023_Node000033" title=" " alt="" coords="1728,196,1475,243,1443,250,1441,245,1473,237,1727,191"/>
+<area shape="poly" id="edge35_Node000023_Node000034" title=" " alt="" coords="1728,188,898,243,863,250,862,245,898,237,1727,183"/>
+<area shape="poly" id="edge36_Node000023_Node000036" title=" " alt="" coords="1728,190,1672,195,1490,205,1349,208,1208,217,1029,243,999,250,998,245,1028,237,1208,212,1349,203,1490,199,1671,189,1727,185"/>
+<area shape="poly" id="edge37_Node000023_Node000040" title=" " alt="" coords="1728,194,1722,195,1499,218,1276,243,1223,250,1222,245,1275,237,1498,213,1722,189,1727,189"/>
+<area shape="rect" id="Node000042" href="$uwmulti-traffic-control_8cc.html" title="Implementation of UwMultiTrafficControl class." alt="" coords="1486,247,1673,273"/>
+<area shape="poly" id="edge38_Node000023_Node000042" title=" " alt="" coords="1760,199,1613,250,1611,245,1758,194"/>
+<area shape="poly" id="edge55_Node000098_Node000015" title=" " alt="" coords="2046,126,2040,167,2034,166,2041,125"/>
+<area shape="poly" id="edge56_Node000098_Node000023" title=" " alt="" coords="2000,118,1841,169,1839,164,1998,113"/>
+<area shape="poly" id="edge57_Node000098_Node000103" title=" " alt="" coords="2085,115,2192,164,2190,169,2083,120"/>
+</map>

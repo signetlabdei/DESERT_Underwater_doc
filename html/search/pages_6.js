@@ -1,5 +1,6 @@
 var searchData=
 [
-  ['how_20to_20cross_20compile_20desert_20for_20evologics_20arm_20debian_20sandbox_0',['How to cross-compile DESERT for EvoLogics ARM Debian Sandbox',['../CROSS-COMPILE-EVO.html',1,'']]],
-  ['how_20to_20cross_20compile_20desert_20for_20raspberry_20pi_20zero_1',['How to cross-compile DESERT for Raspberry Pi Zero',['../CROSS-COMPILE-RPI.html',1,'']]]
+  ['giovanni_20toso_0',['In memory of Giovanni Toso',['../Giovanni.html',1,'']]],
+  ['guide_1',['Developer guide',['../DEV.html',1,'']]],
+  ['guidelines_2',['Installation Guidelines',['../INSTALL1.html',1,'']]]
 ];

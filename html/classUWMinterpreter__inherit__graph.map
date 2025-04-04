@@ -1,0 +1,5 @@
+<map id="UWMinterpreter" name="UWMinterpreter">
+<area shape="rect" id="Node000001" title="This class is in charge of building/parsing the necessary messages to make the UWMdriver able to comm..." alt="" coords="5,5,132,31"/>
+<area shape="rect" id="Node000002" href="$classMinterpreterTEL.html" title="Class used to build and parse TELEGRAMS (this class derives UWMinterpreter); currently,..." alt="" coords="5,79,132,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="71,44,71,79,66,79,66,44"/>
+</map>

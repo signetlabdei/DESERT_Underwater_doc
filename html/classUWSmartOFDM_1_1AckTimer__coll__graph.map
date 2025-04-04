@@ -1,0 +1,32 @@
+<map id="UWSmartOFDM::AckTimer" name="UWSmartOFDM::AckTimer">
+<area shape="rect" id="Node000001" title="Base class of AckTimer, which is a derived class of UWSmartOFDMTimer." alt="" coords="5,51,200,76"/>
+<area shape="rect" id="Node000004" href="$classUWSmartOFDM.html" title="This is the base class of UWSmartOFDM protocol, which is a derived class of MMac." alt="" coords="317,192,441,218"/>
+<area shape="poly" id="edge5_Node000004_Node000001" title=" " alt="" coords="142,80,354,190,352,194,140,85"/>
+<area shape="rect" id="Node000002" href="$classUWSmartOFDM_1_1UWSmartOFDMTimer.html" title="Base class of all the timer used in this protocol." alt="" coords="576,164,848,190"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="583,160,574,153,563,140,560,126,557,112,550,97,525,68,502,48,476,34,441,21,399,11,356,8,312,10,270,16,193,34,135,53,134,48,192,29,269,10,312,5,356,3,400,6,442,16,479,29,505,44,529,64,554,94,563,110,565,125,568,137,578,150,586,156"/>
+<area shape="rect" id="Node000006" href="$classUWSmartOFDM_1_1BackOffTimer.html" title="Base class of BackoffTimer." alt="" coords="910,58,1131,83"/>
+<area shape="poly" id="edge7_Node000006_Node000002" title=" " alt="" coords="800,158,847,142,871,126,896,109,971,80,973,85,899,114,874,131,849,147,802,163"/>
+<area shape="rect" id="Node000007" href="$classUWSmartOFDM_1_1CTSTimer.html" title="Base class of CTSTimer." alt="" coords="923,124,1118,150"/>
+<area shape="poly" id="edge9_Node000007_Node000002" title=" " alt="" coords="823,160,923,147,923,152,824,165"/>
+<area shape="rect" id="Node000008" href="$classUWSmartOFDM_1_1RTSTimer.html" title="Base class of RTSTimer." alt="" coords="923,342,1118,367"/>
+<area shape="poly" id="edge11_Node000008_Node000002" title=" " alt="" coords="826,192,850,207,862,219,869,232,876,258,882,284,888,296,899,308,926,327,957,339,955,344,924,331,896,312,884,299,877,286,871,259,864,234,858,222,846,211,823,197"/>
+<area shape="rect" id="Node000009" href="$classUWSmartOFDM_1_1DATATimer.html" title=" " alt="" coords="919,399,1122,424"/>
+<area shape="poly" id="edge13_Node000009_Node000002" title=" " alt="" coords="831,193,850,207,860,222,866,243,875,294,884,344,891,364,899,378,929,396,926,401,895,381,886,367,879,346,870,295,861,244,855,224,846,211,828,198"/>
+<area shape="rect" id="Node000010" href="$classUWSmartOFDM_1_1AssignmentTimer.html" title="Base class of AssignmentTimer." alt="" coords="897,195,1144,220"/>
+<area shape="poly" id="edge15_Node000010_Node000002" title=" " alt="" coords="854,188,897,193,897,198,853,194"/>
+<area shape="rect" id="Node000011" href="$classUWSmartOFDM_1_1AssignmentValidTimer.html" title="Base class of AssignmentValidTimer." alt="" coords="900,258,1141,298"/>
+<area shape="poly" id="edge17_Node000011_Node000002" title=" " alt="" coords="794,190,849,206,874,218,898,230,963,256,961,261,896,235,872,223,847,211,792,195"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="324,31,435,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="414,61,487,102,577,142,644,162,642,167,575,147,485,107,411,66"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="455,196,576,186,576,191,456,201"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="72,216,133,242"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="147,222,317,208,318,213,147,228"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="896,69,799,73,689,84,575,108,520,125,467,146,427,169,396,194,393,190,424,165,464,141,518,120,574,103,689,79,799,67,896,64"/>
+<area shape="poly" id="edge8_Node000004_Node000007" title=" " alt="" coords="909,140,872,141,666,141,577,149,466,174,410,195,408,190,465,169,577,143,666,135,872,136,909,135"/>
+<area shape="poly" id="edge10_Node000004_Node000008" title=" " alt="" coords="909,347,750,325,662,308,575,287,480,254,405,220,408,215,482,249,577,282,663,303,751,320,910,342"/>
+<area shape="poly" id="edge12_Node000004_Node000009" title=" " alt="" coords="905,414,830,409,746,400,659,383,575,358,515,328,462,289,419,250,390,220,394,216,423,246,465,285,518,323,577,353,660,378,747,394,830,404,905,409"/>
+<area shape="poly" id="edge14_Node000004_Node000010" title=" " alt="" coords="884,217,848,218,712,221,576,218,441,212,441,206,576,213,712,215,848,213,884,212"/>
+<area shape="poly" id="edge16_Node000004_Node000011" title=" " alt="" coords="886,271,576,241,465,224,441,219,442,214,466,218,576,236,887,266"/>
+<area shape="rect" id="Node000012" href="$classMsgDisplayer.html" title=" " alt="" coords="47,167,158,192"/>
+<area shape="poly" id="edge18_Node000004_Node000012" title=" " alt="" coords="172,183,318,197,317,202,171,188"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="initlib.cpp" name="initlib.cpp">
+<area shape="rect" id="Node000001" title="Provides the initializazion of the uwranging_tdma libraries." alt="" coords="69,5,155,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="12,79,73,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="102,33,65,71,61,67,99,29"/>
+<area shape="rect" id="Node000003" href="$uwranging__tdma__hdr_8h.html" title="Common structures and variables in the protocol." alt="" coords="97,79,268,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="126,29,164,67,160,71,122,33"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,152,72,177"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="161,106,76,148,73,143,158,102"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="96,152,173,177"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="177,106,152,142,148,139,173,103"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="198,152,261,177"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="193,103,216,139,212,142,188,106"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="285,152,344,177"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="205,102,282,143,280,148,203,106"/>
+</map>

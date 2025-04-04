@@ -1,0 +1,13 @@
+<map id="uwtdma.h" name="uwtdma.h">
+<area shape="rect" id="Node000001" title="Provides the definition of the class UWTDMA." alt="" coords="215,5,301,31"/>
+<area shape="rect" id="Node000002" href="$uwranging__tdma_8h.html" title="Provides the definition of the class UwRangingTDMA." alt="" coords="21,79,164,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="220,38,121,81,119,76,218,34"/>
+<area shape="rect" id="Node000004" href="$uwtdma-frame_8h.html" title="Provides the definition of the class UWTDMA_FRAME." alt="" coords="193,79,323,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="261,44,261,79,255,79,255,44"/>
+<area shape="rect" id="Node000006" href="$uwtdma_8cpp.html" title="Provides the implementation of the class UWTDMA." alt="" coords="348,79,451,104"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="294,34,377,76,375,81,291,39"/>
+<area shape="rect" id="Node000003" href="$uwranging__tdma_8cpp.html" title="Provides the implementation of the class UwRangingTDMA." alt="" coords="5,152,164,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="92,118,89,152,83,152,87,117"/>
+<area shape="rect" id="Node000005" href="$uwtdma-frame_8cpp.html" title="Provides the implementation of the class UWTDMA_FRAME." alt="" coords="189,152,335,177"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="262,118,264,152,259,152,257,118"/>
+</map>

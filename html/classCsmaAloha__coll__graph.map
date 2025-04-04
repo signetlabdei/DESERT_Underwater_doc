@@ -1,0 +1,18 @@
+<map id="CsmaAloha" name="CsmaAloha">
+<area shape="rect" id="Node000001" title="Class that describes a CsmaAloha module." alt="" coords="202,80,298,105"/>
+<area shape="rect" id="Node000004" href="$classCsmaAloha_1_1AlohaTimer.html" title="Class that describes the timers in the node." alt="" coords="307,168,486,193"/>
+<area shape="poly" id="edge5_Node000004_Node000001" title=" " alt="" coords="283,110,378,165,375,170,280,115"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="219,5,281,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="253,45,253,80,247,80,247,45"/>
+<area shape="rect" id="Node000003" href="$classCsmaAloha_1_1AckTimer.html" title="Class used to handle the timer for waiting the ACK." alt="" coords="5,243,172,268"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="95,229,110,197,132,166,154,146,178,129,223,103,226,108,181,133,157,150,136,170,115,200,100,231"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="335,199,138,245,137,240,334,194"/>
+<area shape="rect" id="Node000006" href="$classCsmaAloha_1_1BackOffTimer.html" title="Class used to handle the timer of the backoff period." alt="" coords="432,243,625,268"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="431,198,509,240,506,245,429,202"/>
+<area shape="rect" id="Node000007" href="$classCsmaAloha_1_1ListenTimer.html" title="Class used to handle the Listen Timer." alt="" coords="217,243,398,268"/>
+<area shape="poly" id="edge9_Node000007_Node000004" title=" " alt="" coords="373,204,324,244,320,240,370,200"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="512,80,623,105"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="533,114,421,170,419,165,531,109"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="522,230,513,199,496,170,476,150,452,135,400,113,346,101,298,97,298,91,347,96,401,108,455,130,479,146,500,166,518,197,527,229"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="261,239,233,221,210,195,205,170,211,144,224,122,237,104,242,107,228,124,216,146,210,170,215,192,236,217,264,235"/>
+</map>

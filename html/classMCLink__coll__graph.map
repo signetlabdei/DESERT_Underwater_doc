@@ -1,0 +1,5 @@
+<map id="MCLink" name="MCLink">
+<area shape="rect" id="Node000001" title="MCLink class models the BER of a directed link between two nodes." alt="" coords="11,79,81,104"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,87,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="49,44,49,79,43,79,43,44"/>
+</map>

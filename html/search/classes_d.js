@@ -26,7 +26,7 @@ var searchData=
   ['packeruwufetchclass_23',['PackerUwUFetchClass',['../classPackerUwUFetchClass.html',1,'']]],
   ['perlistelement_24',['PERListElement',['../structPERListElement.html',1,'']]],
   ['poll_5fid_25',['POLL_ID',['../structPOLL__ID.html',1,'']]],
-  ['pollheaderclass_26',['pollheaderclass',['../classPOLLHeaderClass.html',1,'POLLHeaderClass'],['../classPollHeaderClass.html',1,'PollHeaderClass']]],
+  ['pollheaderclass_26',['pollheaderclass',['../classPollHeaderClass.html',1,'PollHeaderClass'],['../classPOLLHeaderClass.html',1,'POLLHeaderClass']]],
   ['polltimer_27',['PollTimer',['../classUwpolling__AUV_1_1PollTimer.html',1,'Uwpolling_AUV']]],
   ['positiondata_28',['PositionData',['../structPositionData.html',1,'']]],
   ['positionlistener_29',['PositionListener',['../classPositionListener.html',1,'']]],

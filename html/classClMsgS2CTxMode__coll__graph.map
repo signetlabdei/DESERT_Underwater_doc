@@ -1,0 +1,7 @@
+<map id="ClMsgS2CTxMode" name="ClMsgS2CTxMode">
+<area shape="rect" id="Node000001" title="Cl Message type for setting the Tx Mode: Instant Message, Burst or Piggyback." alt="" coords="5,152,144,177"/>
+<area shape="rect" id="Node000002" href="$classClMsgUwPhy.html" title="ClMsgUwPhy should be extended and used to ask to set or get a parameter of a specific phy." alt="" coords="21,79,128,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="77,118,77,152,72,152,72,118"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="28,5,121,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="77,44,77,79,72,79,72,44"/>
+</map>

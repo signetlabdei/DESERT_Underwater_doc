@@ -336,7 +336,6 @@ var hierarchy =
       [ "UwFloodingModuleClass", "classUwFloodingModuleClass.html", null ],
       [ "UwGMPositionClass", "classUwGMPositionClass.html", null ],
       [ "UwHMMPhysicalClass", "classUwHMMPhysicalClass.html", null ],
-      [ "UwHMMPhysicalExtendedClass", "classUwHMMPhysicalExtendedClass.html", null ],
       [ "UwHermesPhyClass", "classUwHermesPhyClass.html", null ],
       [ "UwIcrpNodeModuleClass", "classUwIcrpNodeModuleClass.html", null ],
       [ "UwIcrpSinkModuleClass", "classUwIcrpSinkModuleClass.html", null ],
@@ -525,9 +524,7 @@ var hierarchy =
         [ "UnderwaterGainFromDb", "classUnderwaterGainFromDb.html", [
           [ "UnderwaterPhysicalfromdb", "classUnderwaterPhysicalfromdb.html", null ]
         ] ],
-        [ "UnderwaterHMMPhysical", "classUnderwaterHMMPhysical.html", [
-          [ "UnderwaterHMMPhysicalExtended", "classUnderwaterHMMPhysicalExtended.html", null ]
-        ] ],
+        [ "UnderwaterHMMPhysical", "classUnderwaterHMMPhysical.html", null ],
         [ "UnderwaterPhysicalNoise", "classUnderwaterPhysicalNoise.html", null ],
         [ "UnderwaterPhysicaldb", "classUnderwaterPhysicaldb.html", null ],
         [ "UwAhoiPhy", "classUwAhoiPhy.html", null ],

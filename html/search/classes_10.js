@@ -12,7 +12,7 @@ var searchData=
   ['tokenbusheaderclass_9',['TokenBusHeaderClass',['../classTokenBusHeaderClass.html',1,'']]],
   ['tokenbusrangingheaderclass_10',['TokenBusRangingHeaderClass',['../classTokenBusRangingHeaderClass.html',1,'']]],
   ['transmissiontimer_11',['TransmissionTimer',['../classUwCsmaAloha__Trigger__NODE_1_1TransmissionTimer.html',1,'UwCsmaAloha_Trigger_NODE']]],
-  ['triggerheaderclass_12',['triggerheaderclass',['../classTRIGGERHeaderClass.html',1,'TRIGGERHeaderClass'],['../classTriggerHeaderClass.html',1,'TriggerHeaderClass']]],
+  ['triggerheaderclass_12',['triggerheaderclass',['../classTriggerHeaderClass.html',1,'TriggerHeaderClass'],['../classTRIGGERHeaderClass.html',1,'TRIGGERHeaderClass']]],
   ['tx_5fdata_5ftimer_13',['Tx_Data_Timer',['../classUwpolling__NODE_1_1Tx__Data__Timer.html',1,'Uwpolling_NODE']]],
   ['txframetimer_14',['TxFrameTimer',['../classTxFrameTimer.html',1,'']]]
 ];

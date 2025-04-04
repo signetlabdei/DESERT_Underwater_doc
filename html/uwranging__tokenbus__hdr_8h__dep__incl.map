@@ -1,0 +1,7 @@
+<map id="uwranging_tokenbus_hdr.h" name="uwranging_tokenbus_hdr.h">
+<area shape="rect" id="Node000001" title="Common structures and variables in the protocol." alt="" coords="49,5,205,45"/>
+<area shape="rect" id="Node000002" href="$DESERT__Framework_2DESERT_2ranging_2uwranging__tokenbus_2initlib_8cpp.html" title="Provides the initialization of the uwranging_tokenbus libraries." alt="" coords="5,93,92,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,57,62,95,59,91,97,53"/>
+<area shape="rect" id="Node000003" href="$uwranging__tokenbus_8cpp.html" title="Provides the implementation of the class UwRangingTokenBus." alt="" coords="116,93,299,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="158,53,197,91,193,95,155,57"/>
+</map>

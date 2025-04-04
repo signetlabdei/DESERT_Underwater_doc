@@ -1,0 +1,38 @@
+<map id="minterpreterTEL.cpp" name="minterpreterTEL.cpp">
+<area shape="rect" id="Node000001" title="Implementation of the MinterpreterTEL class." alt="" coords="703,5,857,31"/>
+<area shape="rect" id="Node000002" href="$minterpreterTEL_8h.html" title="Class that is in charge of building and parsing the required messages to make the UWMdriver able to c..." alt="" coords="565,79,704,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="758,33,672,75,669,70,755,28"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="5,152,85,177"/>
+<area shape="poly" id="edge17_Node000001_Node000005" title=" " alt="" coords="720,33,99,154,98,149,719,28"/>
+<area shape="rect" id="Node000016" title=" " alt="" coords="729,79,831,104"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="783,31,783,65,777,65,777,31"/>
+<area shape="rect" id="Node000017" title=" " alt="" coords="855,79,921,104"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="799,28,860,69,857,73,796,33"/>
+<area shape="rect" id="Node000018" title=" " alt="" coords="945,79,1004,104"/>
+<area shape="poly" id="edge18_Node000001_Node000018" title=" " alt="" coords="812,28,933,72,931,77,810,33"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="110,152,245,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="566,106,259,153,258,148,565,101"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="269,152,339,177"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="579,107,353,154,352,149,578,101"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="565,101,361,120,100,155,99,149,360,115,565,95"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="364,152,431,177"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="597,107,445,152,443,147,596,101"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="455,152,529,177"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="613,106,529,148,526,143,611,102"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="553,152,623,177"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="629,106,605,142,601,139,625,103"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="648,152,715,177"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="645,103,668,139,664,142,640,106"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="739,152,813,177"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="659,102,742,143,740,148,656,106"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="837,152,933,177"/>
+<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="676,101,832,146,831,151,674,107"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="957,152,1043,177"/>
+<area shape="poly" id="edge11_Node000002_Node000012" title=" " alt="" coords="697,101,944,149,943,154,696,107"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="1067,152,1141,177"/>
+<area shape="poly" id="edge12_Node000002_Node000013" title=" " alt="" coords="705,100,1054,149,1053,155,704,105"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="1166,152,1229,177"/>
+<area shape="poly" id="edge13_Node000002_Node000014" title=" " alt="" coords="704,100,718,101,838,114,934,121,1030,131,1153,150,1152,155,1029,136,933,126,838,119,717,107,704,105"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="1253,152,1320,177"/>
+<area shape="poly" id="edge14_Node000002_Node000015" title=" " alt="" coords="704,100,718,101,863,114,977,121,1093,129,1240,149,1239,155,1092,135,977,126,862,120,717,107,704,105"/>
+</map>

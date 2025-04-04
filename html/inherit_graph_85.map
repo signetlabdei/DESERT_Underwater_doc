@@ -1,0 +1,203 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,2539,80,2564"/>
+<area shape="rect" id="Node000001" href="$classCSMACAModuleClass.html" title=" " alt="" coords="167,5,329,31"/>
+<area shape="poly" id="edge160_Node000000_Node000001" title=" " alt="" coords="41,2525,42,2041,51,1223,61,803,76,435,86,286,97,166,111,83,118,56,126,40,144,25,166,17,168,22,147,30,130,44,123,58,116,84,103,167,91,286,82,436,67,803,57,1223,48,2041,47,2525"/>
+<area shape="rect" id="Node000002" href="$classCSMAModuleClass.html" title="Class that represents the binding with the tcl configuration script." alt="" coords="177,55,319,80"/>
+<area shape="poly" id="edge161_Node000000_Node000002" title=" " alt="" coords="41,2525,43,2050,52,1248,62,836,77,477,87,330,98,213,111,131,118,105,126,90,149,72,176,64,177,69,151,77,130,93,123,107,116,133,103,214,92,330,83,477,68,837,58,1248,48,2050,47,2525"/>
+<area shape="rect" id="Node000003" href="$classDACAPModuleClass.html" title="Class that represent the binding of the protocol with tcl." alt="" coords="173,104,323,129"/>
+<area shape="poly" id="edge162_Node000000_Node000003" title=" " alt="" coords="41,2525,43,2058,53,1273,63,870,78,517,98,260,111,180,118,154,126,139,147,123,171,114,173,119,149,127,130,142,123,156,116,181,104,260,83,518,68,870,58,1273,48,2058,47,2525"/>
+<area shape="rect" id="Node000004" href="$classInterf__FOverlap__Class.html" title=" " alt="" coords="165,153,331,179"/>
+<area shape="poly" id="edge163_Node000000_Node000004" title=" " alt="" coords="41,2525,43,2067,54,1298,64,903,79,559,99,307,111,228,118,203,126,188,143,174,164,165,166,170,146,179,130,192,123,205,117,229,104,307,84,559,69,904,59,1298,49,2067,47,2525"/>
+<area shape="rect" id="Node000005" href="$classInterf__Overlap__Class.html" title=" " alt="" coords="169,203,327,228"/>
+<area shape="poly" id="edge164_Node000000_Node000005" title=" " alt="" coords="41,2525,44,2075,54,1323,65,937,79,600,99,353,112,277,126,238,145,222,168,214,170,219,148,227,130,241,117,278,105,354,85,600,70,937,60,1323,49,2075,47,2525"/>
+<area shape="rect" id="Node000006" href="$classMCLinkClass.html" title=" " alt="" coords="195,252,301,277"/>
+<area shape="poly" id="edge165_Node000000_Node000006" title=" " alt="" coords="41,2525,44,2084,55,1348,65,971,80,641,100,400,112,325,126,287,140,274,158,266,194,259,196,264,159,271,143,279,130,290,117,327,105,401,86,641,71,971,60,1348,49,2084,47,2525"/>
+<area shape="rect" id="Node000007" href="$classMCLinkExtendedClass.html" title=" " alt="" coords="165,301,331,327"/>
+<area shape="poly" id="edge166_Node000000_Node000007" title=" " alt="" coords="41,2525,44,2092,56,1373,66,1004,81,682,100,447,112,374,126,336,143,322,163,314,165,318,146,327,130,340,117,375,106,447,86,682,72,1004,61,1373,50,2092,47,2525"/>
+<area shape="rect" id="Node000008" href="$classMInterferenceMIVWkUPClass.html" title="Class that represents the binding with the tcl configuration script." alt="" coords="142,351,354,376"/>
+<area shape="poly" id="edge167_Node000000_Node000008" title=" " alt="" coords="41,2525,45,2102,56,1398,67,1038,82,723,101,494,112,422,126,386,140,374,143,378,130,389,118,423,106,494,87,724,72,1038,62,1398,50,2102,47,2525"/>
+<area shape="rect" id="Node000009" href="$classMPhy__WakeUpClass.html" title="Class that represents the binding with the tcl configuration script." alt="" coords="171,400,325,425"/>
+<area shape="poly" id="edge168_Node000000_Node000009" title=" " alt="" coords="41,2525,45,2110,57,1423,68,1071,82,765,101,540,113,471,126,435,146,419,170,410,172,415,149,424,130,438,118,472,107,541,88,765,73,1072,63,1423,50,2110,47,2525"/>
+<area shape="rect" id="Node000010" href="$classMS2C__Evo__lowlev__TclClass.html" title="Class to create the Otcl shadow object for an object of the class MS2C_Evo_lowlev." alt="" coords="149,449,347,475"/>
+<area shape="poly" id="edge169_Node000000_Node000010" title=" " alt="" coords="41,2525,45,2118,58,1447,69,1104,83,805,102,587,113,519,126,484,147,468,150,472,130,488,118,520,107,588,88,806,74,1105,63,1447,51,2118,47,2525"/>
+<area shape="rect" id="Node000011" href="$classPackerCOMMONClass.html" title="Class to create the Otcl shadow object for an object of the class packer." alt="" coords="167,499,329,524"/>
+<area shape="poly" id="edge170_Node000000_Node000011" title=" " alt="" coords="42,2525,46,2127,59,1473,69,1138,84,847,102,634,113,568,126,534,144,519,165,510,167,515,147,524,130,537,118,569,108,634,89,847,75,1139,64,1473,51,2127,47,2525"/>
+<area shape="rect" id="Node000012" href="$classPackerClass.html" title="Class to create the Otcl shadow object for an object of the class packer." alt="" coords="199,548,297,573"/>
+<area shape="poly" id="edge171_Node000000_Node000012" title=" " alt="" coords="42,2525,46,2136,59,1498,70,1172,85,888,103,681,114,616,126,583,141,570,160,561,198,555,199,560,161,566,144,574,130,586,119,617,108,681,90,888,76,1172,65,1498,51,2136,47,2525"/>
+<area shape="rect" id="Node000013" href="$classPackerMACClass.html" title="Class to create the Otcl shadow object for an object of the class packer." alt="" coords="183,597,313,623"/>
+<area shape="poly" id="edge172_Node000000_Node000013" title=" " alt="" coords="42,2525,47,2145,60,1523,71,1206,85,929,103,727,114,664,126,632,152,614,182,606,183,611,154,619,130,636,119,666,109,728,91,930,76,1206,65,1523,52,2145,47,2525"/>
+<area shape="rect" id="Node000014" href="$classPackerUWCBRClass.html" title="Class to create the Otcl shadow object for an object of the class packer." alt="" coords="173,647,323,672"/>
+<area shape="poly" id="edge173_Node000000_Node000014" title=" " alt="" coords="42,2525,47,2153,61,1548,72,1239,86,970,104,774,114,713,126,682,147,665,172,657,174,662,150,670,130,685,119,714,109,775,91,971,77,1240,66,1548,52,2154,47,2525"/>
+<area shape="rect" id="Node000015" href="$classPackerUWIPClass.html" title="Class to create the Otcl shadow object for an object of the class packer." alt="" coords="181,696,315,721"/>
+<area shape="poly" id="edge174_Node000000_Node000015" title=" " alt="" coords="42,2525,47,2162,62,1573,73,1273,87,1012,104,821,114,761,126,731,151,713,180,705,181,710,153,718,130,734,120,763,110,821,92,1012,78,1273,67,1573,53,2162,47,2525"/>
+<area shape="rect" id="Node000016" href="$classPackerUWUDPClass.html" title="Class to create the Otcl shadow object for an object of the class packer." alt="" coords="173,745,323,771"/>
+<area shape="poly" id="edge175_Node000000_Node000016" title=" " alt="" coords="42,2525,48,2171,62,1599,74,1307,88,1053,105,868,115,810,126,780,147,764,171,756,173,761,149,769,130,784,120,811,110,868,93,1053,79,1307,68,1599,53,2171,47,2525"/>
+<area shape="rect" id="Node000017" href="$classPackerUwApplicationClass.html" title=" " alt="" coords="151,795,345,820"/>
+<area shape="poly" id="edge176_Node000000_Node000017" title=" " alt="" coords="42,2525,48,2180,63,1624,74,1341,88,1094,105,914,115,858,126,830,149,812,152,817,130,833,120,860,111,915,94,1095,80,1341,68,1624,53,2181,47,2525"/>
+<area shape="rect" id="Node000018" href="$classPackerUwRangingTDOAClass.html" title=" " alt="" coords="143,844,353,869"/>
+<area shape="poly" id="edge177_Node000000_Node000018" title=" " alt="" coords="42,2525,48,2190,64,1649,75,1375,89,1136,106,961,115,907,126,879,141,866,144,870,130,882,120,908,111,962,94,1136,80,1375,69,1649,54,2190,47,2525"/>
+<area shape="rect" id="Node000019" href="$classPackerUwUFetchClass.html" title=" " alt="" coords="165,893,331,919"/>
+<area shape="poly" id="edge178_Node000000_Node000019" title=" " alt="" coords="42,2525,49,2197,65,1674,76,1408,90,1177,106,1008,116,955,126,928,143,914,164,905,166,910,146,919,130,932,121,957,112,1009,95,1177,81,1408,70,1674,54,2198,47,2525"/>
+<area shape="rect" id="Node000020" href="$classPackerUwfloodingClass.html" title="Class to create the Otcl shadow object for an object of the class packer." alt="" coords="162,943,334,968"/>
+<area shape="poly" id="edge179_Node000000_Node000020" title=" " alt="" coords="42,2525,49,2207,65,1699,77,1442,91,1218,107,1055,116,1004,126,978,142,964,161,956,163,961,145,969,130,981,121,1005,112,1055,96,1218,82,1442,71,1699,54,2207,47,2525"/>
+<area shape="rect" id="Node000021" href="$classPackerUwpollingClass.html" title=" " alt="" coords="166,992,330,1017"/>
+<area shape="poly" id="edge180_Node000000_Node000021" title=" " alt="" coords="42,2524,50,2215,66,1724,78,1475,91,1259,107,1101,116,1052,126,1027,144,1013,165,1004,167,1009,146,1017,130,1030,121,1054,113,1102,97,1259,83,1475,71,1724,55,2215,47,2524"/>
+<area shape="rect" id="Node000022" href="$classSunNodeModuleClass.html" title="Adds the module for SunIPRoutingNode in ns2." alt="" coords="167,1041,329,1067"/>
+<area shape="poly" id="edge181_Node000000_Node000022" title=" " alt="" coords="42,2525,50,2225,67,1750,78,1509,92,1300,108,1148,116,1101,126,1076,144,1062,165,1053,167,1058,147,1066,130,1080,122,1102,113,1149,97,1301,84,1510,72,1750,55,2225,47,2525"/>
+<area shape="rect" id="Node000023" href="$classSunSinkModuleClass.html" title="Adds the module for SunIPRoutingSink in ns2." alt="" coords="169,1091,327,1116"/>
+<area shape="poly" id="edge182_Node000000_Node000023" title=" " alt="" coords="42,2524,50,2233,68,1775,79,1543,93,1342,108,1195,117,1149,126,1126,145,1110,168,1102,170,1107,148,1115,130,1129,122,1151,114,1196,98,1342,85,1543,73,1775,56,2233,47,2525"/>
+<area shape="rect" id="Node000024" href="$classTDMAModuleClass.html" title="Class that represent the binding of the protocol with tcl." alt="" coords="176,1140,320,1165"/>
+<area shape="poly" id="edge183_Node000000_Node000024" title=" " alt="" coords="41,2525,41,2252,48,1822,58,1601,73,1406,83,1324,95,1257,109,1206,126,1175,148,1158,175,1150,176,1155,151,1163,130,1178,114,1208,101,1258,89,1325,79,1406,63,1602,53,1822,46,2252,46,2525"/>
+<area shape="rect" id="Node000025" href="$classTDMA__FRAMEModuleClass.html" title="Class that represent the binding of the protocol with tcl." alt="" coords="149,1189,347,1215"/>
+<area shape="poly" id="edge184_Node000000_Node000025" title=" " alt="" coords="41,2525,41,2261,50,1846,60,1634,75,1446,96,1303,110,1254,126,1224,148,1208,151,1212,130,1228,115,1256,102,1304,80,1447,65,1635,55,1846,47,2261,46,2525"/>
+<area shape="rect" id="Node000026" href="$classTLOHIModuleClass.html" title="Class that represent the binding with the tcl configuration script." alt="" coords="176,1239,320,1264"/>
+<area shape="poly" id="edge185_Node000000_Node000026" title=" " alt="" coords="41,2525,42,2270,51,1872,61,1668,76,1487,97,1349,111,1303,126,1274,148,1257,175,1248,176,1253,151,1262,130,1277,115,1305,102,1350,81,1488,66,1668,56,1872,47,2270,47,2525"/>
+<area shape="rect" id="Node000027" href="$classUDPPositionClass.html" title=" " alt="" coords="179,1288,317,1313"/>
+<area shape="poly" id="edge186_Node000000_Node000027" title=" " alt="" coords="41,2525,43,2278,53,1895,63,1700,78,1527,98,1395,111,1351,126,1323,150,1305,179,1297,180,1302,152,1310,130,1326,116,1353,103,1397,83,1528,68,1700,58,1896,48,2278,47,2525"/>
+<area shape="rect" id="Node000028" href="$classUWALOHAModuleClass.html" title="Class that describe the binding with tcl scripting language." alt="" coords="162,1337,334,1363"/>
+<area shape="poly" id="edge187_Node000000_Node000028" title=" " alt="" coords="41,2525,44,2287,54,1920,64,1733,79,1568,99,1442,112,1399,126,1372,142,1359,160,1351,163,1356,145,1364,130,1376,117,1401,104,1443,84,1568,70,1733,59,1920,49,2287,47,2525"/>
+<area shape="rect" id="Node000029" href="$classUWIPModuleClass.html" title="Adds the module for UWIPModuleClass in ns2." alt="" coords="178,1387,318,1412"/>
+<area shape="poly" id="edge188_Node000000_Node000029" title=" " alt="" coords="41,2525,44,2297,55,1946,66,1767,81,1609,100,1488,112,1447,126,1422,149,1405,177,1396,178,1401,152,1409,130,1425,117,1449,105,1489,86,1609,71,1767,61,1946,50,2297,47,2525"/>
+<area shape="rect" id="Node000030" href="$classUWMPhypatchClass.html" title="Class to create the Otcl shadow object for an object of the class UWMPhypatch." alt="" coords="172,1436,324,1461"/>
+<area shape="poly" id="edge189_Node000000_Node000030" title=" " alt="" coords="42,2525,45,2305,57,1970,68,1800,82,1649,101,1534,113,1495,126,1471,147,1455,171,1447,173,1452,149,1460,130,1474,118,1497,106,1535,87,1650,73,1800,62,1970,50,2305,47,2525"/>
+<area shape="rect" id="Node000031" href="$classUWMllModuleClass.html" title="Class that represents the binding with the tcl configuration script." alt="" coords="174,1485,322,1511"/>
+<area shape="poly" id="edge190_Node000000_Node000031" title=" " alt="" coords="42,2525,46,2314,59,1994,69,1832,84,1689,102,1580,113,1543,126,1520,148,1504,173,1496,175,1501,150,1509,130,1524,118,1545,107,1582,89,1690,75,1833,64,1995,51,2314,47,2525"/>
+<area shape="rect" id="Node000032" href="$classUWOFDMALOHAModuleClass.html" title="Class that describe the binding with tcl scripting language." alt="" coords="141,1535,355,1560"/>
+<area shape="poly" id="edge191_Node000000_Node000032" title=" " alt="" coords="42,2525,47,2324,60,2020,71,1866,85,1730,103,1627,114,1591,126,1570,140,1558,143,1562,130,1573,119,1594,108,1628,90,1731,76,1866,65,2020,52,2324,47,2525"/>
+<area shape="rect" id="Node000033" href="$classUWSMARTOFDMModuleClass.html" title="Class that describe the binding with tcl scripting language." alt="" coords="141,1584,355,1609"/>
+<area shape="poly" id="edge192_Node000000_Node000033" title=" " alt="" coords="42,2525,48,2333,62,2045,73,1899,87,1771,104,1673,114,1640,126,1619,140,1607,143,1611,130,1622,119,1642,109,1674,92,1771,78,1899,67,2045,53,2333,47,2525"/>
+<area shape="rect" id="Node000034" href="$classUWSMPositionClass.html" title=" " alt="" coords="172,1633,324,1659"/>
+<area shape="poly" id="edge193_Node000000_Node000034" title=" " alt="" coords="42,2525,48,2342,63,2070,74,1932,88,1811,105,1719,115,1688,126,1668,147,1653,171,1644,172,1649,149,1657,130,1672,120,1690,110,1720,93,1812,79,1933,68,2070,54,2342,47,2525"/>
+<area shape="rect" id="Node000035" href="$classUWSRModuleClass.html" title="Class that represents the binding with tcl scripting language." alt="" coords="175,1683,321,1708"/>
+<area shape="poly" id="edge194_Node000000_Node000035" title=" " alt="" coords="42,2524,49,2350,65,2094,76,1965,90,1851,106,1765,116,1736,126,1718,148,1701,174,1693,176,1698,151,1706,130,1721,120,1738,111,1767,95,1852,81,1965,70,2094,55,2350,48,2525"/>
+<area shape="rect" id="Node000036" href="$classUnderwaterGainFromDbClass.html" title=" " alt="" coords="141,1732,355,1757"/>
+<area shape="poly" id="edge195_Node000000_Node000036" title=" " alt="" coords="42,2525,50,2360,66,2119,78,1998,91,1892,107,1812,116,1784,126,1767,140,1755,143,1760,130,1770,121,1786,112,1813,96,1893,83,1999,72,2120,56,2360,48,2525"/>
+<area shape="rect" id="Node000037" href="$classUnderwaterPhysicaldbClass.html" title=" " alt="" coords="147,1781,349,1807"/>
+<area shape="poly" id="edge196_Node000000_Node000037" title=" " alt="" coords="43,2525,51,2370,68,2145,93,1934,108,1859,117,1834,126,1818,145,1803,148,1807,130,1821,122,1836,113,1861,98,1935,73,2146,57,2370,48,2525"/>
+<area shape="rect" id="Node000038" href="$classUnderwaterPhysicalfromdbClass.html" title=" " alt="" coords="149,1831,347,1871"/>
+<area shape="poly" id="edge197_Node000000_Node000038" title=" " alt="" coords="41,2525,42,2392,51,2199,61,2100,76,2009,97,1934,111,1904,126,1882,147,1865,150,1869,130,1885,115,1907,102,1935,81,2010,66,2100,56,2199,47,2392,46,2525"/>
+<area shape="rect" id="Node000039" href="$classUwAhoiModem__TclClass.html" title="Class to create the Otcl shadow object for an object of the class UwAhoiModem." alt="" coords="158,1896,338,1921"/>
+<area shape="poly" id="edge198_Node000000_Node000039" title=" " alt="" coords="41,2525,42,2399,52,2221,62,2130,78,2046,98,1978,111,1951,126,1931,140,1919,157,1911,159,1916,143,1924,130,1935,116,1954,103,1980,83,2048,68,2131,58,2222,48,2400,46,2525"/>
+<area shape="rect" id="Node000040" href="$classUwAhoiPhyClass.html" title="Adds the module for UwCbrModuleClass in ns2." alt="" coords="183,1945,313,1971"/>
+<area shape="poly" id="edge199_Node000000_Node000040" title=" " alt="" coords="41,2525,44,2409,55,2245,66,2162,81,2086,100,2023,112,1999,126,1980,152,1963,182,1955,183,1960,154,1968,130,1984,117,2002,105,2025,86,2087,71,2163,61,2246,49,2409,47,2525"/>
+<area shape="rect" id="Node000041" href="$classUwCbrModuleClass.html" title="Adds the module for UwCbrModuleClass in ns2." alt="" coords="174,1995,322,2020"/>
+<area shape="poly" id="edge200_Node000000_Node000041" title=" " alt="" coords="42,2524,46,2417,59,2269,70,2194,84,2126,102,2069,126,2031,148,2015,173,2007,175,2012,150,2020,130,2034,107,2072,89,2127,75,2195,64,2270,52,2417,47,2525"/>
+<area shape="rect" id="Node000042" href="$classUwCsmaAloha__Trigger__NODEModuleClass.html" title=" " alt="" coords="164,2045,332,2085"/>
+<area shape="poly" id="edge201_Node000000_Node000042" title=" " alt="" coords="43,2525,49,2430,64,2302,75,2237,88,2177,105,2129,126,2095,143,2081,163,2072,165,2076,146,2086,130,2098,110,2131,94,2179,80,2238,69,2302,55,2431,48,2525"/>
+<area shape="rect" id="Node000043" href="$classUwCsmaAloha__Trigger__SINKModuleClass.html" title="Class that represents the binding with the tcl configuration script." alt="" coords="164,2109,332,2149"/>
+<area shape="poly" id="edge202_Node000000_Node000043" title=" " alt="" coords="44,2524,52,2442,68,2332,92,2228,108,2187,126,2159,143,2145,162,2136,165,2141,146,2150,130,2162,113,2190,97,2230,73,2333,57,2442,49,2525"/>
+<area shape="rect" id="Node000044" href="$classUwElectroMagneticAntennaClass.html" title=" " alt="" coords="147,2173,349,2213"/>
+<area shape="poly" id="edge203_Node000000_Node000044" title=" " alt="" coords="45,2525,55,2454,73,2364,96,2279,110,2246,126,2223,145,2209,148,2213,130,2227,115,2248,101,2281,78,2365,61,2455,50,2525"/>
+<area shape="rect" id="Node000045" href="$classUwElectroMagneticChannelClass.html" title="Adds the module for UwElectroMagneticChannel in ns2." alt="" coords="147,2237,349,2277"/>
+<area shape="poly" id="edge204_Node000000_Node000045" title=" " alt="" coords="42,2524,47,2474,59,2410,84,2344,103,2314,126,2287,146,2273,149,2277,130,2291,107,2317,89,2346,65,2412,52,2475,47,2525"/>
+<area shape="rect" id="Node000046" href="$classUwElectroMagneticMPropagationClass.html" title="Class that represents the binding with the tcl configuration script." alt="" coords="129,2301,367,2341"/>
+<area shape="poly" id="edge205_Node000000_Node000046" title=" " alt="" coords="45,2525,53,2486,68,2439,92,2392,108,2370,126,2351,144,2338,147,2343,130,2355,112,2373,97,2394,73,2441,58,2487,50,2526"/>
+<area shape="rect" id="Node000047" href="$classUwElectroMagneticPhyClass.html" title=" " alt="" coords="145,2365,351,2391"/>
+<area shape="poly" id="edge206_Node000000_Node000047" title=" " alt="" coords="49,2525,59,2495,75,2461,98,2428,126,2400,147,2389,149,2393,130,2404,102,2431,80,2464,64,2497,54,2527"/>
+<area shape="rect" id="Node000048" href="$classUwEvoLogicsS2C__TclClass.html" title="Class to create the Otcl shadow object for an object of the class UwEvoLogicsS2CModem." alt="" coords="152,2415,344,2440"/>
+<area shape="poly" id="edge207_Node000000_Node000048" title=" " alt="" coords="56,2525,85,2486,104,2466,127,2449,151,2438,154,2443,129,2454,108,2470,89,2489,60,2528"/>
+<area shape="rect" id="Node000049" href="$classUwFloodingModuleClass.html" title="Adds the module for SunIPRoutingSink in ns2." alt="" coords="157,2464,339,2489"/>
+<area shape="poly" id="edge208_Node000000_Node000049" title=" " alt="" coords="71,2529,97,2512,127,2498,164,2487,165,2492,129,2503,100,2517,74,2533"/>
+<area shape="rect" id="Node000050" href="$classUwGMPositionClass.html" title="Adds the module for UwGMPositionClass in ns2." alt="" coords="172,2513,324,2539"/>
+<area shape="poly" id="edge209_Node000000_Node000050" title=" " alt="" coords="94,2542,171,2533,172,2538,94,2548"/>
+<area shape="rect" id="Node000051" href="$classUwHMMPhysicalClass.html" title=" " alt="" coords="165,2563,331,2588"/>
+<area shape="poly" id="edge210_Node000000_Node000051" title=" " alt="" coords="94,2555,165,2563,164,2568,93,2560"/>
+<area shape="rect" id="Node000052" href="$classUwHermesPhyClass.html" title="Adds the module for UwCbrModuleClass in ns2." alt="" coords="171,2612,325,2637"/>
+<area shape="poly" id="edge211_Node000000_Node000052" title=" " alt="" coords="75,2569,129,2597,172,2610,170,2615,127,2602,73,2574"/>
+<area shape="rect" id="Node000053" href="$classUwIcrpNodeModuleClass.html" title="Adds the module for UwIcrpNodeModuleClass in ns2." alt="" coords="156,2661,340,2687"/>
+<area shape="poly" id="edge212_Node000000_Node000053" title=" " alt="" coords="61,2574,90,2612,108,2631,129,2646,157,2659,155,2664,127,2651,105,2635,86,2616,57,2578"/>
+<area shape="rect" id="Node000054" href="$classUwIcrpSinkModuleClass.html" title="Adds the module for UwIcrpSinkModuleClass in ns2." alt="" coords="159,2711,337,2736"/>
+<area shape="poly" id="edge213_Node000000_Node000054" title=" " alt="" coords="54,2576,81,2638,102,2669,130,2696,159,2711,157,2716,126,2700,98,2673,76,2640,49,2579"/>
+<area shape="rect" id="Node000055" href="$classUwMODAModem__TclClass.html" title="Class to create the Otcl shadow object for an object of the class UwMODAModem." alt="" coords="152,2760,344,2785"/>
+<area shape="poly" id="edge214_Node000000_Node000055" title=" " alt="" coords="50,2577,58,2616,73,2661,96,2707,112,2728,130,2745,153,2759,150,2763,126,2749,108,2731,92,2710,68,2663,53,2617,45,2579"/>
+<area shape="rect" id="Node000056" href="$classUwMissionCoordinatorModuleClass.html" title="Class that represents the binding with the tcl configuration script." alt="" coords="139,2810,357,2850"/>
+<area shape="poly" id="edge215_Node000000_Node000056" title=" " alt="" coords="48,2577,54,2624,67,2683,91,2743,109,2771,130,2795,148,2808,145,2812,126,2799,104,2774,87,2746,62,2684,48,2625,43,2578"/>
+<area shape="rect" id="Node000057" href="$classUwModemCSA__TclClass.html" title="Class to create the Otcl shadow object for an object of the class UwModemCSA." alt="" coords="159,2875,337,2900"/>
+<area shape="poly" id="edge216_Node000000_Node000057" title=" " alt="" coords="50,2577,61,2644,78,2729,102,2809,115,2840,130,2860,160,2878,157,2882,126,2864,111,2842,97,2811,73,2731,56,2645,45,2578"/>
+<area shape="rect" id="Node000058" href="$classUwMultiDestinationClass.html" title="Class that represents the binding with the tcl configuration script." alt="" coords="155,2924,341,2949"/>
+<area shape="poly" id="edge217_Node000000_Node000058" title=" " alt="" coords="49,2577,58,2654,75,2754,99,2849,113,2885,130,2909,156,2926,153,2930,126,2913,109,2888,94,2851,69,2755,53,2655,44,2578"/>
+<area shape="rect" id="Node000059" href="$classUwMultiPhyControlClass.html" title="Class that represents the binding with the tcl configuration script." alt="" coords="157,2973,339,2999"/>
+<area shape="poly" id="edge218_Node000000_Node000059" title=" " alt="" coords="48,2577,56,2664,71,2779,96,2888,111,2931,130,2959,158,2976,155,2981,126,2963,107,2933,90,2890,66,2780,51,2665,43,2578"/>
+<area shape="rect" id="Node000060" href="$classUwMultiStackControllerClass.html" title="Class that represents the binding with the tcl configuration script." alt="" coords="143,3023,353,3048"/>
+<area shape="poly" id="edge219_Node000000_Node000060" title=" " alt="" coords="48,2578,54,2674,68,2803,79,2869,93,2928,110,2976,130,3008,146,3020,143,3025,126,3012,105,2978,87,2929,74,2870,63,2804,49,2674,42,2578"/>
+<area shape="rect" id="Node000061" href="$classUwMultiStackControllerPhyClass.html" title="Class that represents the binding with the tcl configuration script." alt="" coords="148,3073,348,3113"/>
+<area shape="poly" id="edge220_Node000000_Node000061" title=" " alt="" coords="47,2577,53,2682,66,2826,77,2899,91,2966,108,3021,130,3058,150,3073,146,3077,126,3061,104,3023,86,2967,71,2900,61,2827,47,2682,42,2578"/>
+<area shape="rect" id="Node000062" href="$classUwMultiStackControllerPhyMasterClass.html" title="Class that represents the binding with the tcl configuration script." alt="" coords="148,3137,348,3177"/>
+<area shape="poly" id="edge221_Node000000_Node000062" title=" " alt="" coords="47,2578,50,2694,62,2858,72,2942,87,3018,106,3081,117,3105,130,3123,150,3138,146,3142,126,3126,113,3107,101,3083,82,3019,67,2942,56,2858,45,2694,41,2578"/>
+<area shape="rect" id="Node000063" href="$classUwMultiStackControllerPhySlaveClass.html" title="Class that represents the binding with the tcl configuration script." alt="" coords="148,3201,348,3241"/>
+<area shape="poly" id="edge222_Node000000_Node000063" title=" " alt="" coords="46,2578,48,2707,58,2890,68,2983,83,3069,104,3139,116,3166,130,3187,149,3202,146,3207,126,3190,111,3169,99,3141,78,3070,63,2984,53,2890,43,2707,41,2578"/>
+<area shape="rect" id="Node000064" href="$classUwMultiTrafficControlClass.html" title="Class that represents the binding with the tcl configuration script." alt="" coords="149,3265,347,3291"/>
+<area shape="poly" id="edge223_Node000000_Node000064" title=" " alt="" coords="48,2577,57,2727,74,2941,99,3142,114,3213,122,3237,130,3251,151,3266,147,3270,126,3254,117,3239,109,3215,94,3143,69,2942,52,2727,43,2578"/>
+<area shape="rect" id="Node000065" href="$classUwMultiTrafficRangeCtrClass.html" title="Class that represents the binding with the tcl configuration script." alt="" coords="143,3315,353,3340"/>
+<area shape="poly" id="edge224_Node000000_Node000065" title=" " alt="" coords="48,2578,56,2737,73,2967,84,3082,98,3183,113,3260,121,3285,130,3300,145,3312,142,3317,126,3304,117,3287,108,3261,92,3184,79,3083,67,2967,51,2737,42,2578"/>
+<area shape="rect" id="Node000066" href="$classUwOFDMPhyClass.html" title=" " alt="" coords="177,3364,319,3389"/>
+<area shape="poly" id="edge225_Node000000_Node000066" title=" " alt="" coords="48,2577,55,2745,71,2991,82,3115,96,3224,112,3306,121,3333,130,3350,151,3365,177,3374,176,3379,149,3370,126,3353,116,3335,107,3307,91,3224,77,3116,66,2992,50,2746,42,2578"/>
+<area shape="rect" id="Node000067" href="$classUwOpticalBeamPatternClass.html" title=" " alt="" coords="144,3413,352,3439"/>
+<area shape="poly" id="edge226_Node000000_Node000067" title=" " alt="" coords="47,2578,54,2755,70,3017,81,3149,95,3264,111,3352,120,3382,130,3399,146,3412,142,3416,126,3402,115,3384,106,3354,89,3265,75,3149,64,3017,49,2755,42,2578"/>
+<area shape="rect" id="Node000068" href="$classUwOpticalChannelClass.html" title="Adds the module for UwOpticalChannel in ns2." alt="" coords="159,3463,337,3488"/>
+<area shape="poly" id="edge227_Node000000_Node000068" title=" " alt="" coords="47,2578,54,2765,68,3042,79,3182,93,3305,110,3399,120,3430,130,3448,144,3460,160,3468,158,3473,141,3464,126,3452,115,3432,105,3400,88,3306,74,3182,63,3042,48,2765,42,2578"/>
+<area shape="rect" id="Node000069" href="$classUwOpticalMPropagationClass.html" title="Class that represents the binding with the tcl configuration script." alt="" coords="141,3512,355,3537"/>
+<area shape="poly" id="edge228_Node000000_Node000069" title=" " alt="" coords="47,2578,53,2774,67,3067,77,3215,92,3346,109,3445,119,3478,130,3498,145,3510,141,3514,126,3501,114,3480,104,3446,86,3347,72,3216,61,3067,47,2774,42,2578"/>
+<area shape="rect" id="Node000070" href="$classUwOpticalPhyClass.html" title=" " alt="" coords="174,3561,322,3587"/>
+<area shape="poly" id="edge229_Node000000_Node000070" title=" " alt="" coords="47,2578,52,2783,65,3092,76,3248,90,3386,108,3491,119,3526,130,3547,150,3562,175,3571,173,3576,148,3567,126,3550,114,3528,103,3492,85,3387,71,3249,60,3092,47,2783,42,2578"/>
+<area shape="rect" id="Node000071" href="$classUwPhysicalClass.html" title=" " alt="" coords="182,3611,314,3636"/>
+<area shape="poly" id="edge230_Node000000_Node000071" title=" " alt="" coords="47,2578,51,2792,63,3116,74,3281,89,3427,107,3537,118,3574,130,3596,154,3613,183,3621,181,3626,151,3618,126,3600,113,3576,102,3538,83,3427,69,3282,58,3117,46,2792,42,2578"/>
+<area shape="rect" id="Node000072" href="$classUwPhysicalNoiseClass.html" title=" " alt="" coords="163,3660,333,3685"/>
+<area shape="poly" id="edge231_Node000000_Node000072" title=" " alt="" coords="47,2578,50,2800,62,3141,73,3314,87,3467,106,3583,118,3622,130,3646,145,3658,164,3667,162,3671,143,3663,126,3649,113,3624,101,3585,82,3468,67,3314,57,3141,45,2800,42,2578"/>
+<area shape="rect" id="Node000073" href="$classUwPhysicalRogersModelClass.html" title=" " alt="" coords="139,3709,357,3735"/>
+<area shape="poly" id="edge232_Node000000_Node000073" title=" " alt="" coords="47,2578,49,2809,61,3166,71,3347,86,3508,105,3630,117,3671,130,3695,144,3707,141,3711,126,3698,112,3673,100,3631,80,3508,66,3348,55,3166,44,2809,41,2578"/>
+<area shape="rect" id="Node000074" href="$classUwPosBasedRtModuleClass.html" title=" " alt="" coords="147,3759,349,3784"/>
+<area shape="poly" id="edge233_Node000000_Node000074" title=" " alt="" coords="47,2577,49,2817,59,3190,69,3380,84,3548,104,3676,116,3719,130,3744,148,3759,145,3763,126,3748,112,3721,99,3677,79,3549,64,3380,54,3190,43,2817,41,2577"/>
+<area shape="rect" id="Node000075" href="$classUwPosBasedRtROVModuleClass.html" title=" " alt="" coords="133,3808,363,3833"/>
+<area shape="poly" id="edge234_Node000000_Node000075" title=" " alt="" coords="47,2578,48,2827,58,3215,68,3413,83,3589,103,3722,116,3767,130,3794,144,3806,141,3810,126,3797,111,3769,98,3723,77,3589,62,3414,52,3216,43,2827,41,2578"/>
+<area shape="rect" id="Node000076" href="$classUwROVCtrModuleClass.html" title="Adds the module for UwROVModuleClass in ns2." alt="" coords="161,3857,335,3883"/>
+<area shape="poly" id="edge235_Node000000_Node000076" title=" " alt="" coords="47,2578,47,2836,56,3240,66,3446,81,3629,102,3768,115,3815,130,3843,144,3855,162,3863,160,3868,142,3860,126,3846,110,3817,97,3770,76,3630,61,3447,51,3240,42,2836,41,2578"/>
+<area shape="rect" id="Node000077" href="$classUwROVModuleClass.html" title="Adds the header for hdr_uwROV packets in ns2." alt="" coords="171,3907,325,3932"/>
+<area shape="poly" id="edge236_Node000000_Node000077" title=" " alt="" coords="46,2578,47,2845,55,3264,65,3479,80,3670,101,3815,115,3863,130,3892,149,3907,171,3915,170,3920,146,3911,126,3896,110,3865,96,3816,74,3670,59,3480,49,3264,41,2845,41,2578"/>
+<area shape="rect" id="Node000078" href="$classUwRangingTDMAModuleClass.html" title="Class that represent the binding of the protocol with tcl." alt="" coords="139,3956,357,3981"/>
+<area shape="poly" id="edge237_Node000000_Node000078" title=" " alt="" coords="46,2578,46,2854,53,3290,63,3513,78,3710,88,3793,100,3861,114,3911,130,3942,144,3954,141,3958,126,3945,109,3913,95,3862,83,3794,73,3711,58,3513,48,3290,40,2854,41,2578"/>
+<area shape="rect" id="Node000079" href="$classUwRangingTDOAModuleClass.html" title="Class that represent the binding of the protocol with tcl." alt="" coords="140,4005,356,4031"/>
+<area shape="poly" id="edge238_Node000000_Node000079" title=" " alt="" coords="47,2578,56,2872,73,3336,84,3571,98,3775,113,3923,122,3969,130,3991,144,4003,141,4007,126,3994,117,3970,108,3924,93,3775,79,3571,67,3336,50,2872,42,2578"/>
+<area shape="rect" id="Node000080" href="$classUwRangingTokenBusModuleClass.html" title="Class that represent the binding of the protocol with tcl." alt="" coords="128,4055,368,4080"/>
+<area shape="poly" id="edge239_Node000000_Node000080" title=" " alt="" coords="47,2578,55,2880,72,3361,84,3604,97,3816,113,3970,122,4017,130,4040,144,4052,141,4057,126,4044,116,4019,108,3971,92,3816,78,3605,67,3361,50,2881,42,2578"/>
+<area shape="rect" id="Node000081" href="$classUwSCFTrackerModuleClass.html" title="Class that represents the binding with the tcl configuration script." alt="" coords="150,4104,346,4129"/>
+<area shape="poly" id="edge240_Node000000_Node000081" title=" " alt="" coords="47,2578,55,2890,71,3387,83,3639,97,3857,113,4017,121,4066,130,4090,151,4106,148,4110,126,4093,116,4067,107,4018,91,3858,77,3639,66,3387,49,2890,42,2578"/>
+<area shape="rect" id="Node000082" href="$classUwSCROVCtrModuleClass.html" title="Class that represents the binding with the tcl configuration script." alt="" coords="153,4153,343,4179"/>
+<area shape="poly" id="edge241_Node000000_Node000082" title=" " alt="" coords="47,2577,54,2898,70,3411,82,3672,96,3898,112,4064,121,4114,130,4139,154,4156,151,4161,126,4142,116,4116,107,4064,90,3899,77,3672,65,3412,49,2898,42,2578"/>
+<area shape="rect" id="Node000083" href="$classUwSCTrackerModuleClass.html" title="Class that represents the binding with the tcl configuration script." alt="" coords="153,4203,343,4228"/>
+<area shape="poly" id="edge242_Node000000_Node000083" title=" " alt="" coords="47,2578,54,2909,70,3438,81,3707,95,3940,112,4111,121,4163,130,4188,155,4206,152,4210,126,4192,116,4164,106,4111,90,3941,76,3707,64,3438,49,2909,42,2578"/>
+<area shape="rect" id="Node000084" href="$classUwStaticRoutingModuleClass.html" title="Adds the module for UwStaticRoutingModuleClass in ns2." alt="" coords="141,4252,355,4277"/>
+<area shape="poly" id="edge243_Node000000_Node000084" title=" " alt="" coords="47,2578,54,2917,69,3462,80,3740,94,3981,111,4157,120,4211,130,4238,144,4250,141,4254,126,4241,115,4213,106,4158,89,3982,75,3740,64,3463,48,2917,42,2578"/>
+<area shape="rect" id="Node000085" href="$classUwTapClass.html" title="Class that represents the binding with the tcl configuration script." alt="" coords="198,4301,298,4327"/>
+<area shape="poly" id="edge244_Node000000_Node000085" title=" " alt="" coords="47,2578,53,2926,68,3488,80,3774,94,4022,111,4204,120,4260,130,4287,144,4299,161,4307,198,4314,197,4319,159,4312,141,4303,126,4290,115,4261,105,4205,88,4023,74,3774,63,3488,48,2926,42,2578"/>
+<area shape="rect" id="Node000086" href="$classUwTokenBusModuleClass.html" title="Class that represent the binding of the protocol with tcl." alt="" coords="155,4351,341,4376"/>
+<area shape="poly" id="edge245_Node000000_Node000086" title=" " alt="" coords="47,2578,53,2935,68,3513,79,3808,93,4064,110,4251,120,4308,130,4337,142,4347,155,4354,153,4359,138,4351,126,4339,115,4310,105,4251,88,4064,73,3808,62,3513,48,2935,42,2578"/>
+<area shape="rect" id="Node000087" href="$classUwTrackerModuleClass.html" title="Class that represents the binding with the tcl configuration script." alt="" coords="162,4400,334,4425"/>
+<area shape="poly" id="edge246_Node000000_Node000087" title=" " alt="" coords="47,2578,53,2944,67,3538,78,3841,92,4105,110,4298,120,4357,130,4386,145,4398,163,4406,161,4411,142,4403,126,4389,114,4358,104,4298,87,4105,73,3842,62,3539,47,2944,42,2578"/>
+<area shape="rect" id="Node000088" href="$classUwUdpClass.html" title="Adds the module for UwUdpClass in ns2." alt="" coords="196,4449,300,4475"/>
+<area shape="poly" id="edge247_Node000000_Node000088" title=" " alt="" coords="47,2578,52,2953,66,3564,77,3875,91,4146,109,4344,119,4405,130,4435,144,4447,160,4455,196,4462,195,4467,158,4460,141,4451,126,4438,114,4407,104,4345,86,4147,72,3875,61,3564,47,2953,42,2578"/>
+<area shape="rect" id="Node000089" href="$classUwVbrModuleClass.html" title="Adds the module for UwVbrModuleClass in ns2." alt="" coords="174,4499,322,4524"/>
+<area shape="poly" id="edge248_Node000000_Node000089" title=" " alt="" coords="47,2578,52,2961,65,3588,76,3908,91,4187,109,4391,119,4454,130,4484,150,4500,174,4508,173,4513,147,4504,126,4488,114,4455,103,4392,85,4188,71,3909,60,3588,46,2961,42,2578"/>
+<area shape="rect" id="Node000090" href="$classUwalClass.html" title="Class to create the Otcl shadow object for an object of the class Uwal." alt="" coords="203,4548,293,4573"/>
+<area shape="poly" id="edge249_Node000000_Node000090" title=" " alt="" coords="47,2578,51,2970,65,3614,76,3942,90,4229,108,4438,119,4502,130,4534,145,4546,163,4554,203,4561,202,4566,161,4560,142,4551,126,4537,114,4504,103,4439,85,4229,70,3943,59,3614,46,2970,42,2578"/>
+<area shape="rect" id="Node000091" href="$classUwjammerModule__Class.html" title="Class that represents the binding with the tcl configuration script." alt="" coords="156,4597,340,4623"/>
+<area shape="poly" id="edge250_Node000000_Node000091" title=" " alt="" coords="47,2578,51,2978,64,3638,75,3976,89,4270,108,4485,118,4551,130,4583,142,4594,157,4602,155,4606,139,4598,126,4586,113,4552,102,4485,84,4270,69,3976,59,3638,46,2978,42,2578"/>
+<area shape="rect" id="Node000092" href="$classUwpollingModule__AUV__Class.html" title="Class that represents the binding with the tcl configuration script." alt="" coords="163,4647,333,4687"/>
+<area shape="poly" id="edge251_Node000000_Node000092" title=" " alt="" coords="47,2578,51,2986,64,3662,75,4008,90,4310,108,4531,119,4599,130,4633,145,4646,164,4656,161,4660,142,4651,126,4635,113,4600,103,4531,84,4310,70,4008,59,3662,46,2986,42,2578"/>
+<area shape="rect" id="Node000093" href="$classUwpollingModule__NODE__Class.html" title="Class that represents the binding with the tcl configuration script." alt="" coords="158,4711,338,4751"/>
+<area shape="poly" id="edge252_Node000000_Node000093" title=" " alt="" coords="47,2578,51,2999,63,3696,74,4053,88,4365,107,4593,118,4663,130,4698,143,4710,159,4719,157,4723,140,4714,126,4701,113,4664,102,4593,83,4365,69,4054,58,3697,45,2999,41,2578"/>
+<area shape="rect" id="Node000094" href="$classUwpollingModule__SINK__Class.html" title="Class that represents the binding with the tcl configuration script." alt="" coords="161,4775,335,4815"/>
+<area shape="poly" id="edge253_Node000000_Node000094" title=" " alt="" coords="47,2578,50,3009,62,3728,73,4097,88,4418,107,4653,118,4726,130,4762,144,4775,162,4784,160,4789,141,4779,126,4765,113,4727,101,4654,82,4418,68,4097,57,3728,45,3009,41,2578"/>
+<area shape="rect" id="Node000095" href="$classWossGMMob3DClass.html" title="TCL Hooks for the simulator." alt="" coords="169,4840,327,4865"/>
+<area shape="poly" id="edge254_Node000000_Node000095" title=" " alt="" coords="47,2578,49,3021,60,3762,71,4141,86,4472,105,4715,117,4789,130,4826,148,4840,169,4848,167,4853,145,4844,126,4829,112,4791,100,4715,80,4473,65,4141,55,3762,44,3021,41,2578"/>
+<area shape="rect" id="Node000096" href="$classWossGroupMob3DClass.html" title="TCL Hooks for the simulator." alt="" coords="160,4889,336,4915"/>
+<area shape="poly" id="edge255_Node000000_Node000096" title=" " alt="" coords="47,2578,49,3030,60,3787,70,4175,85,4514,105,4761,117,4838,130,4875,144,4887,161,4895,159,4900,141,4892,126,4878,112,4839,99,4762,79,4514,65,4175,54,3787,44,3030,41,2578"/>
+<area shape="rect" id="Node000097" href="$classpackerUwCsmaCaTcl.html" title=" " alt="" coords="169,4939,327,4964"/>
+<area shape="poly" id="edge256_Node000000_Node000097" title=" " alt="" coords="47,2578,49,3038,59,3811,69,4208,84,4555,104,4808,117,4886,123,4911,130,4924,148,4939,170,4947,168,4952,145,4943,126,4928,118,4913,111,4887,99,4809,79,4555,64,4208,54,3812,43,3038,41,2578"/>
+<area shape="rect" id="Node000098" href="$classuwApplicationModuleClass.html" title=" " alt="" coords="149,4988,347,5013"/>
+<area shape="poly" id="edge257_Node000000_Node000098" title=" " alt="" coords="47,2578,48,3047,58,3837,68,4242,83,4596,104,4855,116,4935,123,4960,130,4974,151,4990,147,4994,126,4977,118,4962,111,4936,98,4855,78,4596,63,4242,53,3837,43,3048,41,2578"/>
+<area shape="rect" id="Node000099" href="$classuwUFetchAUVModuleClass.html" title="Class that represents the binding with the TCL configuration script." alt="" coords="149,5037,347,5063"/>
+<area shape="poly" id="edge258_Node000000_Node000099" title=" " alt="" coords="47,2578,48,3055,58,3861,68,4275,83,4637,92,4784,103,4901,116,4983,123,5009,130,5023,151,5039,147,5043,126,5026,118,5011,111,4984,98,4902,87,4785,77,4637,62,4275,52,3861,43,3055,41,2578"/>
+<area shape="rect" id="Node000100" href="$classuwUFetchNODEModuleClass.html" title="&lt; class uwUFetchNODEModuleClass" alt="" coords="145,5087,351,5112"/>
+<area shape="poly" id="edge259_Node000000_Node000100" title=" " alt="" coords="47,2578,48,3064,57,3886,67,4309,82,4678,92,4828,103,4948,116,5032,123,5058,130,5072,146,5086,143,5090,126,5076,118,5060,111,5033,97,4949,86,4829,77,4678,62,4309,52,3887,42,3064,41,2578"/>
+</map>

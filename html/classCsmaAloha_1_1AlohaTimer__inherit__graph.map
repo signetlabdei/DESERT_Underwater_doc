@@ -1,0 +1,11 @@
+<map id="CsmaAloha::AlohaTimer" name="CsmaAloha::AlohaTimer">
+<area shape="rect" id="Node000001" title="Class that describes the timers in the node." alt="" coords="203,79,382,104"/>
+<area shape="rect" id="Node000003" href="$classCsmaAloha_1_1AckTimer.html" title="Class used to handle the timer for waiting the ACK." alt="" coords="5,152,172,177"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="248,111,123,154,121,149,246,106"/>
+<area shape="rect" id="Node000004" href="$classCsmaAloha_1_1BackOffTimer.html" title="Class used to handle the timer of the backoff period." alt="" coords="196,152,389,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="295,118,295,152,290,152,290,118"/>
+<area shape="rect" id="Node000005" href="$classCsmaAloha_1_1ListenTimer.html" title="Class used to handle the Listen Timer." alt="" coords="414,152,595,177"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="340,106,471,149,469,154,339,111"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="237,5,348,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="295,44,295,79,290,79,290,44"/>
+</map>

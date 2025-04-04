@@ -1,0 +1,9 @@
+<map id="uw&#45;mac&#45;TLohi.h" name="uw&#45;mac&#45;TLohi.h">
+<area shape="rect" id="Node000001" title="Provides the declaration of uw&#45;mac&#45;TLohi MAC protocol." alt="" coords="145,5,270,31"/>
+<area shape="rect" id="Node000002" href="$DESERT__Framework_2DESERT_2data__link_2uw-t-lohi_2initlib_8cpp.html" title="Provides the intialiazazion of the uw&#45;t&#45;lohi libraries." alt="" coords="5,79,92,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,39,76,81,74,76,169,34"/>
+<area shape="rect" id="Node000003" href="$uw-mac-TLohi-tracer_8cpp.html" title="Provides the declaration and the implementation of a ns&#45;2 tracer for T&#45;LOHI protocol." alt="" coords="116,79,299,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="210,44,210,79,205,79,205,44"/>
+<area shape="rect" id="Node000004" href="$uw-mac-TLohi_8cpp.html" title="Provides the implementation of the MMacTLOHI class." alt="" coords="323,79,463,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="251,33,363,76,361,81,249,38"/>
+</map>

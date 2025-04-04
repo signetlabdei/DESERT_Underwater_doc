@@ -1,0 +1,54 @@
+<map id="uwmulti&#45;traffic&#45;control.cc" name="uwmulti&#45;traffic&#45;control.cc">
+<area shape="rect" id="Node000001" title="Implementation of UwMultiTrafficControl class." alt="" coords="455,5,641,31"/>
+<area shape="rect" id="Node000002" href="$uwmulti-traffic-control_8h.html" title=" " alt="" coords="405,152,585,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="544,32,523,80,504,139,499,138,518,78,540,30"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="487,299,567,324"/>
+<area shape="poly" id="edge31_Node000001_Node000009" title=" " alt="" coords="455,30,295,53,208,72,129,95,63,125,39,141,21,160,11,179,9,200,16,224,34,249,55,260,97,270,218,286,357,298,473,305,473,310,356,303,217,292,96,275,53,265,30,253,11,226,4,201,6,178,17,156,35,137,61,120,127,90,207,67,294,48,454,25"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="532,79,671,104"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="559,29,587,66,583,69,555,33"/>
+<area shape="rect" id="Node000015" href="$uwcbr-module_8h.html" title="Provides the UWCBR packets header description and the definition of the class UWCBR." alt="" coords="986,79,1113,104"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="629,28,973,77,972,82,628,33"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="661,225,715,251"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="527,175,649,219,647,224,525,180"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="44,225,121,251"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="423,180,141,228,135,229,134,224,140,223,423,175"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="1121,299,1204,324"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="553,175,636,195,728,223,754,236,780,248,1108,299,1107,305,778,253,751,241,726,228,635,200,552,180"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="196,225,257,251"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="452,180,271,228,270,222,451,175"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="932,225,983,251"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="569,175,919,228,918,233,569,180"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="282,225,345,251"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="467,180,357,223,355,218,465,175"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="405,173,340,180,275,191,220,206,200,216,186,227,181,238,186,249,205,263,233,275,310,292,396,302,473,306,473,311,396,307,309,297,231,280,202,268,182,252,176,238,182,224,197,211,218,201,273,185,339,175,404,168"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="369,225,439,251"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="482,179,432,219,428,214,479,175"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="463,225,526,251"/>
+<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="497,178,497,212,492,212,492,178"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="791,225,857,251"/>
+<area shape="poly" id="edge11_Node000002_Node000012" title=" " alt="" coords="549,175,773,223,778,224,777,229,772,228,548,180"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="551,225,636,251"/>
+<area shape="poly" id="edge12_Node000002_Node000013" title=" " alt="" coords="512,175,568,215,565,219,509,180"/>
+<area shape="poly" id="edge25_Node000015_Node000005" title=" " alt="" coords="1113,94,1174,101,1239,112,1295,128,1316,138,1330,150,1339,173,1336,200,1325,228,1309,252,1289,270,1266,284,1218,302,1216,297,1264,279,1286,266,1305,249,1320,226,1331,199,1333,174,1326,154,1313,143,1293,133,1238,117,1174,107,1113,100"/>
+<area shape="poly" id="edge26_Node000015_Node000009" title=" " alt="" coords="1042,106,1016,136,977,177,927,219,871,253,795,281,716,299,642,308,581,312,580,307,642,303,715,294,793,276,868,248,924,214,973,173,1012,133,1038,102"/>
+<area shape="poly" id="edge30_Node000015_Node000012" title=" " alt="" coords="987,106,931,124,903,137,878,154,853,183,836,214,831,211,848,180,874,150,900,133,929,119,985,101"/>
+<area shape="rect" id="Node000016" href="$uwip-module_8h.html" title="Provides the UWIP packets header description. Definition of the class that define the network layer." alt="" coords="1058,225,1177,251"/>
+<area shape="poly" id="edge15_Node000015_Node000016" title=" " alt="" coords="1054,103,1062,137,1077,176,1101,213,1097,216,1072,179,1057,138,1049,105"/>
+<area shape="rect" id="Node000017" title=" " alt="" coords="1015,299,1073,324"/>
+<area shape="poly" id="edge28_Node000015_Node000017" title=" " alt="" coords="1052,104,1047,284,1042,284,1046,104"/>
+<area shape="rect" id="Node000018" title=" " alt="" coords="1320,299,1395,324"/>
+<area shape="poly" id="edge29_Node000015_Node000018" title=" " alt="" coords="1113,94,1180,100,1251,110,1313,127,1337,137,1353,150,1370,183,1376,219,1373,255,1367,286,1362,285,1368,255,1370,220,1365,184,1349,154,1334,142,1311,132,1250,116,1179,105,1113,99"/>
+<area shape="rect" id="Node000019" href="$uwudp-module_8h.html" title="Provides the UWUDP packets header description and the definition of the class UWUDP." alt="" coords="1087,152,1217,177"/>
+<area shape="poly" id="edge20_Node000015_Node000019" title=" " alt="" coords="1067,102,1125,142,1122,146,1064,106"/>
+<area shape="rect" id="Node000021" title=" " alt="" coords="1242,152,1315,177"/>
+<area shape="poly" id="edge27_Node000015_Node000021" title=" " alt="" coords="1087,101,1230,145,1228,150,1085,107"/>
+<area shape="poly" id="edge16_Node000016_Node000005" title=" " alt="" coords="1127,250,1150,286,1146,289,1123,252"/>
+<area shape="poly" id="edge17_Node000016_Node000009" title=" " alt="" coords="1058,249,581,306,580,301,1058,244"/>
+<area shape="poly" id="edge18_Node000016_Node000017" title=" " alt="" coords="1107,253,1068,291,1064,287,1103,249"/>
+<area shape="poly" id="edge19_Node000016_Node000018" title=" " alt="" coords="1157,248,1307,292,1306,298,1155,253"/>
+<area shape="poly" id="edge22_Node000019_Node000005" title=" " alt="" coords="1165,176,1180,198,1192,225,1194,241,1192,258,1180,288,1175,286,1187,257,1189,241,1187,226,1175,200,1160,179"/>
+<area shape="poly" id="edge23_Node000019_Node000007" title=" " alt="" coords="1122,180,997,225,995,220,1120,175"/>
+<area shape="poly" id="edge21_Node000019_Node000016" title=" " alt="" coords="1149,179,1131,214,1127,212,1144,176"/>
+<area shape="rect" id="Node000020" title=" " alt="" coords="1252,225,1295,251"/>
+<area shape="poly" id="edge24_Node000019_Node000020" title=" " alt="" coords="1173,175,1243,216,1241,221,1170,180"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="WossGroupMob3D" name="WossGroupMob3D">
+<area shape="rect" id="Node000001" title="Base class of Group Mobility Model." alt="" coords="141,93,282,119"/>
+<area shape="rect" id="Node000003" href="$classWossGroupMob3D_1_1UpdatePositionTimer.html" title="Base class of UpdateTimerPosition class which is inherited from TimerHandler class." alt="" coords="23,181,271,221"/>
+<area shape="poly" id="edge4_Node000003_Node000001" title=" " alt="" coords="162,127,146,144,141,162,143,181,138,181,136,162,141,141,159,124"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="91,5,199,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,40,204,91,200,94,160,43"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="170,169,180,156,203,117,208,120,184,159,175,172"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,93,116,119"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="83,127,132,179,128,183,79,130"/>
+<area shape="rect" id="Node000005" href="$classUwrandomlib.html" title=" " alt="" coords="223,5,333,31"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="263,43,223,94,219,91,258,40"/>
+</map>

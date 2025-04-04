@@ -1,0 +1,15 @@
+<map id="uwem&#45;channel.cpp" name="uwem&#45;channel.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="71,5,217,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,79,85,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,33,74,73,71,68,127,29"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="109,79,179,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="147,31,147,65,141,65,141,31"/>
+<area shape="rect" id="Node000004" href="$uwem-channel_8h.html" title="Provides class and APIs of the underwater elctromagnetic channel." alt="" coords="203,79,333,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="165,28,237,69,235,74,163,33"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="69,152,208,177"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="248,106,173,147,171,143,246,102"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="233,152,303,177"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="271,104,271,138,265,138,265,104"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="328,152,389,177"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="284,102,335,141,331,145,281,106"/>
+</map>

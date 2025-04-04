@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['raspberry_20pi_20zero_0',['How to cross-compile DESERT for Raspberry Pi Zero',['../CROSS-COMPILE-RPI.html',1,'']]]
+  ['pi_20zero_2032bit_0',['How to cross-compile DESERT for Raspberry Pi Zero (32bit)',['../CROSS-COMPILE-RPI.html',1,'']]]
 ];

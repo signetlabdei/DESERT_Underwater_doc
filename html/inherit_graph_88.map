@@ -1,0 +1,179 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,1127,116,1152"/>
+<area shape="rect" id="Node000001" href="$classAckWaiting.html" title="AckWaiting class is used to handle the timer of acks." alt="" coords="253,5,347,31"/>
+<area shape="poly" id="edge274_Node000000_Node000001" title=" " alt="" coords="60,1113,67,890,84,548,97,374,114,221,136,104,148,65,162,40,182,25,204,16,252,11,252,16,206,21,184,30,166,44,153,67,141,105,120,222,103,375,89,548,72,890,65,1113"/>
+<area shape="rect" id="Node000002" href="$classBufferTimer.html" title="‍**" alt="" coords="251,55,349,80"/>
+<area shape="poly" id="edge275_Node000000_Node000002" title=" " alt="" coords="60,1113,68,898,86,572,99,407,116,261,137,150,149,113,162,90,181,75,203,66,250,60,250,65,205,71,184,79,166,93,154,115,142,152,121,262,104,408,91,573,73,898,65,1113"/>
+<area shape="rect" id="Node000003" href="$classCheckTimer.html" title="The class used by UwModem to handle simulator&#39;s event expirations; it is exploited to schedule the re..." alt="" coords="250,104,350,129"/>
+<area shape="poly" id="edge276_Node000000_Node000003" title=" " alt="" coords="60,1113,68,908,87,598,101,441,117,302,138,197,149,161,162,139,181,124,203,115,249,109,250,115,205,120,184,129,166,142,154,163,143,198,123,303,106,441,92,598,74,908,65,1113"/>
+<area shape="rect" id="Node000004" href="$classCsmaAloha_1_1AlohaTimer.html" title="Class that describes the timers in the node." alt="" coords="211,153,389,179"/>
+<area shape="poly" id="edge277_Node000000_Node000004" title=" " alt="" coords="60,1113,69,917,89,622,102,474,119,343,139,243,150,209,162,188,184,172,210,163,211,168,187,177,166,192,155,211,144,244,124,343,108,474,94,623,75,917,66,1113"/>
+<area shape="rect" id="Node000008" href="$classCsmaCa_1_1CsmaCaTimer.html" title=" " alt="" coords="212,203,388,228"/>
+<area shape="poly" id="edge281_Node000000_Node000008" title=" " alt="" coords="60,1113,70,926,90,647,104,507,121,383,140,289,150,257,162,238,185,221,211,212,213,217,187,226,166,241,155,259,145,291,126,384,109,508,96,648,76,926,66,1113"/>
+<area shape="rect" id="Node000009" href="$classDACAPBTimer.html" title="Class that represents the backoff timer in DACAP." alt="" coords="243,252,357,277"/>
+<area shape="poly" id="edge282_Node000000_Node000009" title=" " alt="" coords="61,1113,71,935,92,672,106,540,122,424,141,335,151,305,162,287,179,273,200,264,242,258,243,263,201,270,182,278,166,290,156,308,146,337,127,425,111,541,97,673,77,935,66,1113"/>
+<area shape="rect" id="Node000010" href="$classDACAPTimer.html" title="Class that represents the timers in DACAP." alt="" coords="247,301,353,327"/>
+<area shape="poly" id="edge283_Node000000_Node000010" title=" " alt="" coords="61,1113,72,944,93,697,108,573,124,464,142,382,152,354,162,336,180,322,202,313,247,307,247,312,203,318,183,327,166,340,156,356,147,383,129,465,113,574,99,698,77,945,66,1113"/>
+<area shape="rect" id="Node000011" href="$classDataTimer.html" title="Class that represents the timer that describe the time needed for the DATA Phy layer to receive packe..." alt="" coords="255,351,345,376"/>
+<area shape="poly" id="edge284_Node000000_Node000011" title=" " alt="" coords="59,1113,60,963,71,744,84,631,102,528,128,443,144,410,162,385,182,370,206,361,254,356,255,362,207,367,185,375,166,389,148,413,133,445,107,529,89,632,77,745,65,963,64,1113"/>
+<area shape="rect" id="Node000012" href="$classDropTimer.html" title=" " alt="" coords="255,400,345,425"/>
+<area shape="poly" id="edge285_Node000000_Node000012" title=" " alt="" coords="59,1113,62,972,74,768,87,663,105,567,130,488,145,458,162,435,182,420,206,411,254,406,255,411,207,416,185,425,166,439,149,461,135,490,110,568,92,664,80,769,67,972,65,1113"/>
+<area shape="rect" id="Node000013" href="$classMMacUWSR_1_1UWSRTimer.html" title="Base class of all the timer used in this protocol." alt="" coords="207,449,393,475"/>
+<area shape="poly" id="edge286_Node000000_Node000013" title=" " alt="" coords="60,1113,64,981,78,792,90,695,108,606,132,534,146,505,162,484,182,469,205,460,207,465,185,474,166,488,150,508,137,536,113,607,96,695,83,792,69,981,65,1113"/>
+<area shape="rect" id="Node000018" href="$classNeighborReputationHandler.html" title="This class defines the timer used to check the packet forwarding by the neighbor and handle reputatio..." alt="" coords="199,499,401,524"/>
+<area shape="poly" id="edge291_Node000000_Node000018" title=" " alt="" coords="60,1113,65,989,81,815,94,726,111,645,134,579,147,553,162,533,179,521,198,512,200,517,181,525,166,537,152,556,139,581,116,647,99,727,86,816,71,990,65,1113"/>
+<area shape="rect" id="Node000019" href="$classRemoveHopTableTimer.html" title="RemoveHopTableTimer class is used to handle the validity time of hop tables." alt="" coords="213,548,387,573"/>
+<area shape="poly" id="edge292_Node000000_Node000019" title=" " alt="" coords="60,1112,67,998,84,839,97,758,114,684,136,624,148,600,162,583,185,567,212,558,213,563,188,572,166,587,153,603,140,626,119,686,102,759,89,839,73,998,66,1113"/>
+<area shape="rect" id="Node000020" href="$classSearchPathTimer.html" title="SearchPathTimer class is used to handle the timer of Search Path requests." alt="" coords="234,597,366,623"/>
+<area shape="poly" id="edge293_Node000000_Node000020" title=" " alt="" coords="61,1113,69,1008,87,863,101,790,117,724,138,669,162,632,178,620,196,612,233,604,234,609,197,617,180,625,166,636,142,671,122,725,106,791,93,864,75,1008,66,1113"/>
+<area shape="rect" id="Node000021" href="$classSinkProbeTimer.html" title="SinkProbeTimer class is used to handle the validity time of a probe message." alt="" coords="237,647,363,672"/>
+<area shape="poly" id="edge294_Node000000_Node000021" title=" " alt="" coords="62,1112,71,1017,91,887,104,822,120,763,140,714,162,681,179,669,197,661,237,653,238,659,199,666,181,674,166,685,144,717,125,764,109,823,96,888,77,1017,67,1113"/>
+<area shape="rect" id="Node000022" href="$classSunIPRoutingSink_1_1SendTimer.html" title="SendTimer class is used to handle the timer of probe messages." alt="" coords="193,696,407,721"/>
+<area shape="poly" id="edge295_Node000000_Node000022" title=" " alt="" coords="62,1113,74,1026,94,911,123,802,142,760,162,731,191,713,194,718,166,735,146,762,128,804,99,913,79,1027,68,1113"/>
+<area shape="rect" id="Node000023" href="$classTimer.html" title="Class that handles the timers in T&#45;LOHI nodes." alt="" coords="270,745,330,771"/>
+<area shape="poly" id="edge296_Node000000_Node000023" title=" " alt="" coords="58,1113,60,1045,72,955,85,907,104,861,129,817,162,780,187,764,216,756,269,752,270,758,217,761,189,769,166,784,133,821,109,863,90,909,78,956,65,1046,64,1113"/>
+<area shape="rect" id="Node000024" href="$classTxFrameTimer.html" title="The class used by Uwal to handle simulator&#39;s event expirations; it is exploited to schedule the sendD..." alt="" coords="241,795,359,820"/>
+<area shape="poly" id="edge297_Node000000_Node000024" title=" " alt="" coords="60,1112,64,1053,79,976,92,936,110,897,133,861,162,829,180,817,200,809,241,802,242,807,201,814,182,822,166,833,137,864,115,899,97,938,84,978,70,1054,65,1113"/>
+<area shape="rect" id="Node000025" href="$classUWAloha_1_1UWAlohaTimer.html" title="Base class of all the timer used in this protocol." alt="" coords="207,844,393,869"/>
+<area shape="poly" id="edge298_Node000000_Node000025" title=" " alt="" coords="62,1112,70,1062,87,999,100,966,116,934,137,905,162,880,183,867,206,859,208,864,185,872,166,884,141,909,121,937,105,968,92,1001,75,1063,67,1113"/>
+<area shape="rect" id="Node000028" href="$classUWOFDMAloha_1_1UWOFDMAlohaTimer.html" title="Base class of all the timer used in this protocol." alt="" coords="185,894,415,934"/>
+<area shape="poly" id="edge301_Node000000_Node000028" title=" " alt="" coords="66,1113,78,1075,97,1029,125,983,162,944,183,931,186,936,166,948,129,986,102,1032,83,1077,71,1114"/>
+<area shape="rect" id="Node000031" href="$classUWSmartOFDM_1_1UWSmartOFDMTimer.html" title="Base class of all the timer used in this protocol." alt="" coords="164,959,436,984"/>
+<area shape="poly" id="edge304_Node000000_Node000031" title=" " alt="" coords="70,1113,105,1051,131,1019,163,993,186,982,188,986,165,998,135,1023,109,1054,75,1115"/>
+<area shape="rect" id="Node000039" href="$classUwCsmaAloha__Trigger__NODE_1_1Csma__Aloha__Triggered__Timer.html" title="Class that describes the timers in the node." alt="" coords="185,1008,415,1063"/>
+<area shape="poly" id="edge312_Node000000_Node000039" title=" " alt="" coords="89,1116,124,1094,163,1073,195,1060,197,1065,165,1078,126,1098,92,1121"/>
+<area shape="rect" id="Node000042" href="$classUwCsmaAloha__Trigger__SINK_1_1GenericTimer.html" title="Class that describes the timers in the node." alt="" coords="216,1087,384,1127"/>
+<area shape="poly" id="edge315_Node000000_Node000042" title=" " alt="" coords="129,1128,215,1116,216,1121,130,1133"/>
+<area shape="rect" id="Node000044" href="$classUwMultiPhyControl_1_1ProbeTimer.html" title=" " alt="" coords="223,1151,377,1191"/>
+<area shape="poly" id="edge317_Node000000_Node000044" title=" " alt="" coords="130,1146,223,1158,222,1164,129,1151"/>
+<area shape="rect" id="Node000045" href="$classUwMultiPhyControl_1_1ResilienceTimer.html" title=" " alt="" coords="223,1215,377,1255"/>
+<area shape="poly" id="edge318_Node000000_Node000045" title=" " alt="" coords="91,1158,126,1180,165,1201,223,1219,222,1224,163,1206,123,1185,88,1162"/>
+<area shape="rect" id="Node000046" href="$classUwMultiStackControllerPhyMaster_1_1UwMultiStackSignalingTimer.html" title=" " alt="" coords="169,1279,431,1319"/>
+<area shape="poly" id="edge319_Node000000_Node000046" title=" " alt="" coords="77,1163,113,1215,137,1242,165,1265,189,1277,186,1282,163,1270,133,1246,108,1219,73,1166"/>
+<area shape="rect" id="Node000047" href="$classUwMultiTrafficRangeCtr_1_1UwCheckRangeTimer.html" title="Definition of timer class." alt="" coords="213,1343,387,1383"/>
+<area shape="poly" id="edge320_Node000000_Node000047" title=" " alt="" coords="71,1165,83,1202,102,1247,129,1292,166,1329,188,1343,213,1352,212,1357,186,1347,162,1333,125,1295,97,1249,78,1204,66,1166"/>
+<area shape="rect" id="Node000048" href="$classUwROVSendAckTimer.html" title="UwSendTimer class is used to handle the scheduling period of UWROV packets." alt="" coords="217,1408,383,1433"/>
+<area shape="poly" id="edge321_Node000000_Node000048" title=" " alt="" coords="67,1165,75,1215,92,1277,121,1340,141,1369,166,1393,190,1408,218,1416,216,1421,188,1413,162,1397,137,1372,117,1343,87,1279,70,1216,62,1166"/>
+<area shape="rect" id="Node000049" href="$classUwRangeTimer.html" title="UwRangeTimer class is used to schedule the transmission of ranging packets." alt="" coords="239,1457,361,1483"/>
+<area shape="poly" id="edge322_Node000000_Node000049" title=" " alt="" coords="65,1166,70,1224,85,1299,98,1339,115,1377,138,1412,166,1443,182,1454,200,1461,239,1469,238,1474,198,1466,179,1458,162,1447,133,1416,110,1380,93,1341,80,1301,65,1224,60,1166"/>
+<area shape="rect" id="Node000050" href="$classUwSendTimer.html" title="UwSendTimer class is used to handle the scheduling period of UWCBR packets." alt="" coords="243,1507,357,1532"/>
+<area shape="poly" id="edge323_Node000000_Node000050" title=" " alt="" coords="64,1165,66,1232,78,1321,91,1368,109,1413,134,1456,166,1492,183,1504,202,1512,244,1519,243,1524,201,1517,180,1509,162,1496,129,1459,104,1416,86,1369,73,1322,60,1232,58,1165"/>
+<area shape="rect" id="Node000052" href="$classUwTDMATimer.html" title="UwTDMATimer class is used to handle the scheduling period of UWTDMA slots." alt="" coords="241,1556,359,1581"/>
+<area shape="poly" id="edge325_Node000000_Node000052" title=" " alt="" coords="68,1166,79,1252,100,1365,129,1473,146,1514,166,1541,182,1553,201,1561,241,1569,240,1574,199,1566,179,1558,162,1545,142,1517,124,1475,95,1366,74,1252,62,1166"/>
+<area shape="rect" id="Node000053" href="$classUwTokenBus_1_1TimerBusIdle.html" title="TimerBusIdle when expires calls UwTokenBus::TxData() to start the transmission." alt="" coords="201,1605,399,1631"/>
+<area shape="poly" id="edge326_Node000000_Node000053" title=" " alt="" coords="67,1165,77,1261,96,1389,110,1454,126,1512,144,1559,166,1591,182,1603,201,1611,199,1616,180,1607,162,1595,140,1562,121,1514,104,1455,91,1390,72,1261,62,1166"/>
+<area shape="rect" id="Node000054" href="$classUwTokenBus_1_1TimerTokenPass.html" title="TimerTokenPass when expires it resends the token." alt="" coords="192,1655,408,1680"/>
+<area shape="poly" id="edge327_Node000000_Node000054" title=" " alt="" coords="66,1165,75,1270,93,1413,106,1485,123,1551,143,1605,166,1640,193,1658,190,1662,162,1644,138,1607,118,1553,101,1487,88,1414,69,1270,61,1166"/>
+<area shape="rect" id="Node000055" href="$classUwUpdateMineStatus.html" title="UwUpdateMineStatus class is used to handle the scheduling period of UWSCFTRACKER packets." alt="" coords="219,1704,381,1729"/>
+<area shape="poly" id="edge328_Node000000_Node000055" title=" " alt="" coords="66,1166,73,1280,90,1438,103,1518,120,1591,141,1650,153,1673,166,1689,190,1706,219,1715,218,1720,188,1711,162,1693,148,1676,136,1652,115,1592,98,1519,84,1438,68,1280,60,1166"/>
+<area shape="rect" id="Node000056" href="$classUwUpdateTrackMeasure.html" title=" " alt="" coords="210,1753,390,1779"/>
+<area shape="poly" id="edge329_Node000000_Node000056" title=" " alt="" coords="65,1166,71,1288,86,1461,99,1549,117,1630,139,1695,152,1720,166,1739,186,1754,211,1762,209,1767,184,1758,162,1743,147,1723,134,1697,111,1631,94,1550,81,1462,66,1288,60,1166"/>
+<area shape="rect" id="Node000057" href="$classUwVbrPeriodSwitcher.html" title="UwVbrPeriodSwitcher class is used to handle the switch between different period used by a UwVbrModule..." alt="" coords="219,1803,381,1828"/>
+<area shape="poly" id="edge330_Node000000_Node000057" title=" " alt="" coords="65,1166,69,1297,83,1485,96,1581,114,1669,137,1741,151,1768,166,1788,190,1805,219,1814,218,1819,188,1810,162,1792,146,1771,132,1743,108,1670,91,1582,78,1485,64,1297,60,1166"/>
+<area shape="rect" id="Node000058" href="$classUwVbrSendTimer.html" title="UwVbrSendTimer class is used to handle the scheduling period of UWVBR packets." alt="" coords="233,1852,367,1877"/>
+<area shape="poly" id="edge331_Node000000_Node000058" title=" " alt="" coords="65,1166,67,1305,80,1508,93,1613,111,1708,135,1786,149,1815,166,1837,180,1849,196,1857,233,1865,232,1870,195,1862,177,1853,162,1841,145,1818,130,1788,105,1709,87,1613,75,1509,62,1306,59,1166"/>
+<area shape="rect" id="Node000059" href="$classUwpolling__AUV_1_1Uwpolling__AUV__Timer.html" title="Class that describes the timer in the AUV." alt="" coords="203,1902,397,1942"/>
+<area shape="poly" id="edge332_Node000000_Node000059" title=" " alt="" coords="64,1166,66,1314,79,1531,91,1643,109,1746,134,1830,149,1863,166,1887,183,1901,204,1911,201,1916,180,1906,162,1890,144,1865,129,1832,104,1747,86,1644,73,1532,61,1315,59,1166"/>
+<area shape="rect" id="Node000064" href="$classUwpolling__NODE_1_1Uwpolling__NODE__Timer.html" title="Class that describes the timer in the AUV." alt="" coords="197,1966,403,2006"/>
+<area shape="poly" id="edge337_Node000000_Node000064" title=" " alt="" coords="64,1166,64,1326,74,1563,86,1685,105,1798,131,1890,147,1925,166,1952,181,1965,199,1974,196,1979,178,1969,162,1956,143,1928,126,1892,100,1799,81,1686,69,1563,59,1326,59,1166"/>
+<area shape="rect" id="Node000068" href="$classUwpolling__SINK_1_1Uwpolling__SINK__Timer.html" title="Class that describes the timer in the SINK." alt="" coords="201,2030,399,2070"/>
+<area shape="poly" id="edge341_Node000000_Node000068" title=" " alt="" coords="66,1165,76,1348,97,1619,111,1756,127,1876,146,1968,156,1998,166,2016,182,2030,202,2039,199,2044,179,2034,162,2020,151,2000,141,1969,122,1877,106,1756,92,1619,71,1348,61,1166"/>
+<area shape="rect" id="Node000071" href="$classWossGMMob3D_1_1UpdateTimerPosition.html" title="Base class of UpdateTimerPosition class which is inherited from TimerHandler class." alt="" coords="191,2094,409,2134"/>
+<area shape="poly" id="edge344_Node000000_Node000071" title=" " alt="" coords="66,1166,75,1361,95,1652,109,1799,125,1929,145,2028,155,2061,166,2080,192,2100,189,2104,162,2084,150,2063,139,2029,120,1930,104,1800,90,1652,70,1361,60,1166"/>
+<area shape="rect" id="Node000072" href="$classWossGroupMob3D_1_1UpdatePositionTimer.html" title="Base class of UpdateTimerPosition class which is inherited from TimerHandler class." alt="" coords="176,2158,424,2198"/>
+<area shape="poly" id="edge345_Node000000_Node000072" title=" " alt="" coords="66,1166,74,1372,93,1684,107,1842,123,1982,143,2088,154,2123,166,2144,179,2156,175,2160,162,2148,149,2125,138,2089,118,1982,101,1843,88,1684,69,1372,60,1166"/>
+<area shape="rect" id="Node000073" href="$classuwApplicationModule_1_1uwSendTimerAppl.html" title="&lt; uwSenderTimer class that manage the timer" alt="" coords="219,2222,381,2262"/>
+<area shape="poly" id="edge346_Node000000_Node000073" title=" " alt="" coords="65,1165,73,1383,91,1716,105,1885,122,2034,142,2148,154,2186,166,2208,190,2226,219,2237,218,2242,187,2231,162,2212,149,2188,137,2149,116,2035,99,1885,86,1716,68,1383,60,1166"/>
+<area shape="rect" id="Node000074" href="$classuwUFetch__AUV_1_1uwUFetch__timer.html" title="Class that handle the timers of AUV node." alt="" coords="204,2286,396,2326"/>
+<area shape="poly" id="edge347_Node000000_Node000074" title=" " alt="" coords="65,1165,72,1395,89,1748,103,1928,120,2087,141,2208,153,2248,166,2272,184,2287,205,2297,203,2302,181,2291,162,2276,148,2250,136,2209,114,2087,97,1928,84,1748,67,1395,60,1166"/>
+<area shape="rect" id="Node000079" href="$classuwUFetch__NODE_1_1uwUFetch__NODE__timer.html" title="Class that handle the timers of SN or HN." alt="" coords="199,2695,401,2735"/>
+<area shape="poly" id="edge352_Node000000_Node000079" title=" " alt="" coords="64,1166,66,1339,78,1628,90,1799,108,1978,133,2160,167,2337,196,2445,231,2548,292,2694,287,2696,226,2549,190,2446,161,2339,128,2161,103,1979,85,1799,72,1628,61,1340,59,1166"/>
+<area shape="rect" id="Node000005" href="$classCsmaAloha_1_1AckTimer.html" title="Class used to handle the timer for waiting the ACK." alt="" coords="524,104,691,129"/>
+<area shape="poly" id="edge278_Node000004_Node000005" title=" " alt="" coords="393,148,527,127,528,132,394,154"/>
+<area shape="rect" id="Node000006" href="$classCsmaAloha_1_1BackOffTimer.html" title="Class used to handle the timer of the backoff period." alt="" coords="511,153,704,179"/>
+<area shape="poly" id="edge279_Node000004_Node000006" title=" " alt="" coords="403,163,511,163,511,169,403,169"/>
+<area shape="rect" id="Node000007" href="$classCsmaAloha_1_1ListenTimer.html" title="Class used to handle the Listen Timer." alt="" coords="517,203,698,228"/>
+<area shape="poly" id="edge280_Node000004_Node000007" title=" " alt="" coords="394,178,528,200,527,205,393,184"/>
+<area shape="rect" id="Node000014" href="$classMMacUWSR_1_1AckTimer.html" title="Base class of AckTimer, which is a derived class of UWSRTimer." alt="" coords="522,375,693,400"/>
+<area shape="poly" id="edge287_Node000013_Node000014" title=" " alt="" coords="402,444,435,434,459,422,483,409,523,398,524,403,485,414,461,426,437,439,404,449"/>
+<area shape="rect" id="Node000015" href="$classMMacUWSR_1_1BackOffTimer.html" title="Base class of BackoffTimer." alt="" coords="508,424,707,449"/>
+<area shape="poly" id="edge288_Node000013_Node000015" title=" " alt="" coords="407,451,508,442,508,447,407,456"/>
+<area shape="rect" id="Node000016" href="$classMMacUWSR_1_1ListenTimer.html" title="Base class of ListenTimer, which is a derived class of UWSRTimer." alt="" coords="514,473,701,499"/>
+<area shape="poly" id="edge289_Node000013_Node000016" title=" " alt="" coords="407,468,514,476,513,481,407,473"/>
+<area shape="rect" id="Node000017" href="$classMMacUWSR_1_1WaitTxTimer.html" title="Base class of WaitTxTimer, which is a derived class of UWSRTimer." alt="" coords="511,523,703,548"/>
+<area shape="poly" id="edge290_Node000013_Node000017" title=" " alt="" coords="407,475,437,484,461,495,485,508,530,520,529,525,483,512,459,500,435,488,406,480"/>
+<area shape="rect" id="Node000026" href="$classUWAloha_1_1AckTimer.html" title="Base class of AckTimer, which is a derived class of UWAlohaTimer." alt="" coords="532,625,683,651"/>
+<area shape="poly" id="edge299_Node000025_Node000026" title=" " alt="" coords="405,847,434,829,450,810,457,790,457,747,458,703,465,681,482,660,505,645,531,637,532,642,507,650,486,664,470,684,463,704,463,747,462,791,455,812,438,833,408,851"/>
+<area shape="rect" id="Node000027" href="$classUWAloha_1_1BackOffTimer.html" title="Base class of BackoffTimer." alt="" coords="518,675,697,700"/>
+<area shape="poly" id="edge300_Node000025_Node000027" title=" " alt="" coords="405,846,434,829,447,816,453,802,457,771,462,740,469,724,482,709,499,699,517,691,519,696,501,703,486,713,473,727,467,741,463,772,459,803,451,819,438,833,408,850"/>
+<area shape="rect" id="Node000029" href="$classUWOFDMAloha_1_1AckTimer.html" title="Base class of AckTimer, which is a derived class of UWOFDMAlohaTimer." alt="" coords="511,724,703,749"/>
+<area shape="poly" id="edge302_Node000028_Node000029" title=" " alt="" coords="426,885,434,879,446,865,453,850,457,820,461,789,469,773,482,759,510,743,512,748,486,763,473,776,466,790,462,821,458,852,451,868,438,883,429,889"/>
+<area shape="rect" id="Node000030" href="$classUWOFDMAloha_1_1BackOffTimer.html" title="Base class of BackoffTimer." alt="" coords="498,773,717,799"/>
+<area shape="poly" id="edge303_Node000028_Node000030" title=" " alt="" coords="423,886,434,879,450,862,457,844,465,825,482,808,505,796,507,801,486,812,470,828,462,846,454,865,438,883,425,890"/>
+<area shape="rect" id="Node000032" href="$classUWSmartOFDM_1_1AckTimer.html" title="Base class of AckTimer, which is a derived class of UWSmartOFDMTimer." alt="" coords="510,823,705,848"/>
+<area shape="poly" id="edge305_Node000031_Node000032" title=" " alt="" coords="424,950,434,944,451,924,457,902,464,879,482,857,509,843,511,848,486,861,469,881,463,903,456,926,438,948,427,955"/>
+<area shape="rect" id="Node000033" href="$classUWSmartOFDM_1_1AssignmentTimer.html" title="Base class of AssignmentTimer." alt="" coords="484,872,731,897"/>
+<area shape="poly" id="edge306_Node000031_Node000033" title=" " alt="" coords="411,952,435,944,449,935,458,926,468,917,483,908,520,895,521,900,485,912,471,921,462,930,452,940,437,948,412,957"/>
+<area shape="rect" id="Node000034" href="$classUWSmartOFDM_1_1AssignmentValidTimer.html" title="Base class of AssignmentValidTimer." alt="" coords="487,922,728,962"/>
+<area shape="poly" id="edge307_Node000031_Node000034" title=" " alt="" coords="446,955,486,951,487,956,447,960"/>
+<area shape="rect" id="Node000035" href="$classUWSmartOFDM_1_1BackOffTimer.html" title="Base class of BackoffTimer." alt="" coords="497,987,718,1012"/>
+<area shape="poly" id="edge308_Node000031_Node000035" title=" " alt="" coords="450,982,497,987,496,992,450,988"/>
+<area shape="rect" id="Node000036" href="$classUWSmartOFDM_1_1CTSTimer.html" title="Base class of CTSTimer." alt="" coords="510,1036,705,1061"/>
+<area shape="poly" id="edge309_Node000031_Node000036" title=" " alt="" coords="411,985,437,993,461,1007,485,1021,527,1033,525,1039,483,1026,459,1012,435,998,409,990"/>
+<area shape="rect" id="Node000037" href="$classUWSmartOFDM_1_1DATATimer.html" title=" " alt="" coords="506,1085,709,1111"/>
+<area shape="poly" id="edge310_Node000031_Node000037" title=" " alt="" coords="428,988,438,993,455,1012,463,1033,470,1053,486,1071,509,1083,507,1088,482,1075,465,1055,458,1035,451,1015,434,997,426,992"/>
+<area shape="rect" id="Node000038" href="$classUWSmartOFDM_1_1RTSTimer.html" title="Base class of RTSTimer." alt="" coords="510,1135,705,1160"/>
+<area shape="poly" id="edge311_Node000031_Node000038" title=" " alt="" coords="432,989,438,993,452,1009,459,1025,463,1058,466,1090,473,1105,486,1120,511,1135,508,1139,482,1124,468,1108,461,1092,458,1059,454,1027,447,1012,434,997,429,993"/>
+<area shape="rect" id="Node000040" href="$classUwCsmaAloha__Trigger__NODE_1_1ListenTimer.html" title="Class used to handle the timer to handle the listen time." alt="" coords="523,1185,691,1225"/>
+<area shape="poly" id="edge313_Node000039_Node000040" title=" " alt="" coords="429,1067,438,1073,449,1085,456,1098,462,1123,469,1147,475,1158,486,1169,504,1181,524,1190,522,1195,501,1186,482,1173,471,1161,464,1149,457,1124,451,1100,445,1089,434,1077,426,1071"/>
+<area shape="rect" id="Node000041" href="$classUwCsmaAloha__Trigger__NODE_1_1TransmissionTimer.html" title="Class used to handle the time in which the node is allowed to transmit to the sink." alt="" coords="508,1249,707,1289"/>
+<area shape="poly" id="edge314_Node000039_Node000041" title=" " alt="" coords="429,1065,438,1074,453,1094,461,1115,462,1156,464,1196,471,1216,486,1235,509,1251,506,1255,482,1239,466,1218,459,1197,457,1156,456,1116,449,1097,434,1077,425,1069"/>
+<area shape="rect" id="Node000043" href="$classUwCsmaAloha__Trigger__SINK_1_1ReceiveTimer.html" title="Class used to handle the timer of the reception period." alt="" coords="523,1313,691,1353"/>
+<area shape="poly" id="edge316_Node000042_Node000043" title=" " alt="" coords="399,1115,419,1124,438,1137,454,1158,461,1178,463,1220,464,1260,471,1280,486,1299,504,1312,524,1321,522,1326,501,1316,482,1303,466,1282,459,1261,458,1220,456,1179,449,1160,434,1141,417,1128,396,1119"/>
+<area shape="rect" id="Node000051" href="$classUwROVCtrSendTimer.html" title="UwSendTimer class is used to handle the scheduling period of UWROV packets." alt="" coords="527,1507,687,1532"/>
+<area shape="poly" id="edge324_Node000050_Node000051" title=" " alt="" coords="371,1517,527,1517,527,1522,371,1522"/>
+<area shape="rect" id="Node000060" href="$classUwpolling__AUV_1_1AckTimer.html" title=" " alt="" coords="512,1725,703,1751"/>
+<area shape="poly" id="edge333_Node000059_Node000060" title=" " alt="" coords="409,1903,434,1887,447,1872,453,1857,457,1825,461,1792,468,1775,482,1760,510,1744,513,1749,486,1764,473,1778,466,1793,462,1825,459,1858,451,1875,438,1891,412,1907"/>
+<area shape="rect" id="Node000061" href="$classUwpolling__AUV_1_1DataTimer.html" title="Class (inherited from Uwpolling_AUV_Timer) used to handle the timer of data packets When the AUV give..." alt="" coords="508,1775,707,1800"/>
+<area shape="poly" id="edge334_Node000059_Node000061" title=" " alt="" coords="409,1901,434,1887,450,1868,457,1849,465,1828,482,1809,507,1797,509,1801,486,1813,469,1831,462,1851,455,1871,438,1891,411,1905"/>
+<area shape="rect" id="Node000062" href="$classUwpolling__AUV_1_1PollTimer.html" title=" " alt="" coords="512,1824,703,1849"/>
+<area shape="poly" id="edge335_Node000059_Node000062" title=" " alt="" coords="409,1895,435,1886,459,1872,483,1858,521,1847,522,1852,485,1863,461,1877,437,1891,411,1900"/>
+<area shape="rect" id="Node000063" href="$classUwpolling__AUV_1_1ProbeTimer.html" title="Class (inherited from Uwpolling_AUV_Timer) used to handle the Probe Timer." alt="" coords="505,1873,709,1899"/>
+<area shape="poly" id="edge336_Node000059_Node000063" title=" " alt="" coords="411,1906,505,1895,505,1901,411,1912"/>
+<area shape="rect" id="Node000065" href="$classUwpolling__NODE_1_1BackOffTimer.html" title="Class (inherited from Uwpolling_NODE_Timer) used to handle the time of backoff of the node before tra..." alt="" coords="493,1923,722,1948"/>
+<area shape="poly" id="edge338_Node000064_Node000065" title=" " alt="" coords="416,1964,529,1945,530,1951,416,1970"/>
+<area shape="rect" id="Node000066" href="$classUwpolling__NODE_1_1Rx__Poll__Timer.html" title="Class (inherited from Uwpolling_NODE_Timer) used to handle the time in which the NODE wait for the PO..." alt="" coords="529,1973,686,2013"/>
+<area shape="poly" id="edge339_Node000064_Node000066" title=" " alt="" coords="416,1986,529,1988,529,1994,416,1991"/>
+<area shape="rect" id="Node000067" href="$classUwpolling__NODE_1_1Tx__Data__Timer.html" title="Class (inherited from Uwpolling_NODE_Timer) used to handle the time between the transmission of the D..." alt="" coords="529,2037,685,2077"/>
+<area shape="poly" id="edge340_Node000064_Node000067" title=" " alt="" coords="402,2007,530,2036,529,2041,401,2012"/>
+<area shape="rect" id="Node000069" href="$classUwpolling__SINK_1_1BackOffTimer.html" title="Class (inherited from Uwpolling_SINK_Timer) used to handle the time of backoff of the node before tra..." alt="" coords="496,2101,719,2127"/>
+<area shape="poly" id="edge342_Node000068_Node000069" title=" " alt="" coords="409,2070,485,2086,545,2099,544,2104,483,2091,408,2075"/>
+<area shape="rect" id="Node000070" href="$classUwpolling__SINK_1_1Rx__Data__Timer.html" title="Class (inherited from Uwpolling_SINK_Timer) used to handle the time in which the NODE wait for the DA..." alt="" coords="532,2151,683,2191"/>
+<area shape="poly" id="edge343_Node000068_Node000070" title=" " alt="" coords="414,2068,437,2080,453,2094,462,2108,471,2123,485,2136,532,2156,530,2161,483,2140,467,2126,458,2111,449,2097,435,2084,411,2073"/>
+<area shape="rect" id="Node000075" href="$classuwUFetch__AUV_1_1uwUFetch__DATA__timer.html" title="Class inherited the method and variable of uwUFetch_timer that handle the timer of DATA packets." alt="" coords="511,2215,703,2255"/>
+<area shape="poly" id="edge348_Node000074_Node000075" title=" " alt="" coords="400,2280,519,2253,520,2258,402,2285"/>
+<area shape="rect" id="Node000076" href="$classuwUFetch__AUV_1_1uwUFetch__FIRST__DATA__timer.html" title="Class inherited the method and variable of uwUFetch_timer that handle the timer of DATA packets." alt="" coords="511,2279,703,2319"/>
+<area shape="poly" id="edge349_Node000074_Node000076" title=" " alt="" coords="410,2301,511,2299,511,2304,410,2306"/>
+<area shape="rect" id="Node000077" href="$classuwUFetch__AUV_1_1uwUFetch__RTS__timer.html" title="Class inherited the method and variable of uwUFetch_timer that handle the timer of RTS packets." alt="" coords="511,2343,703,2383"/>
+<area shape="poly" id="edge350_Node000074_Node000077" title=" " alt="" coords="410,2324,512,2343,511,2348,409,2329"/>
+<area shape="rect" id="Node000078" href="$classuwUFetch__AUV_1_1uwUFetch__TRIGGER__timer.html" title="Class inherited the method and variable of uwUFetch_timer that handle the timer of TRIGGER packets." alt="" coords="511,2407,703,2447"/>
+<area shape="poly" id="edge351_Node000074_Node000078" title=" " alt="" coords="350,2330,414,2362,485,2393,521,2405,520,2410,483,2398,411,2367,348,2335"/>
+<area shape="rect" id="Node000080" href="$classuwUFetch__NODE_1_1uwUFetch__BEACON__timer.html" title="Timer associated to the HN." alt="" coords="506,2471,709,2511"/>
+<area shape="poly" id="edge353_Node000079_Node000080" title=" " alt="" coords="320,2682,349,2645,386,2601,432,2558,483,2521,508,2509,510,2514,485,2526,435,2562,390,2605,353,2648,325,2685"/>
+<area shape="rect" id="Node000081" href="$classuwUFetch__NODE_1_1uwUFetch__BackOffTimer.html" title="Class (inherited from uwUFetch_NODE_Timer) used to handle the time of back&#45;off of the node before tra..." alt="" coords="506,2535,709,2575"/>
+<area shape="poly" id="edge354_Node000079_Node000081" title=" " alt="" coords="333,2684,400,2634,440,2607,483,2585,514,2573,516,2578,485,2590,443,2612,403,2638,337,2688"/>
+<area shape="rect" id="Node000082" href="$classuwUFetch__NODE_1_1uwUFetch__CBeacon__timer.html" title="Class inherited the method and variable of uwUFetch_NODE_timer that handle the timer of CBEACON packe..." alt="" coords="506,2599,709,2639"/>
+<area shape="poly" id="edge355_Node000079_Node000082" title=" " alt="" coords="367,2688,483,2649,525,2637,526,2642,485,2654,369,2693"/>
+<area shape="rect" id="Node000083" href="$classuwUFetch__NODE_1_1uwUFetch__CTS__timer.html" title="Class inherited the method and variable of uwUFetch_NODE_timer that handle the timer of CTS packets." alt="" coords="506,2663,709,2703"/>
+<area shape="poly" id="edge356_Node000079_Node000083" title=" " alt="" coords="415,2701,505,2691,506,2697,415,2706"/>
+<area shape="rect" id="Node000084" href="$classuwUFetch__NODE_1_1uwUFetch__DATA__BEFORE__TX__timer.html" title="Class inherited the method and variable of uwUFetch_NODE_timer that handle the timer of DATA packets." alt="" coords="506,2727,709,2767"/>
+<area shape="poly" id="edge357_Node000079_Node000084" title=" " alt="" coords="415,2725,506,2734,505,2739,415,2730"/>
+<area shape="rect" id="Node000085" href="$classuwUFetch__NODE_1_1uwUFetch__DATA__timer.html" title="Class inherited the method and variable of uwUFetch_NODE_timer that handle the timer of DATA packets." alt="" coords="506,2791,709,2831"/>
+<area shape="poly" id="edge358_Node000079_Node000085" title=" " alt="" coords="369,2737,485,2777,526,2789,525,2794,483,2782,367,2743"/>
+<area shape="rect" id="Node000086" href="$classuwUFetch__NODE_1_1uwUFetch__POLL__timer.html" title="Class inherited the method and variable of uwUFetch_NODE_timer that handle the timer of POLL packets." alt="" coords="506,2855,709,2895"/>
+<area shape="poly" id="edge359_Node000079_Node000086" title=" " alt="" coords="337,2742,403,2793,443,2819,485,2841,516,2853,514,2858,483,2846,440,2823,400,2797,333,2747"/>
+<area shape="rect" id="Node000087" href="$classuwUFetch__NODE_1_1uwUFetch__PROBE__timer.html" title="Class inherited the method and variable of uwUFetch_NODE_timer that handle the timer of PROBE packets..." alt="" coords="506,2919,709,2959"/>
+<area shape="poly" id="edge360_Node000079_Node000087" title=" " alt="" coords="325,2745,353,2782,390,2826,435,2869,485,2905,510,2917,508,2922,483,2910,432,2873,386,2829,349,2786,320,2748"/>
+<area shape="rect" id="Node000088" href="$classuwUFetch__NODE_1_1uwUFetch__TRIGGER__timer.html" title="Class inherited the method and variable of uwUFetch_NODE_timer that handle the timer of TRIGGER packe..." alt="" coords="506,2983,709,3023"/>
+<area shape="poly" id="edge361_Node000079_Node000088" title=" " alt="" coords="318,2747,343,2797,380,2857,428,2918,455,2945,485,2969,507,2981,504,2986,483,2974,452,2949,424,2921,375,2860,338,2799,313,2749"/>
+</map>

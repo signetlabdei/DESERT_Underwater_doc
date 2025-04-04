@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,31,103,56"/>
+<area shape="rect" id="Node000001" href="$classUwElectroMagneticPhy.html" title=" " alt="" coords="151,5,323,31"/>
+<area shape="poly" id="edge96_Node000000_Node000001" title=" " alt="" coords="116,32,150,27,151,33,117,37"/>
+<area shape="rect" id="Node000002" href="$classUwOpticalPhy.html" title=" " alt="" coords="180,55,293,80"/>
+<area shape="poly" id="edge97_Node000000_Node000002" title=" " alt="" coords="117,49,180,57,179,63,116,54"/>
+<area shape="rect" id="Node000003" href="$classUwOpticalBeamPattern.html" title=" " alt="" coords="371,55,544,80"/>
+<area shape="poly" id="edge98_Node000002_Node000003" title=" " alt="" coords="307,65,370,65,370,70,307,70"/>
+</map>

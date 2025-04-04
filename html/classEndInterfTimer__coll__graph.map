@@ -1,0 +1,10 @@
+<map id="EndInterfTimer" name="EndInterfTimer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="169,80,287,105"/>
+<area shape="rect" id="Node000003" href="$classuwinterference.html" title=" " alt="" coords="67,168,187,193"/>
+<area shape="poly" id="edge4_Node000003_Node000001" title=" " alt="" coords="164,112,139,121,125,131,120,149,124,167,119,168,115,149,120,128,137,116,162,107"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="191,5,265,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="231,45,231,80,225,80,225,45"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="171,160,197,142,211,123,221,104,226,107,216,126,200,146,174,164"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,80,144,105"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="87,117,100,143,118,166,113,169,95,145,82,120"/>
+</map>

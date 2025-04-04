@@ -1,0 +1,13 @@
+<map id="minterpreterTEL.h" name="minterpreterTEL.h">
+<area shape="rect" id="Node000001" title="Class that is in charge of building and parsing the required messages to make the UWMdriver able to c..." alt="" coords="219,5,358,31"/>
+<area shape="rect" id="Node000002" href="$mdriverS2C__Evo__lowlev_8h.html" title="Class derived from UWMdriver to interface ns2/NS&#45;Miracle with the S2C EvoLogics acoustic modems throu..." alt="" coords="95,79,285,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="264,41,208,81,205,76,260,36"/>
+<area shape="rect" id="Node000006" href="$minterpreterTEL_8cpp.html" title="Implementation of the MinterpreterTEL class." alt="" coords="310,79,465,104"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="317,36,373,76,370,81,314,41"/>
+<area shape="rect" id="Node000003" href="$mS2C__Evo__lowlev_8h.html" title="Header of the main class that implements the general interface between ns2/NS&#45;Miracle and the S2C Evo..." alt="" coords="13,152,165,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="164,114,107,154,104,150,161,110"/>
+<area shape="rect" id="Node000005" href="$mdriverS2C__Evo__lowlev_8cpp.html" title=" " alt="" coords="189,152,394,177"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="219,110,276,150,273,154,216,114"/>
+<area shape="rect" id="Node000004" href="$mS2C__Evo__lowlev_8cpp.html" title="Implementation of the MS2C_Evo_lowlev class." alt="" coords="5,225,172,251"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="91,191,91,225,86,225,86,191"/>
+</map>

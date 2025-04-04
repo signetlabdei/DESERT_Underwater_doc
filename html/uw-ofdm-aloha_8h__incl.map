@@ -1,0 +1,27 @@
+<map id="uw&#45;ofdm&#45;aloha.h" name="uw&#45;ofdm&#45;aloha.h">
+<area shape="rect" id="Node000001" title="This is the base class of UWOFDMAloha Protocol, derived of MMac. Your can find the brief description ..." alt="" coords="376,5,509,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,152,80,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="376,22,319,27,254,37,187,54,124,81,87,110,60,143,56,139,83,106,121,76,185,49,253,32,318,22,375,17"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="313,79,393,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="430,33,380,72,377,68,427,29"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="104,152,163,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="376,26,310,32,239,43,178,59,156,69,141,80,133,93,129,108,130,138,125,139,124,107,128,91,137,77,153,64,176,54,238,37,309,27,376,20"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="417,79,468,104"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="445,31,445,65,440,65,440,31"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="492,79,535,104"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="456,29,494,67,490,71,452,33"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="559,79,622,104"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="468,28,555,70,553,75,465,33"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="646,79,719,104"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="482,28,633,73,632,78,480,33"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="744,79,813,104"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="502,28,731,76,730,81,501,33"/>
+<area shape="rect" id="Node000010" href="$uwofdmphy__hdr_8h.html" title="Common structures and variables in the protocol." alt="" coords="151,79,289,104"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="408,33,270,77,268,72,406,28"/>
+<area shape="poly" id="edge10_Node000010_Node000002" title=" " alt="" coords="192,106,85,149,83,144,191,102"/>
+<area shape="poly" id="edge13_Node000010_Node000004" title=" " alt="" coords="208,106,160,145,156,141,204,102"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="187,152,269,177"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="224,104,228,138,223,139,219,105"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="293,152,371,177"/>
+<area shape="poly" id="edge12_Node000010_Node000012" title=" " alt="" coords="239,102,303,142,300,147,237,106"/>
+</map>

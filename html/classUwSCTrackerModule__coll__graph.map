@@ -1,0 +1,22 @@
+<map id="UwSCTrackerModule" name="UwSCTrackerModule">
+<area shape="rect" id="Node000001" title="UwSCTrackerModule class adds to the UwTrackerModule class the possibility to send cross layer message..." alt="" coords="201,341,355,367"/>
+<area shape="rect" id="Node000002" href="$classUwTrackerModule.html" title="UwTrackerModule class is used to track mobile nodes via sonar and share tracking information via pack..." alt="" coords="209,267,347,292"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="281,306,281,341,275,341,275,306"/>
+<area shape="rect" id="Node000003" href="$classUwCbrModule.html" title="UwCbrModule class is used to manage UWCBR packets and to collect statistics about them." alt="" coords="28,179,141,204"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="124,207,253,264,251,269,122,212"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,80,76,105"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="49,118,62,153,77,177,72,180,57,156,44,120"/>
+<area shape="rect" id="Node000005" href="$classUwSendTimer.html" title="UwSendTimer class is used to handle the scheduling period of UWCBR packets." alt="" coords="100,80,213,105"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="100,114,82,131,77,142,77,154,82,178,77,179,71,155,72,141,77,128,96,110"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="148,5,259,31"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="191,44,166,81,162,78,186,41"/>
+<area shape="rect" id="Node000010" href="$classUwUpdateTrackMeasure.html" title=" " alt="" coords="161,129,341,155"/>
+<area shape="poly" id="edge10_Node000010_Node000006" title=" " alt="" coords="215,42,249,128,244,130,210,44"/>
+<area shape="rect" id="Node000007" href="$classUWSMPosition.html" title=" " alt="" coords="349,179,466,204"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="380,214,297,269,294,264,377,209"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="370,80,445,105"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="410,119,410,179,405,179,405,119"/>
+<area shape="rect" id="Node000009" href="$structhdr__uwTracker.html" title="hdr_uwROV_ctr describes UWROV_ctr packets for controlling the ROV." alt="" coords="490,179,605,204"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="519,213,454,245,400,261,347,271,346,266,399,256,452,240,517,209"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="239,168,235,179,233,191,235,203,251,238,270,265,266,268,246,241,230,205,228,191,230,178,234,166"/>
+</map>

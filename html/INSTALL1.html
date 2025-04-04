@@ -229,7 +229,7 @@ Download and install</h1>
     "param1 param2 param3"
 </pre><p> </small></p>
 <p>For instance, the following command will install DESERT on your local machine in development mode with all the addons:</p>
-<p><small> </p><pre class="fragment">./install.sh --target LOCAL --inst_mode development --dest_folder &lt;destination-folder-path&gt; --addons "ALL"
+<p><small> </p><pre class="fragment">./install.sh --target LOCAL --inst_mode development --dest_folder &lt;destination-folder-path&gt; --addons ALL
 </pre><p> </small></p>
 <p>If you encounter any problem while building this library, you can refer to github and open a dedicated issue, that we will investigate.</p>
 <p><br  />
@@ -251,13 +251,15 @@ After the installation has been completed</h2>
 <h1><a class="anchor" id="docker-install"></a>
 Use Docker</h1>
 <p>Alternatively to the manual installation, DESERT provide an automatic installation using docker.</p>
-<p>Go to the dockerfile directory</p>
+<p>You will need to cd to the dockerfile directory</p>
 <p><small> </p><pre class="fragment">cd DESERT_Underwater/DESERT_Framework/Docker/ubuntu_dockerfile_with_desert/
 </pre><p> </small></p>
 <p>And build it</p>
-<p><small> </p><pre class="fragment">docker build .
+<p><small> </p><pre class="fragment">docker build -t docker_desert .
 </pre><p> </small></p>
-<p>It will download all the dependencies and install DESERT with WOSS and all the addons in a docker container with Ubuntu. </p>
+<p>It will create a container with Ubuntu 22.04 LTS, download all the dependencies and install DESERT with WOSS and all the addons. Finally run the just created container</p>
+<p><small> </p><pre class="fragment">docker run -it docker_desert
+</pre><p> </small> </p>
 </div></div><!-- contents -->
 </div><!-- PageDoc -->
 </div><!-- doc-content -->

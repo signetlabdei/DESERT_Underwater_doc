@@ -1,0 +1,12 @@
+<map id="UwCsmaAloha_Trigger_SINK" name="UwCsmaAloha_Trigger_SINK">
+<area shape="rect" id="Node000001" title="Class that describes a UwCsmaAloha_Trigger_SINK module." alt="" coords="140,80,347,105"/>
+<area shape="rect" id="Node000004" href="$classUwCsmaAloha__Trigger__SINK_1_1GenericTimer.html" title="Class that describes the timers in the node." alt="" coords="27,168,195,208"/>
+<area shape="poly" id="edge5_Node000004_Node000001" title=" " alt="" coords="171,112,140,131,127,149,118,169,113,167,122,146,136,127,168,108"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="213,5,274,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="246,45,246,80,241,80,241,45"/>
+<area shape="rect" id="Node000003" href="$classUwCsmaAloha__Trigger__SINK_1_1ReceiveTimer.html" title="Class used to handle the timer of the reception period." alt="" coords="93,257,261,297"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="189,244,205,207,238,105,243,106,210,209,194,246"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="136,218,165,256,160,259,132,221"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="5,80,116,105"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="76,116,103,167,99,169,71,118"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="stoppable_thread.h" name="stoppable_thread.h">
+<area shape="rect" id="Node000001" title="Provides a simple C++11 thread the StoppableThread class." alt="" coords="41,5,187,31"/>
+<area shape="rect" id="Node000002" href="$position__listener_8h.html" title="Provides the PositionListener class." alt="" coords="43,79,185,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="117,44,117,79,111,79,111,44"/>
+<area shape="rect" id="Node000003" href="$udpposition_8h.html" title="Provides the definition of the class UDPPosition." alt="" coords="59,152,169,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="117,118,117,152,111,152,111,118"/>
+<area shape="rect" id="Node000004" href="$DESERT__Addons_2mobility__udpposition_2initlib_8cpp.html" title="Provides the initialization of udpposition addon." alt="" coords="5,225,92,251"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="96,189,61,227,57,223,92,186"/>
+<area shape="rect" id="Node000005" href="$udpposition_8cpp.html" title="Provides the UDPPosition class implementation." alt="" coords="117,225,242,251"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="136,186,171,223,167,227,132,189"/>
+</map>

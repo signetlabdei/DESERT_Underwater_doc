@@ -1,0 +1,18 @@
+<map id="CsmaAloha::AlohaTimer" name="CsmaAloha::AlohaTimer">
+<area shape="rect" id="Node000001" title="Class that describes the timers in the node." alt="" coords="381,80,560,105"/>
+<area shape="rect" id="Node000005" href="$classCsmaAloha_1_1AckTimer.html" title="Class used to handle the timer for waiting the ACK." alt="" coords="91,155,258,180"/>
+<area shape="poly" id="edge5_Node000005_Node000001" title=" " alt="" coords="411,111,222,157,221,152,410,106"/>
+<area shape="rect" id="Node000006" href="$classCsmaAloha_1_1BackOffTimer.html" title="Class used to handle the timer of the backoff period." alt="" coords="282,155,475,180"/>
+<area shape="poly" id="edge7_Node000006_Node000001" title=" " alt="" coords="447,116,395,156,392,152,444,112"/>
+<area shape="rect" id="Node000007" href="$classCsmaAloha_1_1ListenTimer.html" title="Class used to handle the Listen Timer." alt="" coords="500,155,681,180"/>
+<area shape="poly" id="edge9_Node000007_Node000001" title=" " alt="" coords="503,110,573,152,570,157,500,115"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="415,5,526,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="473,45,473,80,468,80,468,45"/>
+<area shape="rect" id="Node000003" href="$classCsmaAloha.html" title="Class that describes a CsmaAloha module." alt="" coords="331,243,427,268"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="440,247,511,238,587,225,653,205,676,192,691,178,699,161,696,146,686,134,668,124,618,109,560,101,561,96,619,104,670,119,689,130,701,144,704,162,696,182,679,197,655,210,589,230,512,243,441,252"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,155,67,180"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="80,178,332,240,331,245,79,183"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="216,183,352,240,350,245,214,188"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="381,194,381,242,376,242,376,194"/>
+<area shape="poly" id="edge8_Node000003_Node000007" title=" " alt="" coords="555,188,478,221,413,245,411,240,476,216,553,183"/>
+</map>

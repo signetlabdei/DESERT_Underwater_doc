@@ -1,0 +1,17 @@
+<map id="frame&#45;set.h" name="frame&#45;set.h">
+<area shape="rect" id="Node000001" title="Header of the classes defining the frame elements (key and set) exploited by Uwal objects to reassebl..." alt="" coords="283,5,381,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,79,72,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="285,33,86,81,85,76,283,28"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="96,79,176,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="301,33,182,76,180,71,300,28"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="200,79,275,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="318,33,265,72,262,68,315,29"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="299,79,365,104"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="335,31,335,65,329,65,329,31"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="390,79,461,104"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="349,29,401,68,398,72,345,33"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="485,79,555,104"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="363,28,477,71,476,76,361,33"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="579,79,650,104"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="378,28,567,75,565,80,377,33"/>
+</map>

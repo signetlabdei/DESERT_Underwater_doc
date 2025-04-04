@@ -103,14 +103,15 @@ apt-get install -y gcc-arm-linux-gnueabihf g++-arm-linux-gnueabihf
 <p>NOTE: These commands requires sudo capabilities and workstation should be connected to the internet. </p>
 </blockquote>
 <p>After script correctly finished, you can compile DESERT for EvoLogics sandbox selecting the appropriate arch and selecting *"release"* modality when asked during wizard procedure in order not to copy unnecessary files.</p>
-<p><small> </p><pre class="fragment">./install.sh --target EvoLogics-sandbox-debian_armhf --inst_mode release --dest_folder /home/yourhome/DESERT_Underwater/DESERT_buildCopy_EvoLogics-sandbox-debian_armhf
+<p><small> </p><pre class="fragment">./install.sh --target EvoLogics-sandbox-debian_armhf --inst_mode release --dest_folder &lt;your-desert-path&gt;/DESERT_Underwater/DESERT_buildCopy_EvoLogics-sandbox-debian_armhf
 </pre><p> </small></p>
 <p>After installation has been correctly completed, you can copy *_buildCopy* folder inside your EvoLogics modem, source the environment files and run you tcl files inside the EvoLogics modem's sandbox</p>
-<p><small> </p><pre class="fragment">scp -r /home/yourhome/DESERT_Underwater/DESERT_buildCopy_EvoLogics-sandbox-debian_armhf root@&lt;your-modem-ip-address&gt;:~
+<p><small> </p><pre class="fragment">scp -r &lt;your-desert-path&gt;/DESERT_Underwater/DESERT_buildCopy_EvoLogics-sandbox-debian_armhf root@&lt;your-modem-ip-address&gt;:~
 </pre><p> </small></p>
 <p>you can now get access via ssh to your modem sandbox and source the DESERT env file in order to setup PATH and LD_LIBRARY_PATH variables</p>
 <p><small> </p><pre class="fragment">ssh root@&lt;your-modem-ip-address&gt;
-source .../DESERT_buildCopy_EvoLogics-sandbox-debian_armhf/environment
+cd ~/DESERT_buildCopy_EvoLogics-sandbox-debian_armhf/ &amp;&amp; ./make_environment.sh
+source ~/DESERT_buildCopy_EvoLogics-sandbox-debian_armhf/environment
 </pre><p> </small></p>
 <h1><a class="anchor" id="CROSS-COMPILE-EVO-docker"></a>
 Use docker</h1>

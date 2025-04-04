@@ -1,0 +1,7 @@
+<map id="uwpolling_AUV.h" name="uwpolling_AUV.h">
+<area shape="rect" id="Node000001" title="Class that represents the AUV of UWPOLLING." alt="" coords="53,5,183,31"/>
+<area shape="rect" id="Node000002" href="$DESERT__Framework_2DESERT_2data__link_2uwpolling_2initlib_8cpp.html" title="Provides the initialization of the uwpolling libraries." alt="" coords="5,79,92,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,43,62,80,58,77,95,39"/>
+<area shape="rect" id="Node000003" href="$uwpolling__AUV_8cpp.html" title="Provides the implementation of Uwpolling_AUV class." alt="" coords="116,79,261,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="141,39,179,77,175,80,137,43"/>
+</map>

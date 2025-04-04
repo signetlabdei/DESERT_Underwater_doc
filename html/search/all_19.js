@@ -1,14 +1,20 @@
 var searchData=
 [
-  ['y_0',['y',['../structPositionData.html#ad2b2f3c595a8c26f2c904e20c3dfbd62',1,'PositionData::y'],['../structhdr__uwROV__ctr.html#ad348cc18abf749e36984b6f6c10ea36c',1,'hdr_uwROV_ctr::y()'],['../structhdr__uwROV__monitoring.html#a068ac09c37f8f6ff9af04f237719d750',1,'hdr_uwROV_monitoring::y()'],['../structhdr__uwSCFTracker.html#a90ded5739237da933aa76520b8fcad26',1,'hdr_uwSCFTracker::y()'],['../structhdr__uwTracker.html#a66c72cd7ae9494bce48d0fa5979d6a8c',1,'hdr_uwTracker::y()'],['../structUSBLInfo.html#a3662321f744a28e296270ca3bc90111a',1,'USBLInfo::Y']]],
-  ['y_5f_1',['y_',['../structhdr__uwROV__ctr.html#a2d316e4f35d28390b92a91b2c0ec1731',1,'hdr_uwROV_ctr::y_'],['../structhdr__uwROV__monitoring.html#aab24b993c563d554c0c3b4fc7d3a6e9d',1,'hdr_uwROV_monitoring::y_'],['../structhdr__uwSCFTracker.html#a8dd0bbe0481ae0ef396513c5260d9a70',1,'hdr_uwSCFTracker::y_'],['../structhdr__uwTracker.html#a5f54878836b9d058e79f6905bd87bc8b',1,'hdr_uwTracker::y_']]],
-  ['y_5fcoord_2',['y_coord',['../classWossGroupMob3D.html#a8059265fae392bef55eb7f23ed290874',1,'WossGroupMob3D::y_coord'],['../classWossGMMob3D.html#a8c578138be0da9a1d0effb7741ed62b7',1,'WossGMMob3D::y_coord']]],
-  ['y_5frov_3',['y_rov',['../structhdr__uwpos__based__rt.html#ae56bab93772f7a4c0e09602ea681dd10',1,'hdr_uwpos_based_rt::y_ROV()'],['../classUwROVCtrModule.html#a1cda2480c9abcbc5542502dfbcc054cd',1,'UwROVCtrModule::y_rov']]],
-  ['y_5frov_5f_4',['y_ROV_',['../structhdr__uwpos__based__rt.html#afced5cd02bc9a470d5b71682da90ee50',1,'hdr_uwpos_based_rt']]],
-  ['y_5fwaypoint_5',['y_waypoint',['../structhdr__uwpos__based__rt.html#a2f69499ba6092b76ba9d00fa9a7a858e',1,'hdr_uwpos_based_rt']]],
-  ['y_5fwp_5f_6',['y_wp_',['../structhdr__uwpos__based__rt.html#ade1f65ce6f290cbadd38cfd233e3316c',1,'hdr_uwpos_based_rt']]],
-  ['ydest_5f_7',['Ydest_',['../classUWSMPosition.html#acc2678aebad8e5285f64c2ff5da62f21',1,'UWSMPosition']]],
-  ['yellow_8',['Yellow',['../namespaceConsoleColours.html#aa2d5d5e3dbae51fce8ce90d7a95b7454',1,'ConsoleColours']]],
-  ['yfieldwidth_5f_9',['yfieldwidth_',['../classUwGMPosition.html#a86cd809046cacf5924e5a3c0184e0d8f',1,'UwGMPosition::yFieldWidth_'],['../classWossGMMob3D.html#a3a7a54dbc2449bdf041740320d3eda21',1,'WossGMMob3D::yFieldWidth_'],['../classWossGroupMob3D.html#aae5876d18bf907d807be87997efb00d4',1,'WossGroupMob3D::yFieldWidth_']]],
-  ['ysorg_5f_10',['Ysorg_',['../classUWSMPosition.html#af8bd0cf75b8c23d004e6ef7600a7bd34',1,'UWSMPosition']]]
+  ['x_0',['x',['../structhdr__uwROV__ctr.html#aac5a534b741ca715797c34c77c15d41b',1,'hdr_uwROV_ctr::x()'],['../structhdr__uwROV__monitoring.html#a229b9e3dddbd1387932c9e867dbfd16d',1,'hdr_uwROV_monitoring::x()'],['../structhdr__uwSCFTracker.html#acac8590a97b5527e1d1d531e1d5f8cee',1,'hdr_uwSCFTracker::x()'],['../structhdr__uwTracker.html#a5fcdbd2941f49c7df84f3837d8c77649',1,'hdr_uwTracker::x()'],['../structUSBLInfo.html#a63ed016cbc0a414ba30a240c5fdeaa00',1,'USBLInfo::X'],['../structPositionData.html#a4678c096df3d9177f332dd3b092a9274',1,'PositionData::x']]],
+  ['x_5f_1',['x_',['../structhdr__uwROV__ctr.html#adaebda11723471cebf50b3f7da6becb9',1,'hdr_uwROV_ctr::x_'],['../structhdr__uwROV__monitoring.html#ab0ed1ceb7517a47c07f89c9634548a8e',1,'hdr_uwROV_monitoring::x_'],['../structhdr__uwSCFTracker.html#a1daa6904ec9716fbc2cee3e09f35fe2f',1,'hdr_uwSCFTracker::x_'],['../structhdr__uwTracker.html#af5618c58aa8cd39202535711a80f352e',1,'hdr_uwTracker::x_']]],
+  ['x_5fcoord_2',['x_coord',['../classWossGMMob3D.html#a36027bc1985aad7b143cf47dac8a7b32',1,'WossGMMob3D::x_coord'],['../classWossGroupMob3D.html#a82563a46c633a36228968e156b00bff9',1,'WossGroupMob3D::x_coord']]],
+  ['x_5fmat_3',['x_mat',['../classUwRangingTokenBus.html#acb760cb1e45947e7129ef533aa5069c5',1,'UwRangingTokenBus']]],
+  ['x_5frov_4',['x_rov',['../classUwROVCtrModule.html#a4267db1decd60653f68e34015e45d8c7',1,'UwROVCtrModule::x_rov'],['../structhdr__uwpos__based__rt.html#a277d45e38b789da0366a56c54fb5c0df',1,'hdr_uwpos_based_rt::x_ROV()']]],
+  ['x_5frov_5f_5',['x_ROV_',['../structhdr__uwpos__based__rt.html#ad57cdbb17df5737a301547822b708f0d',1,'hdr_uwpos_based_rt']]],
+  ['x_5fwaypoint_6',['x_waypoint',['../structhdr__uwpos__based__rt.html#a1c1dd7fb57df5c9255749c6ba3a40973',1,'hdr_uwpos_based_rt']]],
+  ['x_5fwp_5f_7',['x_wp_',['../structhdr__uwpos__based__rt.html#afcfe322a544697a01449a15a7399d91c',1,'hdr_uwpos_based_rt']]],
+  ['xdest_5f_8',['Xdest_',['../classUWSMPosition.html#abb9257bab5fa9405177179b0fa9a87e6',1,'UWSMPosition']]],
+  ['xfieldwidth_5f_9',['xfieldwidth_',['../classUwGMPosition.html#aba752525e8cb9f70b6df4fd2909e9be3',1,'UwGMPosition::xFieldWidth_'],['../classWossGMMob3D.html#a6716af41635769b590c8bd6973ace0c3',1,'WossGMMob3D::xFieldWidth_'],['../classWossGroupMob3D.html#acc54297cfc2fecc1611d72bb1403db4c',1,'WossGroupMob3D::xFieldWidth_']]],
+  ['xmit_5ffailure_5f_10',['xmit_failure_',['../classpackerCOMMON.html#a868e0108c5921257bdeb9f1f63990543a9f978629e98e74fdda5beb6c14302a68',1,'packerCOMMON']]],
+  ['xmit_5ffailure_5fbits_11',['xmit_failure_Bits',['../classpackerCOMMON.html#a4466e2256046f2444c9045b033ba69ef',1,'packerCOMMON']]],
+  ['xmit_5ffailure_5fdata_5f_12',['xmit_failure_data_',['../classpackerCOMMON.html#a868e0108c5921257bdeb9f1f63990543ac54cc0ebb10d54ed0c6ddba59cb35d7b',1,'packerCOMMON']]],
+  ['xmit_5ffailure_5fdata_5fbits_13',['xmit_failure_data_Bits',['../classpackerCOMMON.html#a1d1b663b90b54a46154b90864e021c6b',1,'packerCOMMON']]],
+  ['xmit_5freason_5f_14',['xmit_reason_',['../classpackerCOMMON.html#a868e0108c5921257bdeb9f1f63990543ad593e04ba4df928a33f08bcc4757521d',1,'packerCOMMON']]],
+  ['xmit_5freason_5fbits_15',['xmit_reason_Bits',['../classpackerCOMMON.html#a753e2f38b766f2309058b6a6311ea49d',1,'packerCOMMON']]],
+  ['xsorg_5f_16',['Xsorg_',['../classUWSMPosition.html#ad563284f05a9c3469bb7c9e8cac6c423',1,'UWSMPosition']]]
 ];

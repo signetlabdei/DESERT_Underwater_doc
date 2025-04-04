@@ -1,0 +1,5 @@
+<map id="UwSocket" name="UwSocket">
+<area shape="rect" id="Node000001" title="Class that implements a TCP or UDP socket." alt="" coords="17,79,103,104"/>
+<area shape="rect" id="Node000002" href="$classUwConnector.html" title="Class UwConnector allows to specify an interface between the UwDriver object and the device." alt="" coords="5,5,115,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="63,44,63,79,57,79,57,44"/>
+</map>

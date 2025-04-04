@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['pi_20zero_0',['How to cross-compile DESERT for Raspberry Pi Zero',['../CROSS-COMPILE-RPI.html',1,'']]]
+  ['of_20giovanni_20toso_0',['In memory of Giovanni Toso',['../Giovanni.html',1,'']]]
 ];

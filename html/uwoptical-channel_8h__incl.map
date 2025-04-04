@@ -1,0 +1,11 @@
+<map id="uwoptical&#45;channel.h" name="uwoptical&#45;channel.h">
+<area shape="rect" id="Node000001" title="Provides class and APIs of the underwater optical channel." alt="" coords="127,5,281,31"/>
+<area shape="rect" id="Node000002" href="$uwem-channel_8h.html" title="Provides class and APIs of the underwater elctromagnetic channel." alt="" coords="139,79,269,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="207,31,207,65,201,65,201,31"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,152,144,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="184,106,109,147,107,143,182,102"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="169,152,239,177"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="207,104,207,138,201,138,201,104"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="264,152,325,177"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="220,102,271,141,267,145,217,106"/>
+</map>

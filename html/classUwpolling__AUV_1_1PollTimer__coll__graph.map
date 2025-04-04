@@ -1,0 +1,25 @@
+<map id="Uwpolling_AUV::PollTimer" name="Uwpolling_AUV::PollTimer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,167,196,192"/>
+<area shape="rect" id="Node000004" href="$classUwpolling__AUV.html" title="Class used to represent the UWPOLLING MAC layer of the AUV." alt="" coords="349,77,472,103"/>
+<area shape="poly" id="edge9_Node000004_Node000001" title=" " alt="" coords="207,162,266,149,324,131,358,117,388,100,390,105,361,121,326,137,267,154,208,167"/>
+<area shape="rect" id="Node000002" href="$classUwpolling__AUV_1_1Uwpolling__AUV__Timer.html" title="Class that describes the timer in the AUV." alt="" coords="607,174,801,214"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="593,194,196,184,197,179,593,189"/>
+<area shape="rect" id="Node000006" href="$classUwpolling__AUV_1_1DataTimer.html" title="Class (inherited from Uwpolling_AUV_Timer) used to handle the timer of data packets When the AUV give..." alt="" coords="853,5,1052,31"/>
+<area shape="poly" id="edge6_Node000006_Node000002" title=" " alt="" coords="775,165,799,148,816,127,824,106,832,85,849,63,878,42,909,28,911,33,880,47,853,67,836,88,829,108,820,130,803,152,778,170"/>
+<area shape="rect" id="Node000007" href="$classUwpolling__AUV_1_1ProbeTimer.html" title="Class (inherited from Uwpolling_AUV_Timer) used to handle the Probe Timer." alt="" coords="851,77,1055,103"/>
+<area shape="poly" id="edge8_Node000007_Node000002" title=" " alt="" coords="813,172,825,166,837,157,849,145,924,100,927,105,852,149,841,161,828,171,816,177"/>
+<area shape="rect" id="Node000008" href="$classUwpolling__AUV_1_1AckTimer.html" title=" " alt="" coords="857,159,1048,184"/>
+<area shape="poly" id="edge11_Node000008_Node000002" title=" " alt="" coords="815,200,826,199,910,181,911,187,827,205,815,206"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="355,237,466,263"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="479,235,582,215,606,211,607,216,583,221,480,240"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="437,110,464,132,497,152,551,170,607,182,606,187,550,176,495,156,461,137,433,114"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="70,56,131,81"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="145,69,349,83,349,88,145,74"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="840,31,677,48,496,74,466,80,465,75,496,69,677,43,840,25"/>
+<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="837,93,472,93,472,87,837,87"/>
+<area shape="poly" id="edge10_Node000004_Node000008" title=" " alt="" coords="854,159,472,102,473,96,854,154"/>
+<area shape="rect" id="Node000009" href="$structprobbed__node.html" title="Internal structure where the AUV store the informations about the node to POLL." alt="" coords="43,105,158,131"/>
+<area shape="poly" id="edge12_Node000004_Node000009" title=" " alt="" coords="172,113,325,102,349,99,349,104,326,107,172,119"/>
+<area shape="rect" id="Node000010" href="$structprobe__cicle__counters.html" title="Struct used for handling the number of probes detected and received to estimate the number of neighbo..." alt="" coords="21,7,180,32"/>
+<area shape="poly" id="edge13_Node000004_Node000010" title=" " alt="" coords="194,31,326,59,375,75,374,80,325,65,193,37"/>
+</map>

@@ -1,0 +1,29 @@
+<map id="uwinterferenceofdm.h" name="uwinterferenceofdm.h">
+<area shape="rect" id="Node000001" title="Implementation of uwinterference class. Your can find the brief description of this module in the pap..." alt="" coords="551,5,718,31"/>
+<area shape="rect" id="Node000002" href="$uwinterference_8h.html" title="Implementation of uwinterference class." alt="" coords="378,79,510,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="605,33,489,76,487,71,603,28"/>
+<area shape="rect" id="Node000010" href="$uwofdmphy__hdr_8h.html" title="Common structures and variables in the protocol." alt="" coords="809,79,948,104"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="675,28,827,72,825,77,673,33"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,152,149,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="386,107,151,152,150,147,385,101"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="173,152,216,177"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="400,107,230,154,228,149,399,101"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="240,152,320,177"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="419,106,320,149,318,144,417,102"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="344,152,440,177"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="438,106,411,142,406,139,433,103"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="465,152,527,177"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="455,103,482,139,477,142,450,106"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="552,152,627,177"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="469,102,555,144,552,148,466,106"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="651,152,714,177"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="483,101,639,148,637,153,482,107"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="739,152,813,177"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="864,106,806,146,803,142,861,102"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="837,152,920,177"/>
+<area shape="poly" id="edge11_Node000010_Node000012" title=" " alt="" coords="881,104,881,138,876,138,876,104"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="944,152,1021,177"/>
+<area shape="poly" id="edge12_Node000010_Node000013" title=" " alt="" coords="897,102,956,142,953,146,894,106"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="1045,152,1104,177"/>
+<area shape="poly" id="edge13_Node000010_Node000014" title=" " alt="" coords="911,102,1033,146,1032,151,909,107"/>
+</map>

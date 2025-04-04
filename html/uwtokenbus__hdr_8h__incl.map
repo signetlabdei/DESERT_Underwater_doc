@@ -1,0 +1,9 @@
+<map id="uwtokenbus_hdr.h" name="uwtokenbus_hdr.h">
+<area shape="rect" id="Node000001" title="Common structures and variables in the protocol." alt="" coords="65,5,204,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,79,72,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="121,33,67,72,64,68,118,29"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="96,79,173,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="137,31,137,65,132,65,132,31"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="197,79,256,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="151,29,203,68,199,72,148,33"/>
+</map>

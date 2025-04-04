@@ -1,0 +1,26 @@
+<map id="uwpolling_cmn_hdr.h" name="uwpolling_cmn_hdr.h">
+<area shape="rect" id="Node000001" title="Common structures and variables in the protocol." alt="" coords="276,5,435,31"/>
+<area shape="rect" id="Node000002" href="$DESERT__Framework_2DESERT_2data__link_2uwpolling_2initlib_8cpp.html" title="Provides the initialization of the uwpolling libraries." alt="" coords="203,152,289,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="323,40,299,58,278,80,259,118,250,153,245,151,254,116,273,77,295,54,320,36"/>
+<area shape="rect" id="Node000003" href="$packer-uwpolling_8h.html" title="Header of the class responsible to map the ns2 packet of Uwpolling into a bit stream,..." alt="" coords="673,79,819,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="432,30,683,76,682,81,431,36"/>
+<area shape="rect" id="Node000005" href="$uwpolling__AUV_8cpp.html" title="Provides the implementation of Uwpolling_AUV class." alt="" coords="5,152,151,177"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="263,29,205,36,148,47,101,62,84,70,72,80,65,97,64,116,75,151,70,152,59,117,59,96,68,77,81,66,99,57,147,42,204,31,262,24"/>
+<area shape="rect" id="Node000006" href="$uwpolling__AUV_8h.html" title="Class that represents the AUV of UWPOLLING." alt="" coords="82,79,213,104"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="310,38,182,81,180,76,308,33"/>
+<area shape="rect" id="Node000007" href="$uwpolling__NODE_8cpp.html" title="Implementation of Uwpolling_NODE class." alt="" coords="489,152,646,177"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="449,27,542,46,580,60,604,77,611,97,606,118,594,138,581,154,577,150,590,135,601,116,606,97,600,80,577,64,540,51,448,32"/>
+<area shape="rect" id="Node000008" href="$uwpolling__NODE_8h.html" title="Class that represents a node of UWPOLLING." alt="" coords="447,79,589,104"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="395,34,492,76,490,81,393,39"/>
+<area shape="rect" id="Node000009" href="$uwpolling__SINK_8h.html" title="Class that represents a node of UWPOLLING." alt="" coords="288,79,423,104"/>
+<area shape="poly" id="edge12_Node000001_Node000009" title=" " alt="" coords="358,44,358,79,353,79,353,44"/>
+<area shape="rect" id="Node000004" href="$packer-uwpolling_8cpp.html" title="Implementation of the class responsible to map the ns2 packet of uwpolling into a bit stream,..." alt="" coords="670,152,830,177"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="750,118,752,152,747,152,745,118"/>
+<area shape="poly" id="edge6_Node000006_Node000002" title=" " alt="" coords="176,110,231,150,228,154,172,114"/>
+<area shape="poly" id="edge7_Node000006_Node000005" title=" " alt="" coords="128,116,91,154,87,150,125,112"/>
+<area shape="poly" id="edge10_Node000008_Node000002" title=" " alt="" coords="462,110,290,155,289,149,461,105"/>
+<area shape="poly" id="edge11_Node000008_Node000007" title=" " alt="" coords="536,114,562,150,557,153,532,117"/>
+<area shape="poly" id="edge13_Node000009_Node000002" title=" " alt="" coords="328,114,265,154,262,150,325,109"/>
+<area shape="rect" id="Node000010" href="$uwpolling__SINK_8cpp.html" title="Implementation of Uwpolling_SINK class." alt="" coords="313,152,464,177"/>
+<area shape="poly" id="edge14_Node000009_Node000010" title=" " alt="" coords="369,115,386,151,381,153,364,118"/>
+</map>

@@ -1,0 +1,31 @@
+<map id="UwModem" name="UwModem">
+<area shape="rect" id="Node000001" title="Class that implements the interface to DESERT, as used through Tcl scripts." alt="" coords="226,80,318,105"/>
+<area shape="rect" id="Node000003" href="$classCheckTimer.html" title="The class used by UwModem to handle simulator&#39;s event expirations; it is exploited to schedule the re..." alt="" coords="110,168,210,193"/>
+<area shape="poly" id="edge6_Node000003_Node000001" title=" " alt="" coords="264,120,245,146,224,160,201,170,199,166,221,156,241,142,260,116"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="349,5,408,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="352,41,291,82,288,78,349,36"/>
+<area shape="rect" id="Node000005" href="$classUWMPhy__modem.html" title="The main class implementing the module used to implement the interface between ns2/NS&#45;Miracle and rea..." alt="" coords="207,256,345,281"/>
+<area shape="poly" id="edge8_Node000005_Node000002" title=" " alt="" coords="375,45,364,133,350,185,325,234,311,248,296,258,293,254,308,244,321,230,345,183,359,132,370,44"/>
+<area shape="poly" id="edge9_Node000005_Node000002" title=" " alt="" coords="390,44,391,83,387,133,373,185,349,234,335,248,318,258,315,253,332,244,345,230,368,183,381,132,386,83,384,44"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="152,154,154,141,159,128,173,114,189,105,225,94,226,99,191,109,176,119,164,131,159,142,158,155"/>
+<area shape="poly" id="edge10_Node000005_Node000003" title=" " alt="" coords="156,207,156,220,161,230,181,248,207,259,205,264,179,253,157,234,151,221,151,207"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="37,80,147,105"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="97,116,116,142,140,166,136,170,112,146,93,119"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="112,115,153,166,148,169,108,118"/>
+<area shape="poly" id="edge5_Node000003_Node000004" title=" " alt="" coords="126,113,150,140,166,166,161,169,146,144,122,116"/>
+<area shape="rect" id="Node000009" href="$classDropTimer.html" title=" " alt="" coords="5,344,96,369"/>
+<area shape="poly" id="edge18_Node000009_Node000004" title=" " alt="" coords="85,119,63,237,51,344,46,344,58,237,80,118"/>
+<area shape="poly" id="edge19_Node000009_Node000004" title=" " alt="" coords="96,119,81,238,59,344,54,343,76,237,91,119"/>
+<area shape="poly" id="edge7_Node000003_Node000005" title=" " alt="" coords="262,246,240,219,219,206,197,196,199,191,221,201,243,215,266,242"/>
+<area shape="rect" id="Node000006" href="$classUWMdriver.html" title="The class needed by UWMPhy_modem to handle the different transmissions cases and corresponding protoc..." alt="" coords="283,344,378,369"/>
+<area shape="poly" id="edge12_Node000006_Node000005" title=" " alt="" coords="333,286,352,304,355,315,353,326,343,345,338,342,348,324,350,315,347,307,329,290"/>
+<area shape="poly" id="edge20_Node000009_Node000005" title=" " alt="" coords="194,281,130,292,104,299,86,308,68,325,57,345,53,343,64,322,82,303,102,294,129,287,193,276"/>
+<area shape="poly" id="edge11_Node000005_Node000006" title=" " alt="" coords="296,338,282,321,274,301,273,282,278,281,280,300,286,319,300,334"/>
+<area shape="rect" id="Node000007" href="$classUWMinterpreter.html" title="This class is in charge of building/parsing the necessary messages to make the UWMdriver able to comm..." alt="" coords="175,432,302,457"/>
+<area shape="poly" id="edge14_Node000007_Node000006" title=" " alt="" coords="270,368,220,379,201,386,189,395,186,404,191,413,214,430,211,434,186,416,181,404,184,392,198,382,218,374,269,363"/>
+<area shape="rect" id="Node000008" href="$classUWMconnector.html" title="The class needed by UWMPhy_modem to manage string exchange with the modem." alt="" coords="362,432,483,457"/>
+<area shape="poly" id="edge16_Node000008_Node000006" title=" " alt="" coords="355,377,412,430,408,433,351,381"/>
+<area shape="poly" id="edge13_Node000006_Node000007" title=" " alt="" coords="248,418,267,391,303,367,306,372,271,395,252,421"/>
+<area shape="poly" id="edge15_Node000006_Node000008" title=" " alt="" coords="450,421,460,407,460,401,458,395,446,386,427,379,378,367,379,362,428,374,449,382,462,392,466,400,465,409,454,424"/>
+<area shape="poly" id="edge17_Node000005_Node000009" title=" " alt="" coords="93,336,245,279,247,284,95,341"/>
+</map>

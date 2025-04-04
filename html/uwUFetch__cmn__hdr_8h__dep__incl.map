@@ -1,0 +1,23 @@
+<map id="uwUFetch_cmn_hdr.h" name="uwUFetch_cmn_hdr.h">
+<area shape="rect" id="Node000001" title="Common structures and variables in the protocol." alt="" coords="702,5,862,31"/>
+<area shape="rect" id="Node000002" href="$DESERT__Framework_2DESERT_2data__link_2uwUFetch_2initlib_8cpp.html" title="file to initialize the libuwufetch.so library" alt="" coords="5,86,92,111"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="688,23,571,28,424,38,264,55,105,81,79,89,78,83,104,76,264,49,424,32,570,22,688,18"/>
+<area shape="rect" id="Node000003" href="$packer__uwUFetch_8h.html" title=" " alt="" coords="116,86,264,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="689,30,498,51,277,81,239,89,238,83,276,76,498,45,688,25"/>
+<area shape="rect" id="Node000005" href="$uwUFetch__AUV_8cpp.html" title="Class that provide the implementation of the AUV entity of uwUFetch protocol." alt="" coords="289,86,435,111"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="701,36,449,81,414,89,413,83,448,76,700,30"/>
+<area shape="rect" id="Node000006" href="$uwUFetch__AUV__mod__1_8cpp.html" title=" " alt="" coords="460,86,659,111"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="738,38,593,88,591,83,736,33"/>
+<area shape="rect" id="Node000007" href="$uwUFetch__AUV__mod__2_8cpp.html" title=" " alt="" coords="683,86,881,111"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="785,44,785,86,779,86,779,44"/>
+<area shape="rect" id="Node000008" href="$uwUFetch__NODE__HEADNODE_8cpp.html" title=" " alt="" coords="906,86,1146,111"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="832,32,991,83,990,89,830,37"/>
+<area shape="rect" id="Node000009" href="$uwUFetch__NODE__HEADNODE__mod__1_8cpp.html" title="Class that provide the implementation of HEAD NODE entity of uwUFetch protocol using a RTS and CTS pa..." alt="" coords="1170,79,1383,119"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="868,30,1170,78,1170,83,867,35"/>
+<area shape="rect" id="Node000010" href="$uwUFetch__NODE__HEADNODE__mod__2_8cpp.html" title=" " alt="" coords="1407,79,1621,119"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="876,24,1112,45,1396,76,1408,78,1407,83,1395,81,1111,50,875,29"/>
+<area shape="rect" id="Node000011" href="$uwUFetch__NODE__SENSOR_8cpp.html" title="Class that provide the implementation of the SENSOR NODE entity of uwUFetch protocol." alt="" coords="1645,86,1863,111"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="876,21,1211,40,1421,55,1633,76,1687,83,1686,89,1632,81,1421,61,1211,45,876,26"/>
+<area shape="rect" id="Node000004" href="$packer__uwUFetch_8cc.html" title="Implementation of the class responsible to map the ns2 packet of UFETCH into a bit stream,..." alt="" coords="113,167,267,192"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="193,125,193,166,187,166,187,125"/>
+</map>

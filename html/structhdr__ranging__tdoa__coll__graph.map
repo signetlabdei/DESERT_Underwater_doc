@@ -1,0 +1,5 @@
+<map id="hdr_ranging_tdoa" name="hdr_ranging_tdoa">
+<area shape="rect" id="Node000001" title="Header of the token bus protocol." alt="" coords="5,93,140,119"/>
+<area shape="rect" id="Node000002" href="$structtdoa__entry.html" title="Define the struct of a single tdoa payload entry." alt="" coords="27,5,119,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="75,45,75,93,70,93,70,45"/>
+</map>

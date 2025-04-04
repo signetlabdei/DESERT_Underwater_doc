@@ -1,0 +1,9 @@
+<map id="initlib.cpp" name="initlib.cpp">
+<area shape="rect" id="Node000001" title="Provides the initializazion of the uwtap libraries." alt="" coords="38,5,125,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,79,67,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="76,32,53,69,48,66,72,30"/>
+<area shape="rect" id="Node000003" href="$uwtap_8h.html" title=" " alt="" coords="91,79,165,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="91,30,115,66,111,69,87,32"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="87,152,169,177"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="131,104,131,138,125,138,125,104"/>
+</map>

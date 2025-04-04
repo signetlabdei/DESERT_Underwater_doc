@@ -1,0 +1,7 @@
+<map id="UwAhoiModem" name="UwAhoiModem">
+<area shape="rect" id="Node000001" title="The ahoi! modems are an underwater acoustic modems developed by TUUH University, Hamburg by the Smart..." alt="" coords="5,152,127,177"/>
+<area shape="rect" id="Node000002" href="$classUwModem.html" title="Class that implements the interface to DESERT, as used through Tcl scripts." alt="" coords="20,79,112,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="69,118,69,152,63,152,63,118"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="37,5,95,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="69,44,69,79,63,79,63,44"/>
+</map>

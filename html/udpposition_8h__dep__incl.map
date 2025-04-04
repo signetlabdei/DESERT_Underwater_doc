@@ -1,0 +1,7 @@
+<map id="udpposition.h" name="udpposition.h">
+<area shape="rect" id="Node000001" title="Provides the definition of the class UDPPosition." alt="" coords="59,5,169,31"/>
+<area shape="rect" id="Node000002" href="$DESERT__Addons_2mobility__udpposition_2initlib_8cpp.html" title="Provides the initialization of udpposition addon." alt="" coords="5,79,92,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,43,61,80,57,77,92,39"/>
+<area shape="rect" id="Node000003" href="$udpposition_8cpp.html" title="Provides the UDPPosition class implementation." alt="" coords="117,79,242,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="136,39,171,77,167,80,132,43"/>
+</map>

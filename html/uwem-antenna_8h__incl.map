@@ -1,0 +1,25 @@
+<map id="uwem&#45;antenna.h" name="uwem&#45;antenna.h">
+<area shape="rect" id="Node000001" title="Definition of Uwem antenna class." alt="" coords="485,5,617,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,79,71,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="486,28,308,47,85,81,84,76,308,42,485,22"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="95,79,195,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="486,33,209,81,208,76,485,28"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="218,79,295,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="505,33,309,80,308,75,503,28"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="319,79,402,104"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="522,33,406,76,404,71,520,28"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="426,79,487,104"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="538,33,485,72,482,68,535,29"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="511,79,591,104"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="554,31,554,65,549,65,549,31"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="615,79,674,104"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="568,29,620,68,617,72,565,33"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="698,79,765,104"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="581,28,690,71,688,76,579,33"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="789,79,887,104"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="598,28,779,73,778,78,597,33"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="912,79,985,104"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="618,27,898,76,898,81,617,32"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="1010,79,1085,104"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="618,24,786,44,997,76,996,81,785,49,617,29"/>
+</map>

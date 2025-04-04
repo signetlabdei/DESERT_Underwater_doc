@@ -1,0 +1,13 @@
+<map id="uwtracker&#45;module.h" name="uwtracker&#45;module.h">
+<area shape="rect" id="Node000001" title="Provides the definition of the class UWROV." alt="" coords="204,5,356,31"/>
+<area shape="rect" id="Node000002" href="$uwsc-tracker-follower-module_8h.html" title="Provides the definition of the class UWSCFTRACKER." alt="" coords="7,79,169,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="241,38,135,81,133,76,239,33"/>
+<area shape="rect" id="Node000004" href="$uwsc-tracker-module_8h.html" title="Provides the definition of the class UWSCTRACKER." alt="" coords="195,86,365,111"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="283,44,283,86,277,86,277,44"/>
+<area shape="rect" id="Node000006" href="$uwtracker-module_8cpp.html" title=" " alt="" coords="390,86,557,111"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="322,33,446,84,444,88,320,38"/>
+<area shape="rect" id="Node000003" href="$uwsc-tracker-follower-module_8cc.html" title="Provides the UWSCFTRACKER class implementation." alt="" coords="5,167,168,207"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="90,133,90,166,84,166,85,133"/>
+<area shape="rect" id="Node000005" href="$uwsc-tracker-module_8cc.html" title="Provides the UWSCTRACKER class implementation." alt="" coords="193,174,370,199"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="283,125,284,173,278,174,278,125"/>
+</map>

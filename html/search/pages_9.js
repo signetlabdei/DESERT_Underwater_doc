@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['memory_20of_20giovanni_20toso_0',['In memory of Giovanni Toso',['../Giovanni.html',1,'']]]
+  ['libraries_0',['The DESERT Underwater Libraries',['../index.html',1,'']]],
+  ['license_20terms_1',['License Terms',['../License.html',1,'']]]
 ];

@@ -1,0 +1,27 @@
+<map id="uwmphypatch.cpp" name="uwmphypatch.cpp">
+<area shape="rect" id="Node000001" title="Implementation of the class UWMPhypatch." alt="" coords="452,5,593,31"/>
+<area shape="rect" id="Node000002" href="$uwmphypatch_8h.html" title="Header of a dumb module intended to patch the absence of a PHY layer&#39;s module when we want to use a m..." alt="" coords="459,79,586,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="525,31,525,65,520,65,520,31"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,152,75,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="459,102,296,122,89,155,88,149,295,117,459,97"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="99,152,170,177"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="460,105,184,155,183,149,459,100"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="195,152,275,177"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="477,107,289,153,287,148,476,101"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="299,152,365,177"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="493,107,377,149,375,144,491,102"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="390,152,463,177"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="509,106,455,146,452,141,506,102"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="487,152,558,177"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="525,104,525,138,520,138,520,104"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="583,152,657,177"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="540,102,594,141,591,146,537,106"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="681,152,777,177"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="557,101,684,145,682,150,555,107"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="801,152,887,177"/>
+<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="575,101,789,148,788,154,574,107"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="911,152,974,177"/>
+<area shape="poly" id="edge11_Node000002_Node000012" title=" " alt="" coords="587,98,726,118,898,149,897,155,725,124,586,103"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="999,152,1073,177"/>
+<area shape="poly" id="edge12_Node000002_Node000013" title=" " alt="" coords="586,96,762,116,985,149,984,155,761,121,586,101"/>
+</map>

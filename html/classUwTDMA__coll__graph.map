@@ -1,0 +1,9 @@
+<map id="UwTDMA" name="UwTDMA">
+<area shape="rect" id="Node000001" title="Class that represents a TDMA Node." alt="" coords="16,168,99,193"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,80,67,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="45,118,57,167,52,168,40,119"/>
+<area shape="rect" id="Node000003" href="$classUwTDMATimer.html" title="UwTDMATimer class is used to handle the scheduling period of UWTDMA slots." alt="" coords="91,80,210,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="130,117,72,169,69,165,126,113"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="95,5,206,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="153,45,153,80,148,80,148,45"/>
+</map>

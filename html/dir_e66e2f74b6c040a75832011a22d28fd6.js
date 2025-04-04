@@ -6,7 +6,5 @@ var dir_e66e2f74b6c040a75832011a22d28fd6 =
     [ "mclinkextended.cpp", "mclinkextended_8cpp.html", "mclinkextended_8cpp" ],
     [ "mclinkextended.h", "mclinkextended_8h.html", "mclinkextended_8h" ],
     [ "uwhmmphysical.cpp", "uwhmmphysical_8cpp.html", "uwhmmphysical_8cpp" ],
-    [ "uwhmmphysical.h", "uwhmmphysical_8h.html", "uwhmmphysical_8h" ],
-    [ "uwhmmphysicalext.cpp", "uwhmmphysicalext_8cpp.html", "uwhmmphysicalext_8cpp" ],
-    [ "uwhmmphysicalext.h", "uwhmmphysicalext_8h.html", "uwhmmphysicalext_8h" ]
+    [ "uwhmmphysical.h", "uwhmmphysical_8h.html", "uwhmmphysical_8h" ]
 ];

@@ -1,0 +1,7 @@
+<map id="Uwpolling_SINK::Rx_Data_Timer" name="Uwpolling_SINK::Rx_Data_Timer">
+<area shape="rect" id="Node000001" title="Class (inherited from Uwpolling_SINK_Timer) used to handle the time in which the NODE wait for the DA..." alt="" coords="29,167,180,207"/>
+<area shape="rect" id="Node000002" href="$classUwpolling__SINK_1_1Uwpolling__SINK__Timer.html" title="Class that describes the timer in the SINK." alt="" coords="5,79,204,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,133,107,166,102,166,102,133"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="49,5,160,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="107,44,107,79,102,79,102,44"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="Uwpolling_NODE::Uwpolling_NODE_Timer" name="Uwpolling_NODE::Uwpolling_NODE_Timer">
+<area shape="rect" id="Node000001" title="Class that describes the timer in the AUV." alt="" coords="164,55,369,95"/>
+<area shape="rect" id="Node000003" href="$classUwpolling__NODE_1_1BackOffTimer.html" title="Class (inherited from Uwpolling_NODE_Timer) used to handle the time of backoff of the node before tra..." alt="" coords="417,5,647,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="373,50,472,28,473,33,374,55"/>
+<area shape="rect" id="Node000004" href="$classUwpolling__NODE_1_1Rx__Poll__Timer.html" title="Class (inherited from Uwpolling_NODE_Timer) used to handle the time in which the NODE wait for the PO..." alt="" coords="453,55,611,95"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="383,73,453,73,453,78,383,78"/>
+<area shape="rect" id="Node000005" href="$classUwpolling__NODE_1_1Tx__Data__Timer.html" title="Class (inherited from Uwpolling_NODE_Timer) used to handle the time between the transmission of the D..." alt="" coords="454,119,610,159"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="364,96,455,118,453,123,363,101"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,63,116,88"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,73,164,73,164,78,130,78"/>
+</map>

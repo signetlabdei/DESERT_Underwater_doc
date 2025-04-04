@@ -1,0 +1,13 @@
+<map id="Uwpolling_AUV::Uwpolling_AUV_Timer" name="Uwpolling_AUV::Uwpolling_AUV_Timer">
+<area shape="rect" id="Node000001" title="Class that describes the timer in the AUV." alt="" coords="164,73,359,113"/>
+<area shape="rect" id="Node000003" href="$classUwpolling__AUV_1_1AckTimer.html" title=" " alt="" coords="413,5,604,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="328,65,406,39,449,28,450,33,407,45,329,70"/>
+<area shape="rect" id="Node000004" href="$classUwpolling__AUV_1_1DataTimer.html" title="Class (inherited from Uwpolling_AUV_Timer) used to handle the timer of data packets When the AUV give..." alt="" coords="409,55,608,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="372,79,409,75,409,80,373,84"/>
+<area shape="rect" id="Node000005" href="$classUwpolling__AUV_1_1PollTimer.html" title=" " alt="" coords="413,104,604,129"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="373,101,413,105,413,110,372,106"/>
+<area shape="rect" id="Node000006" href="$classUwpolling__AUV_1_1ProbeTimer.html" title="Class (inherited from Uwpolling_AUV_Timer) used to handle the Probe Timer." alt="" coords="407,153,611,179"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="331,115,407,139,450,151,449,156,406,145,329,120"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,80,116,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,90,164,90,164,95,130,95"/>
+</map>

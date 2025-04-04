@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classUWMinterpreter.html" title="This class is in charge of building/parsing the necessary messages to make the UWMdriver able to comm..." alt="" coords="5,5,132,31"/>
+<area shape="rect" id="Node000001" href="$classMinterpreterTEL.html" title="Class used to build and parse TELEGRAMS (this class derives UWMinterpreter); currently,..." alt="" coords="180,5,307,31"/>
+<area shape="poly" id="edge381_Node000000_Node000001" title=" " alt="" coords="145,15,180,15,180,21,145,21"/>
+</map>

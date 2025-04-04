@@ -1,0 +1,7 @@
+<map id="uwranging_tdma_hdr.h" name="uwranging_tdma_hdr.h">
+<area shape="rect" id="Node000001" title="Common structures and variables in the protocol." alt="" coords="37,5,207,31"/>
+<area shape="rect" id="Node000002" href="$DESERT__Framework_2DESERT_2ranging_2uwranging__tdma_2initlib_8cpp.html" title="Provides the initializazion of the uwranging_tdma libraries." alt="" coords="5,79,92,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="102,42,62,80,59,77,98,38"/>
+<area shape="rect" id="Node000003" href="$uwranging__tdma_8cpp.html" title="Provides the implementation of the class UwRangingTDMA." alt="" coords="116,79,275,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="146,38,185,77,182,80,142,42"/>
+</map>

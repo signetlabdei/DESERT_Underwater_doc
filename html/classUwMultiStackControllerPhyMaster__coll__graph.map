@@ -1,0 +1,13 @@
+<map id="UwMultiStackControllerPhyMaster" name="UwMultiStackControllerPhyMaster">
+<area shape="rect" id="Node000001" title="Class used to represents the UwMultiStackControllerPhyMaster layer of a node." alt="" coords="775,27,975,67"/>
+<area shape="rect" id="Node000002" href="$classUwMultiStackControllerPhy.html" title=" " alt="" coords="382,5,582,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="596,24,775,37,774,43,595,29"/>
+<area shape="rect" id="Node000003" href="$classUwMultiStackController.html" title="Class used to represents the UwMultiStackController layer of a node." alt="" coords="125,5,301,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="315,15,382,15,382,21,315,21"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,5,76,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="90,15,125,15,125,21,90,21"/>
+<area shape="rect" id="Node000005" href="$classUwMultiStackControllerPhyMaster_1_1UwMultiStackSignalingTimer.html" title=" " alt="" coords="351,55,613,95"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="627,64,750,55,774,53,774,59,751,61,627,69"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="158,63,269,88"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="283,73,350,73,350,78,283,78"/>
+</map>

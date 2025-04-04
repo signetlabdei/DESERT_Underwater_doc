@@ -1,0 +1,33 @@
+<map id="UwMODAModem" name="UwMODAModem">
+<area shape="rect" id="Node000001" title=" " alt="" coords="232,168,365,193"/>
+<area shape="rect" id="Node000002" href="$classUwModem.html" title="Class that implements the interface to DESERT, as used through Tcl scripts." alt="" coords="246,80,338,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="335,111,350,128,353,141,347,153,325,170,322,166,343,149,347,140,346,131,331,115"/>
+<area shape="rect" id="Node000004" href="$classCheckTimer.html" title="The class used by UwModem to handle simulator&#39;s event expirations; it is exploited to schedule the re..." alt="" coords="107,168,207,193"/>
+<area shape="poly" id="edge7_Node000004_Node000002" title=" " alt="" coords="233,105,187,116,169,123,158,131,153,149,156,167,151,168,148,148,154,128,166,118,185,111,232,100"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="385,5,444,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="385,40,313,82,310,77,382,35"/>
+<area shape="rect" id="Node000006" href="$classUWMPhy__modem.html" title="The main class implementing the module used to implement the interface between ns2/NS&#45;Miracle and rea..." alt="" coords="211,256,349,281"/>
+<area shape="poly" id="edge9_Node000006_Node000003" title=" " alt="" coords="409,45,396,115,385,156,368,195,352,216,334,233,297,258,294,254,330,229,348,212,363,192,380,154,391,113,403,44"/>
+<area shape="poly" id="edge10_Node000006_Node000003" title=" " alt="" coords="424,44,424,76,419,114,408,156,392,195,376,216,357,233,315,258,313,254,354,229,372,212,387,192,403,154,414,113,419,75,419,44"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="200,160,235,142,259,123,279,104,283,107,263,127,237,146,202,165"/>
+<area shape="poly" id="edge11_Node000006_Node000004" title=" " alt="" coords="157,207,158,220,163,230,185,248,211,259,209,263,182,253,159,234,153,221,151,208"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="37,80,147,105"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="96,116,114,142,137,166,133,169,110,146,92,119"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="111,115,150,166,146,169,107,118"/>
+<area shape="poly" id="edge6_Node000004_Node000005" title=" " alt="" coords="126,113,149,141,163,166,159,169,145,144,122,117"/>
+<area shape="rect" id="Node000010" href="$classDropTimer.html" title=" " alt="" coords="5,344,96,369"/>
+<area shape="poly" id="edge19_Node000010_Node000005" title=" " alt="" coords="85,119,63,237,51,344,46,344,58,237,80,118"/>
+<area shape="poly" id="edge20_Node000010_Node000005" title=" " alt="" coords="96,119,81,238,59,344,54,343,76,237,91,119"/>
+<area shape="poly" id="edge8_Node000004_Node000006" title=" " alt="" coords="265,246,242,219,221,206,197,196,199,191,223,201,246,215,269,242"/>
+<area shape="rect" id="Node000007" href="$classUWMdriver.html" title="The class needed by UWMPhy_modem to handle the different transmissions cases and corresponding protoc..." alt="" coords="283,344,378,369"/>
+<area shape="poly" id="edge13_Node000007_Node000006" title=" " alt="" coords="334,286,352,304,355,315,353,326,343,345,338,342,348,324,350,315,347,307,330,290"/>
+<area shape="poly" id="edge21_Node000010_Node000006" title=" " alt="" coords="197,281,132,292,105,299,87,308,69,325,58,345,53,342,65,322,84,303,103,294,131,287,196,276"/>
+<area shape="poly" id="edge12_Node000006_Node000007" title=" " alt="" coords="295,337,282,321,276,301,276,281,281,281,281,300,286,319,299,334"/>
+<area shape="rect" id="Node000008" href="$classUWMinterpreter.html" title="This class is in charge of building/parsing the necessary messages to make the UWMdriver able to comm..." alt="" coords="175,432,302,457"/>
+<area shape="poly" id="edge15_Node000008_Node000007" title=" " alt="" coords="270,368,220,379,201,386,189,395,186,404,191,413,214,430,211,434,186,416,181,404,184,392,198,382,218,374,269,363"/>
+<area shape="rect" id="Node000009" href="$classUWMconnector.html" title="The class needed by UWMPhy_modem to manage string exchange with the modem." alt="" coords="362,432,483,457"/>
+<area shape="poly" id="edge17_Node000009_Node000007" title=" " alt="" coords="355,377,412,430,408,433,351,381"/>
+<area shape="poly" id="edge14_Node000007_Node000008" title=" " alt="" coords="248,418,267,391,303,367,306,372,271,395,252,421"/>
+<area shape="poly" id="edge16_Node000007_Node000009" title=" " alt="" coords="450,421,460,407,460,401,458,395,446,386,427,379,378,367,379,362,428,374,449,382,462,392,466,400,465,409,454,424"/>
+<area shape="poly" id="edge18_Node000006_Node000010" title=" " alt="" coords="93,337,248,279,250,284,95,342"/>
+</map>

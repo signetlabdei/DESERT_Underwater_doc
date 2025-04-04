@@ -1,0 +1,11 @@
+<map id="uwranging_tdoa_hdr.h" name="uwranging_tdoa_hdr.h">
+<area shape="rect" id="Node000001" title="Common structures and variables in the protocol." alt="" coords="129,5,294,31"/>
+<area shape="rect" id="Node000002" href="$DESERT__Framework_2DESERT_2ranging_2uwranging__tdoa_2initlib_8cpp.html" title="Provides the initializazion of the uwranging_tdoa libraries." alt="" coords="5,79,92,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,39,76,81,74,76,172,34"/>
+<area shape="rect" id="Node000003" href="$packer-uwranging-tdoa_8cc.html" title=" " alt="" coords="116,79,307,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="214,44,214,79,209,79,209,44"/>
+<area shape="rect" id="Node000004" href="$uwranging__tdoa_8h.html" title="Provides the definition of the class UwRangingTDOA." alt="" coords="331,79,470,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="255,33,371,76,369,81,254,38"/>
+<area shape="rect" id="Node000005" href="$uwranging__tdoa_8cpp.html" title="Provides the implementation of the class UwRangingTDOA." alt="" coords="324,152,477,177"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="403,118,403,152,398,152,398,118"/>
+</map>

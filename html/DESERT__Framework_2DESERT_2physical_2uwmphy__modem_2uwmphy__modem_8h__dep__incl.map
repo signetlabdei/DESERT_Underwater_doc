@@ -1,0 +1,9 @@
+<map id="uwmphy_modem.h" name="uwmphy_modem.h">
+<area shape="rect" id="Node000001" title="Header of the main class that implements the general interface between ns2/NS&#45;Miracle and real acoust..." alt="" coords="149,5,295,31"/>
+<area shape="rect" id="Node000002" href="$DESERT__Framework_2DESERT_2physical_2uwmphy__modem_2uwmdriver_8cpp.html" title="Implementation of the UWMdriver class." alt="" coords="5,79,124,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,39,91,81,89,76,183,34"/>
+<area shape="rect" id="Node000003" href="$DESERT__Framework_2DESERT_2physical_2uwmphy__modem_2uwminterpreter_8cpp.html" title="Implementation of the UWMinterpreter class." alt="" coords="147,79,297,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="225,44,225,79,219,79,219,44"/>
+<area shape="rect" id="Node000004" href="$DESERT__Framework_2DESERT_2physical_2uwmphy__modem_2uwmphy__modem_8cpp.html" title="Implementation of the UWMPhy_modem class." alt="" coords="321,79,483,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="264,33,374,76,372,81,262,38"/>
+</map>

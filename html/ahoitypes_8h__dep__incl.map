@@ -1,0 +1,13 @@
+<map id="ahoitypes.h" name="ahoitypes.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="25,5,124,31"/>
+<area shape="rect" id="Node000002" href="$uwahoimodem_8cpp.html" title=" " alt="" coords="61,225,208,251"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="57,43,35,71,17,105,8,142,10,159,17,176,30,192,47,205,85,223,83,228,44,209,27,196,13,179,5,161,3,141,12,103,31,68,53,39"/>
+<area shape="rect" id="Node000003" href="$uwinterpreterahoi_8cpp.html" title=" " alt="" coords="27,152,192,177"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="83,44,109,151,104,152,78,45"/>
+<area shape="rect" id="Node000004" href="$uwinterpreterahoi_8h.html" title="Interpreter for commands and responses for ahoi! modems, TUHH, Hamburg." alt="" coords="113,79,263,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="106,36,171,76,168,81,103,40"/>
+<area shape="poly" id="edge6_Node000004_Node000003" title=" " alt="" coords="167,115,124,154,121,150,163,111"/>
+<area shape="rect" id="Node000005" href="$uwahoimodem_8h.html" title="Driver for ahoi! acoustic UW modems: developed by TUUH, Hamburg." alt="" coords="216,152,347,177"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="215,110,268,150,265,154,212,114"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="247,186,160,228,158,223,245,181"/>
+</map>

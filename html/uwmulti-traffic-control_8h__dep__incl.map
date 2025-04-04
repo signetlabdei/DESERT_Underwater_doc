@@ -1,0 +1,11 @@
+<map id="uwmulti&#45;traffic&#45;control.h" name="uwmulti&#45;traffic&#45;control.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="107,5,287,31"/>
+<area shape="rect" id="Node000002" href="$uwmulti-traffic-control_8cc.html" title="Implementation of UwMultiTrafficControl class." alt="" coords="5,86,192,111"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,41,115,88,112,84,170,37"/>
+<area shape="rect" id="Node000003" href="$uwmulti-traffic-range-crt_8h.html" title=" " alt="" coords="216,79,376,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="224,37,274,76,271,81,221,41"/>
+<area shape="rect" id="Node000004" href="$DESERT__Addons_2uwmulti__traffic__control_2initlib_8cc.html" title="file to initialize the libuwphysical.so library" alt="" coords="185,174,263,199"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="273,131,236,175,232,172,269,128"/>
+<area shape="rect" id="Node000005" href="$uwmulti-traffic-range-crt_8cc.html" title="Implementation of UwMultiTrafficControl class." alt="" coords="287,167,447,207"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="322,128,353,165,349,168,318,131"/>
+</map>

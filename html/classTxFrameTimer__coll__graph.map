@@ -1,0 +1,14 @@
+<map id="TxFrameTimer" name="TxFrameTimer">
+<area shape="rect" id="Node000001" title="The class used by Uwal to handle simulator&#39;s event expirations; it is exploited to schedule the sendD..." alt="" coords="209,80,327,105"/>
+<area shape="rect" id="Node000003" href="$classUwal.html" title="The main class implementing the module used to implement the adaptation layer between ns2/NS&#45;Miracle ..." alt="" coords="115,168,170,193"/>
+<area shape="poly" id="edge6_Node000003_Node000001" title=" " alt="" coords="216,113,183,131,165,150,151,170,147,166,160,147,180,127,214,108"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="213,5,323,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="271,45,271,80,265,80,265,45"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="183,172,244,161,269,153,285,142,288,134,286,125,276,107,281,104,292,124,293,135,289,146,272,157,245,166,184,177"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,80,64,105"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="60,112,96,142,128,166,125,170,93,146,57,116"/>
+<area shape="rect" id="Node000005" href="$classpacker.html" title="Class exploited by the Uwal module to map an NS&#45;Miracle packet into a bit stream, and vice&#45;versa." alt="" coords="89,80,154,105"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="107,118,102,131,104,143,113,156,125,166,121,170,109,159,99,145,97,130,101,116"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="81,5,162,31"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="124,45,124,80,119,80,119,45"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="MMacUWSR::BackOffTimer" name="MMacUWSR::BackOffTimer">
+<area shape="rect" id="Node000001" title="Base class of BackoffTimer." alt="" coords="5,5,204,31"/>
+<area shape="rect" id="Node000004" href="$classMMacUWSR.html" title="This is the base class of MMacUWSR protocol, which is a derived class of MMac." alt="" coords="242,93,343,119"/>
+<area shape="poly" id="edge7_Node000004_Node000001" title=" " alt="" coords="136,35,195,67,257,91,256,96,193,72,133,40"/>
+<area shape="rect" id="Node000002" href="$classMMacUWSR_1_1UWSRTimer.html" title="Base class of all the timer used in this protocol." alt="" coords="55,181,242,207"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="121,174,99,150,82,120,78,95,81,70,96,30,101,32,86,71,83,95,87,118,104,146,125,170"/>
+<area shape="rect" id="Node000006" href="$classMMacUWSR_1_1AckTimer.html" title="Base class of AckTimer, which is a derived class of UWSRTimer." alt="" coords="253,256,423,281"/>
+<area shape="poly" id="edge6_Node000006_Node000002" title=" " alt="" coords="192,209,309,253,307,258,191,214"/>
+<area shape="rect" id="Node000007" href="$classMMacUWSR_1_1ListenTimer.html" title="Base class of ListenTimer, which is a derived class of UWSRTimer." alt="" coords="42,256,229,281"/>
+<area shape="poly" id="edge9_Node000007_Node000002" title=" " alt="" coords="147,221,140,256,135,255,141,220"/>
+<area shape="rect" id="Node000008" href="$classMMacUWSR_1_1WaitTxTimer.html" title="Base class of WaitTxTimer, which is a derived class of UWSRTimer." alt="" coords="447,256,639,281"/>
+<area shape="poly" id="edge11_Node000008_Node000002" title=" " alt="" coords="225,207,482,253,481,259,224,212"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="97,93,208,119"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="154,133,152,181,147,181,149,132"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="230,125,189,145,170,163,157,183,153,180,166,160,186,140,227,120"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="262,5,323,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="295,45,295,93,290,93,290,45"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="358,244,378,214,381,198,378,182,366,163,349,146,314,121,317,117,353,142,370,159,383,180,387,198,383,216,363,247"/>
+<area shape="poly" id="edge8_Node000004_Node000007" title=" " alt="" coords="184,249,220,231,252,205,267,184,277,160,288,119,293,120,282,162,272,186,256,208,223,235,187,253"/>
+<area shape="poly" id="edge10_Node000004_Node000008" title=" " alt="" coords="523,247,493,215,456,184,390,146,327,121,329,116,392,141,460,179,497,211,527,243"/>
+</map>

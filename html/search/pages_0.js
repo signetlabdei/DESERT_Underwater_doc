@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['arm_20debian_20sandbox_0',['How to cross-compile DESERT for EvoLogics ARM Debian Sandbox',['../CROSS-COMPILE-EVO.html',1,'']]]
+  ['32bit_0',['How to cross-compile DESERT for Raspberry Pi Zero (32bit)',['../CROSS-COMPILE-RPI.html',1,'']]]
 ];

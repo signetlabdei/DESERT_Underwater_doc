@@ -1,0 +1,5 @@
+<map id="msocket.h" name="msocket.h">
+<area shape="rect" id="Node000001" title="Header of the class derived from UWMconnector to handle the TCP/IP socket connection of a client betw..." alt="" coords="13,5,102,31"/>
+<area shape="rect" id="Node000002" href="$DESERT__Addons_2uwmphy__modem_2msocket_8cpp.html" title="Implementation of the Msocket class." alt="" coords="5,79,109,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="60,44,60,79,55,79,55,44"/>
+</map>
