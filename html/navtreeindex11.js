@@ -1,5 +1,6 @@
 var NAVTREEINDEX11 =
 {
+"classUWOFDMAloha.html#a5d7695e7ac639e33ed82df9ed9f2c042":[9,0,302,53],
 "classUWOFDMAloha.html#a60520782c89febb4e9c3c6bbcb0c489a":[9,0,302,68],
 "classUWOFDMAloha.html#a60b9149ec8f484eaf4c5203cced78e19":[9,0,302,36],
 "classUWOFDMAloha.html#a62e4089ab966408613df57fd2eb3c81b":[9,0,302,26],
@@ -248,6 +249,5 @@ var NAVTREEINDEX11 =
 "classUWSmartOFDM.html#a6ccf106efdb7768d60611afffe41f245ac0ae5491d9b8825ccb8f10777fcecffa":[9,0,360,11,22],
 "classUWSmartOFDM.html#a6ccf106efdb7768d60611afffe41f245ac75c2366aa0189bbc67c0a89408de863":[9,0,360,11,13],
 "classUWSmartOFDM.html#a6ccf106efdb7768d60611afffe41f245ad18f612c5e28a11586d1e677f74ac91c":[9,0,360,11,16],
-"classUWSmartOFDM.html#a6ccf106efdb7768d60611afffe41f245ad4952b4dde45ee4a744f29182f7d79a9":[9,0,360,11,15],
-"classUWSmartOFDM.html#a6ccf106efdb7768d60611afffe41f245ae3761dca57ef1e57e46fb50c260a68da":[9,0,360,11,14]
+"classUWSmartOFDM.html#a6ccf106efdb7768d60611afffe41f245ad4952b4dde45ee4a744f29182f7d79a9":[9,0,360,11,15]
 };

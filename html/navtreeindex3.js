@@ -1,5 +1,6 @@
 var NAVTREEINDEX3 =
 {
+"classClMsgMc2CtrPosition.html#a46bfb929281c8dab7c7a32ff8088ea5b":[9,0,15,0],
 "classClMsgMc2CtrPosition.html#a4f282ce85fd57524d54d1c0032c62297":[9,0,15,4],
 "classClMsgMc2CtrPosition.html#a6de2fd824993f6bdb51a15ec3fbd5304":[9,0,15,5],
 "classClMsgMc2CtrPosition.html#adab5394e0feba1ddeccdfe52287b8c6b":[9,0,15,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX3 =
 "classCsmaAloha.html#a89297d4b77c058a39443ed44ab0357d6":[9,0,32,53],
 "classCsmaAloha.html#a8c58aed1f8ab42f34f962f83214926f5":[9,0,32,88],
 "classCsmaAloha.html#a8e65650219c729995f19caf6dc5db614":[9,0,32,80],
-"classCsmaAloha.html#a908857a8ff0e607fb46f678863e173b0":[9,0,32,63],
-"classCsmaAloha.html#a9648f196f7d47e9260d42ad2f5d4beb5":[9,0,32,15]
+"classCsmaAloha.html#a908857a8ff0e607fb46f678863e173b0":[9,0,32,63]
 };

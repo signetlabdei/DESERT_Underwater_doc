@@ -411,7 +411,7 @@ var searchData=
   ['storepacketinfo_408',['storePacketInfo',['../classUwAhoiModem.html#a74bd718ad56eec6e7ea0c410c916ab10',1,'UwAhoiModem']]],
   ['str2addr_409',['str2addr',['../classUwIcrpNode.html#a343701706d65b9b7a69699ddb9a81b77',1,'UwIcrpNode::str2addr()'],['../classUwFloodingSec.html#ab682e2879b92c1eaf2dc80d53d7ba97f',1,'UwFloodingSec::str2addr()'],['../classSunIPRoutingSink.html#a01811652533d3fb957b8b94a4312c493',1,'SunIPRoutingSink::str2addr()'],['../classSunIPRoutingNode.html#a4303a4b093cd4da16af70aecc0d21c3e',1,'SunIPRoutingNode::str2addr()'],['../classUwFlooding.html#a1c78d9192fc85fcfd21e773ccd06c68c',1,'UwFlooding::str2addr()']]],
   ['string2log_410',['string2log',['../classUwModem.html#a27dafd6ba98253d45d704eab28d72cc7',1,'UwModem']]],
-  ['structure_20of_20a_20desert_20module_411',['Structure of a DESERT module',['../DEV.html#DESMod',1,'']]],
+  ['structure_411',['DESERT Structure',['../DEV.html#desstruct',1,'']]],
   ['stx_412',['stx',['../classUwInterpreterAhoi.html#ae8e6d89769878f7cc77e1e45670acaac',1,'UwInterpreterAhoi']]],
   ['subcarrier_5f_413',['subCarrier_',['../classUwOFDMPhy.html#a6ebf1105e29463dc9a994397ad2c9cb1',1,'UwOFDMPhy']]],
   ['sum_5fdefer_5ftime_414',['sum_defer_time',['../classMMacDACAP.html#a44bb0613abdda8f8c50bcccd7eacef94',1,'MMacDACAP']]],

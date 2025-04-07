@@ -1,5 +1,6 @@
 var NAVTREEINDEX8 =
 {
+"classRxFrameSet.html#a60ae5b3445cfef34c60523302deed896":[9,0,170,11],
 "classRxFrameSet.html#a6139b932cbff1f8c2a2ffb8de10ad8bd":[9,0,170,3],
 "classRxFrameSet.html#a847366b54557ad883ac0f7df4e88fe81":[9,0,170,0],
 "classRxFrameSet.html#a8d26706d233636e161f37d2b0f190ddb":[9,0,170,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX8 =
 "classTokenBusHeaderClass.html":[9,0,190],
 "classTokenBusHeaderClass.html#aa78f42b1f999df4326119f08b9d229d4":[9,0,190,0],
 "classTokenBusRangingHeaderClass.html":[9,0,191],
-"classTokenBusRangingHeaderClass.html#acb920ed5b8693afe03f4ffb6e0eda2b4":[9,0,191,0],
-"classTriggerHeaderClass.html":[9,0,192]
+"classTokenBusRangingHeaderClass.html#acb920ed5b8693afe03f4ffb6e0eda2b4":[9,0,191,0]
 };

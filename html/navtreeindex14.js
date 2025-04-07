@@ -1,5 +1,6 @@
 var NAVTREEINDEX14 =
 {
+"classUwCbrModule.html#a9c898cf974de037285dde756aa6a00ad":[9,0,220,26],
 "classUwCbrModule.html#aa06f13df2796f95d2fce253991ada330":[9,0,220,42],
 "classUwCbrModule.html#aa663dfd00b6836f0e79b7e162c08a5e5":[9,0,220,24],
 "classUwCbrModule.html#aae0c8b715f649287e23e18138830d214":[9,0,220,63],
@@ -248,6 +249,5 @@ var NAVTREEINDEX14 =
 "classUwElectroMagneticAntenna.html#af62cb5e629524d73abff763d4e2c2b2f":[9,0,229,1],
 "classUwElectroMagneticAntennaClass.html":[9,0,230],
 "classUwElectroMagneticAntennaClass.html#abd00234c1f20cad3410de6a29cf1b6e8":[9,0,230,0],
-"classUwElectroMagneticAntennaClass.html#acaab4737fe1a8fd88d913fe615d9e86e":[9,0,230,1],
-"classUwElectroMagneticChannel.html":[9,0,231]
+"classUwElectroMagneticAntennaClass.html#acaab4737fe1a8fd88d913fe615d9e86e":[9,0,230,1]
 };

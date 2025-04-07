@@ -92,190 +92,278 @@ $(document).ready(function(){initNavTree('DEV.html',''); initResizable(); });
   <div class="headertitle"><div class="title">Developer guide</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><h1><a class="anchor" id="DESMod"></a>
-Structure of a DESERT module</h1>
-<p>Each DESERT module derives either from another DESERT or ns-miracle module (e.g., <a class="el" href="classUnderwaterPhysical.html">UnderwaterPhysical</a> derives from ns2-miracle UnderwaterMPhyBpsk) or from the base ns2-miracle Module class. In order to use it with tcl, in the cpp file you always need to create a static class that derives from TclClass and gives the name that will be used from tcl to create and bind an object of that module. For instance <a class="el" href="classUnderwaterPhysical.html">UnderwaterPhysical</a> is “converted” in tcl using the following class</p>
-<p><small> </p><pre class="fragment">static class UwPhysicalClass : public TclClass
-{
-public:
-    UwPhysicalClass()
-        : TclClass("Module/UW/PHYSICAL")
-    {
-    }
-    TclObject *
-    create(int, const char *const *)
-    {
-        return (new UnderwaterPhysical);
-    }
-} class_module_uwphysical;
+<div class="textblock"><h1><a class="anchor" id="desstruct"></a>
+DESERT Structure</h1>
+<p>The DESERT underwater framework is an extension of <a href="https://signet.dei.unipd.it/dgt/ns/miracle/doxygen/index.html">ns-miracle</a>, thus it inherits its modular structure and can directly use all the modules of such framework. Each DESERT module extends from the ns-miracle class Module, which in turn extends from the class PlugIn. They provide basic APIs to (i) send packets to upper/lower layers, (ii) communicate via crosslayer messages with other layers of the stack and (iii) configure the layer via tcl script (command and bind).</p>
+<p>The folder structure is composed by two main folders: DESERT_Framework and DESERT_Addons. Inside the former, you find all the modules organized according to the ISO/OSI stack and the installer folder. While the latter contains external modules which doesn't necessarily fit inside the ISO/OSI stack and/or the DESERT core.</p>
+<h1><a class="anchor" id="howmod"></a>
+How to add a new module</h1>
+<p>In this section we describe how to add a new module in the DESERT core (i.e., into the DESERT_Framework/DESERT directory.) As an example we present the creation of a new module (i.e., a library containing a new DESERT module) named <code>uwcool_phy</code>. The procedure to create a new module is described in the following.</p>
+<p>The folder structure aims to follow ISO/OSI structure. First of all, identify where your module can be logically placed and give it a name, in this case, our new <code>uwcool_phy</code> physical layer module should stay inside <code>DESERT_Framework/DESERT/physical</code> folder, therefore you need to cd to that directory and create a folder named <code>uwcool_phy</code>. This folder will contain your new library.</p>
+<p>Create two files called <code>uwcoolphy.h</code> and <code>uwcoolphy.cpp</code> files containing your class definition <code>UwCoolPhy</code>. For this class to work, some types of binding are necessary. Moreover you will need to create the following files:</p>
+<ul>
+<li><code>initlib.cpp</code>,</li>
+<li><code>Makefile.am</code>,</li>
+<li><code>uwcoolphy-default.tcl</code>.</li>
+</ul>
+<p>In order to use your class with tcl, in the cpp file you always need to create a <b>static</b> class that derives from <code>TclClass</code> and gives the name that will be used from tcl to create and bind an object of that module. In our example it would be done via the following code:</p>
+<div class="fragment"><div class="line"><span class="keyword">static</span> <span class="keyword">class </span>UwCoolPhyClass : <span class="keyword">public</span> TclClass</div>
+<div class="line">{</div>
+<div class="line"><span class="keyword">public</span>:</div>
+<div class="line">    UwCoolPhyClass()</div>
+<div class="line">        : TclClass(<span class="stringliteral">&quot;Module/UW/CoolPhy&quot;</span>)</div>
+<div class="line">    {</div>
+<div class="line">    }</div>
+<div class="line">    TclObject *</div>
+<div class="line">    create(<span class="keywordtype">int</span>, <span class="keyword">const</span> <span class="keywordtype">char</span> *<span class="keyword">const</span> *)</div>
+<div class="line">    {</div>
+<div class="line">        <span class="keywordflow">return</span> (<span class="keyword">new</span> UwCoolPhy);</div>
+<div class="line">    }</div>
+<div class="line">} class_module_uwcoolphy;</div>
+</div><!-- fragment --><p>Then we need to link class parameters to tcl variables, this is usually done in the cpp constructor, using the <code>bind()</code> function. This function take as input a string representing a tcl variable which is bound to the second input, which represents a cpp class parameter.</p>
+<div class="fragment"><div class="line">bind(<span class="stringliteral">&quot;debug&quot;</span>, (<span class="keywordtype">int</span> *) &amp;debug_);         <span class="comment">// inside uwcoolphy.cpp</span></div>
+</div><!-- fragment --> <div class="fragment"><div class="line">Module/UW/CoolPhy set debug 1           # inside uwcoolphy-init.tcl</div>
+</div><!-- fragment --><p>The <code>initlib.cpp</code> file make <em>the connection</em> between the cpp library of your module and the tcl representing your scenario under simulation/emulation. You need to define an extern variable representing an <b>EmbeddedTcl</b> object, which has a specific name structure: <code>&lt;ModuleNameInCamelCase&gt;&lt;TclCode&gt;</code>. You need also to define a function with fixed naming, which is the name of your module with the first capital letter and <code>_Init</code> suffix. Following our example, your <code>initlib.cc</code> will look like this:</p>
+<div class="fragment"><div class="line"><span class="preprocessor">#include &lt;tclcl.h&gt;</span></div>
+<div class="line"> </div>
+<div class="line"><span class="keyword">extern</span> EmbeddedTcl UwCoolPhyTclCode;</div>
+<div class="line"> </div>
+<div class="line"><span class="keyword">extern</span> <span class="stringliteral">&quot;C&quot;</span> <span class="keywordtype">int</span></div>
+<div class="line">Uwcoolphy_Init()</div>
+<div class="line">{</div>
+<div class="line">    UwCoolPhyTclCode.load();</div>
+<div class="line">    <span class="keywordflow">return</span> 0;</div>
+<div class="line">}</div>
+</div><!-- fragment --><p>All bound variables need to be initialized to a default value in the <code>uwcoolphy-defaults.tcl</code> file. An example of it would be</p>
+<div class="fragment"><div class="line">Module/UW/CoolPhy set BitRate                   32500</div>
+<div class="line">Module/UW/CoolPhy set AcquisitionThreshold_dB_  10.0</div>
+<div class="line">Module/UW/CoolPhy set debug_                    0</div>
+</div><!-- fragment --><p>Finally, to compile your module, you need to fill the <code>Makefile.am</code> file:</p><ul>
+<li>There should be the definition of your library. The name of your library should always contain <em>lib</em> prefix, i.e., <code>libuwcoolphy</code>.</li>
+<li>Specify the list of sources (<code>libuwcool_phy_la_SOURCES</code>), which should contain only the cpp files located in the <code>uwcool_phy</code> folder.</li>
+<li>Remember to define the <code>CPPFLAGS</code>, <code>LDFLAGS</code> and <code>LIBADD</code> where needed.</li>
+<li>Define the tcl files variables defaults which are specified inside <code>uwcool-phy-default.tcl</code>.</li>
+</ul>
+<p>Your <code>Makefile.am</code> should look like this:</p>
+<div class="fragment"><div class="line">AM_CXXFLAGS = -Wall -ggdb3</div>
+<div class="line"> </div>
+<div class="line">lib_LTLIBRARIES = libuwcoolphy.la</div>
+<div class="line">libuwcoolphy_la_SOURCES = initlib.cpp uwcoolphy.cpp</div>
+<div class="line"> </div>
+<div class="line">libuwcoolphy_la_CPPFLAGS = @NS_CPPFLAGS@ @NSMIRACLE_CPPFLAGS@ @DESERT_CPPFLAGS@</div>
+<div class="line">libuwcoolphy_la_LDFLAGS =  @NS_LDFLAGS@ @NSMIRACLE_LDFLAGS@ @DESERT_LDFLAGS@</div>
+<div class="line">libuwcoolphy_la_LIBADD = @NS_LIBADD@ @NSMIRACLE_LIBADD@ @DESERT_LIBADD@</div>
+<div class="line"> </div>
+<div class="line">nodist_libuwcoolphy_la_SOURCES = InitTcl.cc</div>
+<div class="line">BUILT_SOURCES = InitTcl.cc</div>
+<div class="line">CLEANFILES = InitTcl.cc</div>
+<div class="line"> </div>
+<div class="line">TCL_FILES =  uwcoolphy-default.tcl</div>
+<div class="line"> </div>
+<div class="line">InitTcl.cc: Makefile $(TCL_FILES)</div>
+<div class="line">                cat $(VPATH)/$(TCL_FILES) | @TCL2CPP@ UwCoolPhyTclCode &gt; InitTcl.cc</div>
+<div class="line"> </div>
+<div class="line">EXTRA_DIST = $(TCL_FILES)</div>
+</div><!-- fragment --><p>DESERT compilation and linking is based on autotools, hence to add a new library you need to modify the top-level <code>DESERT_Framework/DESERT/Makefile.am</code> and <code>DESERT_Framework/DESERT/configure.ac</code> files as follows:</p><ul>
+<li><code>Makefile.am</code>: we need to add our folder to the subdirectories list (SUBDIRS) using \ as a separator</li>
+<li><code>configure.ac</code>: we need to add our new folder to the CPPFLAGS and tell autoconf (AC_CONFIG_FILES) where the new internal Makefile is</li>
+</ul>
+<div class="fragment"><div class="line">… \</div>
+<div class="line">physical/uwcool_phy</div>
+</div><!-- fragment --><div class="fragment"><div class="line">[…]</div>
+<div class="line">DESERT_CPPFLAGS=&quot;$DESERT_CPPFLAGS &quot;&#39;-I$(top_srcdir)/physical/uwcool_phy&#39;</div>
+<div class="line">[…]</div>
+<div class="line">AC_CONFIG_FILES=([</div>
+<div class="line">[...]</div>
+<div class="line">physical/uwcool_phy</div>
+<div class="line">[...]</div>
+<div class="line">])</div>
+</div><!-- fragment --><h2><a class="anchor" id="cmdMet"></a>
+The command method</h2>
+<p>Finally, inside a tcl script we can use our module by:</p>
+<ol type="1">
+<li>Setting its parameter,</li>
+<li>instantiating an object,</li>
+<li>connecting or calling the necessary methods on it.</li>
+</ol>
+<p>To set the parameters and instantiate the object we can write</p>
+<div class="fragment"><div class="line">Module/UW/CoolPhy set BitRate_                 32500</div>
+<div class="line">Module/UW/CoolPhy set AcquisitionThreshold_dB_ 10.0</div>
+<div class="line"> </div>
+<div class="line">set phy [new Module/UW/CoolPhy]</div>
+</div><!-- fragment --><p>To enable the communciation between the cpp class and the tcl script we need to overwrite the command method, for example to get and set parameters of a module object. It must be declared in this way, in your module class (<code>uwcoolphy.h</code>)</p>
+<div class="fragment"><div class="line"><span class="keyword">virtual</span> <span class="keywordtype">int</span> command(<span class="keywordtype">int</span> argc, <span class="keyword">const</span> <span class="keywordtype">char</span> *<span class="keyword">const</span> *rgv);</div>
+</div><!-- fragment --><p> And then it should be defined in this way (inside <code>uwcoolphy.cpp</code>)</p>
+<div class="fragment"><div class="line">UwCoolPhy::command(<span class="keywordtype">int</span> argc, <span class="keyword">const</span> <span class="keywordtype">char</span> *<span class="keyword">const</span> *argv) {</div>
+<div class="line">    <span class="keywordflow">if</span> (argc == 2) {</div>
+<div class="line">        <span class="keywordflow">if</span> (strcmp(argv[1], <span class="stringliteral">&quot;Method1&quot;</span>) == 0) {</div>
+<div class="line">            method1();</div>
+<div class="line">            <span class="keywordflow">return</span> TCL_OK;</div>
+<div class="line">        }</div>
+<div class="line">    }</div>
+<div class="line">    <span class="keywordflow">else</span> <span class="keywordflow">if</span> (argc == 3) { .... }</div>
+<div class="line">    </div>
+<div class="line">    <span class="keywordflow">return</span> Module::command(argc, argv)</div>
+<div class="line">}</div>
+</div><!-- fragment --><h1><a class="anchor" id="newheader"></a>
+How to add a new Packet headers</h1>
+<p>In the case your module needs its own <b>packet header</b>, a few things need to be performed:</p>
+<p>Define a header <em>struct</em>, for example <code>hdr_uwmyprotocol</code> inside a file <code>myproto-hdr.h</code> with your parameters plus the offset field required by the <em>packet header manager</em>:</p>
+<div class="fragment"><div class="line"><span class="keyword">typedef</span> <span class="keyword">struct </span>hdr_uwmyprotocol </div>
+<div class="line">{</div>
+<div class="line">    uint8_t param;</div>
+<div class="line">    <span class="keyword">static</span> <span class="keywordtype">int</span> offset_;</div>
+<div class="line"> </div>
+<div class="line">    <span class="keyword">inline</span> uint8_t &amp; param() { <span class="keywordflow">return</span> param_ }</div>
+<div class="line">    <span class="keyword">inline</span> <span class="keyword">static</span> <span class="keywordtype">int</span>&amp; offset() {<span class="keywordflow">return</span> offset_;}</div>
+<div class="line"> </div>
+<div class="line">    <span class="keyword">inline</span> <span class="keyword">static</span> <span class="keyword">struct </span>hdr_uwmyprotocol *</div>
+<div class="line">    access(<span class="keyword">const</span> Packet *p)</div>
+<div class="line">    { </div>
+<div class="line">        <span class="keywordflow">return</span> (<span class="keyword">struct</span> hdr_uwmyprotocol *) p-&gt;access(offset_); </div>
+<div class="line">    }</div>
+<div class="line">} hdr_uwmyprotocol;</div>
+</div><!-- fragment --><p>To simplify the access of your <em>header</em> from the <em>packet</em> class, at the beginning of the source file where your header is defined you can define the following macro</p>
+<div class="fragment"><div class="line"><span class="preprocessor">#define HDR_UWMYPROTOCOL(p) (hdr_uwmyprotocol::access(p))</span></div>
+</div><!-- fragment --><p>Just after the macro, at the beginning of the file, you need to define a new <em>packet</em> type with</p>
+<p><small> </p><pre class="fragment">extern packet_t PT_MYPACKET;
 </pre><p> </small></p>
-<p>The name "Module/UW/PHYSICAL" is the one that will be used in TCL to create and bind objects of type <a class="el" href="classUnderwaterPhysical.html">UnderwaterPhysical</a>.</p>
-<p>You can pass variables to and from tcl script and C++ class, by means of bind function, inside the constructor of your module class. To bind a variable you need to use the bind function inside the constructor of your module class. In example, in <a class="el" href="classUnderwaterPhysical.html">UnderwaterPhysical</a> we bind the rx_power_ with bind("rx_power_consumption_", &amp;rx_power_); All bound variables need to be initialized to a default value in the *-defaults.tcl inside your folder.</p>
-<p>Another way to communicate with the tcl script is to overwrite the command method, for example to get and set parameters of a module object. For more details, just check the <a class="el" href="classUnderwaterPhysical.html#aec051803a5f4aa6fd2e8ff40a5ef411a" title="TCL command interpreter.">UnderwaterPhysical::command</a> method. It is usually best practice to call the father class’ command method at the end.</p>
+<p>Inside initlib.cpp you need to</p><ul>
+<li>Include your header file and define the offset and the packet type</li>
+</ul>
+<div class="fragment"><div class="line"><span class="preprocessor">#include&lt;myproto-hdr.h&gt;</span></div>
+<div class="line">...</div>
+<div class="line"> </div>
+<div class="line">int hdr_uwmyprotocol::ofset_;</div>
+<div class="line">packet_t PT_MYPACKET;</div>
+</div><!-- fragment --><ul>
+<li>Add a static class</li>
+</ul>
+<div class="fragment"><div class="line"><span class="keyword">static</span> <span class="keyword">class </span>MyProtoHeaderClass : <span class="keyword">public</span> PacketHeaderClass</div>
+<div class="line">{</div>
+<div class="line"><span class="keyword">public</span>:</div>
+<div class="line">    MyProtoHeaderClass()</div>
+<div class="line">        : PacketHeaderClass(<span class="stringliteral">&quot;PacketHeader/MYPROTO&quot;</span>, sizeof(hdr_uwmyprotocol))</div>
+<div class="line">    {</div>
+<div class="line">        this-&gt;bind();</div>
+<div class="line">        bind_offset(&amp;hdr_uwmyprotocol::offset_);</div>
+<div class="line">    }</div>
+<div class="line">}</div>
+</div><!-- fragment --><ul>
+<li>Add the packet inside the <code>init</code> function (before the <code>load</code> function call), using the same name of the extern</li>
+</ul>
+<div class="fragment"><div class="line">PT_MYPACKET = p_info::addPacket(<span class="stringliteral">&quot;MYPROTO&quot;</span>);</div>
+</div><!-- fragment --><p>Finally, inside the *-default.tcl you need to add the packet to the packet manager, with</p>
+<div class="fragment"><div class="line">PacketHeaderManager set tab_(PacketHeader/MYPROTO) 1</div>
+</div><!-- fragment --><p>This last step is really important to have the right memory allocation done. Missing it could lead to unpredictable behavior, usually really hard to troubleshoot.</p>
+<h1><a class="anchor" id="newaddon"></a>
+How to add a new DESERT Add-on</h1>
+<p>In this section we describe how to add a new module as a DESERT addon. An addon, is an external autotools project that depends on DESERT, ns-miracle and, in some cases, WOSS or even other addons, so we don’t need to modify the DESERT toplevel <code>Makefile.am</code> and <code>configure.ac</code>. We need to create just the addon internal <code>Makefile.am</code> and a dedicated <code>configure.ac</code> with <code>m4</code> folder to resolve the dependencies. The complete procedure is described in the following.</p>
+<p>Inside the <code>DESERT_Addons</code> folder, create your addon folder, say <code>cool-addon</code>. Inside that folder, create the basic files for a properly cpp module, i.e., <code>cool-addon.h</code> and <code>cool-addon.cpp</code> and the <code>initlib.cpp</code> as well.</p>
+<p>Similarly to what you did for the adding a module, your <code>initlib.cpp</code> will look like</p>
+<div class="fragment"><div class="line"><span class="preprocessor">#include &lt;tclcl.h&gt;</span></div>
+<div class="line"> </div>
+<div class="line"><span class="keyword">extern</span> EmbeddedTcl CoolAddonTclCode;</div>
+<div class="line"> </div>
+<div class="line"><span class="keyword">extern</span> <span class="stringliteral">&quot;C&quot;</span> <span class="keywordtype">int</span></div>
+<div class="line">Cooladdon_Init()</div>
+<div class="line">{</div>
+<div class="line">    CoolAddonTclCode.load();</div>
+<div class="line">    <span class="keywordflow">return</span> 0;</div>
+<div class="line">}</div>
+</div><!-- fragment --><p>To make the addon compilable and complete, we also need:</p><ul>
+<li>A <code>Makefile.am</code>,</li>
+<li>a <code>configure.ac</code> config file,</li>
+<li>an initialization file for the tcl, i.e., <code>cool-addon-init.tcl</code>,</li>
+<li>the <code>autogen.sh</code> script,</li>
+<li>and a <code>m4</code> folder</li>
+</ul>
+<p>The <code>Makefile.am</code> can be taken from another addon or module and modified according to your addond needs, similarly to what what we did for a module. Just note that in case of a <em>WOSS</em> dependent addon, it is better to take the <code>Makefile.am</code> from another <em>WOSS</em>-based addon, such as <code>wossgmmob3D</code> or <code>wossgroupmob3D</code>. Similarly, in case your addon is based on another existing addon, take it from <code>uwswarm_control</code> or <code>ms2c_evologics_lowlev</code> addons.</p>
+<p>Also for the <code>configure.ac</code> you take one from another addon and copy into your folder. You just need to modify the <code>AC_INIT</code> with the name of your addon. Also in this case if you need WOSS functionalities take it from a WOSS-based addon.</p>
+<p>The <code>autogen.sh</code> file is needed to compile your addon and can be copied from any other addon and doesn't need any modification.</p>
+<p>Add all the variables that you have <em>binded</em> in your addon class inside the <code>cool-addon-init.tcl</code> files as youd did for the module.</p>
+<p>The <code>m4</code> folder contains the <code>desert.m4</code> file and the <code>desertAddon.m4</code> and <code>woss.m4</code> files if the addon depend from another addon or woss. Also in this case, it is easier to copy from another addon and modify the dependencies wee ned for our addon. Those are directories listed in <code>dir</code> and <code>lib</code> portion of the given <code>m4</code> file.</p>
+<p>Finally, to have your addon visible during installation, modify the installation file <code>DESERT_Framework/.addon.list</code> adding the name of your addon folder.</p>
 <h1><a class="anchor" id="HowTo"></a>
 How to add a new custom installer</h1>
-<p>First of all, enter the installation folder:</p>
-<p><small> </p><pre class="fragment">cd .../DESERT_Underwater/DESERT_Framework/Installation/
-</pre> <blockquote class="doxtable">
-<p>NOTE: When you see a pathname preceded by three dots, this refers to a well-known but unspecified top-level directory. The top-level directory is context-dependent, but almost universally refers to top-level DESERT source directory. For example, <code>.../DESERT_Underwater/DESERT_Framework/Installer/installDESERT_PC.sh</code> refers to the <code>installDESERT_PC.sh</code> file located in the architecture branch of a DESERT framework source tree. The actual path might be something like <code>/home/foo/DESERT_Underwater/DESERT_Framework/Installer/installDESERT_PC.sh</code>. </p>
+<blockquote class="doxtable">
+<p>NOTE: When you see a pathname preceded by three dots, this refers to a well-known but unspecified top-level directory. The top-level directory is context-dependent, but almost always refers to top-level DESERT source directory. For example, <code>.../DESERT_Underwater/DESERT_Framework/Installer/installDESERT_LOCAL.sh</code> refers to the <code>installDESERT_LOCAL.sh</code> file located in the architecture branch of a DESERT framework source tree. The actual path might be something like <code>/home/foo/DESERT_Underwater/DESERT_Framework/Installer/installDESERT_LOCAL.sh</code>. </p>
 </blockquote>
-<p></small></p>
-<p>At this point, create a new script. We suggest to copy an existing installation script (e.g. <code>installDESERT_PC.sh</code>):</p>
-<p><small> </p><pre class="fragment">cp installDESERT_PC.sh installDESERT_&lt;your-custom-installation-target&gt;.sh
-</pre><p> </small></p>
-<p>Please note the <code>&lt;your-custom-installation-target&gt;</code> label: this will be the same parameter you will pas later as an option to the installation script when indicating which installation-target to choose. We remark that these steps are very easy but also very important, since the only way to call the correct installation script for <code>&lt;your-custom-installation-target&gt;</code> is that the script <code>installDESERT_&lt;your-custom-installation-target&gt;.sh</code> exists in the folder <code>.../DESERT_Underwater/DESERT_Framework/Installation/</code></p>
+<p>First of all, enter the installation folder:</p>
+<div class="fragment"><div class="line">cd .../DESERT_Underwater/DESERT_Framework/Installation/</div>
+</div><!-- fragment --><p>Now, create a new script. We suggest to copy an existing installation script (e.g. <code>installDESERT_LOCAL.sh</code>):</p>
+<div class="fragment"><div class="line">cp installDESERT_LOCAL.sh installDESERT_&lt;your-custom-installation-target&gt;.sh</div>
+</div><!-- fragment --><p>Please note the <code>&lt;your-custom-installation-target&gt;</code> label: this will be the same parameter you will pas later as an option to the installation script when indicating which installation-target to choose. We remark that these steps are very easy but also very important, since the only way to call the correct installation script for <code>&lt;your-custom-installation-target&gt;</code> is that the script <code>installDESERT_&lt;your-custom-installation-target&gt;.sh</code> exists in the folder <code>.../DESERT_Underwater/DESERT_Framework/Installation/</code></p>
 <p>Let us now have a deeper look at the script. We focus first on the main block:</p>
-<p><small> </p><pre class="fragment">main() {
-    #******************************************************************************
-    # MAIN
-    #     e.g handle_package host/target &lt;pkt-name&gt;
-    #     e.g addon_installation_list host/target &lt;addon-list&gt;
-
-    ## only for the cross-compilation session
-    export CROSS_ENV_DIR=""
-    export CROSS_ENV_FILE=""
-    #*
-
-    handle_package host ZLIB
-    handle_package host TCL
-    export PATH=${BUILD_HOST}/bin:$PATH
-    export LD_LIBRARY_PATH=${BUILD_HOST}/lib
-    handle_package host OTCL
-    handle_package host TCLCL
-    handle_package host NS
-    handle_package host NSMIRACLE
-    handle_package host DESERT
-    if [ ${WITHWOSS} -eq 1 ]; then
-        handle_package host NETCDF
-        handle_package host NETCDFCXX
-        handle_package host BELLHOP
-        handle_package host WOSS
-    fi
-    if [ ! -z "${ADDONS}" ]; then
-        addon_installation_list host "${ADDONS}"
-    fi
-    #******************************************************************************
-}
-</pre><p> </small></p>
-<p>Notice the "host" directive. This tells the installation script to compile the libraries for the current host. If you need to modify this script to cross-compile for a different target, substitute all lines with the following ones:</p>
-<p><small> </p><pre class="fragment">main() {
-    #******************************************************************************
-    # MAIN
-    #     e.g handle_package host/target &lt;pkt-name&gt;
-    #     e.g addon_installation_list host/target &lt;addon-list&gt;
-
-    ## only for the cross-compilation session
-    export CROSS_ENV_DIR="&lt;YOUR/ENVIRONMENT/FOLDER/PATH&gt;"
-    export CROSS_ENV_FILE="${CROSS_ENV_DIR}/environment"
-    #*
-
-    handle_package host/target ZLIB
-    handle_package host/target TCL
-    export PATH="${BUILD_HOST}/bin:$PATH"
-    export LD_LIBRARY_PATH="${BUILD_HOST}/lib"
-    handle_package host/target OTCL
-    handle_package host/target TCLCL
-    handle_package target NS
-    handle_package target NSMIRACLE
-    handle_package target DESERT
-    if [ ${WITHWOSS} -eq 1 ]; then
-        #handle_package target NETCDF
-        #handle_package target NETCDFCXX
-        #handle_package target BELLHOP
-        #handle_package target WOSS
-        warn_L1 "The WOSS libreries wont be installed!"
-    fi
-    if [ ! -z "${ADDONS}" ]; then
-        addon_installation_list target "${ADDONS}"
-    fi
-    #******************************************************************************
-}
-</pre><p> </small></p>
-<p>With these changes we instructed the installer to compile some modules only for the host ("host" directive), some for both the host and the target ("host/target" directive) and the remaining ones only for the target ("target" directive). This step is crucial, because some libraries must be compiled for the host, in order to correctly cross-compile DESERT and its addons for <code>&lt;your-custom-installation-target&gt;</code>.</p>
+<div class="fragment"><div class="line">main() {</div>
+<div class="line">    #******************************************************************************</div>
+<div class="line">    # MAIN</div>
+<div class="line">    #     e.g handle_package host/target &lt;pkt-name&gt;</div>
+<div class="line">    #     e.g addon_installation_list host/target &lt;addon-list&gt;</div>
+<div class="line"> </div>
+<div class="line">    ## only for the cross-compilation session</div>
+<div class="line">    export CROSS_ENV_DIR=&quot;&quot;</div>
+<div class="line">    export CROSS_ENV_FILE=&quot;&quot;</div>
+<div class="line">    #*</div>
+<div class="line"> </div>
+<div class="line">    handle_package host ZLIB</div>
+<div class="line">    handle_package host TCL</div>
+<div class="line">    export PATH=${BUILD_HOST}/bin:$PATH</div>
+<div class="line">    export LD_LIBRARY_PATH=${BUILD_HOST}/lib</div>
+<div class="line">    handle_package host OTCL</div>
+<div class="line">    handle_package host TCLCL</div>
+<div class="line">    handle_package host NS</div>
+<div class="line">    handle_package host NSMIRACLE</div>
+<div class="line">    handle_package host DESERT</div>
+<div class="line">    if [ ${WITHWOSS} -eq 1 ]; then</div>
+<div class="line">        handle_package host NETCDF</div>
+<div class="line">        handle_package host NETCDFCXX</div>
+<div class="line">        handle_package host BELLHOP</div>
+<div class="line">        handle_package host WOSS</div>
+<div class="line">    fi</div>
+<div class="line">    if [ ! -z &quot;${ADDONS}&quot; ]; then</div>
+<div class="line">        addon_installation_list host &quot;${ADDONS}&quot;</div>
+<div class="line">    fi</div>
+<div class="line">    #******************************************************************************</div>
+<div class="line">}</div>
+</div><!-- fragment --><p>Notice the **host*** directive. This tells the installation script to compile the libraries for the current host. If you need to modify this script to cross-compile for a different target, substitute all lines with the following ones:</p>
+<div class="fragment"><div class="line">main() {</div>
+<div class="line">    #******************************************************************************</div>
+<div class="line">    # MAIN</div>
+<div class="line">    #     e.g handle_package host/target &lt;pkt-name&gt;</div>
+<div class="line">    #     e.g addon_installation_list host/target &lt;addon-list&gt;</div>
+<div class="line"> </div>
+<div class="line">    ## only for the cross-compilation session</div>
+<div class="line">    export CROSS_ENV_DIR=&quot;&lt;YOUR/ENVIRONMENT/FOLDER/PATH&gt;&quot;</div>
+<div class="line">    export CROSS_ENV_FILE=&quot;${CROSS_ENV_DIR}/environment&quot;</div>
+<div class="line">    #*</div>
+<div class="line"> </div>
+<div class="line">    handle_package host/target ZLIB</div>
+<div class="line">    handle_package host/target TCL</div>
+<div class="line">    export PATH=&quot;${BUILD_HOST}/bin:$PATH&quot;</div>
+<div class="line">    export LD_LIBRARY_PATH=&quot;${BUILD_HOST}/lib&quot;</div>
+<div class="line">    handle_package host/target OTCL</div>
+<div class="line">    handle_package host/target TCLCL</div>
+<div class="line">    handle_package target NS</div>
+<div class="line">    handle_package target NSMIRACLE</div>
+<div class="line">    handle_package target DESERT</div>
+<div class="line">    if [ ${WITHWOSS} -eq 1 ]; then</div>
+<div class="line">        #handle_package target NETCDF</div>
+<div class="line">        #handle_package target NETCDFCXX</div>
+<div class="line">        #handle_package target BELLHOP</div>
+<div class="line">        #handle_package target WOSS</div>
+<div class="line">        warn_L1 &quot;The WOSS libreries wont be installed!&quot;</div>
+<div class="line">    fi</div>
+<div class="line">    if [ ! -z &quot;${ADDONS}&quot; ]; then</div>
+<div class="line">        addon_installation_list target &quot;${ADDONS}&quot;</div>
+<div class="line">    fi</div>
+<div class="line">    #******************************************************************************</div>
+<div class="line">}</div>
+</div><!-- fragment --><p>With these changes we instructed the installer to compile some modules only for the host, some for both the host and the target and the remaining ones only for the target (<em><b>target</b></em> directive). This step is crucial, because some libraries must be compiled for the host, in order to correctly cross-compile DESERT and its addons for <code>&lt;your-custom-installation-target&gt;</code>.</p>
 <p><small> </p><pre class="fragment">WARNING: be careful NOT TO CONFUSE the directive "target" with "&lt;tt&gt;&lt;your-custom-installation-target&gt;&lt;/tt&gt;".
          The former is just a directive to the &lt;tt&gt;handle_package&lt;/tt&gt; function of the installation script.
 </pre><p> </small></p>
-<p>We remark that you need the <b>TOOLCHAIN</b> of <code>&lt;your-custom-installation-target&gt;</code> in order to correctly complete the installation.</p>
-<h1><a class="anchor" id="newmod"></a>
-How to add a new DESERT module</h1>
-<p>In this section we describe how to add a new module in the DESERT core (i.e., into the DESERT_Framework/DESERT directory.) As an example we present the creation of a new module (i.e., a library containing a new DESERT module) named uwcool_phy. The procedure to create a new module is described as follows:</p><ul>
-<li>The folder structure aims to follow ISO/OSI structure. Identify where your module can be logically placed and give it a name ( i.e., our new uwcool_phy physical layer module should stay inside DESERT_Framework/DESERT/physical, therefore you need to create a folder DESERT_Framework/DESERT/physical/uwcool_phy: this folder will contain your new library.</li>
-<li>Add your .h and .cpp files containing your class definition, called, for instance UwCoolPhy: this point will be discussed more in detail later.</li>
-<li>Add the file initlib.cpp: this file is really standard and you can use an existing one (i.e., an existing physical layer module) as an example. This is the file that make “the connection” between the C++ library of your module and the tcl representing your scenario under simulation/emulation. You need to define an extern variable representing an EmbeddedTcl object, which has a specific name structure: &lt;ModuleNameInCameCase&gt;&lt;InitTclCode&gt;. You need also to define a function with fixed naming, which is the name of your module with the first capital letter and _Init suffix Following our example, the variable should be named UwCoolPhyInitTclCode and the function should be Uwcoolphy_Init. Some of those initlib files has also support to Cygwin. If you are not planning to use it, you can get rid of it.</li>
-<li>Add the tcl for default initialization, called uwcool-phy-default.tcl, which will contain the initialization of your tcl binded variables. You can take a look at uwphysical module to have an example of it</li>
-<li>Add to your folder the internal Makefile.am: here there should be the definition of your library. The name of your library should always contain lib prefix, i.e. libuwcoolphy. Since the structure of the Makefiles is really standard you can take, for example, the uwphysical module’s one and modify some parts of it: the word libuwphysical should be changed EVERYWHERE with the name of your library, e.g., libuwcoolphy the word UwPhysicalInitTclCode should be changed to UwCoolPhyInitTclCode the list of sources (libuwcool_phy_la_SOURCES) should contain only the cpp files located in the uwcool_phy folder the TCL_FILES should be equal to uwcool-phy-default.tcl</li>
-<li><p class="startli">Modify top-level Makefile.am and configure.ac: DESERT compilation and linking is based on autotools, hence to add a new library you need to modify and DESERT_Framework/DESERT/Makefile.am and DESERT_Framework/DESERT/configure.ac as follows:</p><ol type="1">
-<li>Makefile.am: we need to add our folder to the subdirectories list (SUBDIS) using \ as a separator <small></small></li>
-</ol>
-<p class="startli"><small> … \ physical/uwcool_phy</small></p>
-</li>
-</ul>
-<p><small></small></p><ol type="1">
-<li>configure.ac: we need to add our new folder to the CPPFLAGS and tell autoconf (AC_CONFIG_FILES) where the new internal Makefile is <small> <pre class="fragment">[…]
-DESERT_CPPFLAGS="$DESERT_CPPFLAGS "'-I$(top_srcdir)/physical/uwcool_phy'
-[…]
-AC_CONFIG_FILES=([
-[...]
-physical/uwcool_phy
-[...]
-])
-</pre> </small></li>
-</ol>
-<h1><a class="anchor" id="newaddon"></a>
-How to add a new DESERT Add-on</h1>
-<p>In this section we describe how to add a new module as a DESERT add-on, inside the folder DESERT_Addons. An addon is an external autotools project that depends on DESERT, ns2miracle and, in some cases, WOSS, so we don’t need to modify the DESERT toplevel Makefile.am and configure.ac, but we need to create just the addon internal Makefile.am and a dedicated configure.ac with m4 folder to resolve the dependencies. The complete procedure is described as follows.</p><ul>
-<li>Add your folder inside DESERT_Addons/</li>
-<li>Add your .h and .cpp files like in point 2 of the previous section</li>
-<li>Add iniltib.cpp like in point 3 of the previous section</li>
-<li>Add the tcl file for the default initialization of your module like in point 3 of the previous section</li>
-<li>Add the Makefile.am like in point 5 of the previous section</li>
-<li>add in your folder the file autogen.sh: you can copy and paste is from another addon: this file should not be modified</li>
-<li>copy from another addon the file configure.ac and modify the AC_INIT writing the name of your module, e.g., . In the case your module uses WOSS, copy the configure.ac from an addon that uses WOSS as well (e.g., wossgmmob3D), otherwise copy it from an addon that does not (e.g., one of the packer)</li>
-<li>copy the folder m4 from another addon</li>
-<li>inside the folded m4, change desert.m4 according to the DESERT dependencies of your module. e.g., you need to list in dir and in lib the directories and libraries your module uses.</li>
-<li>in the case your module uses some woss dependencies, you need to do the same with woss.m4</li>
-</ul>
-<h1><a class="anchor" id="newheader"></a>
-How to add a new Packet headers</h1>
-<p>In the case your module needs its own packet header, a few things need to be performed: define a header struct, for example hdr_MY inside a file my_hdr.h with your parameters plus the following members:</p>
-<p><small> </p><pre class="fragment">public static int offser_ member 
-inline static int&amp; offset() {return offset_;}
-inline static struct hdr_MY * access(const Packet *p) { 
-return (struct hdr_MY *) p-&gt;access(offset_); 
-}
-</pre><p> </small></p>
-<p>to simplify the access of your header from the packet, at the beginning of the source file where your header is defined you can define a macro</p>
-<p><small> </p><pre class="fragment">define HDR_MY(p) (hdr_MY::access(p))
-</pre><p> </small></p>
-<p>just after the macro, at the beginning of the file, you need to define a new packet type with</p>
-<p><small> </p><pre class="fragment">extern packet_t PT_MY;
-</pre><p> </small></p>
-<p>Inside initlib.cpp you need to</p>
-<ul>
-<li>add a static class</li>
-</ul>
-<p><small> </p><pre class="fragment">static class MY_HeaderClass : public PacketHeaderClass
-{
-public:
-    MY_HeaderClass()
-        : PacketHeaderClass("PacketHeader/MY", sizeof(hdr_MY))
-    {
-        this-&gt;bind();
-        bind_offset(&amp;hdr_MY::offset_);
-    }
-} class_MY_HeaderClass;
-</pre><p></small></p>
-<p><small></small></p>
-<ul>
-<li>add the packet in the init function (before the load), using the same name of the extern</li>
-</ul>
-<p><small> </p><pre class="fragment">PT_MY = p_info::addPacket("UWPROTOCOL/MY");
-</pre><p> </small></p>
-<p>where PROTOCOL is the name of the protocol</p>
-<p>Finally, inside the *-default.tcl you need to add the packet to the packet manager, with</p>
-<p><small> </p><pre class="fragment">PacketHeaderManager set tab_(PacketHeader/MY) 1
-</pre><p> </small></p>
-<p>This last step is really important to have the right memory allocation done. Missing it could lead to unpredictable behavior, usually really hard to troubleshoot. </p>
+<p>We remark that you need the <b>TOOLCHAIN</b> of <code>&lt;your-custom-installation-target&gt;</code> in order to correctly complete the installation. </p>
 </div></div><!-- contents -->
 </div><!-- PageDoc -->
 </div><!-- doc-content -->

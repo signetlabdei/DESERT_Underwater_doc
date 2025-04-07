@@ -1,5 +1,6 @@
 var NAVTREEINDEX15 =
 {
+"classUwElectroMagneticChannel.html":[9,0,231],
 "classUwElectroMagneticChannel.html#a1d18b1056146f5545a2e21b66dd7366c":[9,0,231,4],
 "classUwElectroMagneticChannel.html#a23a554799253c1dcba6edd2a98388062":[9,0,231,5],
 "classUwElectroMagneticChannel.html#a44b35a5db35cb520158226882724cddc":[9,0,231,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX15 =
 "classUwHermesPhy.html#acc0661df21f97ae2733f5de3cc456dd7":[9,0,245,16],
 "classUwHermesPhyClass.html":[9,0,246],
 "classUwHermesPhyClass.html#a3260a196dfd0f1062638e0f88b4c7ec8":[9,0,246,0],
-"classUwHermesPhyClass.html#a687123f537a219e4478cae854fa1f4a7":[9,0,246,1],
-"classUwIcrpNode.html":[9,0,251]
+"classUwHermesPhyClass.html#a687123f537a219e4478cae854fa1f4a7":[9,0,246,1]
 };

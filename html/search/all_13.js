@@ -162,7 +162,7 @@ var searchData=
   ['robust_159',['ROBUST',['../uwmulti-traffic-range-crt_8h.html#a974acc04f7771fd4efdde75619137253a61e0ca001fd35d880190b4b1fd3ee4a8',1,'uwmulti-traffic-range-crt.h']]],
   ['robust_5fid_160',['robust_id',['../structcheck__status.html#adafb1a2e193f76add328364642bdda88',1,'check_status']]],
   ['ros_20integration_20for_20desert_161',['ROS Integration for DESERT',['../ROS.html',1,'']]],
-  ['ros_20middelware_162',['ROS middelware',['../ROS.html#FRAMEWORK',1,'']]],
+  ['ros_20middleware_162',['ROS middleware',['../ROS.html#FRAMEWORK',1,'']]],
   ['round_5ftrip_5ftime_163',['round_trip_time',['../classMMacUWSR.html#ac2e5732e1a692882f6d5f2b98951d396',1,'MMacUWSR']]],
   ['route_5ftable_164',['route_table',['../classUwIcrpNode.html#a93c183a593c70ee464482c033334c133',1,'UwIcrpNode']]],
   ['routing_5ftable_165',['routing_table',['../classUwStaticRoutingModule.html#a2962a78f48ee72c02f931ce5e5f22cb5',1,'UwStaticRoutingModule']]],
