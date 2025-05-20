@@ -96,6 +96,153 @@ $(document).ready(function(){initNavTree('DEV.html',''); initResizable(); });
 DESERT Structure</h1>
 <p>The DESERT underwater framework is an extension of <a href="https://signet.dei.unipd.it/dgt/ns/miracle/doxygen/index.html">ns-miracle</a>, thus it inherits its modular structure and can directly use all the modules of such framework. Each DESERT module extends from the ns-miracle class Module, which in turn extends from the class PlugIn. They provide basic APIs to (i) send packets to upper/lower layers, (ii) communicate via crosslayer messages with other layers of the stack and (iii) configure the layer via tcl script (command and bind).</p>
 <p>The folder structure is composed by two main folders: DESERT_Framework and DESERT_Addons. Inside the former, you find all the modules organized according to the ISO/OSI stack and the installer folder. While the latter contains external modules which doesn't necessarily fit inside the ISO/OSI stack and/or the DESERT core.</p>
+<h1><a class="anchor" id="howtcl"></a>
+How to create a new tcl script</h1>
+<p>In this section we describe how to write a basic DESERT tcl script, following the structure of the tcl found in <code>DESERT/samples/desert_samples/test_uwcbr.tcl</code>. An empty tcl script skeleton can be found inside <code>DESERT/samples/desert_samples/ExampleSekelton.tcl</code></p>
+<p>It is a good practice to start your script with a brief description and a simple draw of the simulated network topology: </p><div class="fragment"><div class="line"># ----------------------------------------------------------------------------------</div>
+<div class="line"># This script depicts a very simple but complete stack in which two nodes send data</div>
+<div class="line"># to a common sink. The second node is used by the first one as a relay to send data to the sink.</div>
+<div class="line"># The routes are configured by using UW/STATICROUTING.</div>
+<div class="line"># The application used to generate data is UW/CBR.</div>
+<div class="line"># ----------------------------------------------------------------------------------</div>
+<div class="line"># ----------------------------------------------------------------------------------</div>
+<div class="line"># Stack</div>
+<div class="line">#             Node 1                         Node 2                        Sink</div>
+<div class="line">#   +--------------------------+   +--------------------------+   +-------------+------------+</div>
+<div class="line">#   |  7. UW/CBR               |   |  7. UW/CBR               |   |  7. UW/CBR  | UW/CBR     |</div>
+<div class="line">#   +--------------------------+   +--------------------------+   +-------------+------------+</div>
+<div class="line">#   |  6. UW/UDP               |   |  6. UW/UDP               |   |  6. UW/UDP               |</div>
+<div class="line">#   +--------------------------+   +--------------------------+   +--------------------------+</div>
+<div class="line">#   |  5. UW/STATICROUTING     |   |  5. UW/STATICROUTING     |   |  5. UW/STATICROUTING     |</div>
+<div class="line">#   +--------------------------+   +--------------------------+   +--------------------------+</div>
+<div class="line">#   |  4. UW/IP                |   |  4. UW/IP                |   |  4. UW/IP                |</div>
+<div class="line">#   +--------------------------+   +--------------------------+   +--------------------------+</div>
+<div class="line">#   |  3. UW/MLL               |   |  3. UW/MLL               |   |  3. UW/MLL               |</div>
+<div class="line">#   +--------------------------+   +--------------------------+   +--------------------------+</div>
+<div class="line">#   |  2. UW/CSMA_ALOHA        |   |  2. UW/CSMA_ALOHA        |   |  2. UW/CSMA_ALOHA        |</div>
+<div class="line">#   +--------------------------+   +--------------------------+   +--------------------------+</div>
+<div class="line">#   |  1. Module/MPhy/BPSK     |   |  1. Module/MPhy/BPSK     |   |  1. Module/MPhy/BPSK     |</div>
+<div class="line">#   +--------------------------+   +--------------------------+   +--------------------------+</div>
+<div class="line">#            |         |                    |         |                   |         |       </div>
+<div class="line">#   +----------------------------------------------------------------------------------------+</div>
+<div class="line">#   |                                     UnderwaterChannel                                  |</div>
+<div class="line">#   +----------------------------------------------------------------------------------------+</div>
+</div><!-- fragment --><p>The first thing to do in order to have a working script, is to import the libraries. Note that the order matters and is often a cause of errors. You first need to import the ns-miracle libraries in the following order: </p><div class="fragment"><div class="line">load libMiracle.so</div>
+<div class="line">load libMiracleBasicMovement.so</div>
+<div class="line">load libmphy.so</div>
+<div class="line">load libmmac.so</div>
+<div class="line">load libUwmStd.so</div>
+</div><!-- fragment --><p> Afterwards you can import DESERT libraries you need (in order). </p><div class="fragment"><div class="line">load libuwcsmaaloha.so</div>
+<div class="line">load libuwip.so</div>
+<div class="line">load libuwstaticrouting.so</div>
+<div class="line">load libuwmll.so</div>
+<div class="line">load libuwudp.so</div>
+<div class="line">load libuwcbr.so</div>
+</div><!-- fragment --><p>In order to configure your simulation, some options and variables may be needed. A common approach is to use an associative array called. These options may be hardcoded or given to the simulation as bash parameters. </p><div class="fragment"><div class="line">set opt(bash_parameters) 0; # Set to 1 to activate bash parameters</div>
+<div class="line">if {$opt(bash_parameters)} {</div>
+<div class="line">    if {$argc != 2} {</div>
+<div class="line">        puts &quot;The script requires two inputs&quot;</div>
+<div class="line">    } else {</div>
+<div class="line">        set opt(pktsize)    [lindex $argv 0]</div>
+<div class="line">        set opt(rngstream)  [lindex $argv 1]</div>
+<div class="line">    } else {</div>
+<div class="line">        set opt(pktsize)    125;    # Bytes</div>
+<div class="line">        set opt(rngstream)  1;      # Needed by the RNG </div>
+<div class="line">    }</div>
+<div class="line">}</div>
+</div><!-- fragment --><p>Common simulation options are listed below </p><div class="fragment"><div class="line">set opt(nn) 2.0 ;# Number of Nodes</div>
+<div class="line">set opt(starttime) 1</div>
+<div class="line">set opt(stoptime) 1000</div>
+<div class="line">set opt(duration) [expr $opt(stoptime) - $opt(starttime)]</div>
+</div><!-- fragment --><p>Once you have all the needed libraries and options, you need to initialize the ns-miracle simulator and set the random number generator. </p><div class="fragment"><div class="line">set ns [new Simulator]</div>
+<div class="line">$ns use-Miracle</div>
+<div class="line"> </div>
+<div class="line"># Set the default random number generator</div>
+<div class="line">global defaultRNG</div>
+<div class="line">for {set k 0} {$k &lt; $opt(rngstream)} {incr k} {</div>
+<div class="line">    $defaultRNG next-substream</div>
+<div class="line">}</div>
+</div><!-- fragment --><p>Next there are the binding of the modules. Here you can set globally the initialization values of the binded variables. </p><div class="fragment"><div class="line">Module/UW/CBR set packetSize_       $opt(pktsize)</div>
+<div class="line"># ...</div>
+</div><!-- fragment --><p>Now you are ready to define a tcl procedure (function) that allows you to create as many different kind of nodes in the network. Inside this procedure, you need to create a ns-miracle node and add the modules you need (the whole protocol stack) and configure them. Optionally you can initialize and set the node position. </p><div class="fragment"><div class="line">proc createNode { id } {</div>
+<div class="line">    # include global variables to use in the procedure</div>
+<div class="line">    global &lt;variables list&gt;</div>
+<div class="line"> </div>
+<div class="line">    # build the NS-Miracle node</div>
+<div class="line">    set node($id) [$ns create-M_Node $opt(tracefile) $opt(cltracefile)]</div>
+<div class="line"> </div>
+<div class="line">    # define the module(s) you want to put in the node</div>
+<div class="line">    set cbr($id)  [new Module/UW/CBR]</div>
+<div class="line">    set udp($id)  [new Module/UW/UDP]</div>
+<div class="line">    set ipif($id) [new Module/UW/StaticRouting]</div>
+<div class="line">    set ipr($id)  [new Module/UW/IP]</div>
+<div class="line">    set mll($id)  [new Module/UW/MLL]</div>
+<div class="line">    # ...</div>
+<div class="line"> </div>
+<div class="line">    # insert the module(s) into the node </div>
+<div class="line">    # $node addModule &lt;layer&gt; &lt;module&gt; &lt;cl_trace&gt; &lt;tag&gt;</div>
+<div class="line">    $node($id) addModule 7 $cbr($id) 0 &quot;CBR&quot;</div>
+<div class="line">    # ...</div>
+<div class="line"> </div>
+<div class="line">    # intra-node module connections</div>
+<div class="line">    # $node setConnection &lt;upper&gt; &lt;lower&gt; &lt;trace&gt;</div>
+<div class="line">    $node($id) setConnection $cbr($id) $udp($id) 0</div>
+<div class="line">    # ...</div>
+<div class="line"> </div>
+<div class="line">    # socket configuration</div>
+<div class="line">    set portnum($id) [$udp($id) assignPort $cbr($id) ]</div>
+<div class="line">    $ipif($id) addr  [expr ($id) + 1]</div>
+<div class="line"> </div>
+<div class="line">    # add node positions (optional)  </div>
+<div class="line">    set position($id) [new &quot;Position/BM&quot;]</div>
+<div class="line">    $node($id) addPosition $position($id)</div>
+<div class="line">    $position($id) setX_ 0</div>
+<div class="line">    $position($id) setY_ 0</div>
+<div class="line">    $position($id) setZ_ -100</div>
+<div class="line"> </div>
+<div class="line">    # ...</div>
+<div class="line">}</div>
+</div><!-- fragment --><p>You can have as many procedures you want. Typically there is a specific procedure for the sink node (a node which only receives packets). Finally, to actually create the nodes you need to call the procedure. Suppose to have <code>$opt(nn)</code> nodes in the network, you can do: </p><div class="fragment"><div class="line">for {set id 0} {$id &lt; $opt(nn)} {incr id}</div>
+<div class="line">{</div>
+<div class="line">    createNode $id</div>
+<div class="line">}</div>
+<div class="line">createSink; # Suppose to have a procedure to create the sink node</div>
+</div><!-- fragment --><p>Once you created the nodes you need to connect them, setup the routes and fill the arp tables. </p><div class="fragment"><div class="line">proc connectNodes {id1} {</div>
+<div class="line">    global ipif ipr portnum cbr cbr_sink ipif_sink portnum_sink ipr_sink</div>
+<div class="line"> </div>
+<div class="line">    $cbr($id1) set destAddr_ [$ipif_sink addr]</div>
+<div class="line">    $cbr($id1) set destPort_ $portnum_sink($id1)</div>
+<div class="line">    $cbr_sink($id1) set destAddr_ [$ipif($id1) addr]</div>
+<div class="line">    $cbr_sink($id1) set destPort_ $portnum($id1)</div>
+<div class="line">}</div>
+<div class="line"> </div>
+<div class="line"># Setup flows</div>
+<div class="line">for {set id1 0} {$id1 &lt; $opt(nn)} {incr id1}  {</div>
+<div class="line">    connectNodes $id1</div>
+<div class="line">}</div>
+<div class="line"> </div>
+<div class="line"># Fill ARP tables</div>
+<div class="line">for {set id1 0} {$id1 &lt; $opt(nn)} {incr id1}  {</div>
+<div class="line">    for {set id2 0} {$id2 &lt; $opt(nn)} {incr id2}  {</div>
+<div class="line">      $mll($id1) addentry [$ipif($id2) addr] [$mac($id2) addr]</div>
+<div class="line">    }   </div>
+<div class="line">    $mll($id1) addentry [$ipif_sink addr] [ $mac_sink addr]</div>
+<div class="line">    $mll_sink addentry [$ipif($id1) addr] [ $mac($id1) addr]</div>
+<div class="line">}</div>
+<div class="line"> </div>
+<div class="line"># Setup routing table</div>
+<div class="line">$ipr(0) addRoute [$ipif_sink addr] [$ipif(1) addr]</div>
+<div class="line">$ipr(1) addRoute [$ipif_sink addr] [$ipif_sink addr]</div>
+</div><!-- fragment --><p>Finally you need to start and stop the modules and the simulation. </p><div class="fragment"><div class="line">for {set id1 0} {$id1 &lt; $opt(nn)} {incr id1} {</div>
+<div class="line">    $ns at $opt(starttime) &quot;$cbr($id1) start&quot;</div>
+<div class="line">    $ns at $opt(stoptime) &quot;$cbr($id1) stop&quot;</div>
+<div class="line"> </div>
+<div class="line">    # ...</div>
+<div class="line"> </div>
+<div class="line">    $ns at $opt(stoptime)  &quot;finish; $ns halt&quot;; # stop simulation and run finish procedure</div>
+<div class="line">    $ns run</div>
+<div class="line">}</div>
+</div><!-- fragment --><p>Optionally, it is good practice to add a finish procedure where display the simulation settings and compute some statistics.</p>
 <h1><a class="anchor" id="howmod"></a>
 How to add a new module</h1>
 <p>In this section we describe how to add a new module in the DESERT core (i.e., into the DESERT_Framework/DESERT directory.) As an example we present the creation of a new module (i.e., a library containing a new DESERT module) named <code>uwcool_phy</code>. The procedure to create a new module is described in the following.</p>
@@ -178,6 +325,9 @@ How to add a new module</h1>
 <div class="line">physical/uwcool_phy</div>
 <div class="line">[...]</div>
 <div class="line">])</div>
+</div><!-- fragment --><p>Once everything is ready, we need to reinstall DESERT to properly add the new module.</p>
+<p>Note: After the module is installed, we can recompile it without reinstalling everything. In our case, we would need to do the following: </p><div class="fragment"><div class="line">cd DESERT_buildCopy_LOCAL/.buildHost/DESERT/physical/uwcoolphy/</div>
+<div class="line">make &amp;&amp; make install</div>
 </div><!-- fragment --><h2><a class="anchor" id="cmdMet"></a>
 The command method</h2>
 <p>Finally, inside a tcl script we can use our module by:</p>
@@ -192,7 +342,7 @@ The command method</h2>
 <div class="line"> </div>
 <div class="line">set phy [new Module/UW/CoolPhy]</div>
 </div><!-- fragment --><p>To enable the communciation between the cpp class and the tcl script we need to overwrite the command method, for example to get and set parameters of a module object. It must be declared in this way, in your module class (<code>uwcoolphy.h</code>)</p>
-<div class="fragment"><div class="line"><span class="keyword">virtual</span> <span class="keywordtype">int</span> command(<span class="keywordtype">int</span> argc, <span class="keyword">const</span> <span class="keywordtype">char</span> *<span class="keyword">const</span> *rgv);</div>
+<div class="fragment"><div class="line"><span class="keyword">virtual</span> <span class="keywordtype">int</span> command(<span class="keywordtype">int</span> argc, <span class="keyword">const</span> <span class="keywordtype">char</span> *<span class="keyword">const</span> *argv);</div>
 </div><!-- fragment --><p> And then it should be defined in this way (inside <code>uwcoolphy.cpp</code>)</p>
 <div class="fragment"><div class="line">UwCoolPhy::command(<span class="keywordtype">int</span> argc, <span class="keyword">const</span> <span class="keywordtype">char</span> *<span class="keyword">const</span> *argv) {</div>
 <div class="line">    <span class="keywordflow">if</span> (argc == 2) {</div>
@@ -205,7 +355,54 @@ The command method</h2>
 <div class="line">    </div>
 <div class="line">    <span class="keywordflow">return</span> Module::command(argc, argv)</div>
 <div class="line">}</div>
-</div><!-- fragment --><h1><a class="anchor" id="newheader"></a>
+</div><!-- fragment --><h2><a class="anchor" id="pLog"></a>
+The printOnLog method</h2>
+<blockquote class="doxtable">
+<p>NOTE: This is a new feature (version &gt;= 3.6). By now only the following modules implement it:</p>
+<ul>
+<li><a class="el" href="classUwCbrModule.html" title="UwCbrModule class is used to manage UWCBR packets and to collect statistics about them.">UwCbrModule</a></li>
+<li><a class="el" href="classUwUdp.html" title="UwUdp class is used to manage UWUDP packets, and flows to and from upper modules.">UwUdp</a></li>
+<li><a class="el" href="classUWIPModule.html" title="UWIPModule class is used to define the Internet Protocol (IP) layer of a node.">UWIPModule</a></li>
+<li><a class="el" href="classUwStaticRoutingModule.html" title="UwStaticRoutingModule class implements basic routing functionalities.">UwStaticRoutingModule</a></li>
+<li><a class="el" href="classCsmaAloha.html" title="Class that describes a CsmaAloha module.">CsmaAloha</a></li>
+<li><a class="el" href="classUnderwaterPhysical.html">UnderwaterPhysical</a></li>
+</ul>
+<p>All the other modules use the ns-way of logging: You need to define a <code>debug_</code> parameter on your module and bind it to tcl inside the constructor (see the previous section). Every time you want to print a log message, then you need to check if debug parameter is set and print to console your message. </p>
+</blockquote>
+<p>Each DESERT module inherits a static logger parameter, shared among all the modules in a simulation istance. It lets you specify the level of logging messages you want. There are three possible values:</p>
+<p><small> </p><pre class="fragment"> ERROR: only error messages will be generated.
+ INFO : general info about the algorithms running and also ERROR messages.
+ DEBUG: details that allow to understand the execution flow plus both ERROR and INFO messages are shown.
+</pre><p> </small></p>
+<p>In particular, it gives you the method <code>printOnLog</code>, defined as follows:</p>
+<div class="fragment"><div class="line"><span class="keyword">virtual</span> <span class="keywordtype">void</span> printOnLog(Logger::LogLevel level, <span class="keyword">const</span> std::string &amp;module, <span class="keyword">const</span> std::string &amp;message) <span class="keyword">const</span>;</div>
+</div><!-- fragment --><p>This method takes three parameter: (i) the log level of the message, (ii) the name of the module printing the message and (iii) a string representing the log message.</p>
+<p>As an example, suppose you have a method to handle packets reception that you would like to track, you can do it as follows:</p>
+<div class="fragment"><div class="line"><span class="keywordtype">void</span></div>
+<div class="line">UwCoolPhy::startRx(Packet *p)</div>
+<div class="line">{</div>
+<div class="line">    ...</div>
+<div class="line">    printOnLog(Logger:LogLevel:<a class="code hl_define" href="uwtokenbus_8cpp.html#ad16d11af5dda4cba62965cd3fc156a6e">DEBUG</a>, <span class="stringliteral">&quot;UWCOOLPHY&quot;</span>, <span class="stringliteral">&quot;startRX(Packet *)::Received new packet&quot;</span>);</div>
+<div class="line">    ...</div>
+<div class="line">}</div>
+<div class="ttc" id="auwtokenbus_8cpp_html_ad16d11af5dda4cba62965cd3fc156a6e"><div class="ttname"><a href="uwtokenbus_8cpp.html#ad16d11af5dda4cba62965cd3fc156a6e">DEBUG</a></div><div class="ttdeci">#define DEBUG(level, text)</div><div class="ttdef"><b>Definition</b> <a href="uwtokenbus_8cpp_source.html#l00049">uwtokenbus.cpp:49</a></div></div>
+</div><!-- fragment --><p>To enable and configure the log messages in your simulation, you can use the following commands:</p>
+<div class="fragment"><div class="line">setLogLevel &lt;log_level&gt;             <span class="comment">// Set the logger level (1, 2 or 3)</span></div>
+<div class="line">setLogFile  &lt;file_name&gt;             <span class="comment">// Set the logger file name</span></div>
+<div class="line">setLog      &lt;log_level&gt; &lt;file_name&gt; <span class="comment">// Set both the logger level and file name</span></div>
+<div class="line">enableLog                           <span class="comment">// Enable log on a specific module</span></div>
+<div class="line">disableLog                          <span class="comment">// Disable log on a specific module</span></div>
+</div><!-- fragment --><p>Remember that all the modules in a given simulation, share the same instance of the logger, meaning, that the <code>log_level</code> and <code>log_file</code> can be set just once. For instance, suppose, you have a tcl file, with one transmitting node and one sink node, you can set the logger for the sink physical layer only as follows:</p>
+<div class="fragment"><div class="line">proc createSink { } {</div>
+<div class="line">    ...</div>
+<div class="line">    set phy_data_sink [new Module/UW/CoolPhy]</div>
+<div class="line">    ....</div>
+<div class="line">    $phy_data_sink setLog 3 &quot;log_output.txt&quot;</div>
+<div class="line">    ...</div>
+<div class="line">}</div>
+</div><!-- fragment --><p>It will print all the <code>coolphy</code> log messages inside a file called <code>log_output.txt</code>. Each message has an <code>id</code> associated with it, which is the ns id of the node and is incremental set, e.g., the first node created will have <code>id</code> 0, the second <code>id</code> 1 and so on.</p>
+<p>Note: You can find a complete example on how to use the logging system inside <code>DESERT/samples/desert_samples/logger/</code> folder.</p>
+<h1><a class="anchor" id="newheader"></a>
 How to add a new Packet headers</h1>
 <p>In the case your module needs its own <b>packet header</b>, a few things need to be performed:</p>
 <p>Define a header <em>struct</em>, for example <code>hdr_uwmyprotocol</code> inside a file <code>myproto-hdr.h</code> with your parameters plus the offset field required by the <em>packet header manager</em>:</p>
@@ -326,7 +523,7 @@ How to add a new custom installer</h1>
 <div class="line">    fi</div>
 <div class="line">    #******************************************************************************</div>
 <div class="line">}</div>
-</div><!-- fragment --><p>Notice the **host*** directive. This tells the installation script to compile the libraries for the current host. If you need to modify this script to cross-compile for a different target, substitute all lines with the following ones:</p>
+</div><!-- fragment --><p>Notice the <em><b>host</b></em> directive. This tells the installation script to compile the libraries for the current host. If you need to modify this script to cross-compile for a different target, substitute all lines with the following ones:</p>
 <div class="fragment"><div class="line">main() {</div>
 <div class="line">    #******************************************************************************</div>
 <div class="line">    # MAIN</div>

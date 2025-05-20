@@ -1,5 +1,7 @@
 var NAVTREEINDEX22 =
 {
+"classUwpolling__AUV.html#a9b1eb1389fdd68e62c4ff83a279c0a0a":[9,0,319,36],
+"classUwpolling__AUV.html#a9c40a7715016798837add6e379218f5c":[9,0,319,102],
 "classUwpolling__AUV.html#a9e413e8553e4f727399fd238c3daf23a":[9,0,319,39],
 "classUwpolling__AUV.html#a9f70cb140d6556245d61ec409e05497b":[9,0,319,119],
 "classUwpolling__AUV.html#a9f83a9cc4dd7025ac7504f8c0a1592a2":[9,0,319,63],
@@ -247,7 +249,5 @@ var NAVTREEINDEX22 =
 "classUwpolling__NODE_1_1Uwpolling__NODE__Timer.html#a07e8d7afcbcb948d17ede45f84d22258":[9,0,320,3,18],
 "classUwpolling__NODE_1_1Uwpolling__NODE__Timer.html#a2a9587f7f3a3b74486af7cafa943fc1f":[9,0,320,3,2],
 "classUwpolling__NODE_1_1Uwpolling__NODE__Timer.html#a2f7d38b1cfedc0ab2c1a22c6142bc22f":[9,0,320,3,3],
-"classUwpolling__NODE_1_1Uwpolling__NODE__Timer.html#a31b2c3bc81f6be3c510574f6e008a0f4":[9,0,320,3,0],
-"classUwpolling__NODE_1_1Uwpolling__NODE__Timer.html#a3a234f9575afdeef4c7210df243df081":[9,0,320,3,13],
-"classUwpolling__NODE_1_1Uwpolling__NODE__Timer.html#a3f21531778ef48555728f616c6c7e644":[9,0,320,3,17]
+"classUwpolling__NODE_1_1Uwpolling__NODE__Timer.html#a31b2c3bc81f6be3c510574f6e008a0f4":[9,0,320,3,0]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX38 =
 {
+"uwsc-clmsg_8h.html#a380078677fcaae07a0ade0913372f0d9":[10,0,0,17,2,8],
+"uwsc-clmsg_8h.html#a4b96437439949d6d244ed1169a2d3f9c":[10,0,0,17,2,11],
 "uwsc-clmsg_8h.html#a7392c1e45d21edb47fd9ab5a953d0f1e":[10,0,0,17,2,10],
 "uwsc-clmsg_8h.html#a882b2e7d7ca9320c5babd7de1042ab60":[10,0,0,17,2,6],
 "uwsc-clmsg_8h.html#ae060a6550badbbb03376336ce9af7d27":[10,0,0,17,2,5],

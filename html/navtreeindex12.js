@@ -1,5 +1,7 @@
 var NAVTREEINDEX12 =
 {
+"classUWSmartOFDM.html#a6ccf106efdb7768d60611afffe41f245ad18f612c5e28a11586d1e677f74ac91c":[9,0,360,11,16],
+"classUWSmartOFDM.html#a6ccf106efdb7768d60611afffe41f245ad4952b4dde45ee4a744f29182f7d79a9":[9,0,360,11,15],
 "classUWSmartOFDM.html#a6ccf106efdb7768d60611afffe41f245ae3761dca57ef1e57e46fb50c260a68da":[9,0,360,11,14],
 "classUWSmartOFDM.html#a6ccf106efdb7768d60611afffe41f245aee8d23acc9aa9519b625127f53376aab":[9,0,360,11,10],
 "classUWSmartOFDM.html#a6ccf106efdb7768d60611afffe41f245af2892d56eb964489018cfe31c2e3c3bd":[9,0,360,11,21],
@@ -247,7 +249,5 @@ var NAVTREEINDEX12 =
 "classUnderwaterPhysical.html#a206b2b177bc576489f0c8213051f92fb":[9,0,200,0],
 "classUnderwaterPhysical.html#a2271872ff4409c731645fca33f5e47b8":[9,0,200,29],
 "classUnderwaterPhysical.html#a250ab284b82b68a704a45fcafd9e0e3e":[9,0,200,47],
-"classUnderwaterPhysical.html#a33530b3f7c20e089043bbd200f2d1d0c":[9,0,200,19],
-"classUnderwaterPhysical.html#a34c81f008035b92c1962be14fef89077":[9,0,200,3],
-"classUnderwaterPhysical.html#a35d062800ded622ab794f2fe8e0d29e8":[9,0,200,48]
+"classUnderwaterPhysical.html#a33530b3f7c20e089043bbd200f2d1d0c":[9,0,200,19]
 };

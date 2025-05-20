@@ -1,5 +1,7 @@
 var NAVTREEINDEX16 =
 {
+"classUwHermesPhyClass.html#a3260a196dfd0f1062638e0f88b4c7ec8":[9,0,246,0],
+"classUwHermesPhyClass.html#a687123f537a219e4478cae854fa1f4a7":[9,0,246,1],
 "classUwIcrpNode.html":[9,0,251],
 "classUwIcrpNode.html#a02f5a2558ecce1b38ee04556484a03b0":[9,0,251,5],
 "classUwIcrpNode.html#a0804b2bae55a3e69818c0d5f17345d4d":[9,0,251,4],
@@ -247,7 +249,5 @@ var NAVTREEINDEX16 =
 "classUwModem.html#a95144cfdfdc9166eed8567c557c5c7cc":[9,0,277,19],
 "classUwModem.html#a970683e6e56e29ab08b7fa2c5ddf5b65":[9,0,277,17],
 "classUwModem.html#a9b3c2e61558d6ae6dc926eec15740b82":[9,0,277,3],
-"classUwModem.html#a9e303c9496a3ce62ce1a85ee30eeee87":[9,0,277,34],
-"classUwModem.html#aa01f61a913344a80964075ee650b3417":[9,0,277,28],
-"classUwModem.html#aa1220cd8b4240952675f1ea448698e6f":[9,0,277,25]
+"classUwModem.html#a9e303c9496a3ce62ce1a85ee30eeee87":[9,0,277,34]
 };
