@@ -493,7 +493,7 @@ var hierarchy =
       ] ],
       [ "WossGMMob3D::UpdateTimerPosition", "classWossGMMob3D_1_1UpdateTimerPosition.html", null ],
       [ "WossGroupMob3D::UpdatePositionTimer", "classWossGroupMob3D_1_1UpdatePositionTimer.html", null ],
-      [ "uwApplicationModule::uwSendTimerAppl", "classuwApplicationModule_1_1uwSendTimerAppl.html", null ],
+      [ "uwSendTimerAppl", "classuwSendTimerAppl.html", null ],
       [ "uwUFetch_AUV::uwUFetch_timer", "classuwUFetch__AUV_1_1uwUFetch__timer.html", [
         [ "uwUFetch_AUV::uwUFetch_DATA_timer", "classuwUFetch__AUV_1_1uwUFetch__DATA__timer.html", null ],
         [ "uwUFetch_AUV::uwUFetch_FIRST_DATA_timer", "classuwUFetch__AUV_1_1uwUFetch__FIRST__DATA__timer.html", null ],

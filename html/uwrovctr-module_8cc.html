@@ -25,7 +25,7 @@
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">DESERT<span id="projectnumber">&#160;3.5.1</span>
+   <div id="projectname">DESERT<span id="projectnumber">&#160;3.6.0</span>
    </div>
   </td>
  </tr>
@@ -97,55 +97,46 @@ $(document).ready(function(){initNavTree('uwrovctr-module_8cc.html',''); initRes
 <div class="contents">
 <div class="textblock"><code>#include &quot;<a class="el" href="uwrovctr-module_8h_source.html">uwrovctr-module.h</a>&quot;</code><br />
 <code>#include &lt;iostream&gt;</code><br />
-<code>#include &lt;rng.h&gt;</code><br />
-<code>#include &lt;stdint.h&gt;</code><br />
+<code>#include &lt;sstream&gt;</code><br />
 </div><div class="textblock"><div class="dynheader">
 Include dependency graph for uwrovctr-module.cc:</div>
 <div class="dyncontent">
 <div class="center"><img src="uwrovctr-module_8cc__incl.png" border="0" usemap="#auwrovctr-module_8cc" alt=""/></div>
 <map name="auwrovctr-module_8cc" id="auwrovctr-module_8cc">
-<area shape="rect" title="Provides the UWROVCtr class implementation." alt="" coords="322,5,473,31"/>
-<area shape="rect" href="uwrovctr-module_8h.html" title="Provides the definition of the class UWROV." alt="" coords="263,79,409,104"/>
-<area shape="poly" title=" " alt="" coords="389,33,357,70,353,66,385,29"/>
-<area shape="rect" title=" " alt="" coords="16,372,96,397"/>
-<area shape="poly" title=" " alt="" coords="326,33,228,53,124,82,78,99,41,119,16,141,10,152,8,164,8,239,12,273,21,305,45,359,40,361,16,307,6,274,3,239,3,163,5,150,12,137,38,115,75,95,122,77,227,48,324,28"/>
-<area shape="rect" title=" " alt="" coords="433,79,487,104"/>
-<area shape="poly" title=" " alt="" coords="410,29,443,66,439,70,406,33"/>
-<area shape="rect" title=" " alt="" coords="511,79,582,104"/>
-<area shape="poly" title=" " alt="" coords="422,28,511,70,509,75,420,33"/>
-<area shape="rect" href="uwcbr-module_8h.html" title="Provides the UWCBR packets header description and the definition of the class UWCBR." alt="" coords="273,152,399,177"/>
-<area shape="poly" title=" " alt="" coords="339,104,339,138,333,138,333,104"/>
-<area shape="rect" href="uwrov-packet_8h.html" title="Provides both UWROV monitoring and control packets header description." alt="" coords="424,152,547,177"/>
-<area shape="poly" title=" " alt="" coords="361,102,450,144,447,148,359,106"/>
-<area shape="rect" title=" " alt="" coords="571,152,669,177"/>
-<area shape="poly" title=" " alt="" coords="382,101,562,146,560,151,381,107"/>
-<area shape="rect" title=" " alt="" coords="186,152,249,177"/>
-<area shape="poly" title=" " alt="" coords="318,106,250,147,247,142,316,102"/>
-<area shape="rect" href="uwip-module_8h.html" title="Provides the UWIP packets header description. Definition of the class that define the network layer." alt="" coords="337,299,455,324"/>
-<area shape="poly" title=" " alt="" coords="401,174,443,192,463,206,478,224,483,234,483,245,474,264,456,281,435,294,432,290,453,276,469,261,478,244,478,235,474,227,459,210,441,197,399,179"/>
-<area shape="rect" title=" " alt="" coords="355,372,437,397"/>
-<area shape="poly" title=" " alt="" coords="385,175,452,196,480,209,498,224,507,243,507,263,501,283,490,303,459,338,426,366,423,361,456,334,486,300,496,281,502,263,502,245,494,227,477,214,450,201,383,180"/>
-<area shape="poly" title=" " alt="" coords="273,179,181,199,141,213,115,227,91,257,75,293,66,328,61,359,55,358,60,327,70,291,87,255,112,223,139,208,179,194,272,174"/>
-<area shape="rect" title=" " alt="" coords="196,372,255,397"/>
-<area shape="poly" title=" " alt="" coords="273,179,189,198,155,212,134,227,120,251,117,273,122,296,134,323,156,348,185,366,182,370,153,352,130,325,117,298,112,273,115,249,130,224,152,207,188,193,272,173"/>
-<area shape="rect" title=" " alt="" coords="513,372,588,397"/>
-<area shape="poly" title=" " alt="" coords="392,175,467,196,499,209,521,223,541,256,551,292,555,328,555,358,550,358,550,328,546,293,536,258,517,227,497,214,465,201,390,180"/>
-<area shape="rect" href="uwudp-module_8h.html" title="Provides the UWUDP packets header description and the definition of the class UWUDP." alt="" coords="144,225,275,251"/>
-<area shape="poly" title=" " alt="" coords="317,180,243,221,241,216,314,175"/>
-<area shape="rect" title=" " alt="" coords="299,225,373,251"/>
-<area shape="poly" title=" " alt="" coords="339,178,339,212,333,212,333,178"/>
-<area shape="rect" title=" " alt="" coords="397,225,464,251"/>
-<area shape="poly" title=" " alt="" coords="353,175,406,215,403,219,350,179"/>
-<area shape="poly" title=" " alt="" coords="399,324,399,358,393,358,393,324"/>
-<area shape="poly" title=" " alt="" coords="342,327,110,375,109,370,341,321"/>
-<area shape="poly" title=" " alt="" coords="370,326,267,369,265,364,368,322"/>
-<area shape="poly" title=" " alt="" coords="422,322,514,364,512,369,420,326"/>
-<area shape="poly" title=" " alt="" coords="240,248,354,291,352,296,238,253"/>
-<area shape="poly" title=" " alt="" coords="226,249,372,362,369,366,223,253"/>
-<area shape="rect" title=" " alt="" coords="211,299,261,324"/>
-<area shape="poly" title=" " alt="" coords="216,250,229,285,224,287,211,252"/>
-<area shape="rect" title=" " alt="" coords="144,299,187,324"/>
-<area shape="poly" title=" " alt="" coords="204,252,182,288,177,286,200,250"/>
+<area shape="rect" title="Provides the UWROVCtr class implementation." alt="" coords="461,5,611,31"/>
+<area shape="rect" href="uwrovctr-module_8h.html" title="Provides the definition of the class UWROV." alt="" coords="218,79,363,104"/>
+<area shape="poly" title=" " alt="" coords="497,33,344,77,343,72,496,28"/>
+<area shape="rect" title=" " alt="" coords="513,372,593,397"/>
+<area shape="poly" title=" " alt="" coords="548,29,565,52,584,84,600,122,607,163,607,239,603,274,594,307,569,361,565,359,589,305,598,273,601,239,601,164,595,124,580,87,561,55,544,32"/>
+<area shape="rect" title=" " alt="" coords="492,299,567,324"/>
+<area shape="poly" title=" " alt="" coords="538,31,533,285,527,285,533,31"/>
+<area shape="rect" title=" " alt="" coords="172,152,271,177"/>
+<area shape="poly" title=" " alt="" coords="281,106,244,144,240,140,277,102"/>
+<area shape="rect" href="uwcbr-module_8h.html" title="Provides the UWCBR packets header description and the definition of the class UWCBR." alt="" coords="295,152,422,177"/>
+<area shape="poly" title=" " alt="" coords="304,102,340,140,336,144,300,106"/>
+<area shape="rect" href="uwrov-packet_8h.html" title="Provides both UWROV monitoring and control packets header description." alt="" coords="8,152,131,177"/>
+<area shape="poly" title=" " alt="" coords="256,107,119,150,117,145,254,101"/>
+<area shape="rect" title=" " alt="" coords="129,372,212,397"/>
+<area shape="poly" title=" " alt="" coords="310,180,261,198,238,211,216,227,201,244,191,259,179,299,173,329,172,358,167,358,168,329,173,298,186,257,196,241,213,223,235,207,259,193,308,175"/>
+<area shape="rect" href="uwip-module_8h.html" title="Provides the UWIP packets header description. Definition of the class that define the network layer." alt="" coords="350,299,469,324"/>
+<area shape="poly" title=" " alt="" coords="365,177,403,285,398,287,360,179"/>
+<area shape="rect" href="uwudp-module_8h.html" title="Provides the UWUDP packets header description and the definition of the class UWUDP." alt="" coords="227,225,357,251"/>
+<area shape="poly" title=" " alt="" coords="350,179,314,217,310,213,346,176"/>
+<area shape="rect" title=" " alt="" coords="432,225,499,251"/>
+<area shape="poly" title=" " alt="" coords="377,175,438,215,435,220,374,180"/>
+<area shape="poly" title=" " alt="" coords="372,327,223,371,222,365,370,321"/>
+<area shape="poly" title=" " alt="" coords="434,322,519,363,516,368,431,326"/>
+<area shape="rect" title=" " alt="" coords="380,372,439,397"/>
+<area shape="poly" title=" " alt="" coords="412,324,412,358,407,358,407,324"/>
+<area shape="poly" title=" " alt="" coords="264,253,229,272,198,300,183,329,176,359,171,358,178,327,194,297,226,268,261,248"/>
+<area shape="poly" title=" " alt="" coords="312,248,380,289,377,294,309,253"/>
+<area shape="poly" title=" " alt="" coords="331,248,479,292,478,297,329,253"/>
+<area shape="rect" title=" " alt="" coords="275,299,325,324"/>
+<area shape="poly" title=" " alt="" coords="296,251,300,285,295,285,291,251"/>
+<area shape="rect" title=" " alt="" coords="208,299,251,324"/>
+<area shape="poly" title=" " alt="" coords="284,253,251,290,247,286,280,249"/>
+<area shape="rect" title=" " alt="" coords="5,225,83,251"/>
+<area shape="poly" title=" " alt="" coords="68,179,55,213,50,212,63,177"/>
 </map>
 </div>
 </div>
@@ -158,12 +149,6 @@ Classes</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
 Variables</h2></td></tr>
-<tr class="memitem:aad9d7fabdbeda8648263fce9666ea450" id="r_aad9d7fabdbeda8648263fce9666ea450"><td class="memItemLeft" align="right" valign="top">packet_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="uwrovctr-module_8cc.html#aad9d7fabdbeda8648263fce9666ea450">PT_UWCBR</a></td></tr>
-<tr class="separator:aad9d7fabdbeda8648263fce9666ea450"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a08de1d9791dd696f8b93906880e72d48" id="r_a08de1d9791dd696f8b93906880e72d48"><td class="memItemLeft" align="right" valign="top">packet_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="uwrovctr-module_8cc.html#a08de1d9791dd696f8b93906880e72d48">PT_UWROV</a></td></tr>
-<tr class="separator:a08de1d9791dd696f8b93906880e72d48"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9c17dc60e968c09e52f148f3f2187a4a" id="r_a9c17dc60e968c09e52f148f3f2187a4a"><td class="memItemLeft" align="right" valign="top">packet_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="uwrovctr-module_8cc.html#a9c17dc60e968c09e52f148f3f2187a4a">PT_UWROV_CTR</a></td></tr>
-<tr class="separator:a9c17dc60e968c09e52f148f3f2187a4a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a5b212e7f1211e7943833b0778be77df1" id="r_a5b212e7f1211e7943833b0778be77df1"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classUwROVCtrModuleClass.html">UwROVCtrModuleClass</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="uwrovctr-module_8cc.html#a5b212e7f1211e7943833b0778be77df1">class_module_uwROV_ctr</a></td></tr>
 <tr class="separator:a5b212e7f1211e7943833b0778be77df1"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
@@ -194,78 +179,6 @@ Variables</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-
-</div>
-</div>
-<a id="aad9d7fabdbeda8648263fce9666ea450" name="aad9d7fabdbeda8648263fce9666ea450"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aad9d7fabdbeda8648263fce9666ea450">&#9670;&#160;</a></span>PT_UWCBR</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">packet_t PT_UWCBR</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">extern</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="definition">Definition at line <a class="el" href="DESERT__Framework_2DESERT_2application_2uwcbr_2initlib_8cpp_source.html#l00045">45</a> of file <a class="el" href="DESERT__Framework_2DESERT_2application_2uwcbr_2initlib_8cpp_source.html">DESERT_Framework/DESERT/application/uwcbr/initlib.cpp</a>.</p>
-
-</div>
-</div>
-<a id="a08de1d9791dd696f8b93906880e72d48" name="a08de1d9791dd696f8b93906880e72d48"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a08de1d9791dd696f8b93906880e72d48">&#9670;&#160;</a></span>PT_UWROV</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">packet_t PT_UWROV</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">extern</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="definition">Definition at line <a class="el" href="DESERT__Addons_2uwrov_2initlib_8cc_source.html#l00047">47</a> of file <a class="el" href="DESERT__Addons_2uwrov_2initlib_8cc_source.html">DESERT_Addons/uwrov/initlib.cc</a>.</p>
-
-</div>
-</div>
-<a id="a9c17dc60e968c09e52f148f3f2187a4a" name="a9c17dc60e968c09e52f148f3f2187a4a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9c17dc60e968c09e52f148f3f2187a4a">&#9670;&#160;</a></span>PT_UWROV_CTR</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">packet_t PT_UWROV_CTR</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">extern</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="definition">Definition at line <a class="el" href="DESERT__Addons_2uwrov_2initlib_8cc_source.html#l00048">48</a> of file <a class="el" href="DESERT__Addons_2uwrov_2initlib_8cc_source.html">DESERT_Addons/uwrov/initlib.cc</a>.</p>
 
 </div>
 </div>

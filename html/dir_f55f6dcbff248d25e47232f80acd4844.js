@@ -4,6 +4,6 @@ var dir_f55f6dcbff248d25e47232f80acd4844 =
     [ "uwApplication_cmn_header.h", "uwApplication__cmn__header_8h.html", "uwApplication__cmn__header_8h" ],
     [ "uwApplication_module.cpp", "uwApplication__module_8cpp.html", "uwApplication__module_8cpp" ],
     [ "uwApplication_module.h", "uwApplication__module_8h.html", "uwApplication__module_8h" ],
-    [ "uwApplication_TCP_socket.cpp", "uwApplication__TCP__socket_8cpp.html", "uwApplication__TCP__socket_8cpp" ],
-    [ "uwApplication_UDP_socket.cpp", "uwApplication__UDP__socket_8cpp.html", "uwApplication__UDP__socket_8cpp" ]
+    [ "uwApplication_TCP_socket.cpp", "uwApplication__TCP__socket_8cpp.html", null ],
+    [ "uwApplication_UDP_socket.cpp", "uwApplication__UDP__socket_8cpp.html", null ]
 ];

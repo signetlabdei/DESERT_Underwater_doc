@@ -1,53 +1,45 @@
 <map id="uwphysical.cpp" name="uwphysical.cpp">
-<area shape="rect" id="Node000001" title="Implementation of UnderwaterPhysical class." alt="" coords="1417,5,1540,31"/>
-<area shape="rect" id="Node000002" href="$uwphysical_8h.html" title="Definition of UwPhysical class." alt="" coords="893,79,1000,104"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1417,30,1014,84,1013,78,1417,25"/>
-<area shape="rect" id="Node000022" href="$uwphy-clmsg_8h.html" title="Definition of ClMsgUwMmac class." alt="" coords="1418,79,1539,104"/>
-<area shape="poly" id="edge23_Node000001_Node000022" title=" " alt="" coords="1481,31,1481,65,1476,65,1476,31"/>
-<area shape="rect" id="Node000024" href="$uwstats-utilities_8h.html" title="Utilities to manage stats." alt="" coords="1564,79,1703,104"/>
-<area shape="poly" id="edge26_Node000001_Node000024" title=" " alt="" coords="1505,28,1597,70,1595,75,1502,33"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="107,152,251,177"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="893,99,625,121,270,155,265,155,264,150,269,149,625,116,893,94"/>
-<area shape="rect" id="Node000004" href="$uwinterference_8h.html" title="Implementation of uwinterference class." alt="" coords="326,152,458,177"/>
-<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="893,102,478,155,472,155,471,150,477,149,893,97"/>
-<area shape="rect" id="Node000007" title=" " alt="" coords="5,225,85,251"/>
-<area shape="poly" id="edge19_Node000002_Node000007" title=" " alt="" coords="893,98,595,117,432,134,364,144,314,155,289,166,264,180,190,202,99,226,98,221,189,197,262,175,287,162,312,149,364,138,431,128,594,112,893,92"/>
-<area shape="rect" id="Node000011" title=" " alt="" coords="651,225,714,251"/>
-<area shape="poly" id="edge20_Node000002_Node000011" title=" " alt="" coords="893,94,798,96,687,104,633,111,586,122,548,136,523,154,519,164,523,176,537,184,566,196,639,221,638,226,565,201,535,189,519,179,513,164,519,150,545,131,584,117,632,106,686,99,798,91,893,89"/>
-<area shape="rect" id="Node000012" title=" " alt="" coords="534,152,597,177"/>
-<area shape="poly" id="edge11_Node000002_Node000012" title=" " alt="" coords="893,103,768,124,610,154,609,149,767,119,893,98"/>
-<area shape="rect" id="Node000013" title=" " alt="" coords="621,152,731,177"/>
-<area shape="poly" id="edge12_Node000002_Node000013" title=" " alt="" coords="904,107,734,151,732,146,903,101"/>
-<area shape="rect" id="Node000014" title=" " alt="" coords="756,152,887,177"/>
-<area shape="poly" id="edge13_Node000002_Node000014" title=" " alt="" coords="928,106,855,147,852,143,925,102"/>
-<area shape="rect" id="Node000015" title=" " alt="" coords="911,152,982,177"/>
-<area shape="poly" id="edge14_Node000002_Node000015" title=" " alt="" coords="949,104,949,138,944,138,944,104"/>
-<area shape="rect" id="Node000016" title=" " alt="" coords="1006,152,1061,177"/>
-<area shape="poly" id="edge15_Node000002_Node000016" title=" " alt="" coords="962,102,1010,141,1007,145,959,106"/>
-<area shape="rect" id="Node000017" title=" " alt="" coords="1451,152,1528,177"/>
-<area shape="poly" id="edge16_Node000002_Node000017" title=" " alt="" coords="1000,95,1189,114,1437,149,1436,154,1189,120,1000,100"/>
-<area shape="rect" id="Node000018" title=" " alt="" coords="1085,152,1168,177"/>
-<area shape="poly" id="edge17_Node000002_Node000018" title=" " alt="" coords="977,102,1086,144,1084,149,975,107"/>
-<area shape="rect" id="Node000019" title=" " alt="" coords="1192,152,1253,177"/>
-<area shape="poly" id="edge18_Node000002_Node000019" title=" " alt="" coords="993,101,1179,149,1178,154,991,107"/>
-<area shape="rect" id="Node000020" title=" " alt="" coords="1277,152,1336,177"/>
-<area shape="poly" id="edge21_Node000002_Node000020" title=" " alt="" coords="1001,99,1118,119,1264,149,1263,154,1117,124,1000,104"/>
-<area shape="rect" id="Node000021" title=" " alt="" coords="1360,152,1427,177"/>
-<area shape="poly" id="edge22_Node000002_Node000021" title=" " alt="" coords="1001,96,1152,117,1347,149,1346,155,1152,122,1000,102"/>
-<area shape="rect" id="Node000005" title=" " alt="" coords="109,225,253,251"/>
-<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="359,180,229,223,227,218,357,175"/>
-<area shape="rect" id="Node000006" title=" " alt="" coords="277,225,320,251"/>
-<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="379,179,326,219,323,215,375,175"/>
-<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="334,180,99,228,98,222,333,175"/>
-<area shape="rect" id="Node000008" title=" " alt="" coords="344,225,440,251"/>
-<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="395,178,395,212,389,212,389,178"/>
-<area shape="rect" id="Node000009" title=" " alt="" coords="465,225,527,251"/>
-<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="410,175,469,215,466,219,407,180"/>
-<area shape="rect" id="Node000010" title=" " alt="" coords="552,225,627,251"/>
-<area shape="poly" id="edge9_Node000004_Node000010" title=" " alt="" coords="425,175,545,218,543,223,423,180"/>
-<area shape="poly" id="edge10_Node000004_Node000011" title=" " alt="" coords="441,175,638,223,637,228,440,180"/>
-<area shape="poly" id="edge25_Node000022_Node000017" title=" " alt="" coords="1483,104,1488,138,1483,139,1478,105"/>
-<area shape="rect" id="Node000023" title=" " alt="" coords="1572,152,1676,177"/>
-<area shape="poly" id="edge24_Node000022_Node000023" title=" " alt="" coords="1503,102,1589,144,1587,148,1501,106"/>
-<area shape="poly" id="edge27_Node000024_Node000023" title=" " alt="" coords="1634,105,1630,139,1625,138,1629,104"/>
+<area shape="rect" id="Node000001" title="Implementation of UnderwaterPhysical class." alt="" coords="867,5,989,31"/>
+<area shape="rect" id="Node000002" href="$uwphysical_8h.html" title="Definition of UwPhysical class." alt="" coords="435,79,541,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="867,32,556,82,555,77,866,27"/>
+<area shape="rect" id="Node000014" href="$uwphy-clmsg_8h.html" title="Definition of ClMsgUwMmac class." alt="" coords="751,79,873,104"/>
+<area shape="poly" id="edge14_Node000001_Node000014" title=" " alt="" coords="911,33,844,74,841,69,908,28"/>
+<area shape="rect" id="Node000017" href="$uwstats-utilities_8h.html" title="Utilities to manage stats." alt="" coords="588,79,727,104"/>
+<area shape="poly" id="edge17_Node000001_Node000017" title=" " alt="" coords="885,33,715,78,714,73,884,28"/>
+<area shape="rect" id="Node000018" title=" " alt="" coords="897,79,959,104"/>
+<area shape="poly" id="edge19_Node000001_Node000018" title=" " alt="" coords="931,31,931,65,925,65,925,31"/>
+<area shape="rect" id="Node000019" title=" " alt="" coords="984,79,1115,104"/>
+<area shape="poly" id="edge20_Node000001_Node000019" title=" " alt="" coords="949,28,1019,69,1017,74,946,33"/>
+<area shape="rect" id="Node000020" title=" " alt="" coords="1139,79,1213,104"/>
+<area shape="poly" id="edge21_Node000001_Node000020" title=" " alt="" coords="969,28,1126,73,1124,78,967,33"/>
+<area shape="rect" id="Node000021" title=" " alt="" coords="1237,79,1296,104"/>
+<area shape="poly" id="edge22_Node000001_Node000021" title=" " alt="" coords="990,28,1224,76,1223,81,989,33"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="74,152,185,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="435,106,199,152,198,147,434,101"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="209,152,353,177"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="456,107,329,150,327,145,454,101"/>
+<area shape="rect" id="Node000005" href="$uwinterference_8h.html" title="Implementation of uwinterference class." alt="" coords="378,152,510,177"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="483,106,461,142,456,139,478,103"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="651,225,714,251"/>
+<area shape="poly" id="edge12_Node000002_Node000012" title=" " alt="" coords="500,102,532,137,575,175,610,198,646,217,643,222,608,203,572,179,528,141,496,106"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="585,152,644,177"/>
+<area shape="poly" id="edge13_Node000002_Node000013" title=" " alt="" coords="510,102,583,143,581,147,507,106"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="5,225,149,251"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="386,180,151,225,150,220,385,175"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="173,225,216,251"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="400,180,230,228,228,223,399,175"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="240,225,320,251"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="419,180,320,222,318,217,417,175"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="344,225,440,251"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="438,179,411,216,406,213,433,176"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="465,225,527,251"/>
+<area shape="poly" id="edge9_Node000005_Node000010" title=" " alt="" coords="455,176,482,213,477,216,450,179"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="552,225,627,251"/>
+<area shape="poly" id="edge10_Node000005_Node000011" title=" " alt="" coords="469,175,555,217,552,222,466,180"/>
+<area shape="poly" id="edge11_Node000005_Node000012" title=" " alt="" coords="483,175,639,221,637,226,482,180"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="668,152,772,177"/>
+<area shape="poly" id="edge15_Node000014_Node000015" title=" " alt="" coords="799,106,747,146,744,141,796,102"/>
+<area shape="rect" id="Node000016" title=" " alt="" coords="796,152,873,177"/>
+<area shape="poly" id="edge16_Node000014_Node000016" title=" " alt="" coords="818,104,829,138,824,140,813,105"/>
+<area shape="poly" id="edge18_Node000017_Node000015" title=" " alt="" coords="670,103,703,140,699,143,666,106"/>
 </map>

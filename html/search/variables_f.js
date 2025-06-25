@@ -15,9 +15,8 @@ var searchData=
   ['otabmtx_12',['otabmtx',['../classUWSmartOFDM.html#aa47f765c444dc28f7e74a705345f8834',1,'UWSmartOFDM']]],
   ['out_5ffile_5flogging_13',['out_file_logging',['../classuwUFetch__NODE.html#a42d88ecf18a6292861b67433ee410c29',1,'uwUFetch_NODE::out_file_logging'],['../classuwUFetch__AUV.html#a33e3c610ee7229578c9471980d92330b',1,'uwUFetch_AUV::out_file_logging']]],
   ['out_5ffile_5fstats_14',['out_file_stats',['../classUwpolling__AUV.html#abe9a7540e6d3cefbffa0658054e1dc40',1,'Uwpolling_AUV::out_file_stats'],['../classUwpolling__NODE.html#afba036eed5d55d863ff624db5aea5b81',1,'Uwpolling_NODE::out_file_stats'],['../classUwpolling__SINK.html#a9edb2917fe27aa366b06684d5e63df5d',1,'Uwpolling_SINK::out_file_stats'],['../classUwTDMA.html#a8f82f92c812853b1c35c2a30e84d91b3',1,'UwTDMA::out_file_stats'],['../classUwROVModule.html#aa25ff83d617d183caa32f068cb81636f',1,'UwROVModule::out_file_stats']]],
-  ['out_5flog_15',['out_log',['../classuwApplicationModule.html#ace9d56f19e6f80922e41310ef126c486',1,'uwApplicationModule']]],
-  ['outlog_16',['outlog',['../classCsmaCa.html#ad2063bb117274d23a5a5ba7e5a2e1c8c',1,'CsmaCa::outLog'],['../classUwModem.html#abac569b5ab517f5100e8fe220cb23a2e',1,'UwModem::outLog'],['../classUWMdriver.html#ae12a7de3769efb81af5eea97fc44e0d2',1,'UWMdriver::outLog'],['../classUWMPhy__modem.html#a2bc436f52c9a13c8f8035b399b42387a',1,'UWMPhy_modem::outLog']]],
-  ['overlap_17',['overlap',['../classUnderwaterPhysicaldb.html#a6016fdae9b93ff0a9b4fcc9e07896b3d',1,'UnderwaterPhysicaldb']]],
-  ['owtt_5fmap_18',['owtt_map',['../classUwRangingTDMA.html#a514c8400b631d82359011cba691efa5a',1,'UwRangingTDMA']]],
-  ['owtt_5fvec_19',['owtt_vec',['../classUwRangingTDMA.html#a92242a10200e55b25216e6425b1841e4',1,'UwRangingTDMA']]]
+  ['outlog_15',['outlog',['../classCsmaCa.html#ad2063bb117274d23a5a5ba7e5a2e1c8c',1,'CsmaCa::outLog'],['../classUwModem.html#abac569b5ab517f5100e8fe220cb23a2e',1,'UwModem::outLog'],['../classUWMdriver.html#ae12a7de3769efb81af5eea97fc44e0d2',1,'UWMdriver::outLog'],['../classUWMPhy__modem.html#a2bc436f52c9a13c8f8035b399b42387a',1,'UWMPhy_modem::outLog']]],
+  ['overlap_16',['overlap',['../classUnderwaterPhysicaldb.html#a6016fdae9b93ff0a9b4fcc9e07896b3d',1,'UnderwaterPhysicaldb']]],
+  ['owtt_5fmap_17',['owtt_map',['../classUwRangingTDMA.html#a514c8400b631d82359011cba691efa5a',1,'UwRangingTDMA']]],
+  ['owtt_5fvec_18',['owtt_vec',['../classUwRangingTDMA.html#a92242a10200e55b25216e6425b1841e4',1,'UwRangingTDMA']]]
 ];

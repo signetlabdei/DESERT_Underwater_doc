@@ -173,7 +173,7 @@ var searchData=
   ['uwsctrackermodule_170',['UwSCTrackerModule',['../classUwSCTrackerModule.html',1,'']]],
   ['uwsctrackermoduleclass_171',['UwSCTrackerModuleClass',['../classUwSCTrackerModuleClass.html',1,'']]],
   ['uwsendtimer_172',['UwSendTimer',['../classUwSendTimer.html',1,'']]],
-  ['uwsendtimerappl_173',['uwSendTimerAppl',['../classuwApplicationModule_1_1uwSendTimerAppl.html',1,'uwApplicationModule']]],
+  ['uwsendtimerappl_173',['uwSendTimerAppl',['../classuwSendTimerAppl.html',1,'']]],
   ['uwserial_174',['UwSerial',['../classUwSerial.html',1,'']]],
   ['uwsmartofdm_175',['UWSmartOFDM',['../classUWSmartOFDM.html',1,'']]],
   ['uwsmartofdmmoduleclass_176',['UWSMARTOFDMModuleClass',['../classUWSMARTOFDMModuleClass.html',1,'']]],

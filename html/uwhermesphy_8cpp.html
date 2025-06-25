@@ -25,7 +25,7 @@
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">DESERT<span id="projectnumber">&#160;3.5.1</span>
+   <div id="projectname">DESERT<span id="projectnumber">&#160;3.6.0</span>
    </div>
   </td>
  </tr>
@@ -96,6 +96,9 @@ $(document).ready(function(){initNavTree('uwhermesphy_8cpp.html',''); initResiza
 </div><!--header-->
 <div class="contents">
 <div class="textblock"><code>#include &quot;<a class="el" href="uwhermesphy_8h_source.html">uwhermesphy.h</a>&quot;</code><br />
+<code>#include &quot;rng.h&quot;</code><br />
+<code>#include &quot;mac.h&quot;</code><br />
+<code>#include &quot;phymac-clmsg.h&quot;</code><br />
 <code>#include &lt;fstream&gt;</code><br />
 <code>#include &lt;sstream&gt;</code><br />
 </div><div class="textblock"><div class="dynheader">
@@ -103,60 +106,49 @@ Include dependency graph for uwhermesphy.cpp:</div>
 <div class="dyncontent">
 <div class="center"><img src="uwhermesphy_8cpp__incl.png" border="0" usemap="#auwhermesphy_8cpp" alt=""/></div>
 <map name="auwhermesphy_8cpp" id="auwhermesphy_8cpp">
-<area shape="rect" title="Implementation of UwHermesPhy class." alt="" coords="919,5,1057,31"/>
-<area shape="rect" href="uwhermesphy_8h.html" title="Definition of UwHermesPhy class." alt="" coords="803,79,927,104"/>
-<area shape="poly" title=" " alt="" coords="970,33,898,74,896,69,967,28"/>
-<area shape="rect" title=" " alt="" coords="951,79,1025,104"/>
-<area shape="poly" title=" " alt="" coords="991,31,991,65,985,65,985,31"/>
-<area shape="rect" title=" " alt="" coords="1049,79,1124,104"/>
-<area shape="poly" title=" " alt="" coords="1005,29,1061,68,1058,73,1002,33"/>
-<area shape="rect" href="uwphysical_8h.html" title="Definition of UwPhysical class." alt="" coords="756,152,863,177"/>
-<area shape="poly" title=" " alt="" coords="858,106,829,143,825,140,854,103"/>
+<area shape="rect" title="Implementation of UwHermesPhy class." alt="" coords="615,5,753,31"/>
+<area shape="rect" href="uwhermesphy_8h.html" title="Definition of UwHermesPhy class." alt="" coords="366,79,490,104"/>
+<area shape="poly" title=" " alt="" coords="644,33,483,78,482,72,642,28"/>
+<area shape="rect" title=" " alt="" coords="514,79,569,104"/>
+<area shape="poly" title=" " alt="" coords="662,33,578,75,576,70,660,28"/>
+<area shape="rect" title=" " alt="" coords="593,79,655,104"/>
+<area shape="poly" title=" " alt="" coords="676,33,645,70,640,66,672,29"/>
+<area shape="rect" title=" " alt="" coords="680,79,811,104"/>
+<area shape="poly" title=" " alt="" coords="696,29,728,66,724,70,692,33"/>
+<area shape="rect" title=" " alt="" coords="835,79,909,104"/>
+<area shape="poly" title=" " alt="" coords="715,28,829,71,828,76,713,33"/>
+<area shape="rect" title=" " alt="" coords="933,79,1008,104"/>
+<area shape="poly" title=" " alt="" coords="731,28,921,75,919,80,729,33"/>
+<area shape="rect" href="uwphysical_8h.html" title="Definition of UwPhysical class." alt="" coords="319,152,425,177"/>
+<area shape="poly" title=" " alt="" coords="421,106,392,143,387,140,417,103"/>
 <area shape="rect" title=" " alt="" coords="5,299,85,324"/>
-<area shape="poly" title=" " alt="" coords="803,100,641,114,434,139,330,156,235,177,156,201,100,228,86,240,74,255,56,287,52,285,69,252,82,236,97,223,155,196,234,172,329,151,433,134,641,109,803,94"/>
-<area shape="rect" title=" " alt="" coords="887,152,955,177"/>
-<area shape="poly" title=" " alt="" coords="877,103,906,140,902,143,872,106"/>
-<area shape="rect" title=" " alt="" coords="980,152,1031,177"/>
-<area shape="poly" title=" " alt="" coords="889,102,972,143,969,148,887,106"/>
-<area shape="rect" title=" " alt="" coords="1328,225,1472,251"/>
-<area shape="poly" title=" " alt="" coords="863,173,876,175,1093,200,1314,222,1314,228,1093,205,876,180,862,178"/>
-<area shape="rect" href="uwinterference_8h.html" title="Implementation of uwinterference class." alt="" coords="154,225,286,251"/>
-<area shape="poly" title=" " alt="" coords="756,174,300,228,300,222,756,169"/>
-<area shape="poly" title=" " alt="" coords="756,169,617,172,438,182,265,199,194,212,142,228,120,240,99,256,65,289,62,286,95,252,117,236,140,223,193,207,264,194,438,176,617,167,756,164"/>
-<area shape="rect" title=" " alt="" coords="1065,299,1127,324"/>
-<area shape="poly" title=" " alt="" coords="863,173,876,175,993,179,1188,183,1289,188,1379,195,1448,207,1471,214,1486,224,1492,238,1486,252,1462,270,1426,284,1381,294,1331,302,1228,310,1141,313,1141,307,1228,305,1331,297,1380,289,1424,279,1459,265,1482,249,1487,238,1482,227,1469,219,1447,212,1379,201,1289,193,1188,188,993,184,876,180,862,178"/>
-<area shape="rect" title=" " alt="" coords="310,225,373,251"/>
-<area shape="poly" title=" " alt="" coords="756,174,594,194,386,228,386,223,594,188,756,169"/>
-<area shape="rect" title=" " alt="" coords="397,225,507,251"/>
-<area shape="poly" title=" " alt="" coords="756,179,521,226,520,220,755,174"/>
-<area shape="rect" title=" " alt="" coords="532,225,663,251"/>
-<area shape="poly" title=" " alt="" coords="776,180,645,223,644,218,774,175"/>
-<area shape="rect" title=" " alt="" coords="687,225,758,251"/>
-<area shape="poly" title=" " alt="" coords="797,179,749,219,746,214,794,175"/>
-<area shape="rect" title=" " alt="" coords="782,225,837,251"/>
-<area shape="poly" title=" " alt="" coords="812,178,812,212,807,212,807,178"/>
-<area shape="rect" title=" " alt="" coords="861,225,939,251"/>
-<area shape="poly" title=" " alt="" coords="826,175,876,214,873,219,822,179"/>
-<area shape="rect" title=" " alt="" coords="963,225,1045,251"/>
-<area shape="poly" title=" " alt="" coords="842,175,960,218,959,223,840,180"/>
-<area shape="rect" title=" " alt="" coords="1069,225,1131,251"/>
-<area shape="poly" title=" " alt="" coords="859,175,1057,222,1055,228,858,180"/>
-<area shape="rect" title=" " alt="" coords="1155,225,1213,251"/>
-<area shape="poly" title=" " alt="" coords="863,173,1141,223,1141,228,862,178"/>
-<area shape="rect" title=" " alt="" coords="1237,225,1304,251"/>
-<area shape="poly" title=" " alt="" coords="863,173,876,175,1049,196,1126,206,1224,223,1223,228,1125,211,1048,202,876,180,862,178"/>
-<area shape="rect" title=" " alt="" coords="483,299,627,324"/>
-<area shape="poly" title=" " alt="" coords="274,248,488,293,487,298,273,253"/>
-<area shape="rect" title=" " alt="" coords="109,299,152,324"/>
-<area shape="poly" title=" " alt="" coords="207,253,158,292,154,288,204,249"/>
-<area shape="poly" title=" " alt="" coords="193,253,88,296,86,291,191,248"/>
-<area shape="rect" title=" " alt="" coords="176,299,272,324"/>
-<area shape="poly" title=" " alt="" coords="223,251,225,285,220,285,218,251"/>
-<area shape="rect" title=" " alt="" coords="297,299,359,324"/>
-<area shape="poly" title=" " alt="" coords="239,248,300,289,297,293,236,253"/>
-<area shape="rect" title=" " alt="" coords="384,299,459,324"/>
-<area shape="poly" title=" " alt="" coords="253,248,377,291,375,297,251,253"/>
-<area shape="poly" title=" " alt="" coords="287,247,298,248,519,269,736,286,1051,305,1051,310,736,291,518,275,297,253,286,252"/>
+<area shape="poly" title=" " alt="" coords="366,102,298,115,220,138,180,154,141,174,106,199,74,227,57,255,50,286,45,285,52,253,70,224,102,194,139,170,178,150,218,133,297,110,365,97"/>
+<area shape="rect" title=" " alt="" coords="450,152,518,177"/>
+<area shape="poly" title=" " alt="" coords="439,103,469,140,464,143,435,106"/>
+<area shape="rect" title=" " alt="" coords="543,152,593,177"/>
+<area shape="poly" title=" " alt="" coords="452,102,534,143,532,148,449,106"/>
+<area shape="rect" title=" " alt="" coords="83,225,194,251"/>
+<area shape="poly" title=" " alt="" coords="335,180,190,224,189,219,334,175"/>
+<area shape="rect" title=" " alt="" coords="219,225,363,251"/>
+<area shape="poly" title=" " alt="" coords="361,179,316,218,312,214,357,175"/>
+<area shape="rect" href="uwinterference_8h.html" title="Implementation of uwinterference class." alt="" coords="387,225,519,251"/>
+<area shape="poly" title=" " alt="" coords="387,175,432,214,428,218,383,179"/>
+<area shape="rect" title=" " alt="" coords="651,299,714,324"/>
+<area shape="poly" title=" " alt="" coords="408,175,467,196,533,223,599,257,654,289,652,294,596,261,531,228,466,201,407,180"/>
+<area shape="rect" title=" " alt="" coords="595,225,653,251"/>
+<area shape="poly" title=" " alt="" coords="413,175,582,222,581,227,412,180"/>
+<area shape="rect" title=" " alt="" coords="109,299,253,324"/>
+<area shape="poly" title=" " alt="" coords="410,253,239,298,238,293,409,248"/>
+<area shape="rect" title=" " alt="" coords="277,299,320,324"/>
+<area shape="poly" title=" " alt="" coords="430,253,334,297,332,292,427,248"/>
+<area shape="poly" title=" " alt="" coords="387,252,99,301,98,296,386,247"/>
+<area shape="rect" title=" " alt="" coords="344,299,440,324"/>
+<area shape="poly" title=" " alt="" coords="445,253,413,290,409,286,441,249"/>
+<area shape="rect" title=" " alt="" coords="465,299,527,324"/>
+<area shape="poly" title=" " alt="" coords="463,250,484,286,480,288,458,252"/>
+<area shape="rect" title=" " alt="" coords="552,299,627,324"/>
+<area shape="poly" title=" " alt="" coords="476,248,556,290,554,295,474,253"/>
+<area shape="poly" title=" " alt="" coords="491,248,639,294,637,299,489,253"/>
 </map>
 </div>
 </div>

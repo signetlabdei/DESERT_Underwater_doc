@@ -1,19 +1,16 @@
 <map id="uwstaticrouting.cpp" name="uwstaticrouting.cpp">
-<area shape="rect" id="Node000001" title="Provides the class implementation of UWSTATICROUTING." alt="" coords="114,5,265,31"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="91,79,162,104"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="181,33,148,70,144,66,177,29"/>
-<area shape="rect" id="Node000003" href="$uwstaticrouting_8h.html" title="Provides basic routing functionalities." alt="" coords="186,79,321,104"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="202,29,236,67,232,70,198,33"/>
-<area shape="rect" id="Node000004" href="$uwip-module_8h.html" title="Provides the UWIP packets header description. Definition of the class that define the network layer." alt="" coords="139,152,258,177"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="246,106,218,143,214,140,242,103"/>
-<area shape="rect" id="Node000009" title=" " alt="" coords="283,152,333,177"/>
-<area shape="poly" id="edge8_Node000003_Node000009" title=" " alt="" coords="264,103,293,140,289,143,260,106"/>
+<area shape="rect" id="Node000001" title="Provides the class implementation of UWSTATICROUTING." alt="" coords="119,5,270,31"/>
+<area shape="rect" id="Node000002" href="$uwstaticrouting_8h.html" title="Provides basic routing functionalities." alt="" coords="75,79,210,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="188,33,161,69,157,66,184,29"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="217,225,276,251"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="203,30,224,78,240,150,247,212,242,212,234,151,219,79,198,32"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="16,152,67,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="128,106,71,146,68,142,125,102"/>
+<area shape="rect" id="Node000004" href="$uwip-module_8h.html" title="Provides the UWIP packets header description. Definition of the class that define the network layer." alt="" coords="91,152,210,177"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="147,104,151,138,145,139,141,105"/>
 <area shape="rect" id="Node000005" title=" " alt="" coords="5,225,88,251"/>
-<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="175,180,85,222,83,217,173,175"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="135,180,77,219,74,215,132,175"/>
 <area shape="rect" id="Node000006" title=" " alt="" coords="112,225,192,251"/>
-<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="193,179,169,215,165,212,189,176"/>
-<area shape="rect" id="Node000007" title=" " alt="" coords="216,225,275,251"/>
-<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="209,176,232,212,228,215,204,179"/>
-<area shape="rect" id="Node000008" title=" " alt="" coords="299,225,373,251"/>
-<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="222,175,303,217,300,221,220,180"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="154,178,154,212,149,212,148,178"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="168,175,221,215,218,219,165,180"/>
 </map>

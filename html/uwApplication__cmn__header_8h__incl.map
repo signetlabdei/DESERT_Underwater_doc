@@ -1,9 +1,5 @@
 <map id="uwApplication_cmn_header.h" name="uwApplication_cmn_header.h">
-<area shape="rect" id="Node000001" title="Provides the headers of the data packet." alt="" coords="45,5,257,31"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,79,88,104"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="135,33,77,73,74,68,132,28"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="112,79,189,104"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="153,31,153,65,148,65,148,31"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="214,79,298,104"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="169,28,229,69,226,73,166,33"/>
+<area shape="rect" id="Node000001" title="Provides the headers of the DATA packet." alt="" coords="5,5,217,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="73,79,150,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,31,114,65,109,65,109,31"/>
 </map>

@@ -8,7 +8,7 @@
 <area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="107,114,90,131,85,142,85,154,90,178,85,179,80,155,80,141,85,128,103,110"/>
 <area shape="rect" id="Node000005" title=" " alt="" coords="148,5,259,31"/>
 <area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="191,44,166,81,162,78,186,41"/>
-<area shape="rect" id="Node000008" href="$classUwROVSendAckTimer.html" title="UwSendTimer class is used to handle the scheduling period of UWROV packets." alt="" coords="169,129,334,155"/>
+<area shape="rect" id="Node000008" href="$classUwROVSendAckTimer.html" title="UwROVSendACKTimer class is used to handle the scheduling period of UWROV packets." alt="" coords="169,129,334,155"/>
 <area shape="poly" id="edge8_Node000008_Node000005" title=" " alt="" coords="215,42,249,128,244,130,210,44"/>
 <area shape="rect" id="Node000006" href="$classUWSMPosition.html" title=" " alt="" coords="322,179,439,204"/>
 <area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="349,213,247,269,245,264,347,208"/>

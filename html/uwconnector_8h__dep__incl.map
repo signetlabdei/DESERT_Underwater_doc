@@ -1,32 +1,33 @@
 <map id="uwconnector.h" name="uwconnector.h">
 <area shape="rect" id="Node000001" title="Generic class that provides a method to interface with the devices. Will be specialized for,..." alt="" coords="429,5,545,31"/>
-<area shape="rect" id="Node000002" href="$uwahoimodem_8h.html" title="Driver for ahoi! acoustic UW modems: developed by TUUH, Hamburg." alt="" coords="21,79,152,104"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="415,35,151,81,150,76,415,29"/>
+<area shape="rect" id="Node000002" href="$uwahoimodem_8h.html" title="Driver for ahoi! acoustic UW modems: developed by TUUH, Hamburg." alt="" coords="28,79,159,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="416,35,157,81,156,76,415,30"/>
 <area shape="rect" id="Node000004" href="$uwevologicss2cmodem_8h.html" title="Header of the main class that implements the drivers to manage the EvoLogics S2C line of devices...." alt="" coords="328,79,515,104"/>
 <area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="469,43,434,80,430,77,465,39"/>
 <area shape="rect" id="Node000006" href="$uwmodamodem_8h.html" title="Driver for the MODA SDM acoustic UW modem." alt="" coords="531,152,671,177"/>
 <area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="507,40,594,150,590,153,502,43"/>
 <area shape="rect" id="Node000008" href="$uwmodemcsa_8h.html" title="Class that implements a generic modem driver for end&#45;to&#45;end communications." alt="" coords="847,79,972,104"/>
 <area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="559,29,847,77,846,82,558,34"/>
-<area shape="rect" id="Node000010" href="$uwserial_8h.html" title="This implements a generic serial connector ." alt="" coords="183,79,273,104"/>
-<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="433,37,271,81,269,76,431,32"/>
+<area shape="rect" id="Node000010" href="$uwserial_8h.html" title="This implements a generic serial connector ." alt="" coords="190,79,279,104"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="434,37,276,81,275,76,432,32"/>
 <area shape="rect" id="Node000012" href="$uwsocket_8h.html" title="Class that implements a connector and, specifically, the socket connector. BSD sockets are used,..." alt="" coords="670,79,765,104"/>
-<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="538,32,681,76,679,81,536,37"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="538,32,681,76,679,81,536,37"/>
 <area shape="rect" id="Node000003" href="$uwahoimodem_8cpp.html" title=" " alt="" coords="5,152,152,177"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="86,118,83,152,77,152,81,117"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="91,118,84,152,78,151,86,117"/>
 <area shape="rect" id="Node000005" href="$uwevologicss2cmodem_8cpp.html" title=" " alt="" coords="304,152,507,177"/>
 <area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="418,118,411,152,405,151,413,117"/>
 <area shape="rect" id="Node000007" href="$uwmodamodem_8cpp.html" title=" " alt="" coords="645,225,800,251"/>
 <area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="634,182,704,223,701,227,632,187"/>
 <area shape="rect" id="Node000009" href="$uwmodemcsa_8cpp.html" title=" " alt="" coords="882,152,1022,177"/>
 <area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="926,114,947,151,943,153,921,117"/>
-<area shape="poly" id="edge10_Node000010_Node000003" title=" " alt="" coords="193,112,104,154,102,149,191,107"/>
+<area shape="poly" id="edge10_Node000010_Node000003" title=" " alt="" coords="198,112,105,154,103,149,196,107"/>
+<area shape="poly" id="edge11_Node000010_Node000005" title=" " alt="" coords="276,107,378,149,376,154,274,112"/>
 <area shape="rect" id="Node000011" href="$uwserial_8cpp.html" title=" " alt="" coords="176,152,280,177"/>
-<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="231,118,231,152,225,152,225,118"/>
-<area shape="poly" id="edge13_Node000012_Node000005" title=" " alt="" coords="657,109,456,155,455,149,656,104"/>
-<area shape="poly" id="edge15_Node000012_Node000006" title=" " alt="" coords="689,113,622,154,619,149,686,109"/>
-<area shape="poly" id="edge14_Node000012_Node000007" title=" " alt="" coords="769,107,798,125,821,151,825,164,824,176,809,197,783,215,756,228,754,223,781,210,805,194,819,174,820,164,816,153,795,129,766,112"/>
-<area shape="poly" id="edge16_Node000012_Node000009" title=" " alt="" coords="769,105,915,149,913,154,767,110"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="235,118,232,152,226,152,230,118"/>
+<area shape="poly" id="edge14_Node000012_Node000005" title=" " alt="" coords="657,109,456,155,455,149,656,104"/>
+<area shape="poly" id="edge16_Node000012_Node000006" title=" " alt="" coords="689,113,622,154,619,149,686,109"/>
+<area shape="poly" id="edge15_Node000012_Node000007" title=" " alt="" coords="769,107,798,125,821,151,825,164,824,176,809,197,783,215,756,228,754,223,781,210,805,194,819,174,820,164,816,153,795,129,766,112"/>
+<area shape="poly" id="edge17_Node000012_Node000009" title=" " alt="" coords="769,105,915,149,913,154,767,110"/>
 <area shape="rect" id="Node000013" href="$uwsocket_8cpp.html" title=" " alt="" coords="695,152,806,177"/>
-<area shape="poly" id="edge17_Node000012_Node000013" title=" " alt="" coords="731,115,748,151,743,153,726,118"/>
+<area shape="poly" id="edge18_Node000012_Node000013" title=" " alt="" coords="731,115,748,151,743,153,726,118"/>
 </map>

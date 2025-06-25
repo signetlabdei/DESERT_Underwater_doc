@@ -1,7 +1,5 @@
 var NAVTREEINDEX7 =
 {
-"classMMacUWSR_1_1UWSRTimer.html#a51c67b94ec7ebe7e54e92732660859bd":[9,0,116,3,9],
-"classMMacUWSR_1_1UWSRTimer.html#a590d88b22859935a05c39077dc7dd2d6":[9,0,116,3,10],
 "classMMacUWSR_1_1UWSRTimer.html#a92f7f5b1ba2ef46f68942de07fa82100":[9,0,116,3,11],
 "classMMacUWSR_1_1UWSRTimer.html#a9901d3b8452f9a3f1de3aa58ee696089":[9,0,116,3,1],
 "classMMacUWSR_1_1UWSRTimer.html#a99f200b2526d30932a1e80db11401a46":[9,0,116,3,15],
@@ -126,8 +124,8 @@ var NAVTREEINDEX7 =
 "classMsocket.html#a1439e10a957fb21972644e2af2028480":[9,0,124,15],
 "classMsocket.html#a208af8aed74756bc41cb5103adfd0798":[9,0,124,13],
 "classMsocket.html#a2fdf5208d354dc04bb20890583fa678e":[9,0,124,17],
-"classMsocket.html#a3186125b7b2c6bf053be691ad39e4adc":[9,0,124,9],
 "classMsocket.html#a3186125b7b2c6bf053be691ad39e4adc":[9,0,124,8],
+"classMsocket.html#a3186125b7b2c6bf053be691ad39e4adc":[9,0,124,9],
 "classMsocket.html#a3d86158bdb718ae04a0b42a269e9731d":[9,0,124,18],
 "classMsocket.html#a4c9a0ff1b49fa831def864d5a041c0cd":[9,0,124,19],
 "classMsocket.html#a4d80b799485e757b03fe37b20c3b60c1":[9,0,124,10],
@@ -140,8 +138,8 @@ var NAVTREEINDEX7 =
 "classMsocket.html#adb0f77637eb8f8b4bc4b34cf5e86a5f9":[9,0,124,0],
 "classMsocket.html#adb0f77637eb8f8b4bc4b34cf5e86a5f9":[9,0,124,2],
 "classMsocket.html#adbf90b25a0bc8e4ae41e69eb575e6a12":[9,0,124,20],
-"classMsocket.html#af222faa99e8d975a60d1264f59db6430":[9,0,124,7],
 "classMsocket.html#af222faa99e8d975a60d1264f59db6430":[9,0,124,6],
+"classMsocket.html#af222faa99e8d975a60d1264f59db6430":[9,0,124,7],
 "classMultiTrHeaderClass.html":[9,0,125],
 "classMultiTrHeaderClass.html#ae30e0b57acec7481ae9aabf00db9e918":[9,0,125,0],
 "classNeighborReputationHandler.html":[9,0,126],
@@ -249,5 +247,7 @@ var NAVTREEINDEX7 =
 "classRxFrameSet.html":[9,0,170],
 "classRxFrameSet.html#a0ef8f5d29a21f4419d729ae82d36c944":[9,0,170,14],
 "classRxFrameSet.html#a13a0d26ea13abeb80a979a252d5403fa":[9,0,170,12],
-"classRxFrameSet.html#a1971dec3568e8a0ed02224e15103069a":[9,0,170,13]
+"classRxFrameSet.html#a1971dec3568e8a0ed02224e15103069a":[9,0,170,13],
+"classRxFrameSet.html#a24be10b0122edceaee70509d5ac02084":[9,0,170,16],
+"classRxFrameSet.html#a44113f8983d89c34a031c50b40d5a751":[9,0,170,4]
 };

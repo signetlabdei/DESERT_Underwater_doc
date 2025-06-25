@@ -359,6 +359,7 @@ var annotated_dup =
     [ "UwSCTrackerModule", "classUwSCTrackerModule.html", "classUwSCTrackerModule" ],
     [ "UwSCTrackerModuleClass", "classUwSCTrackerModuleClass.html", "classUwSCTrackerModuleClass" ],
     [ "UwSendTimer", "classUwSendTimer.html", "classUwSendTimer" ],
+    [ "uwSendTimerAppl", "classuwSendTimerAppl.html", "classuwSendTimerAppl" ],
     [ "UwSerial", "classUwSerial.html", "classUwSerial" ],
     [ "UWSmartOFDM", "classUWSmartOFDM.html", "classUWSmartOFDM" ],
     [ "UWSMARTOFDMModuleClass", "classUWSMARTOFDMModuleClass.html", "classUWSMARTOFDMModuleClass" ],

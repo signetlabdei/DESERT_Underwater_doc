@@ -25,7 +25,7 @@
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">DESERT<span id="projectnumber">&#160;3.5.1</span>
+   <div id="projectname">DESERT<span id="projectnumber">&#160;3.6.0</span>
    </div>
   </td>
  </tr>
@@ -90,12 +90,11 @@ $(document).ready(function(){initNavTree('classuwApplicationModule.html',''); in
 
 <div class="header">
   <div class="summary">
-<a href="#nested-classes">Classes</a> &#124;
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pub-attribs">Public Attributes</a> &#124;
-<a href="#pub-static-attribs">Static Public Attributes</a> &#124;
 <a href="#pro-methods">Protected Member Functions</a> &#124;
 <a href="#pro-attribs">Protected Attributes</a> &#124;
+<a href="#pro-static-attribs">Static Protected Attributes</a> &#124;
+<a href="#friends">Friends</a> &#124;
 <a href="classuwApplicationModule-members.html">List of all members</a>  </div>
   <div class="headertitle"><div class="title">uwApplicationModule Class Reference</div></div>
 </div><!--header-->
@@ -117,87 +116,71 @@ Collaboration diagram for uwApplicationModule:</div>
 <div class="dyncontent">
 <div class="center"><img src="classuwApplicationModule__coll__graph.png" border="0" usemap="#auwApplicationModule_coll__map" alt="Collaboration graph"/></div>
 <map name="auwApplicationModule_coll__map" id="auwApplicationModule_coll__map">
-<area shape="rect" title=" " alt="" coords="141,80,303,105"/>
-<area shape="rect" href="classuwApplicationModule_1_1uwSendTimerAppl.html" title="&lt; uwSenderTimer class that manage the timer" alt="" coords="85,168,247,208"/>
-<area shape="poly" title=" " alt="" coords="180,114,164,131,160,149,162,168,157,168,155,148,160,128,176,111"/>
-<area shape="rect" title=" " alt="" coords="187,5,257,31"/>
-<area shape="poly" title=" " alt="" coords="225,45,225,80,219,80,219,45"/>
-<area shape="poly" title=" " alt="" coords="183,155,190,143,213,104,218,107,195,145,188,157"/>
-<area shape="rect" title=" " alt="" coords="5,80,116,105"/>
-<area shape="poly" title=" " alt="" coords="86,112,146,166,143,170,82,116"/>
+<area shape="rect" title=" " alt="" coords="5,168,168,193"/>
+<area shape="rect" title=" " alt="" coords="9,80,79,105"/>
+<area shape="poly" title=" " alt="" coords="58,117,83,166,78,169,53,119"/>
+<area shape="rect" href="classuwSendTimerAppl.html" title="uwSendTimerAppl is used to handle the scheduling period of uwApplicationModule packets." alt="" coords="103,80,243,105"/>
+<area shape="poly" title=" " alt="" coords="154,117,101,169,97,166,150,113"/>
+<area shape="rect" title=" " alt="" coords="118,5,229,31"/>
+<area shape="poly" title=" " alt="" coords="176,45,176,80,171,80,171,45"/>
 </map>
 <center><span class="legend">[<a target="top" href="graph_legend.html">legend</a>]</span></center></div>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
-Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule_1_1uwSendTimerAppl.html">uwSendTimerAppl</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
 <tr class="memitem:ac375d4424de9fd5fd1400522b7cf7786" id="r_ac375d4424de9fd5fd1400522b7cf7786"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#ac375d4424de9fd5fd1400522b7cf7786">uwApplicationModule</a> ()</td></tr>
 <tr class="separator:ac375d4424de9fd5fd1400522b7cf7786"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a6fd6c7adebed11f5a55caba916ec0652" id="r_a6fd6c7adebed11f5a55caba916ec0652"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#a6fd6c7adebed11f5a55caba916ec0652">~uwApplicationModule</a> ()</td></tr>
 <tr class="separator:a6fd6c7adebed11f5a55caba916ec0652"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a93f4df5d00af2d2dabfeed2162167193" id="r_a93f4df5d00af2d2dabfeed2162167193"><td class="memItemLeft" align="right" valign="top">virtual int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#a93f4df5d00af2d2dabfeed2162167193">command</a> (int argc, const char *const *argv)</td></tr>
-<tr class="separator:a93f4df5d00af2d2dabfeed2162167193"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae403fe4a1804d244565455e3901f4269" id="r_ae403fe4a1804d244565455e3901f4269"><td class="memItemLeft" align="right" valign="top">virtual int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#ae403fe4a1804d244565455e3901f4269">crLayCommand</a> (ClMessage *m)</td></tr>
-<tr class="separator:ae403fe4a1804d244565455e3901f4269"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8e20c7cf1eee1db8114dfa6c950d521e" id="r_a8e20c7cf1eee1db8114dfa6c950d521e"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#a8e20c7cf1eee1db8114dfa6c950d521e">handleTCPclient</a> (int clnSock)</td></tr>
-<tr class="separator:a8e20c7cf1eee1db8114dfa6c950d521e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a99598214c67d84cacde36e072bc05fe6" id="r_a99598214c67d84cacde36e072bc05fe6"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#a99598214c67d84cacde36e072bc05fe6">incrPktsPushQueue</a> ()</td></tr>
-<tr class="separator:a99598214c67d84cacde36e072bc05fe6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab601d5128e2b8a3275a21e54dee6bc75" id="r_ab601d5128e2b8a3275a21e54dee6bc75"><td class="memItemLeft" align="right" valign="top">unsigned long int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#ab601d5128e2b8a3275a21e54dee6bc75">getEpoch</a> ()</td></tr>
-<tr class="separator:ab601d5128e2b8a3275a21e54dee6bc75"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
-Public Attributes</h2></td></tr>
-<tr class="memitem:a5f42c3067b7c105194195fe7ce8b4515" id="r_a5f42c3067b7c105194195fe7ce8b4515"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#a5f42c3067b7c105194195fe7ce8b4515">servSockDescr</a></td></tr>
-<tr class="separator:a5f42c3067b7c105194195fe7ce8b4515"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab37248582be768cfb844f4a68139ebc9" id="r_ab37248582be768cfb844f4a68139ebc9"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#ab37248582be768cfb844f4a68139ebc9">clnSockDescr</a></td></tr>
-<tr class="separator:ab37248582be768cfb844f4a68139ebc9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:abd62403277d4155f4de8f56b65d50c4d" id="r_abd62403277d4155f4de8f56b65d50c4d"><td class="memItemLeft" align="right" valign="top">struct sockaddr_in&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#abd62403277d4155f4de8f56b65d50c4d">servAddr</a></td></tr>
-<tr class="separator:abd62403277d4155f4de8f56b65d50c4d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:adbfd6e07a660cdd6f83ac31d34fdf03b" id="r_adbfd6e07a660cdd6f83ac31d34fdf03b"><td class="memItemLeft" align="right" valign="top">struct sockaddr_in&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#adbfd6e07a660cdd6f83ac31d34fdf03b">clnAddr</a></td></tr>
-<tr class="separator:adbfd6e07a660cdd6f83ac31d34fdf03b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a93271dfa87c85193e5c8a253502c3904" id="r_a93271dfa87c85193e5c8a253502c3904"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#a93271dfa87c85193e5c8a253502c3904">servPort</a></td></tr>
-<tr class="separator:a93271dfa87c85193e5c8a253502c3904"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae5d183768f49d81b95178b1f0233482a" id="r_ae5d183768f49d81b95178b1f0233482a"><td class="memItemLeft" align="right" valign="top">std::queue&lt; Packet * &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#ae5d183768f49d81b95178b1f0233482a">queuePckReadTCP</a></td></tr>
-<tr class="separator:ae5d183768f49d81b95178b1f0233482a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6c5b2ba1782a72fa8b380e7292b4e7f9" id="r_a6c5b2ba1782a72fa8b380e7292b4e7f9"><td class="memItemLeft" align="right" valign="top">std::queue&lt; Packet * &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#a6c5b2ba1782a72fa8b380e7292b4e7f9">queuePckReadUDP</a></td></tr>
-<tr class="separator:a6c5b2ba1782a72fa8b380e7292b4e7f9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ace9d56f19e6f80922e41310ef126c486" id="r_ace9d56f19e6f80922e41310ef126c486"><td class="memItemLeft" align="right" valign="top">std::ofstream&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#ace9d56f19e6f80922e41310ef126c486">out_log</a></td></tr>
-<tr class="separator:ace9d56f19e6f80922e41310ef126c486"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2b644a4f594286225e43928b391b55f1" id="r_a2b644a4f594286225e43928b391b55f1"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#a2b644a4f594286225e43928b391b55f1">logging</a></td></tr>
-<tr class="separator:a2b644a4f594286225e43928b391b55f1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a38b87bc40771d56ddbd2ee11c56bf2ca" id="r_a38b87bc40771d56ddbd2ee11c56bf2ca"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#a38b87bc40771d56ddbd2ee11c56bf2ca">node_id</a></td></tr>
-<tr class="separator:a38b87bc40771d56ddbd2ee11c56bf2ca"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac39653eec5e8c4c5b20c9ed23a175bb6" id="r_ac39653eec5e8c4c5b20c9ed23a175bb6"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#ac39653eec5e8c4c5b20c9ed23a175bb6">exp_id</a></td></tr>
-<tr class="separator:ac39653eec5e8c4c5b20c9ed23a175bb6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-attribs" name="pub-static-attribs"></a>
-Static Public Attributes</h2></td></tr>
-<tr class="memitem:acff11ca9375d570b3c67bdd444d00159" id="r_acff11ca9375d570b3c67bdd444d00159"><td class="memItemLeft" align="right" valign="top">static uint&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#acff11ca9375d570b3c67bdd444d00159">MAX_READ_LEN</a> = 64</td></tr>
-<tr class="separator:acff11ca9375d570b3c67bdd444d00159"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9ce512a077e27d9438e82cd1e6039007" id="r_a9ce512a077e27d9438e82cd1e6039007"><td class="memItemLeft" align="right" valign="top">virtual int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#a9ce512a077e27d9438e82cd1e6039007">command</a> (int argc, const char *const *argv) override</td></tr>
+<tr class="separator:a9ce512a077e27d9438e82cd1e6039007"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a87f7cef006e9008ee216bee33e329068" id="r_a87f7cef006e9008ee216bee33e329068"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#a87f7cef006e9008ee216bee33e329068">recv</a> (Packet *) override</td></tr>
+<tr class="separator:a87f7cef006e9008ee216bee33e329068"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a92f6f5c23d6544f07ecf7e820899b85a" id="r_a92f6f5c23d6544f07ecf7e820899b85a"><td class="memItemLeft" align="right" valign="top">virtual double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#a92f6f5c23d6544f07ecf7e820899b85a">GetFTT</a> () const</td></tr>
+<tr class="separator:a92f6f5c23d6544f07ecf7e820899b85a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae8ef2661fd0a67ef85c98fe362ee3d29" id="r_ae8ef2661fd0a67ef85c98fe362ee3d29"><td class="memItemLeft" align="right" valign="top">virtual double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#ae8ef2661fd0a67ef85c98fe362ee3d29">GetFTTstd</a> () const</td></tr>
+<tr class="separator:ae8ef2661fd0a67ef85c98fe362ee3d29"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7cc53aa319c2b50d82d70dcd97895dab" id="r_a7cc53aa319c2b50d82d70dcd97895dab"><td class="memItemLeft" align="right" valign="top">virtual double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#a7cc53aa319c2b50d82d70dcd97895dab">GetPER</a> () const</td></tr>
+<tr class="separator:a7cc53aa319c2b50d82d70dcd97895dab"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a960d7d5e799e4209dbde82f1d400772f" id="r_a960d7d5e799e4209dbde82f1d400772f"><td class="memItemLeft" align="right" valign="top">virtual double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#a960d7d5e799e4209dbde82f1d400772f">GetTHR</a> () const</td></tr>
+<tr class="separator:a960d7d5e799e4209dbde82f1d400772f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a749f0336760279efb9db23af4a374abf" id="r_a749f0336760279efb9db23af4a374abf"><td class="memItemLeft" align="right" valign="top">virtual double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#a749f0336760279efb9db23af4a374abf">GetRTT</a> () const</td></tr>
+<tr class="separator:a749f0336760279efb9db23af4a374abf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac360b7e45e5993049f36326f1e063b55" id="r_ac360b7e45e5993049f36326f1e063b55"><td class="memItemLeft" align="right" valign="top">virtual double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#ac360b7e45e5993049f36326f1e063b55">GetRTTstd</a> () const</td></tr>
+<tr class="separator:ac360b7e45e5993049f36326f1e063b55"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7732a4f94e2201a6effbf234b9305ebe" id="r_a7732a4f94e2201a6effbf234b9305ebe"><td class="memItemLeft" align="right" valign="top">virtual int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#a7732a4f94e2201a6effbf234b9305ebe">getPktSent</a> () const</td></tr>
+<tr class="separator:a7732a4f94e2201a6effbf234b9305ebe"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3e3eea243f1c50d2c5f5195f5fdefdac" id="r_a3e3eea243f1c50d2c5f5195f5fdefdac"><td class="memItemLeft" align="right" valign="top">virtual int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#a3e3eea243f1c50d2c5f5195f5fdefdac">getPktLost</a> () const</td></tr>
+<tr class="separator:a3e3eea243f1c50d2c5f5195f5fdefdac"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a41feda423f631996648fca2df681d44b" id="r_a41feda423f631996648fca2df681d44b"><td class="memItemLeft" align="right" valign="top">virtual int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#a41feda423f631996648fca2df681d44b">getPktRecv</a> () const</td></tr>
+<tr class="separator:a41feda423f631996648fca2df681d44b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ada04e00758b5b8c1c7d361926fb81daa" id="r_ada04e00758b5b8c1c7d361926fb81daa"><td class="memItemLeft" align="right" valign="top">virtual int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#ada04e00758b5b8c1c7d361926fb81daa">getPktsOOSequence</a> () const</td></tr>
+<tr class="separator:ada04e00758b5b8c1c7d361926fb81daa"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a030b4ab451de8b59200faa49f7c5ecb1" id="r_a030b4ab451de8b59200faa49f7c5ecb1"><td class="memItemLeft" align="right" valign="top">virtual int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#a030b4ab451de8b59200faa49f7c5ecb1">getPktsInvalidRx</a> () const</td></tr>
+<tr class="separator:a030b4ab451de8b59200faa49f7c5ecb1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a184cdaded7458580f17832f2b4b32d1d" id="r_a184cdaded7458580f17832f2b4b32d1d"><td class="memItemLeft" align="right" valign="top">virtual int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#a184cdaded7458580f17832f2b4b32d1d">getPktsPushQueue</a> () const</td></tr>
+<tr class="separator:a184cdaded7458580f17832f2b4b32d1d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a495c7f299772fa429de9efb30ebba2eb" id="r_a495c7f299772fa429de9efb30ebba2eb"><td class="memItemLeft" align="right" valign="top">virtual double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#a495c7f299772fa429de9efb30ebba2eb">getPeriod</a> () const</td></tr>
+<tr class="separator:a495c7f299772fa429de9efb30ebba2eb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac39112ae58693b852d59748018c1457b" id="r_ac39112ae58693b852d59748018c1457b"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#ac39112ae58693b852d59748018c1457b">getEpoch</a> () const</td></tr>
+<tr class="separator:ac39112ae58693b852d59748018c1457b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae3a2038d499e9e6413b8c644eee96be7" id="r_ae3a2038d499e9e6413b8c644eee96be7"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#ae3a2038d499e9e6413b8c644eee96be7">printOnLog</a> (Logger::LogLevel <a class="el" href="uw-csma-ca_8h.html#ac91d55174d383848b976a34de843748e">log_level</a>, const std::string &amp;module, const std::string &amp;message) const override</td></tr>
+<tr class="separator:ae3a2038d499e9e6413b8c644eee96be7"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-methods" name="pro-methods"></a>
 Protected Member Functions</h2></td></tr>
-<tr class="memitem:a2e226409f34d50f80290aa74e5827e54" id="r_a2e226409f34d50f80290aa74e5827e54"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#a2e226409f34d50f80290aa74e5827e54">recv</a> (Packet *)</td></tr>
-<tr class="separator:a2e226409f34d50f80290aa74e5827e54"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:acf9cad5340d0c86c75c64fd008ae63cd" id="r_acf9cad5340d0c86c75c64fd008ae63cd"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#acf9cad5340d0c86c75c64fd008ae63cd">statistics</a> (Packet *p)</td></tr>
-<tr class="separator:acf9cad5340d0c86c75c64fd008ae63cd"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a601475c01ed7b3d2d25044787ac283c2" id="r_a601475c01ed7b3d2d25044787ac283c2"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#a601475c01ed7b3d2d25044787ac283c2">start_generation</a> ()</td></tr>
-<tr class="separator:a601475c01ed7b3d2d25044787ac283c2"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a274f5cf4c26b4f472212ab8059aa1b5c" id="r_a274f5cf4c26b4f472212ab8059aa1b5c"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#a274f5cf4c26b4f472212ab8059aa1b5c">init_Packet</a> ()</td></tr>
-<tr class="separator:a274f5cf4c26b4f472212ab8059aa1b5c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa1a04783ceef7e065dbb7448018f109e" id="r_aa1a04783ceef7e065dbb7448018f109e"><td class="memItemLeft" align="right" valign="top">virtual int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#aa1a04783ceef7e065dbb7448018f109e">openConnectionTCP</a> ()</td></tr>
-<tr class="separator:aa1a04783ceef7e065dbb7448018f109e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae5f35c687024ea988f14497b5f3bb7d4" id="r_ae5f35c687024ea988f14497b5f3bb7d4"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#ae5f35c687024ea988f14497b5f3bb7d4">init_Packet_TCP</a> ()</td></tr>
-<tr class="separator:ae5f35c687024ea988f14497b5f3bb7d4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a896953b8a5a45173a286d11d3f820d21" id="r_a896953b8a5a45173a286d11d3f820d21"><td class="memItemLeft" align="right" valign="top">virtual int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#a896953b8a5a45173a286d11d3f820d21">openConnectionUDP</a> ()</td></tr>
-<tr class="separator:a896953b8a5a45173a286d11d3f820d21"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a92b66c5777df071b1a0372ca2885979a" id="r_a92b66c5777df071b1a0372ca2885979a"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#a92b66c5777df071b1a0372ca2885979a">init_Packet_UDP</a> ()</td></tr>
-<tr class="separator:a92b66c5777df071b1a0372ca2885979a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9a7d74257474df94e4ebb811a1aeae54" id="r_a9a7d74257474df94e4ebb811a1aeae54"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#a9a7d74257474df94e4ebb811a1aeae54">transmit</a> ()</td></tr>
+<tr class="separator:a9a7d74257474df94e4ebb811a1aeae54"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aacf754486eaf820f963325dbaf71e3bf" id="r_aacf754486eaf820f963325dbaf71e3bf"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#aacf754486eaf820f963325dbaf71e3bf">listenTCP</a> ()</td></tr>
+<tr class="separator:aacf754486eaf820f963325dbaf71e3bf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aaf1d9124ca606b705d549f00a10eb7a8" id="r_aaf1d9124ca606b705d549f00a10eb7a8"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#aaf1d9124ca606b705d549f00a10eb7a8">acceptTCP</a> ()</td></tr>
+<tr class="separator:aaf1d9124ca606b705d549f00a10eb7a8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0ffa0afa395166526e252d7435d35096" id="r_a0ffa0afa395166526e252d7435d35096"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#a0ffa0afa395166526e252d7435d35096">readFromTCP</a> (int clnSock)</td></tr>
+<tr class="separator:a0ffa0afa395166526e252d7435d35096"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5dd5e3faadc59ba3d30caed63cb663ed" id="r_a5dd5e3faadc59ba3d30caed63cb663ed"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#a5dd5e3faadc59ba3d30caed63cb663ed">openConnectionUDP</a> ()</td></tr>
+<tr class="separator:a5dd5e3faadc59ba3d30caed63cb663ed"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a56d90217421d69ae26c2b0a1def20959" id="r_a56d90217421d69ae26c2b0a1def20959"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#a56d90217421d69ae26c2b0a1def20959">readFromUDP</a> ()</td></tr>
+<tr class="separator:a56d90217421d69ae26c2b0a1def20959"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a0c580b439bb5ef98c468ace2bd241736" id="r_a0c580b439bb5ef98c468ace2bd241736"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#a0c580b439bb5ef98c468ace2bd241736">stop</a> ()</td></tr>
 <tr class="separator:a0c580b439bb5ef98c468ace2bd241736"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a07bee1b60c81eeed9f87feeff936c504" id="r_a07bee1b60c81eeed9f87feeff936c504"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#a07bee1b60c81eeed9f87feeff936c504">withoutSocket</a> ()</td></tr>
@@ -210,57 +193,35 @@ Protected Member Functions</h2></td></tr>
 <tr class="separator:a85c4bbb60c9a953e3a32ab7ef2770346"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a6f224e8cbd606100f3f37d3df91e4caa" id="r_a6f224e8cbd606100f3f37d3df91e4caa"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#a6f224e8cbd606100f3f37d3df91e4caa">incrPktSent</a> ()</td></tr>
 <tr class="separator:a6f224e8cbd606100f3f37d3df91e4caa"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:acb9e3475478e35492d8109b99119a3d0" id="r_acb9e3475478e35492d8109b99119a3d0"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#acb9e3475478e35492d8109b99119a3d0">incrPktLost</a> (const int &amp;npkts)</td></tr>
-<tr class="separator:acb9e3475478e35492d8109b99119a3d0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a640987cfc52094f690d444c2ac3f3b54" id="r_a640987cfc52094f690d444c2ac3f3b54"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#a640987cfc52094f690d444c2ac3f3b54">incrPktLost</a> (int npkts)</td></tr>
+<tr class="separator:a640987cfc52094f690d444c2ac3f3b54"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ae7e4d44fbd7246c8e2aa12c9c9de3e7c" id="r_ae7e4d44fbd7246c8e2aa12c9c9de3e7c"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#ae7e4d44fbd7246c8e2aa12c9c9de3e7c">incrPktRecv</a> ()</td></tr>
 <tr class="separator:ae7e4d44fbd7246c8e2aa12c9c9de3e7c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a20c2703cbfe344f60fcd7fc01d7d2330" id="r_a20c2703cbfe344f60fcd7fc01d7d2330"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#a20c2703cbfe344f60fcd7fc01d7d2330">incrPktOoseq</a> ()</td></tr>
 <tr class="separator:a20c2703cbfe344f60fcd7fc01d7d2330"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ac35ad868e5c359281ebe7d7ac6b0afea" id="r_ac35ad868e5c359281ebe7d7ac6b0afea"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#ac35ad868e5c359281ebe7d7ac6b0afea">incrPktInvalid</a> ()</td></tr>
 <tr class="separator:ac35ad868e5c359281ebe7d7ac6b0afea"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aaf707ba6dc39629b7342be3c367a508f" id="r_aaf707ba6dc39629b7342be3c367a508f"><td class="memItemLeft" align="right" valign="top">virtual int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#aaf707ba6dc39629b7342be3c367a508f">getPktSent</a> ()</td></tr>
-<tr class="separator:aaf707ba6dc39629b7342be3c367a508f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:abe08d64ebca0c7c674350026ab06029d" id="r_abe08d64ebca0c7c674350026ab06029d"><td class="memItemLeft" align="right" valign="top">virtual int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#abe08d64ebca0c7c674350026ab06029d">getPktLost</a> ()</td></tr>
-<tr class="separator:abe08d64ebca0c7c674350026ab06029d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8b92db2bdef5d0a60af460898a51a4d1" id="r_a8b92db2bdef5d0a60af460898a51a4d1"><td class="memItemLeft" align="right" valign="top">virtual int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#a8b92db2bdef5d0a60af460898a51a4d1">getPktRecv</a> ()</td></tr>
-<tr class="separator:a8b92db2bdef5d0a60af460898a51a4d1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a88a5101428769c0a03b64151a6e73334" id="r_a88a5101428769c0a03b64151a6e73334"><td class="memItemLeft" align="right" valign="top">virtual int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#a88a5101428769c0a03b64151a6e73334">getPktsOOSequence</a> ()</td></tr>
-<tr class="separator:a88a5101428769c0a03b64151a6e73334"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:afd251f751b29d20f299f61e97c78338d" id="r_afd251f751b29d20f299f61e97c78338d"><td class="memItemLeft" align="right" valign="top">virtual int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#afd251f751b29d20f299f61e97c78338d">getPktsInvalidRx</a> ()</td></tr>
-<tr class="separator:afd251f751b29d20f299f61e97c78338d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:abd5d6fcc67785fb673e56f9b5ca1abdd" id="r_abd5d6fcc67785fb673e56f9b5ca1abdd"><td class="memItemLeft" align="right" valign="top">virtual int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#abd5d6fcc67785fb673e56f9b5ca1abdd">getPktsPushQueue</a> ()</td></tr>
-<tr class="separator:abd5d6fcc67785fb673e56f9b5ca1abdd"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae28f4321a17938c919c40813a285e4e3" id="r_ae28f4321a17938c919c40813a285e4e3"><td class="memItemLeft" align="right" valign="top">virtual double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#ae28f4321a17938c919c40813a285e4e3">getPeriod</a> ()</td></tr>
-<tr class="separator:ae28f4321a17938c919c40813a285e4e3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac9d946fc29c9d4a2e947c0fb562d28a1" id="r_ac9d946fc29c9d4a2e947c0fb562d28a1"><td class="memItemLeft" align="right" valign="top">virtual int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#ac9d946fc29c9d4a2e947c0fb562d28a1">getpayloadsize</a> ()</td></tr>
-<tr class="separator:ac9d946fc29c9d4a2e947c0fb562d28a1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a99598214c67d84cacde36e072bc05fe6" id="r_a99598214c67d84cacde36e072bc05fe6"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#a99598214c67d84cacde36e072bc05fe6">incrPktsPushQueue</a> ()</td></tr>
+<tr class="separator:a99598214c67d84cacde36e072bc05fe6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a28064716dede1225b7985399fce1503b" id="r_a28064716dede1225b7985399fce1503b"><td class="memItemLeft" align="right" valign="top">virtual double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#a28064716dede1225b7985399fce1503b">getTimeBeforeNextPkt</a> ()</td></tr>
 <tr class="separator:a28064716dede1225b7985399fce1503b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a749f0336760279efb9db23af4a374abf" id="r_a749f0336760279efb9db23af4a374abf"><td class="memItemLeft" align="right" valign="top">virtual double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#a749f0336760279efb9db23af4a374abf">GetRTT</a> () const</td></tr>
-<tr class="separator:a749f0336760279efb9db23af4a374abf"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac360b7e45e5993049f36326f1e063b55" id="r_ac360b7e45e5993049f36326f1e063b55"><td class="memItemLeft" align="right" valign="top">virtual double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#ac360b7e45e5993049f36326f1e063b55">GetRTTstd</a> () const</td></tr>
-<tr class="separator:ac360b7e45e5993049f36326f1e063b55"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a27acecfa8c628ea9935c99a1174a76d6" id="r_a27acecfa8c628ea9935c99a1174a76d6"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#a27acecfa8c628ea9935c99a1174a76d6">updateRTT</a> (const double &amp;rtt)</td></tr>
-<tr class="separator:a27acecfa8c628ea9935c99a1174a76d6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a92f6f5c23d6544f07ecf7e820899b85a" id="r_a92f6f5c23d6544f07ecf7e820899b85a"><td class="memItemLeft" align="right" valign="top">virtual double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#a92f6f5c23d6544f07ecf7e820899b85a">GetFTT</a> () const</td></tr>
-<tr class="separator:a92f6f5c23d6544f07ecf7e820899b85a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae8ef2661fd0a67ef85c98fe362ee3d29" id="r_ae8ef2661fd0a67ef85c98fe362ee3d29"><td class="memItemLeft" align="right" valign="top">virtual double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#ae8ef2661fd0a67ef85c98fe362ee3d29">GetFTTstd</a> () const</td></tr>
-<tr class="separator:ae8ef2661fd0a67ef85c98fe362ee3d29"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7cc53aa319c2b50d82d70dcd97895dab" id="r_a7cc53aa319c2b50d82d70dcd97895dab"><td class="memItemLeft" align="right" valign="top">virtual double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#a7cc53aa319c2b50d82d70dcd97895dab">GetPER</a> () const</td></tr>
-<tr class="separator:a7cc53aa319c2b50d82d70dcd97895dab"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a960d7d5e799e4209dbde82f1d400772f" id="r_a960d7d5e799e4209dbde82f1d400772f"><td class="memItemLeft" align="right" valign="top">virtual double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#a960d7d5e799e4209dbde82f1d400772f">GetTHR</a> () const</td></tr>
-<tr class="separator:a960d7d5e799e4209dbde82f1d400772f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9273354d7befe29ac08506b30647ea7d" id="r_a9273354d7befe29ac08506b30647ea7d"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#a9273354d7befe29ac08506b30647ea7d">updateFTT</a> (const double &amp;ftt)</td></tr>
-<tr class="separator:a9273354d7befe29ac08506b30647ea7d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aedfa6f7a4690508c61c3ae42facbdfa1" id="r_aedfa6f7a4690508c61c3ae42facbdfa1"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#aedfa6f7a4690508c61c3ae42facbdfa1">updateThroughput</a> (const int &amp;bytes, const double &amp;dt)</td></tr>
-<tr class="separator:aedfa6f7a4690508c61c3ae42facbdfa1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afd2ec6b9c8f1ff40e8b07fef9106c39e" id="r_afd2ec6b9c8f1ff40e8b07fef9106c39e"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#afd2ec6b9c8f1ff40e8b07fef9106c39e">updateRTT</a> (double rtt)</td></tr>
+<tr class="separator:afd2ec6b9c8f1ff40e8b07fef9106c39e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9964620af6216a8a1ebf4d2952048ce3" id="r_a9964620af6216a8a1ebf4d2952048ce3"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#a9964620af6216a8a1ebf4d2952048ce3">updateFTT</a> (double ftt)</td></tr>
+<tr class="separator:a9964620af6216a8a1ebf4d2952048ce3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a01ab60f171390a61d43d93bb641505ce" id="r_a01ab60f171390a61d43d93bb641505ce"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#a01ab60f171390a61d43d93bb641505ce">updateThroughput</a> (int bytes, double dt)</td></tr>
+<tr class="separator:a01ab60f171390a61d43d93bb641505ce"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-attribs" name="pro-attribs"></a>
 Protected Attributes</h2></td></tr>
-<tr class="memitem:a6c581197d2038ca4fc06ce7ca5ffb00a" id="r_a6c581197d2038ca4fc06ce7ca5ffb00a"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#a6c581197d2038ca4fc06ce7ca5ffb00a">debug_</a></td></tr>
-<tr class="separator:a6c581197d2038ca4fc06ce7ca5ffb00a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a94bd15425aad1cb43306bda1fd48f55b" id="r_a94bd15425aad1cb43306bda1fd48f55b"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#a94bd15425aad1cb43306bda1fd48f55b">PERIOD</a></td></tr>
-<tr class="separator:a94bd15425aad1cb43306bda1fd48f55b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a552261bed58852c750a2f4fb87ccccf7" id="r_a552261bed58852c750a2f4fb87ccccf7"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#a552261bed58852c750a2f4fb87ccccf7">socket_active</a></td></tr>
+<tr class="separator:a552261bed58852c750a2f4fb87ccccf7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6b257c4a1ebed96f5cb3bf8677305641" id="r_a6b257c4a1ebed96f5cb3bf8677305641"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#a6b257c4a1ebed96f5cb3bf8677305641">socket_tcp</a></td></tr>
+<tr class="separator:a6b257c4a1ebed96f5cb3bf8677305641"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab9608c9c3943050fc89363edb221338b" id="r_ab9608c9c3943050fc89363edb221338b"><td class="memItemLeft" align="right" valign="top">bool *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#ab9608c9c3943050fc89363edb221338b">sn_check</a></td></tr>
+<tr class="separator:ab9608c9c3943050fc89363edb221338b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adc66228d69b930744b67491ddb20f4fb" id="r_adc66228d69b930744b67491ddb20f4fb"><td class="memItemLeft" align="right" valign="top">uint8_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#adc66228d69b930744b67491ddb20f4fb">dst_addr</a></td></tr>
+<tr class="separator:adc66228d69b930744b67491ddb20f4fb"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad85ffaa052d0ffb0a6e6a44910de4b1d" id="r_ad85ffaa052d0ffb0a6e6a44910de4b1d"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#ad85ffaa052d0ffb0a6e6a44910de4b1d">poisson_traffic</a></td></tr>
 <tr class="separator:ad85ffaa052d0ffb0a6e6a44910de4b1d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:abb7e9803bd6466ca998203d578f3e8f2" id="r_abb7e9803bd6466ca998203d578f3e8f2"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#abb7e9803bd6466ca998203d578f3e8f2">payloadsize</a></td></tr>
@@ -269,20 +230,10 @@ Protected Attributes</h2></td></tr>
 <tr class="separator:ada7d960ddfacc19fc2ee9351b6866c0b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a58e34acd048b11461e0c7df9d558d345" id="r_a58e34acd048b11461e0c7df9d558d345"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#a58e34acd048b11461e0c7df9d558d345">drop_out_of_order</a></td></tr>
 <tr class="separator:a58e34acd048b11461e0c7df9d558d345"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:adc66228d69b930744b67491ddb20f4fb" id="r_adc66228d69b930744b67491ddb20f4fb"><td class="memItemLeft" align="right" valign="top">uint8_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#adc66228d69b930744b67491ddb20f4fb">dst_addr</a></td></tr>
-<tr class="separator:adc66228d69b930744b67491ddb20f4fb"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a469461ff0fabc8a178387377f72c3571" id="r_a469461ff0fabc8a178387377f72c3571"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classuwApplicationModule_1_1uwSendTimerAppl.html">uwSendTimerAppl</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#a469461ff0fabc8a178387377f72c3571">chkTimerPeriod</a></td></tr>
-<tr class="separator:a469461ff0fabc8a178387377f72c3571"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a552261bed58852c750a2f4fb87ccccf7" id="r_a552261bed58852c750a2f4fb87ccccf7"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#a552261bed58852c750a2f4fb87ccccf7">socket_active</a></td></tr>
-<tr class="separator:a552261bed58852c750a2f4fb87ccccf7"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a72efe52ebef9a345ac675ccf7598fbf0" id="r_a72efe52ebef9a345ac675ccf7598fbf0"><td class="memItemLeft" align="right" valign="top">string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#a72efe52ebef9a345ac675ccf7598fbf0">socket_protocol</a></td></tr>
-<tr class="separator:a72efe52ebef9a345ac675ccf7598fbf0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af7110303891ee10a98f79e05523df2e8" id="r_af7110303891ee10a98f79e05523df2e8"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#af7110303891ee10a98f79e05523df2e8">tcp_udp</a></td></tr>
-<tr class="separator:af7110303891ee10a98f79e05523df2e8"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab9608c9c3943050fc89363edb221338b" id="r_ab9608c9c3943050fc89363edb221338b"><td class="memItemLeft" align="right" valign="top">bool *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#ab9608c9c3943050fc89363edb221338b">sn_check</a></td></tr>
-<tr class="separator:ab9608c9c3943050fc89363edb221338b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a9d5350944419abbb4f2a8aecf0a18447" id="r_a9d5350944419abbb4f2a8aecf0a18447"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#a9d5350944419abbb4f2a8aecf0a18447">uidcnt</a></td></tr>
 <tr class="separator:a9d5350944419abbb4f2a8aecf0a18447"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1e7ff627abce4ad0b384583a73ca4f8c" id="r_a1e7ff627abce4ad0b384583a73ca4f8c"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#a1e7ff627abce4ad0b384583a73ca4f8c">hrsn</a></td></tr>
+<tr class="separator:a1e7ff627abce4ad0b384583a73ca4f8c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ae6e70855f202b18d27378e65062e26cd" id="r_ae6e70855f202b18d27378e65062e26cd"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#ae6e70855f202b18d27378e65062e26cd">txsn</a></td></tr>
 <tr class="separator:ae6e70855f202b18d27378e65062e26cd"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a61d09a629049f363d9be6a4ee6e0ad59" id="r_a61d09a629049f363d9be6a4ee6e0ad59"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#a61d09a629049f363d9be6a4ee6e0ad59">rftt</a></td></tr>
@@ -299,32 +250,68 @@ Protected Attributes</h2></td></tr>
 <tr class="separator:a0bbeea4021194e2adf988f0a4c463bb4"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a3ac1f93a8533cac23722bafcd4fba67b" id="r_a3ac1f93a8533cac23722bafcd4fba67b"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#a3ac1f93a8533cac23722bafcd4fba67b">pkts_last_reset</a></td></tr>
 <tr class="separator:a3ac1f93a8533cac23722bafcd4fba67b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa927b45e3d0865b1c04bc439f7d0f0a3" id="r_aa927b45e3d0865b1c04bc439f7d0f0a3"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#aa927b45e3d0865b1c04bc439f7d0f0a3">sea_trial</a></td></tr>
+<tr class="separator:aa927b45e3d0865b1c04bc439f7d0f0a3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a38b87bc40771d56ddbd2ee11c56bf2ca" id="r_a38b87bc40771d56ddbd2ee11c56bf2ca"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#a38b87bc40771d56ddbd2ee11c56bf2ca">node_id</a></td></tr>
+<tr class="separator:a38b87bc40771d56ddbd2ee11c56bf2ca"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5f42c3067b7c105194195fe7ce8b4515" id="r_a5f42c3067b7c105194195fe7ce8b4515"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#a5f42c3067b7c105194195fe7ce8b4515">servSockDescr</a></td></tr>
+<tr class="separator:a5f42c3067b7c105194195fe7ce8b4515"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab37248582be768cfb844f4a68139ebc9" id="r_ab37248582be768cfb844f4a68139ebc9"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#ab37248582be768cfb844f4a68139ebc9">clnSockDescr</a></td></tr>
+<tr class="separator:ab37248582be768cfb844f4a68139ebc9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a93271dfa87c85193e5c8a253502c3904" id="r_a93271dfa87c85193e5c8a253502c3904"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#a93271dfa87c85193e5c8a253502c3904">servPort</a></td></tr>
+<tr class="separator:a93271dfa87c85193e5c8a253502c3904"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a47d32fce9e3e0ceb810438892c1cee2f" id="r_a47d32fce9e3e0ceb810438892c1cee2f"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#a47d32fce9e3e0ceb810438892c1cee2f">esn</a></td></tr>
+<tr class="separator:a47d32fce9e3e0ceb810438892c1cee2f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1578a74a20d575ddaa5ed278bafdb569" id="r_a1578a74a20d575ddaa5ed278bafdb569"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#a1578a74a20d575ddaa5ed278bafdb569">rttsamples</a></td></tr>
+<tr class="separator:a1578a74a20d575ddaa5ed278bafdb569"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7e1723944e8f49da4792da5a44c32362" id="r_a7e1723944e8f49da4792da5a44c32362"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#a7e1723944e8f49da4792da5a44c32362">fttsamples</a></td></tr>
+<tr class="separator:a7e1723944e8f49da4792da5a44c32362"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:addf47f2bb851bae133c852c432394837" id="r_addf47f2bb851bae133c852c432394837"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#addf47f2bb851bae133c852c432394837">period</a></td></tr>
+<tr class="separator:addf47f2bb851bae133c852c432394837"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:afc549ab845f358fb445bf5c3e7a9612b" id="r_afc549ab845f358fb445bf5c3e7a9612b"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#afc549ab845f358fb445bf5c3e7a9612b">lrtime</a></td></tr>
 <tr class="separator:afc549ab845f358fb445bf5c3e7a9612b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a5f4d8b883ab739b417f481710038a4ea" id="r_a5f4d8b883ab739b417f481710038a4ea"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#a5f4d8b883ab739b417f481710038a4ea">sumrtt</a></td></tr>
 <tr class="separator:a5f4d8b883ab739b417f481710038a4ea"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aaa547e85574bde1804d25da4668da6b3" id="r_aaa547e85574bde1804d25da4668da6b3"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#aaa547e85574bde1804d25da4668da6b3">sumrtt2</a></td></tr>
 <tr class="separator:aaa547e85574bde1804d25da4668da6b3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1578a74a20d575ddaa5ed278bafdb569" id="r_a1578a74a20d575ddaa5ed278bafdb569"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#a1578a74a20d575ddaa5ed278bafdb569">rttsamples</a></td></tr>
-<tr class="separator:a1578a74a20d575ddaa5ed278bafdb569"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a3ece076ac7256e210af4b290e3d48f05" id="r_a3ece076ac7256e210af4b290e3d48f05"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#a3ece076ac7256e210af4b290e3d48f05">sumftt</a></td></tr>
 <tr class="separator:a3ece076ac7256e210af4b290e3d48f05"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a1e26f65b56dfc65d9365a333392e382b" id="r_a1e26f65b56dfc65d9365a333392e382b"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#a1e26f65b56dfc65d9365a333392e382b">sumftt2</a></td></tr>
 <tr class="separator:a1e26f65b56dfc65d9365a333392e382b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7e1723944e8f49da4792da5a44c32362" id="r_a7e1723944e8f49da4792da5a44c32362"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#a7e1723944e8f49da4792da5a44c32362">fttsamples</a></td></tr>
-<tr class="separator:a7e1723944e8f49da4792da5a44c32362"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a47d32fce9e3e0ceb810438892c1cee2f" id="r_a47d32fce9e3e0ceb810438892c1cee2f"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#a47d32fce9e3e0ceb810438892c1cee2f">esn</a></td></tr>
-<tr class="separator:a47d32fce9e3e0ceb810438892c1cee2f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aa14fc41b627cb1fa37e28ee0779ccb70" id="r_aa14fc41b627cb1fa37e28ee0779ccb70"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#aa14fc41b627cb1fa37e28ee0779ccb70">sumbytes</a></td></tr>
 <tr class="separator:aa14fc41b627cb1fa37e28ee0779ccb70"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a76da64cca76257e87573df5c3cfc9c21" id="r_a76da64cca76257e87573df5c3cfc9c21"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#a76da64cca76257e87573df5c3cfc9c21">sumdt</a></td></tr>
 <tr class="separator:a76da64cca76257e87573df5c3cfc9c21"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1e7ff627abce4ad0b384583a73ca4f8c" id="r_a1e7ff627abce4ad0b384583a73ca4f8c"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#a1e7ff627abce4ad0b384583a73ca4f8c">hrsn</a></td></tr>
-<tr class="separator:a1e7ff627abce4ad0b384583a73ca4f8c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abd62403277d4155f4de8f56b65d50c4d" id="r_abd62403277d4155f4de8f56b65d50c4d"><td class="memItemLeft" align="right" valign="top">struct sockaddr_in&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#abd62403277d4155f4de8f56b65d50c4d">servAddr</a></td></tr>
+<tr class="separator:abd62403277d4155f4de8f56b65d50c4d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adbfd6e07a660cdd6f83ac31d34fdf03b" id="r_adbfd6e07a660cdd6f83ac31d34fdf03b"><td class="memItemLeft" align="right" valign="top">struct sockaddr_in&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#adbfd6e07a660cdd6f83ac31d34fdf03b">clnAddr</a></td></tr>
+<tr class="separator:adbfd6e07a660cdd6f83ac31d34fdf03b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a20813eb30919a1b3dcaeb896422c9642" id="r_a20813eb30919a1b3dcaeb896422c9642"><td class="memItemLeft" align="right" valign="top">std::thread&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#a20813eb30919a1b3dcaeb896422c9642">socket_thread</a></td></tr>
+<tr class="separator:a20813eb30919a1b3dcaeb896422c9642"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa989a3ddda440979098908e1fa4ce5db" id="r_aa989a3ddda440979098908e1fa4ce5db"><td class="memItemLeft" align="right" valign="top">std::mutex&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#aa989a3ddda440979098908e1fa4ce5db">socket_mutex</a></td></tr>
+<tr class="separator:aa989a3ddda440979098908e1fa4ce5db"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a164ccae15f9d788d9efa699f97261620" id="r_a164ccae15f9d788d9efa699f97261620"><td class="memItemLeft" align="right" valign="top">std::atomic&lt; bool &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#a164ccae15f9d788d9efa699f97261620">receiving</a></td></tr>
+<tr class="separator:a164ccae15f9d788d9efa699f97261620"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae5d183768f49d81b95178b1f0233482a" id="r_ae5d183768f49d81b95178b1f0233482a"><td class="memItemLeft" align="right" valign="top">std::queue&lt; Packet * &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#ae5d183768f49d81b95178b1f0233482a">queuePckReadTCP</a></td></tr>
+<tr class="separator:ae5d183768f49d81b95178b1f0233482a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6c5b2ba1782a72fa8b380e7292b4e7f9" id="r_a6c5b2ba1782a72fa8b380e7292b4e7f9"><td class="memItemLeft" align="right" valign="top">std::queue&lt; Packet * &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#a6c5b2ba1782a72fa8b380e7292b4e7f9">queuePckReadUDP</a></td></tr>
+<tr class="separator:a6c5b2ba1782a72fa8b380e7292b4e7f9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab8b55a9d37e08cbdcf3f631cfa4bff09" id="r_ab8b55a9d37e08cbdcf3f631cfa4bff09"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classuwSendTimerAppl.html">uwSendTimerAppl</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#ab8b55a9d37e08cbdcf3f631cfa4bff09">chkTimerPeriod</a></td></tr>
+<tr class="separator:ab8b55a9d37e08cbdcf3f631cfa4bff09"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-static-attribs" name="pro-static-attribs"></a>
+Static Protected Attributes</h2></td></tr>
+<tr class="memitem:acff11ca9375d570b3c67bdd444d00159" id="r_acff11ca9375d570b3c67bdd444d00159"><td class="memItemLeft" align="right" valign="top">static uint&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#acff11ca9375d570b3c67bdd444d00159">MAX_READ_LEN</a> = 64</td></tr>
+<tr class="separator:acff11ca9375d570b3c67bdd444d00159"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="friends" name="friends"></a>
+Friends</h2></td></tr>
+<tr class="memitem:ab36f45e5e068fb9fa8c0587993c2bd81" id="r_ab36f45e5e068fb9fa8c0587993c2bd81"><td class="memItemLeft" align="right" valign="top">class&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classuwApplicationModule.html#ab36f45e5e068fb9fa8c0587993c2bd81">uwSendTimerAppl</a></td></tr>
+<tr class="separator:ab36f45e5e068fb9fa8c0587993c2bd81"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock">
-<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00091">91</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00086">86</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
 </div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
 <a id="ac375d4424de9fd5fd1400522b7cf7786" name="ac375d4424de9fd5fd1400522b7cf7786"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#ac375d4424de9fd5fd1400522b7cf7786">&#9670;&#160;</a></span>uwApplicationModule()</h2>
@@ -343,7 +330,7 @@ Protected Attributes</h2></td></tr>
 
 <p>Constructor of <a class="el" href="classuwApplicationModule.html">uwApplicationModule</a> class. </p>
 
-<p class="definition">Definition at line <a class="el" href="uwApplication__module_8cpp_source.html#l00070">70</a> of file <a class="el" href="uwApplication__module_8cpp_source.html">uwApplication_module.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="uwApplication__module_8cpp_source.html#l00073">73</a> of file <a class="el" href="uwApplication__module_8cpp_source.html">uwApplication_module.cpp</a>.</p>
 
 </div>
 </div>
@@ -372,13 +359,42 @@ Protected Attributes</h2></td></tr>
 
 <p>Destructor of <a class="el" href="classuwApplicationModule.html">uwApplicationModule</a> class. </p>
 
-<p class="definition">Definition at line <a class="el" href="uwApplication__module_8cpp_source.html#l00133">133</a> of file <a class="el" href="uwApplication__module_8cpp_source.html">uwApplication_module.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="uwApplication__module_8cpp_source.html#l00139">139</a> of file <a class="el" href="uwApplication__module_8cpp_source.html">uwApplication_module.cpp</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a id="a93f4df5d00af2d2dabfeed2162167193" name="a93f4df5d00af2d2dabfeed2162167193"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a93f4df5d00af2d2dabfeed2162167193">&#9670;&#160;</a></span>command()</h2>
+<a id="aaf1d9124ca606b705d549f00a10eb7a8" name="aaf1d9124ca606b705d549f00a10eb7a8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aaf1d9124ca606b705d549f00a10eb7a8">&#9670;&#160;</a></span>acceptTCP()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void uwApplicationModule::acceptTCP </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Method that puts in place a listening TCP socket. </p>
+
+<p class="definition">Definition at line <a class="el" href="uwApplication__TCP__socket_8cpp_source.html#l00103">103</a> of file <a class="el" href="uwApplication__TCP__socket_8cpp_source.html">uwApplication_TCP_socket.cpp</a>.</p>
+
+</div>
+</div>
+<a id="a9ce512a077e27d9438e82cd1e6039007" name="a9ce512a077e27d9438e82cd1e6039007"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9ce512a077e27d9438e82cd1e6039007">&#9670;&#160;</a></span>command()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -406,7 +422,7 @@ Protected Attributes</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">virtual</span></span>  </td>
+<span class="mlabels"><span class="mlabel">override</span><span class="mlabel">virtual</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
@@ -422,12 +438,12 @@ Protected Attributes</h2></td></tr>
 </dl>
 <dl class="section return"><dt>Returns</dt><dd>TCL_OK or TCL_ERROR whether the command has been dispatched successfully or not. </dd></dl>
 
-<p class="definition">Definition at line <a class="el" href="uwApplication__module_8cpp_source.html#l00138">138</a> of file <a class="el" href="uwApplication__module_8cpp_source.html">uwApplication_module.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="uwApplication__module_8cpp_source.html#l00145">145</a> of file <a class="el" href="uwApplication__module_8cpp_source.html">uwApplication_module.cpp</a>.</p>
 
 </div>
 </div>
-<a id="ae403fe4a1804d244565455e3901f4269" name="ae403fe4a1804d244565455e3901f4269"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae403fe4a1804d244565455e3901f4269">&#9670;&#160;</a></span>crLayCommand()</h2>
+<a id="ac39112ae58693b852d59748018c1457b" name="ac39112ae58693b852d59748018c1457b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac39112ae58693b852d59748018c1457b">&#9670;&#160;</a></span>getEpoch()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -436,47 +452,10 @@ Protected Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">int uwApplicationModule::crLayCommand </td>
-          <td>(</td>
-          <td class="paramtype">ClMessage *&#160;</td>
-          <td class="paramname"><em>m</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">virtual</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p>Cross-Layer messages interpreter. </p>
-<dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramname">ClMessage*</td><td>an instance of ClMessage that represent the message received </td></tr>
-  </table>
-  </dd>
-</dl>
-<dl class="section return"><dt>Returns</dt><dd><em>0</em> if successful. </dd></dl>
-
-<p class="definition">Definition at line <a class="el" href="uwApplication__module_8cpp_source.html#l00227">227</a> of file <a class="el" href="uwApplication__module_8cpp_source.html">uwApplication_module.cpp</a>.</p>
-
-</div>
-</div>
-<a id="ab601d5128e2b8a3275a21e54dee6bc75" name="ab601d5128e2b8a3275a21e54dee6bc75"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab601d5128e2b8a3275a21e54dee6bc75">&#9670;&#160;</a></span>getEpoch()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">unsigned long int uwApplicationModule::getEpoch </td>
+          <td class="memname">std::string uwApplicationModule::getEpoch </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
-          <td></td>
+          <td> const</td>
         </tr>
       </table>
   </td>
@@ -487,9 +466,9 @@ Protected Attributes</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Calculate the epoch of the event. </p>
-<p>Used in sea-trial mode </p><dl class="section return"><dt>Returns</dt><dd>the epoch of the system </dd></dl>
+<p>Used in sea-trial mode. </p><dl class="section return"><dt>Returns</dt><dd>the epoch of the system. </dd></dl>
 
-<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00149">149</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00239">239</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
 
 </div>
 </div>
@@ -511,15 +490,12 @@ Protected Attributes</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">protected</span><span class="mlabel">virtual</span></span>  </td>
+<span class="mlabels"><span class="mlabel">virtual</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
 
-<p>Returns the average Forward Trip Time. </p>
-<dl class="section return"><dt>Returns</dt><dd>the average Forward Trip Time </dd></dl>
-
-<p class="definition">Definition at line <a class="el" href="uwApplication__module_8cpp_source.html#l00600">600</a> of file <a class="el" href="uwApplication__module_8cpp_source.html">uwApplication_module.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="uwApplication__module_8cpp_source.html#l00505">505</a> of file <a class="el" href="uwApplication__module_8cpp_source.html">uwApplication_module.cpp</a>.</p>
 
 </div>
 </div>
@@ -541,7 +517,7 @@ Protected Attributes</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">protected</span><span class="mlabel">virtual</span></span>  </td>
+<span class="mlabels"><span class="mlabel">virtual</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
@@ -549,37 +525,7 @@ Protected Attributes</h2></td></tr>
 <p>Return the standard deviation of the Forward Trip Time calculated. </p>
 <dl class="section return"><dt>Returns</dt><dd>the standard deviation of the Forward Trip Time calculated </dd></dl>
 
-<p class="definition">Definition at line <a class="el" href="uwApplication__module_8cpp_source.html#l00606">606</a> of file <a class="el" href="uwApplication__module_8cpp_source.html">uwApplication_module.cpp</a>.</p>
-
-</div>
-</div>
-<a id="ac9d946fc29c9d4a2e947c0fb562d28a1" name="ac9d946fc29c9d4a2e947c0fb562d28a1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac9d946fc29c9d4a2e947c0fb562d28a1">&#9670;&#160;</a></span>getpayloadsize()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">virtual int uwApplicationModule::getpayloadsize </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">protected</span><span class="mlabel">virtual</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p>return the size of DATA packet payload </p>
-<dl class="section return"><dt>Returns</dt><dd>payloadsize </dd></dl>
-
-<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00450">450</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="uwApplication__module_8cpp_source.html#l00511">511</a> of file <a class="el" href="uwApplication__module_8cpp_source.html">uwApplication_module.cpp</a>.</p>
 
 </div>
 </div>
@@ -601,7 +547,7 @@ Protected Attributes</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">protected</span><span class="mlabel">virtual</span></span>  </td>
+<span class="mlabels"><span class="mlabel">virtual</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
@@ -609,12 +555,12 @@ Protected Attributes</h2></td></tr>
 <p>Rerturn the Packet Error Rate calculated. </p>
 <dl class="section return"><dt>Returns</dt><dd>the Packet Error Rate calculated </dd></dl>
 
-<p class="definition">Definition at line <a class="el" href="uwApplication__module_8cpp_source.html#l00621">621</a> of file <a class="el" href="uwApplication__module_8cpp_source.html">uwApplication_module.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="uwApplication__module_8cpp_source.html#l00524">524</a> of file <a class="el" href="uwApplication__module_8cpp_source.html">uwApplication_module.cpp</a>.</p>
 
 </div>
 </div>
-<a id="ae28f4321a17938c919c40813a285e4e3" name="ae28f4321a17938c919c40813a285e4e3"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae28f4321a17938c919c40813a285e4e3">&#9670;&#160;</a></span>getPeriod()</h2>
+<a id="a495c7f299772fa429de9efb30ebba2eb" name="a495c7f299772fa429de9efb30ebba2eb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a495c7f299772fa429de9efb30ebba2eb">&#9670;&#160;</a></span>getPeriod()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -626,25 +572,25 @@ Protected Attributes</h2></td></tr>
           <td class="memname">virtual double uwApplicationModule::getPeriod </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
-          <td></td>
+          <td> const</td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">protected</span><span class="mlabel">virtual</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">virtual</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
 
-<p>return period generation time </p>
-<dl class="section return"><dt>Returns</dt><dd>PERIOD </dd></dl>
+<p>Return period generation time. </p>
+<dl class="section return"><dt>Returns</dt><dd>period </dd></dl>
 
-<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00440">440</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00229">229</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
 
 </div>
 </div>
-<a id="abe08d64ebca0c7c674350026ab06029d" name="abe08d64ebca0c7c674350026ab06029d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#abe08d64ebca0c7c674350026ab06029d">&#9670;&#160;</a></span>getPktLost()</h2>
+<a id="a3e3eea243f1c50d2c5f5195f5fdefdac" name="a3e3eea243f1c50d2c5f5195f5fdefdac"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3e3eea243f1c50d2c5f5195f5fdefdac">&#9670;&#160;</a></span>getPktLost()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -656,12 +602,12 @@ Protected Attributes</h2></td></tr>
           <td class="memname">virtual int uwApplicationModule::getPktLost </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
-          <td></td>
+          <td> const</td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">protected</span><span class="mlabel">virtual</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">virtual</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
@@ -669,12 +615,12 @@ Protected Attributes</h2></td></tr>
 <p>return the number of DATA packets lost by the server </p>
 <dl class="section return"><dt>Returns</dt><dd>pkts_lost </dd></dl>
 
-<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00390">390</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00174">174</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
 
 </div>
 </div>
-<a id="a8b92db2bdef5d0a60af460898a51a4d1" name="a8b92db2bdef5d0a60af460898a51a4d1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8b92db2bdef5d0a60af460898a51a4d1">&#9670;&#160;</a></span>getPktRecv()</h2>
+<a id="a41feda423f631996648fca2df681d44b" name="a41feda423f631996648fca2df681d44b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a41feda423f631996648fca2df681d44b">&#9670;&#160;</a></span>getPktRecv()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -686,12 +632,12 @@ Protected Attributes</h2></td></tr>
           <td class="memname">virtual int uwApplicationModule::getPktRecv </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
-          <td></td>
+          <td> const</td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">protected</span><span class="mlabel">virtual</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">virtual</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
@@ -699,12 +645,12 @@ Protected Attributes</h2></td></tr>
 <p>return the number of DATA packet correctly received by the server </p>
 <dl class="section return"><dt>Returns</dt><dd>pkts_recv </dd></dl>
 
-<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00400">400</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00185">185</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
 
 </div>
 </div>
-<a id="aaf707ba6dc39629b7342be3c367a508f" name="aaf707ba6dc39629b7342be3c367a508f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aaf707ba6dc39629b7342be3c367a508f">&#9670;&#160;</a></span>getPktSent()</h2>
+<a id="a7732a4f94e2201a6effbf234b9305ebe" name="a7732a4f94e2201a6effbf234b9305ebe"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7732a4f94e2201a6effbf234b9305ebe">&#9670;&#160;</a></span>getPktSent()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -716,12 +662,12 @@ Protected Attributes</h2></td></tr>
           <td class="memname">virtual int uwApplicationModule::getPktSent </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
-          <td></td>
+          <td> const</td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">protected</span><span class="mlabel">virtual</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">virtual</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
@@ -729,12 +675,12 @@ Protected Attributes</h2></td></tr>
 <p>return the number of packets sent by the server </p>
 <dl class="section return"><dt>Returns</dt><dd>txsn </dd></dl>
 
-<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00380">380</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00163">163</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
 
 </div>
 </div>
-<a id="afd251f751b29d20f299f61e97c78338d" name="afd251f751b29d20f299f61e97c78338d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#afd251f751b29d20f299f61e97c78338d">&#9670;&#160;</a></span>getPktsInvalidRx()</h2>
+<a id="a030b4ab451de8b59200faa49f7c5ecb1" name="a030b4ab451de8b59200faa49f7c5ecb1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a030b4ab451de8b59200faa49f7c5ecb1">&#9670;&#160;</a></span>getPktsInvalidRx()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -746,12 +692,12 @@ Protected Attributes</h2></td></tr>
           <td class="memname">virtual int uwApplicationModule::getPktsInvalidRx </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
-          <td></td>
+          <td> const</td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">protected</span><span class="mlabel">virtual</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">virtual</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
@@ -759,12 +705,12 @@ Protected Attributes</h2></td></tr>
 <p>return the number of DATA packets received with error by the server </p>
 <dl class="section return"><dt>Returns</dt><dd>pkts_invalid </dd></dl>
 
-<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00420">420</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00207">207</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
 
 </div>
 </div>
-<a id="a88a5101428769c0a03b64151a6e73334" name="a88a5101428769c0a03b64151a6e73334"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a88a5101428769c0a03b64151a6e73334">&#9670;&#160;</a></span>getPktsOOSequence()</h2>
+<a id="ada04e00758b5b8c1c7d361926fb81daa" name="ada04e00758b5b8c1c7d361926fb81daa"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ada04e00758b5b8c1c7d361926fb81daa">&#9670;&#160;</a></span>getPktsOOSequence()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -776,12 +722,12 @@ Protected Attributes</h2></td></tr>
           <td class="memname">virtual int uwApplicationModule::getPktsOOSequence </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
-          <td></td>
+          <td> const</td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">protected</span><span class="mlabel">virtual</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">virtual</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
@@ -789,12 +735,12 @@ Protected Attributes</h2></td></tr>
 <p>return the number of DATA packets received out of order by the server </p>
 <dl class="section return"><dt>Returns</dt><dd>pkts_ooseq </dd></dl>
 
-<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00410">410</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00196">196</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
 
 </div>
 </div>
-<a id="abd5d6fcc67785fb673e56f9b5ca1abdd" name="abd5d6fcc67785fb673e56f9b5ca1abdd"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#abd5d6fcc67785fb673e56f9b5ca1abdd">&#9670;&#160;</a></span>getPktsPushQueue()</h2>
+<a id="a184cdaded7458580f17832f2b4b32d1d" name="a184cdaded7458580f17832f2b4b32d1d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a184cdaded7458580f17832f2b4b32d1d">&#9670;&#160;</a></span>getPktsPushQueue()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -806,20 +752,20 @@ Protected Attributes</h2></td></tr>
           <td class="memname">virtual int uwApplicationModule::getPktsPushQueue </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
-          <td></td>
+          <td> const</td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">protected</span><span class="mlabel">virtual</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">virtual</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
 
-<p>return the number of DATA packets sotred in the server queue </p>
+<p>Return the number of DATA packets sorted in the server queue. </p>
 <dl class="section return"><dt>Returns</dt><dd>pkts_push_queue </dd></dl>
 
-<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00430">430</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00218">218</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
 
 </div>
 </div>
@@ -841,7 +787,7 @@ Protected Attributes</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">protected</span><span class="mlabel">virtual</span></span>  </td>
+<span class="mlabels"><span class="mlabel">virtual</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
@@ -849,7 +795,7 @@ Protected Attributes</h2></td></tr>
 <p>Returns the average Round Trip Time. </p>
 <dl class="section return"><dt>Returns</dt><dd>the average Round Trip Time </dd></dl>
 
-<p class="definition">Definition at line <a class="el" href="uwApplication__module_8cpp_source.html#l00575">575</a> of file <a class="el" href="uwApplication__module_8cpp_source.html">uwApplication_module.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="uwApplication__module_8cpp_source.html#l00479">479</a> of file <a class="el" href="uwApplication__module_8cpp_source.html">uwApplication_module.cpp</a>.</p>
 
 </div>
 </div>
@@ -871,7 +817,7 @@ Protected Attributes</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">protected</span><span class="mlabel">virtual</span></span>  </td>
+<span class="mlabels"><span class="mlabel">virtual</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
@@ -879,7 +825,7 @@ Protected Attributes</h2></td></tr>
 <p>Return the standard deviation of the Round Trip Time calculated. </p>
 <dl class="section return"><dt>Returns</dt><dd>the standard deviation of the Round Trip Time calculated </dd></dl>
 
-<p class="definition">Definition at line <a class="el" href="uwApplication__module_8cpp_source.html#l00581">581</a> of file <a class="el" href="uwApplication__module_8cpp_source.html">uwApplication_module.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="uwApplication__module_8cpp_source.html#l00485">485</a> of file <a class="el" href="uwApplication__module_8cpp_source.html">uwApplication_module.cpp</a>.</p>
 
 </div>
 </div>
@@ -901,7 +847,7 @@ Protected Attributes</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">protected</span><span class="mlabel">virtual</span></span>  </td>
+<span class="mlabels"><span class="mlabel">virtual</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
@@ -909,7 +855,7 @@ Protected Attributes</h2></td></tr>
 <p>Return the Throughput calculated [bps]. </p>
 <dl class="section return"><dt>Returns</dt><dd>Throughput [bps] </dd></dl>
 
-<p class="definition">Definition at line <a class="el" href="uwApplication__module_8cpp_source.html#l00638">638</a> of file <a class="el" href="uwApplication__module_8cpp_source.html">uwApplication_module.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="uwApplication__module_8cpp_source.html#l00537">537</a> of file <a class="el" href="uwApplication__module_8cpp_source.html">uwApplication_module.cpp</a>.</p>
 
 </div>
 </div>
@@ -936,46 +882,10 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Compute the DATA generation rate, that can be constant and equal to the PERIOD established by the user, or can occur with a Poisson process. </p>
+<p>Compute the DATA generation rate, that can be constant and equal to the period established by the user, or can occur with a Poisson process (only without socket). </p>
 <dl class="section return"><dt>Returns</dt><dd>generation period for DATA packets </dd></dl>
 
-<p class="definition">Definition at line <a class="el" href="uwApplication__module_8cpp_source.html#l00537">537</a> of file <a class="el" href="uwApplication__module_8cpp_source.html">uwApplication_module.cpp</a>.</p>
-
-</div>
-</div>
-<a id="a8e20c7cf1eee1db8114dfa6c950d521e" name="a8e20c7cf1eee1db8114dfa6c950d521e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8e20c7cf1eee1db8114dfa6c950d521e">&#9670;&#160;</a></span>handleTCPclient()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void uwApplicationModule::handleTCPclient </td>
-          <td>(</td>
-          <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>clnSock</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">virtual</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p>Handle the communication between server and client. </p>
-<dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramname">clnSock</td><td>socket obtained after the accept function and use for the communication between server and client </td></tr>
-  </table>
-  </dd>
-</dl>
-
-<p class="definition">Definition at line <a class="el" href="uwApplication__TCP__socket_8cpp_source.html#l00174">174</a> of file <a class="el" href="uwApplication__TCP__socket_8cpp_source.html">uwApplication_TCP_socket.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="uwApplication__module_8cpp_source.html#l00466">466</a> of file <a class="el" href="uwApplication__module_8cpp_source.html">uwApplication_module.cpp</a>.</p>
 
 </div>
 </div>
@@ -1004,12 +914,12 @@ Protected Attributes</h2></td></tr>
 
 <p>Increse the number of DATA packets received with error by the server. </p>
 
-<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00370">370</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00416">416</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
 
 </div>
 </div>
-<a id="acb9e3475478e35492d8109b99119a3d0" name="acb9e3475478e35492d8109b99119a3d0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#acb9e3475478e35492d8109b99119a3d0">&#9670;&#160;</a></span>incrPktLost()</h2>
+<a id="a640987cfc52094f690d444c2ac3f3b54" name="a640987cfc52094f690d444c2ac3f3b54"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a640987cfc52094f690d444c2ac3f3b54">&#9670;&#160;</a></span>incrPktLost()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1020,7 +930,7 @@ Protected Attributes</h2></td></tr>
         <tr>
           <td class="memname">virtual void uwApplicationModule::incrPktLost </td>
           <td>(</td>
-          <td class="paramtype">const int &amp;&#160;</td>
+          <td class="paramtype">int&#160;</td>
           <td class="paramname"><em>npkts</em></td><td>)</td>
           <td></td>
         </tr>
@@ -1034,7 +944,7 @@ Protected Attributes</h2></td></tr>
 
 <p>Increase the number of DATA packets lost by the server. </p>
 
-<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00346">346</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00391">391</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
 
 </div>
 </div>
@@ -1063,7 +973,7 @@ Protected Attributes</h2></td></tr>
 
 <p>Increase the number of DATA packets received out of order by the server. </p>
 
-<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00362">362</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00408">408</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
 
 </div>
 </div>
@@ -1092,7 +1002,7 @@ Protected Attributes</h2></td></tr>
 
 <p>Increase the number of DATA packet correctly received by the server. </p>
 
-<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00354">354</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00400">400</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
 
 </div>
 </div>
@@ -1121,7 +1031,7 @@ Protected Attributes</h2></td></tr>
 
 <p>Increase the sequence number and so the number of packets sent by the server. </p>
 
-<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00338">338</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00382">382</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
 
 </div>
 </div>
@@ -1143,7 +1053,7 @@ Protected Attributes</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">virtual</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">protected</span><span class="mlabel">virtual</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
@@ -1151,12 +1061,12 @@ Protected Attributes</h2></td></tr>
 <p>Increase the number of DATA packets stored in the Server queue. </p>
 <p>This DATA packets will be sent to the below levels of ISO/OSI stack protocol. </p>
 
-<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00139">139</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00426">426</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
 
 </div>
 </div>
-<a id="a274f5cf4c26b4f472212ab8059aa1b5c" name="a274f5cf4c26b4f472212ab8059aa1b5c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a274f5cf4c26b4f472212ab8059aa1b5c">&#9670;&#160;</a></span>init_Packet()</h2>
+<a id="aacf754486eaf820f963325dbaf71e3bf" name="aacf754486eaf820f963325dbaf71e3bf"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aacf754486eaf820f963325dbaf71e3bf">&#9670;&#160;</a></span>listenTCP()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1165,7 +1075,7 @@ Protected Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void uwApplicationModule::init_Packet </td>
+          <td class="memname">bool uwApplicationModule::listenTCP </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -1178,15 +1088,15 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Set all the field of the DATA packet that must be send down after the creation to the below level. </p>
-<p>In this case the payload of DATA packet are generated in a random way. </p>
+<p>Method that binds the listening TCP socket. </p>
+<dl class="section return"><dt>Returns</dt><dd>true if the listening socket is bind and open. </dd></dl>
 
-<p class="definition">Definition at line <a class="el" href="uwApplication__module_8cpp_source.html#l00424">424</a> of file <a class="el" href="uwApplication__module_8cpp_source.html">uwApplication_module.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="uwApplication__TCP__socket_8cpp_source.html#l00043">43</a> of file <a class="el" href="uwApplication__TCP__socket_8cpp_source.html">uwApplication_TCP_socket.cpp</a>.</p>
 
 </div>
 </div>
-<a id="ae5f35c687024ea988f14497b5f3bb7d4" name="ae5f35c687024ea988f14497b5f3bb7d4"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae5f35c687024ea988f14497b5f3bb7d4">&#9670;&#160;</a></span>init_Packet_TCP()</h2>
+<a id="a5dd5e3faadc59ba3d30caed63cb663ed" name="a5dd5e3faadc59ba3d30caed63cb663ed"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5dd5e3faadc59ba3d30caed63cb663ed">&#9670;&#160;</a></span>openConnectionUDP()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1195,67 +1105,7 @@ Protected Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void uwApplicationModule::init_Packet_TCP </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">protected</span><span class="mlabel">virtual</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p>Set all the field of DATA packet and take from the specific queue the payload of DATA packet that will be transmitted. </p>
-<p>After that put down to the layer below </p>
-
-<p class="definition">Definition at line <a class="el" href="uwApplication__TCP__socket_8cpp_source.html#l00237">237</a> of file <a class="el" href="uwApplication__TCP__socket_8cpp_source.html">uwApplication_TCP_socket.cpp</a>.</p>
-
-</div>
-</div>
-<a id="a92b66c5777df071b1a0372ca2885979a" name="a92b66c5777df071b1a0372ca2885979a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a92b66c5777df071b1a0372ca2885979a">&#9670;&#160;</a></span>init_Packet_UDP()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void uwApplicationModule::init_Packet_UDP </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">protected</span><span class="mlabel">virtual</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p>Set all the field of DATA packet and take from the specific queue the payload of DATA packet that will be transmitted. </p>
-<p>After that put down to the layer below </p>
-
-<p class="definition">Definition at line <a class="el" href="uwApplication__UDP__socket_8cpp_source.html#l00200">200</a> of file <a class="el" href="uwApplication__UDP__socket_8cpp_source.html">uwApplication_UDP_socket.cpp</a>.</p>
-
-</div>
-</div>
-<a id="aa1a04783ceef7e065dbb7448018f109e" name="aa1a04783ceef7e065dbb7448018f109e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa1a04783ceef7e065dbb7448018f109e">&#9670;&#160;</a></span>openConnectionTCP()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">int uwApplicationModule::openConnectionTCP </td>
+          <td class="memname">bool uwApplicationModule::openConnectionUDP </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -1269,14 +1119,15 @@ Protected Attributes</h2></td></tr>
 </div><div class="memdoc">
 
 <p>When socket communication is used, this method establish a connection between client and server. </p>
-<p>This is required because a TCP protocol is used. </p>
+<p>This is required because a UDP protocol is used.</p>
+<dl class="section return"><dt>Returns</dt><dd>true if the socket is bind. </dd></dl>
 
-<p class="definition">Definition at line <a class="el" href="uwApplication__TCP__socket_8cpp_source.html#l00050">50</a> of file <a class="el" href="uwApplication__TCP__socket_8cpp_source.html">uwApplication_TCP_socket.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="uwApplication__UDP__socket_8cpp_source.html#l00043">43</a> of file <a class="el" href="uwApplication__UDP__socket_8cpp_source.html">uwApplication_UDP_socket.cpp</a>.</p>
 
 </div>
 </div>
-<a id="a896953b8a5a45173a286d11d3f820d21" name="a896953b8a5a45173a286d11d3f820d21"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a896953b8a5a45173a286d11d3f820d21">&#9670;&#160;</a></span>openConnectionUDP()</h2>
+<a id="ae3a2038d499e9e6413b8c644eee96be7" name="ae3a2038d499e9e6413b8c644eee96be7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae3a2038d499e9e6413b8c644eee96be7">&#9670;&#160;</a></span>printOnLog()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1285,7 +1136,98 @@ Protected Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">int uwApplicationModule::openConnectionUDP </td>
+          <td class="memname">virtual void uwApplicationModule::printOnLog </td>
+          <td>(</td>
+          <td class="paramtype">Logger::LogLevel&#160;</td>
+          <td class="paramname"><em>log_level</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const std::string &amp;&#160;</td>
+          <td class="paramname"><em>module</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const std::string &amp;&#160;</td>
+          <td class="paramname"><em>message</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">override</span><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Method to send the log message to the logger. </p>
+<p>If sea_trial enabled add epoch of the event to the message and use node_id passed via tcl.</p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">log_level</td><td>LogLevel representing the amout of logs. </td></tr>
+    <tr><td class="paramname">module</td><td>String name of the plugin/module. </td></tr>
+    <tr><td class="paramname">message</td><td>String log message. </td></tr>
+  </table>
+  </dd>
+</dl>
+
+<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00261">261</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
+
+</div>
+</div>
+<a id="a0ffa0afa395166526e252d7435d35096" name="a0ffa0afa395166526e252d7435d35096"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0ffa0afa395166526e252d7435d35096">&#9670;&#160;</a></span>readFromTCP()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void uwApplicationModule::readFromTCP </td>
+          <td>(</td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>clnSock</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Method that reads a TCP byte stream from external application and converts it to a Packet. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">clnSock</td><td>int client file descriptor. </td></tr>
+  </table>
+  </dd>
+</dl>
+
+<p class="definition">Definition at line <a class="el" href="uwApplication__TCP__socket_8cpp_source.html#l00130">130</a> of file <a class="el" href="uwApplication__TCP__socket_8cpp_source.html">uwApplication_TCP_socket.cpp</a>.</p>
+
+</div>
+</div>
+<a id="a56d90217421d69ae26c2b0a1def20959" name="a56d90217421d69ae26c2b0a1def20959"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a56d90217421d69ae26c2b0a1def20959">&#9670;&#160;</a></span>readFromUDP()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void uwApplicationModule::readFromUDP </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -1298,15 +1240,14 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>When socket communication is used, this method establish a connection between client and server. </p>
-<p>This is required because a UDP protocol is used. </p>
+<p>Method that waits for UDP packets from external application and converts it to a Packet. </p>
 
-<p class="definition">Definition at line <a class="el" href="uwApplication__UDP__socket_8cpp_source.html#l00050">50</a> of file <a class="el" href="uwApplication__UDP__socket_8cpp_source.html">uwApplication_UDP_socket.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="uwApplication__UDP__socket_8cpp_source.html#l00089">89</a> of file <a class="el" href="uwApplication__UDP__socket_8cpp_source.html">uwApplication_UDP_socket.cpp</a>.</p>
 
 </div>
 </div>
-<a id="a2e226409f34d50f80290aa74e5827e54" name="a2e226409f34d50f80290aa74e5827e54"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2e226409f34d50f80290aa74e5827e54">&#9670;&#160;</a></span>recv()</h2>
+<a id="a87f7cef006e9008ee216bee33e329068" name="a87f7cef006e9008ee216bee33e329068"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a87f7cef006e9008ee216bee33e329068">&#9670;&#160;</a></span>recv()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1324,74 +1265,20 @@ Protected Attributes</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">protected</span><span class="mlabel">virtual</span></span>  </td>
+<span class="mlabels"><span class="mlabel">override</span><span class="mlabel">virtual</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
 
-<p>Handle the transmission of DATA packets between CBR layer and the below level. </p>
+<p>Performs the reception of packets from upper and lower layers. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">Packet*</td><td>Pointer to the packet will be received. </td></tr>
+  </table>
+  </dd>
+</dl>
 
-<p class="definition">Definition at line <a class="el" href="uwApplication__module_8cpp_source.html#l00236">236</a> of file <a class="el" href="uwApplication__module_8cpp_source.html">uwApplication_module.cpp</a>.</p>
-
-</div>
-</div>
-<a id="a601475c01ed7b3d2d25044787ac283c2" name="a601475c01ed7b3d2d25044787ac283c2"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a601475c01ed7b3d2d25044787ac283c2">&#9670;&#160;</a></span>start_generation()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void uwApplicationModule::start_generation </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">protected</span><span class="mlabel">virtual</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p>Start the process to generate DATA packets without sockets. </p>
-<p>In this case the payload of DATA packets are filled with a randomly sequence or with a pattern sequence. </p>
-
-<p class="definition">Definition at line <a class="el" href="uwApplication__module_8cpp_source.html#l00412">412</a> of file <a class="el" href="uwApplication__module_8cpp_source.html">uwApplication_module.cpp</a>.</p>
-
-</div>
-</div>
-<a id="acf9cad5340d0c86c75c64fd008ae63cd" name="acf9cad5340d0c86c75c64fd008ae63cd"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#acf9cad5340d0c86c75c64fd008ae63cd">&#9670;&#160;</a></span>statistics()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void uwApplicationModule::statistics </td>
-          <td>(</td>
-          <td class="paramtype">Packet *&#160;</td>
-          <td class="paramname"><em>p</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">protected</span><span class="mlabel">virtual</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p>Comupte some statistics as the number of packets sent and receive between two layer, or control if the packet received is out of sequence. </p>
-
-<p class="definition">Definition at line <a class="el" href="uwApplication__module_8cpp_source.html#l00271">271</a> of file <a class="el" href="uwApplication__module_8cpp_source.html">uwApplication_module.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="uwApplication__module_8cpp_source.html#l00246">246</a> of file <a class="el" href="uwApplication__module_8cpp_source.html">uwApplication_module.cpp</a>.</p>
 
 </div>
 </div>
@@ -1420,12 +1307,42 @@ Protected Attributes</h2></td></tr>
 
 <p>Close the socket connection in the case the communication take place with socket, otherwise stop the execution of the process, so force the cancellation of period time generation. </p>
 
-<p class="definition">Definition at line <a class="el" href="uwApplication__module_8cpp_source.html#l00523">523</a> of file <a class="el" href="uwApplication__module_8cpp_source.html">uwApplication_module.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="uwApplication__module_8cpp_source.html#l00440">440</a> of file <a class="el" href="uwApplication__module_8cpp_source.html">uwApplication_module.cpp</a>.</p>
 
 </div>
 </div>
-<a id="a9273354d7befe29ac08506b30647ea7d" name="a9273354d7befe29ac08506b30647ea7d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9273354d7befe29ac08506b30647ea7d">&#9670;&#160;</a></span>updateFTT()</h2>
+<a id="a9a7d74257474df94e4ebb811a1aeae54" name="a9a7d74257474df94e4ebb811a1aeae54"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9a7d74257474df94e4ebb811a1aeae54">&#9670;&#160;</a></span>transmit()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void uwApplicationModule::transmit </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Set all the field of the DATA packet that must be send down after the creation to the below level. </p>
+<p>In this case the payload of DATA packet are generated in a random way. </p>
+
+<p class="definition">Definition at line <a class="el" href="uwApplication__module_8cpp_source.html#l00352">352</a> of file <a class="el" href="uwApplication__module_8cpp_source.html">uwApplication_module.cpp</a>.</p>
+
+</div>
+</div>
+<a id="a9964620af6216a8a1ebf4d2952048ce3" name="a9964620af6216a8a1ebf4d2952048ce3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9964620af6216a8a1ebf4d2952048ce3">&#9670;&#160;</a></span>updateFTT()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1436,7 +1353,7 @@ Protected Attributes</h2></td></tr>
         <tr>
           <td class="memname">void uwApplicationModule::updateFTT </td>
           <td>(</td>
-          <td class="paramtype">const double &amp;&#160;</td>
+          <td class="paramtype">double&#160;</td>
           <td class="paramname"><em>ftt</em></td><td>)</td>
           <td></td>
         </tr>
@@ -1448,7 +1365,8 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Update the FTT after the reception of a new packet. </p>
+<p>Returns the average Forward Trip Time. </p>
+<dl class="section return"><dt>Returns</dt><dd>the average Forward Trip Time Update the FTT after the reception of a new packet</dd></dl>
 <dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
     <tr><td class="paramname">FTT</td><td>of the current packet received </td></tr>
@@ -1456,12 +1374,12 @@ Protected Attributes</h2></td></tr>
   </dd>
 </dl>
 
-<p class="definition">Definition at line <a class="el" href="uwApplication__module_8cpp_source.html#l00644">644</a> of file <a class="el" href="uwApplication__module_8cpp_source.html">uwApplication_module.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="uwApplication__module_8cpp_source.html#l00543">543</a> of file <a class="el" href="uwApplication__module_8cpp_source.html">uwApplication_module.cpp</a>.</p>
 
 </div>
 </div>
-<a id="a27acecfa8c628ea9935c99a1174a76d6" name="a27acecfa8c628ea9935c99a1174a76d6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a27acecfa8c628ea9935c99a1174a76d6">&#9670;&#160;</a></span>updateRTT()</h2>
+<a id="afd2ec6b9c8f1ff40e8b07fef9106c39e" name="afd2ec6b9c8f1ff40e8b07fef9106c39e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#afd2ec6b9c8f1ff40e8b07fef9106c39e">&#9670;&#160;</a></span>updateRTT()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1472,7 +1390,7 @@ Protected Attributes</h2></td></tr>
         <tr>
           <td class="memname">void uwApplicationModule::updateRTT </td>
           <td>(</td>
-          <td class="paramtype">const double &amp;&#160;</td>
+          <td class="paramtype">double&#160;</td>
           <td class="paramname"><em>rtt</em></td><td>)</td>
           <td></td>
         </tr>
@@ -1492,12 +1410,12 @@ Protected Attributes</h2></td></tr>
   </dd>
 </dl>
 
-<p class="definition">Definition at line <a class="el" href="uwApplication__module_8cpp_source.html#l00592">592</a> of file <a class="el" href="uwApplication__module_8cpp_source.html">uwApplication_module.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="uwApplication__module_8cpp_source.html#l00497">497</a> of file <a class="el" href="uwApplication__module_8cpp_source.html">uwApplication_module.cpp</a>.</p>
 
 </div>
 </div>
-<a id="aedfa6f7a4690508c61c3ae42facbdfa1" name="aedfa6f7a4690508c61c3ae42facbdfa1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aedfa6f7a4690508c61c3ae42facbdfa1">&#9670;&#160;</a></span>updateThroughput()</h2>
+<a id="a01ab60f171390a61d43d93bb641505ce" name="a01ab60f171390a61d43d93bb641505ce"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a01ab60f171390a61d43d93bb641505ce">&#9670;&#160;</a></span>updateThroughput()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1508,13 +1426,13 @@ Protected Attributes</h2></td></tr>
         <tr>
           <td class="memname">void uwApplicationModule::updateThroughput </td>
           <td>(</td>
-          <td class="paramtype">const int &amp;&#160;</td>
+          <td class="paramtype">int&#160;</td>
           <td class="paramname"><em>bytes</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">const double &amp;&#160;</td>
+          <td class="paramtype">double&#160;</td>
           <td class="paramname"><em>dt</em>&#160;</td>
         </tr>
         <tr>
@@ -1538,7 +1456,7 @@ Protected Attributes</h2></td></tr>
   </dd>
 </dl>
 
-<p class="definition">Definition at line <a class="el" href="uwApplication__module_8cpp_source.html#l00652">652</a> of file <a class="el" href="uwApplication__module_8cpp_source.html">uwApplication_module.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="uwApplication__module_8cpp_source.html#l00551">551</a> of file <a class="el" href="uwApplication__module_8cpp_source.html">uwApplication_module.cpp</a>.</p>
 
 </div>
 </div>
@@ -1566,10 +1484,10 @@ Protected Attributes</h2></td></tr>
 </div><div class="memdoc">
 
 <p>If the communication take place without sockets verify if the data packets received by the server is out of order or not. </p>
-<p>In the first case discard the data packet</p>
-<dl class="section return"><dt>Returns</dt><dd><em>true</em> enable drop out of order <em>false</em> not enabled drop out of order </dd></dl>
+<p>In the first case discard the data packet.</p>
+<dl class="section return"><dt>Returns</dt><dd><em>true</em> if enable drop out of order <em>false</em> otherwise. </dd></dl>
 
-<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00323">323</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00372">372</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
 
 </div>
 </div>
@@ -1596,10 +1514,10 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>If the communication take place without sockets verify if the data generation period is constant or is choiche in according to a poisson process. </p>
-<dl class="section return"><dt>Returns</dt><dd><em>true</em> use a Poisson process to generate data <em>false</em> use a constant period data generation </dd></dl>
+<p>If the communication take place without sockets verify if the data generation period is constant or a poisson random process. </p>
+<dl class="section return"><dt>Returns</dt><dd><em>true</em> if use a Poisson process <em>false</em> if use a constant period data generation </dd></dl>
 
-<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00306">306</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00359">359</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
 
 </div>
 </div>
@@ -1626,10 +1544,10 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>If the communication take place using sockets verify if the protocol used is TCP or UDP. </p>
-<dl class="section return"><dt>Returns</dt><dd><em>true</em> socket use TCP protocol <em>false</em> socket use UDP protocol </dd></dl>
+<p>Check if the socket protocol is TCP or UDP. </p>
+<dl class="section return"><dt>Returns</dt><dd><em>true</em> if socket uses TCP protocol <em>false</em> if uses UDP. </dd></dl>
 
-<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00291">291</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00346">346</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
 
 </div>
 </div>
@@ -1656,16 +1574,16 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Verify if the communication take place with socket or the data payload is generated in a randomly way. </p>
-<dl class="section return"><dt>Returns</dt><dd><em>true</em> communication without socket <em>false</em> communication with socket </dd></dl>
+<p>Check if the communication take place without socket. </p>
+<dl class="section return"><dt>Returns</dt><dd><em>true</em> if communication without socket <em>false</em> otherwise. </dd></dl>
 
-<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00275">275</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00335">335</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
 
 </div>
 </div>
-<h2 class="groupheader">Member Data Documentation</h2>
-<a id="a469461ff0fabc8a178387377f72c3571" name="a469461ff0fabc8a178387377f72c3571"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a469461ff0fabc8a178387377f72c3571">&#9670;&#160;</a></span>chkTimerPeriod</h2>
+<h2 class="groupheader">Friends And Related Symbol Documentation</h2>
+<a id="ab36f45e5e068fb9fa8c0587993c2bd81" name="ab36f45e5e068fb9fa8c0587993c2bd81"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab36f45e5e068fb9fa8c0587993c2bd81">&#9670;&#160;</a></span>uwSendTimerAppl</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1674,7 +1592,32 @@ Protected Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="classuwApplicationModule_1_1uwSendTimerAppl.html">uwSendTimerAppl</a> uwApplicationModule::chkTimerPeriod</td>
+          <td class="memname">friend class <a class="el" href="classuwSendTimerAppl.html">uwSendTimerAppl</a></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">friend</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00088">88</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
+
+</div>
+</div>
+<h2 class="groupheader">Member Data Documentation</h2>
+<a id="ab8b55a9d37e08cbdcf3f631cfa4bff09" name="ab8b55a9d37e08cbdcf3f631cfa4bff09"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab8b55a9d37e08cbdcf3f631cfa4bff09">&#9670;&#160;</a></span>chkTimerPeriod</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="classuwSendTimerAppl.html">uwSendTimerAppl</a>* uwApplicationModule::chkTimerPeriod</td>
         </tr>
       </table>
   </td>
@@ -1684,9 +1627,9 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p><a class="el" href="classTimer.html" title="Class that handles the timers in T-LOHI nodes.">Timer</a> that schedule the period between two successive generation of DATA packets. </p>
+<p><a class="el" href="classTimer.html" title="Class that handles the timers in T-LOHI nodes.">Timer</a> that schedule the period between successive generation of DATA packets. </p>
 
-<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00543">543</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00527">527</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
 
 </div>
 </div>
@@ -1695,48 +1638,12 @@ Protected Attributes</h2></td></tr>
 
 <div class="memitem">
 <div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">struct sockaddr_in uwApplicationModule::clnAddr</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p>Client address. </p>
-
-<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00160">160</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
-
-</div>
-</div>
-<a id="ab37248582be768cfb844f4a68139ebc9" name="ab37248582be768cfb844f4a68139ebc9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab37248582be768cfb844f4a68139ebc9">&#9670;&#160;</a></span>clnSockDescr</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">int uwApplicationModule::clnSockDescr</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p>*socket descriptor for client </p>
-
-<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00158">158</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
-
-</div>
-</div>
-<a id="a6c581197d2038ca4fc06ce7ca5ffb00a" name="a6c581197d2038ca4fc06ce7ca5ffb00a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6c581197d2038ca4fc06ce7ca5ffb00a">&#9670;&#160;</a></span>debug_</h2>
-
-<div class="memitem">
-<div class="memproto">
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">int uwApplicationModule::debug_</td>
+          <td class="memname">struct sockaddr_in uwApplicationModule::clnAddr</td>
         </tr>
       </table>
   </td>
@@ -1746,9 +1653,35 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Used for debug purposes <em>1</em> debug activated <em>0</em> debug not activated. </p>
+<p>Client address. </p>
 
-<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00523">523</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00516">516</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
+
+</div>
+</div>
+<a id="ab37248582be768cfb844f4a68139ebc9" name="ab37248582be768cfb844f4a68139ebc9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab37248582be768cfb844f4a68139ebc9">&#9670;&#160;</a></span>clnSockDescr</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">int uwApplicationModule::clnSockDescr</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Socket descriptor for client. </p>
+
+<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00501">501</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
 
 </div>
 </div>
@@ -1772,9 +1705,9 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Enable or not the ordering of data packet received <em>1</em> enabled <em>0</em> not enabled. </p>
+<p>Ordering of data packet received <em>1</em> enabled <em>0</em> not enabled. </p>
 
-<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00535">535</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00478">478</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
 
 </div>
 </div>
@@ -1798,9 +1731,9 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>IP destination address. </p>
+<p>Destination IP address. </p>
 
-<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00539">539</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00473">473</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
 
 </div>
 </div>
@@ -1826,23 +1759,7 @@ Protected Attributes</h2></td></tr>
 
 <p>Expected serial number. </p>
 
-<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00575">575</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
-
-</div>
-</div>
-<a id="ac39653eec5e8c4c5b20c9ed23a175bb6" name="ac39653eec5e8c4c5b20c9ed23a175bb6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac39653eec5e8c4c5b20c9ed23a175bb6">&#9670;&#160;</a></span>exp_id</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">int uwApplicationModule::exp_id</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00174">174</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00503">503</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
 
 </div>
 </div>
@@ -1868,7 +1785,7 @@ Protected Attributes</h2></td></tr>
 
 <p>Number of FTT samples. </p>
 
-<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00574">574</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00505">505</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
 
 </div>
 </div>
@@ -1894,23 +1811,7 @@ Protected Attributes</h2></td></tr>
 
 <p>Highest received sequence number. </p>
 
-<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00578">578</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
-
-</div>
-</div>
-<a id="a2b644a4f594286225e43928b391b55f1" name="a2b644a4f594286225e43928b391b55f1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2b644a4f594286225e43928b391b55f1">&#9670;&#160;</a></span>logging</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool uwApplicationModule::logging</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00172">172</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00482">482</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
 
 </div>
 </div>
@@ -1936,7 +1837,7 @@ Protected Attributes</h2></td></tr>
 
 <p>Time of last packet reception. </p>
 
-<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00568">568</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00507">507</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
 
 </div>
 </div>
@@ -1955,14 +1856,14 @@ Protected Attributes</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+<span class="mlabels"><span class="mlabel">static</span><span class="mlabel">protected</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
 
 <p>Maximum size (bytes) of a single read of the socket. </p>
 
-<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00177">177</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00530">530</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
 
 </div>
 </div>
@@ -1971,32 +1872,24 @@ Protected Attributes</h2></td></tr>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
           <td class="memname">int uwApplicationModule::node_id</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00173">173</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
+<p>Node id to be print in log output. </p>
 
-</div>
-</div>
-<a id="ace9d56f19e6f80922e41310ef126c486" name="ace9d56f19e6f80922e41310ef126c486"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ace9d56f19e6f80922e41310ef126c486">&#9670;&#160;</a></span>out_log</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">std::ofstream uwApplicationModule::out_log</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p>Variable that handle the file in which the protocol write the statistics. </p>
-
-<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00170">170</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00499">499</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
 
 </div>
 </div>
@@ -2022,12 +1915,12 @@ Protected Attributes</h2></td></tr>
 
 <p>Size of each data packet payaload generated. </p>
 
-<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00532">532</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00476">476</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
 
 </div>
 </div>
-<a id="a94bd15425aad1cb43306bda1fd48f55b" name="a94bd15425aad1cb43306bda1fd48f55b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a94bd15425aad1cb43306bda1fd48f55b">&#9670;&#160;</a></span>PERIOD</h2>
+<a id="addf47f2bb851bae133c852c432394837" name="addf47f2bb851bae133c852c432394837"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#addf47f2bb851bae133c852c432394837">&#9670;&#160;</a></span>period</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -2036,7 +1929,7 @@ Protected Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">double uwApplicationModule::PERIOD</td>
+          <td class="memname">double uwApplicationModule::period</td>
         </tr>
       </table>
   </td>
@@ -2046,9 +1939,9 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Interval time between two successive generation data packets. </p>
+<p>Time between successive generation data packets. </p>
 
-<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00525">525</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00506">506</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
 
 </div>
 </div>
@@ -2074,7 +1967,7 @@ Protected Attributes</h2></td></tr>
 
 <p>Counter of the packets received with errors by the server. </p>
 
-<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00560">560</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00490">490</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
 
 </div>
 </div>
@@ -2101,7 +1994,7 @@ Protected Attributes</h2></td></tr>
 <p>Used for error checking after stats are reset. </p>
 <p>Set to pkts_lost+pkts_recv each time resetStats is called. </p>
 
-<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00565">565</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00495">495</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
 
 </div>
 </div>
@@ -2127,7 +2020,7 @@ Protected Attributes</h2></td></tr>
 
 <p>Counter of the packet lost during the transmission. </p>
 
-<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00555">555</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00485">485</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
 
 </div>
 </div>
@@ -2153,7 +2046,7 @@ Protected Attributes</h2></td></tr>
 
 <p>Counter of the packets received out of order by the server. </p>
 
-<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00558">558</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00488">488</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
 
 </div>
 </div>
@@ -2179,7 +2072,7 @@ Protected Attributes</h2></td></tr>
 
 <p>Counter of DATA packets received by server and not yet passed to the below levels of ISO/OSI stack protocol. </p>
 
-<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00562">562</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00492">492</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
 
 </div>
 </div>
@@ -2205,7 +2098,7 @@ Protected Attributes</h2></td></tr>
 
 <p>Counter of the packets correctly received by the server. </p>
 
-<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00556">556</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00486">486</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
 
 </div>
 </div>
@@ -2229,9 +2122,9 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Enable or not the Poisson process for generation of data packets <em>1</em> enabled <em>0</em> not enabled. </p>
+<p>Poisson process for generation of data packets <em>1</em> enabled <em>0</em> not enabled. </p>
 
-<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00529">529</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00474">474</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
 
 </div>
 </div>
@@ -2255,9 +2148,9 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Number of the port in which the server provide the service. </p>
+<p>Destination port number. </p>
 
-<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00533">533</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00477">477</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
 
 </div>
 </div>
@@ -2266,16 +2159,25 @@ Protected Attributes</h2></td></tr>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
           <td class="memname">std::queue&lt;Packet *&gt; uwApplicationModule::queuePckReadTCP</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
+<p>Atomic boolean variable that controls the socket rx looping thread. </p>
 <p>Queue that store the DATA packets recevied from the client by the server using a TCP protocol. </p>
 
-<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00163">163</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00521">521</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
 
 </div>
 </div>
@@ -2284,16 +2186,48 @@ Protected Attributes</h2></td></tr>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
           <td class="memname">std::queue&lt;Packet *&gt; uwApplicationModule::queuePckReadUDP</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
 <p>Queue that store the DATA packets recevied from the client by the server using a UDP protocol. </p>
 
-<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00167">167</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00524">524</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
+
+</div>
+</div>
+<a id="a164ccae15f9d788d9efa699f97261620" name="a164ccae15f9d788d9efa699f97261620"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a164ccae15f9d788d9efa699f97261620">&#9670;&#160;</a></span>receiving</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::atomic&lt;bool&gt; uwApplicationModule::receiving</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00519">519</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
 
 </div>
 </div>
@@ -2317,9 +2251,9 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Forward trip time. </p>
+<p>Forward round trip time. </p>
 
-<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00554">554</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00484">484</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
 
 </div>
 </div>
@@ -2345,7 +2279,33 @@ Protected Attributes</h2></td></tr>
 
 <p>Number of RTT samples. </p>
 
-<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00571">571</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00504">504</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
+
+</div>
+</div>
+<a id="aa927b45e3d0865b1c04bc439f7d0f0a3" name="aa927b45e3d0865b1c04bc439f7d0f0a3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa927b45e3d0865b1c04bc439f7d0f0a3">&#9670;&#160;</a></span>sea_trial</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">int uwApplicationModule::sea_trial</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Set to 1 to enable epoch time in log output. </p>
+
+<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00498">498</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
 
 </div>
 </div>
@@ -2354,16 +2314,24 @@ Protected Attributes</h2></td></tr>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
           <td class="memname">struct sockaddr_in uwApplicationModule::servAddr</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
 <p>Server address. </p>
 
-<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00159">159</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00515">515</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
 
 </div>
 </div>
@@ -2372,16 +2340,24 @@ Protected Attributes</h2></td></tr>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
           <td class="memname">int uwApplicationModule::servPort</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
-<p>Server port. </p>
+<p>Socket server port. </p>
 
-<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00161">161</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00502">502</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
 
 </div>
 </div>
@@ -2390,16 +2366,24 @@ Protected Attributes</h2></td></tr>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
           <td class="memname">int uwApplicationModule::servSockDescr</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
-<p>socket descriptor for server </p>
+<p>Socket descriptor for server. </p>
 
-<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00157">157</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00500">500</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
 
 </div>
 </div>
@@ -2423,9 +2407,10 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
+<p>Flag set to true if the external application is connected via a TCP socket, false if UDP. </p>
 <p>Used to keep track of the packets already received. </p>
 
-<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00550">550</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00472">472</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
 
 </div>
 </div>
@@ -2449,12 +2434,12 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00547">547</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00468">468</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
 
 </div>
 </div>
-<a id="a72efe52ebef9a345ac675ccf7598fbf0" name="a72efe52ebef9a345ac675ccf7598fbf0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a72efe52ebef9a345ac675ccf7598fbf0">&#9670;&#160;</a></span>socket_protocol</h2>
+<a id="aa989a3ddda440979098908e1fa4ce5db" name="aa989a3ddda440979098908e1fa4ce5db"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa989a3ddda440979098908e1fa4ce5db">&#9670;&#160;</a></span>socket_mutex</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -2463,7 +2448,7 @@ Protected Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">string uwApplicationModule::socket_protocol</td>
+          <td class="memname">std::mutex uwApplicationModule::socket_mutex</td>
         </tr>
       </table>
   </td>
@@ -2473,7 +2458,61 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00548">548</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
+<p>Mutex associated with the socket rx thread. </p>
+
+<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00518">518</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
+
+</div>
+</div>
+<a id="a6b257c4a1ebed96f5cb3bf8677305641" name="a6b257c4a1ebed96f5cb3bf8677305641"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6b257c4a1ebed96f5cb3bf8677305641">&#9670;&#160;</a></span>socket_tcp</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool uwApplicationModule::socket_tcp</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Flag set to true if packets are received from external application. </p>
+
+<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00470">470</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
+
+</div>
+</div>
+<a id="a20813eb30919a1b3dcaeb896422c9642" name="a20813eb30919a1b3dcaeb896422c9642"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a20813eb30919a1b3dcaeb896422c9642">&#9670;&#160;</a></span>socket_thread</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::thread uwApplicationModule::socket_thread</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Object with the socket rx thread. </p>
+
+<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00517">517</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
 
 </div>
 </div>
@@ -2499,7 +2538,7 @@ Protected Attributes</h2></td></tr>
 
 <p>Sum of bytes received. </p>
 
-<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00576">576</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00512">512</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
 
 </div>
 </div>
@@ -2525,7 +2564,7 @@ Protected Attributes</h2></td></tr>
 
 <p>Sum of the delays. </p>
 
-<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00577">577</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00513">513</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
 
 </div>
 </div>
@@ -2551,7 +2590,7 @@ Protected Attributes</h2></td></tr>
 
 <p>Sum of FTT samples. </p>
 
-<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00572">572</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00510">510</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
 
 </div>
 </div>
@@ -2577,7 +2616,7 @@ Protected Attributes</h2></td></tr>
 
 <p>Sum of (FTT^2). </p>
 
-<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00573">573</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00511">511</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
 
 </div>
 </div>
@@ -2603,7 +2642,7 @@ Protected Attributes</h2></td></tr>
 
 <p>Sum of RTT samples. </p>
 
-<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00569">569</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00508">508</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
 
 </div>
 </div>
@@ -2629,31 +2668,7 @@ Protected Attributes</h2></td></tr>
 
 <p>Sum of (RTT^2). </p>
 
-<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00570">570</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
-
-</div>
-</div>
-<a id="af7110303891ee10a98f79e05523df2e8" name="af7110303891ee10a98f79e05523df2e8"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af7110303891ee10a98f79e05523df2e8">&#9670;&#160;</a></span>tcp_udp</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">int uwApplicationModule::tcp_udp</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00549">549</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00509">509</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
 
 </div>
 </div>
@@ -2679,7 +2694,7 @@ Protected Attributes</h2></td></tr>
 
 <p>Transmission sequence number of DATA packet. </p>
 
-<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00553">553</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00483">483</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
 
 </div>
 </div>
@@ -2705,7 +2720,7 @@ Protected Attributes</h2></td></tr>
 
 <p>Identifier counter that identify uniquely the DATA packet generated. </p>
 
-<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00551">551</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="uwApplication__module_8h_source.html#l00480">480</a> of file <a class="el" href="uwApplication__module_8h_source.html">uwApplication_module.h</a>.</p>
 
 </div>
 </div>

@@ -2,7 +2,7 @@ var classUwPhysicalStats =
 [
     [ "UwPhysicalStats", "classUwPhysicalStats.html#a48d6f882ac537bac9cf9ab4a36edc45b", null ],
     [ "UwPhysicalStats", "classUwPhysicalStats.html#ae612f71b568c301b931098ab063cd85f", null ],
-    [ "~UwPhysicalStats", "classUwPhysicalStats.html#a686ac5cc35ae5c1fda65850f5d6ff07d", null ],
+    [ "~UwPhysicalStats", "classUwPhysicalStats.html#a8f9b547ba6f4447ce2764d6b88315286", null ],
     [ "clone", "classUwPhysicalStats.html#a8ac94cc2269fcbcacca4ddd36f466434", null ],
     [ "updateStats", "classUwPhysicalStats.html#a7fb2ee871c76e2702395ac63adc42076", null ],
     [ "has_error", "classUwPhysicalStats.html#a90185bb54492dca36698d2a02fa00093", null ],

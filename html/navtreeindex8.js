@@ -1,7 +1,5 @@
 var NAVTREEINDEX8 =
 {
-"classRxFrameSet.html#a24be10b0122edceaee70509d5ac02084":[9,0,170,16],
-"classRxFrameSet.html#a44113f8983d89c34a031c50b40d5a751":[9,0,170,4],
 "classRxFrameSet.html#a60ae5b3445cfef34c60523302deed896":[9,0,170,11],
 "classRxFrameSet.html#a6139b932cbff1f8c2a2ffb8de10ad8bd":[9,0,170,3],
 "classRxFrameSet.html#a847366b54557ad883ac0f7df4e88fe81":[9,0,170,0],
@@ -249,5 +247,7 @@ var NAVTREEINDEX8 =
 "classTimer.html#a18718fdd7944e09f1c0e9ff63f365a95":[9,0,186,1],
 "classTimer.html#ac048c74f75bc12472311d71cc2b7a454":[9,0,186,0],
 "classTokenBusHeaderClass.html":[9,0,190],
-"classTokenBusHeaderClass.html#aa78f42b1f999df4326119f08b9d229d4":[9,0,190,0]
+"classTokenBusHeaderClass.html#aa78f42b1f999df4326119f08b9d229d4":[9,0,190,0],
+"classTokenBusRangingHeaderClass.html":[9,0,191],
+"classTokenBusRangingHeaderClass.html#acb920ed5b8693afe03f4ffb6e0eda2b4":[9,0,191,0]
 };

@@ -19,7 +19,7 @@ var searchData=
   ['entries_5ftimestamps_16',['entries_timestamps',['../classUwRangingTDOA.html#a30906d181d4431747e2e72bd25dabfb9',1,'UwRangingTDOA']]],
   ['entry_5flast_5ftx_17',['entry_last_tx',['../classUwRangingTDOA.html#a7809ab48aa5b7ee4ae5e4a64373ebf5e',1,'UwRangingTDOA']]],
   ['epsilon_18',['epsilon',['../classUwRangingTokenBus.html#af3c3d751aca07cde3dcb767ff9386d75',1,'UwRangingTokenBus']]],
-  ['epsilon_5fs_19',['epsilon_s',['../classUwEvoLogicsS2CModem.html#ab896ef55fcdf44146e3bcca56b69aee2',1,'UwEvoLogicsS2CModem::EPSILON_S'],['../classUwAhoiModem.html#ab5e71fa9c9fba6c71d1e506c12f58490',1,'UwAhoiModem::EPSILON_S'],['../classUwModemCSA.html#af3b8f2a172818c24ab78580521971097',1,'UwModemCSA::EPSILON_S']]],
+  ['epsilon_5fs_19',['epsilon_s',['../classUwAhoiModem.html#ab5e71fa9c9fba6c71d1e506c12f58490',1,'UwAhoiModem::EPSILON_S'],['../classUwModemCSA.html#af3b8f2a172818c24ab78580521971097',1,'UwModemCSA::EPSILON_S'],['../classUwEvoLogicsS2CModem.html#ab896ef55fcdf44146e3bcca56b69aee2',1,'UwEvoLogicsS2CModem::EPSILON_S']]],
   ['errbitcnt_5fbits_20',['errbitcnt_Bits',['../classpackerCOMMON.html#afd90636e340e7ffd5ba9be05705b25cb',1,'packerCOMMON']]],
   ['error_5f_21',['error_',['../classRxFrameSet.html#a0ef8f5d29a21f4419d729ae82d36c944',1,'RxFrameSet']]],
   ['error_5fbits_22',['ERROR_Bits',['../classpackerCOMMON.html#a683e5dc4a28120efc8ba5d440ed6ab2c',1,'packerCOMMON']]],
@@ -29,8 +29,7 @@ var searchData=
   ['etx_26',['etx',['../classUwInterpreterAhoi.html#a20b5a963ddf868467452fe5458762358',1,'UwInterpreterAhoi']]],
   ['event_5fq_27',['event_q',['../classUwModem.html#a52d8c289cb6259bc869b4fe38dda6fd0',1,'UwModem']]],
   ['evologics_5fdriverlltclcode_28',['Evologics_driverllTclCode',['../DESERT__Addons_2ms2c__evologics__lowlev_2initlib_8cc.html#a89ab3b59f12ddb3f92700224fde0a65e',1,'initlib.cc']]],
-  ['exp_5fid_29',['exp_id',['../classuwApplicationModule.html#ac39653eec5e8c4c5b20c9ed23a175bb6',1,'uwApplicationModule']]],
-  ['expected_5fid_30',['expected_id',['../classUwpolling__SINK.html#ac84a09dc9ff4dabbc148886b41f2ac2e',1,'Uwpolling_SINK']]],
-  ['expected_5flast_5fid_31',['expected_last_id',['../classUwpolling__SINK.html#a41f86c299b3b9d854774cad371f261b6',1,'Uwpolling_SINK']]],
-  ['ext_5fproto_5fmode_32',['ext_proto_mode',['../classUwInterpreterS2C.html#a2b4022951c5d209772d20266863905b9',1,'UwInterpreterS2C']]]
+  ['expected_5fid_29',['expected_id',['../classUwpolling__SINK.html#ac84a09dc9ff4dabbc148886b41f2ac2e',1,'Uwpolling_SINK']]],
+  ['expected_5flast_5fid_30',['expected_last_id',['../classUwpolling__SINK.html#a41f86c299b3b9d854774cad371f261b6',1,'Uwpolling_SINK']]],
+  ['ext_5fproto_5fmode_31',['ext_proto_mode',['../classUwInterpreterS2C.html#a2b4022951c5d209772d20266863905b9',1,'UwInterpreterS2C']]]
 ];

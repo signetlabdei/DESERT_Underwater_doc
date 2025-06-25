@@ -1,9 +1,8 @@
 var classUwCbrModule =
 [
     [ "UwCbrModule", "classUwCbrModule.html#a04c946c55fe755a7a6b8888829ac59eb", null ],
-    [ "~UwCbrModule", "classUwCbrModule.html#ad9d6270cd8009092db4599ca7cb8de89", null ],
-    [ "command", "classUwCbrModule.html#ade857c8f9ebfcd7111e214d7b894b327", null ],
-    [ "crLayCommand", "classUwCbrModule.html#a1029747b515a1d7776bc36e75bf72f1d", null ],
+    [ "~UwCbrModule", "classUwCbrModule.html#aa5d1b93e5283302884f76b35ce031af1", null ],
+    [ "command", "classUwCbrModule.html#a1b4ea01c029ce26cd512df592eee66e9", null ],
     [ "getCbrHeaderSize", "classUwCbrModule.html#a13292ab3598a97a89358da0da246778f", null ],
     [ "GetFTT", "classUwCbrModule.html#ab9aaf6666e084f2c47cc610c0a3c96bb", null ],
     [ "GetFTTstd", "classUwCbrModule.html#a58ada73b8f9ee1c9595a2b9eb3e93833", null ],
@@ -20,8 +19,8 @@ var classUwCbrModule =
     [ "initPkt", "classUwCbrModule.html#a123f40fe56e06540a24bc2cc66d2a742", null ],
     [ "printIdsPkts", "classUwCbrModule.html#a4d101a0791ae8730431e520dbe12e655", null ],
     [ "printReceivedPacket", "classUwCbrModule.html#a4b6481e6c6bbbfacc76e457aa9fffb76", null ],
-    [ "recv", "classUwCbrModule.html#abb11c521e691a7574a20a2e4cd95f9f2", null ],
-    [ "recv", "classUwCbrModule.html#a30bc5cef197a50d85e5503578b2faa67", null ],
+    [ "recv", "classUwCbrModule.html#a84bc9edd376d9859a82bb1f3593a355c", null ],
+    [ "recv", "classUwCbrModule.html#a483fb5514d2ba34b5ba2aa138f26bda2", null ],
     [ "resetStats", "classUwCbrModule.html#aeeccbbc0f15fde3499b02a2cfc7270aa", null ],
     [ "sendPkt", "classUwCbrModule.html#af4720cdcbbd04c3859e416ba00986f93", null ],
     [ "sendPktHighPriority", "classUwCbrModule.html#aa663dfd00b6836f0e79b7e162c08a5e5", null ],

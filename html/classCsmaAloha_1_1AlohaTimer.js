@@ -1,10 +1,10 @@
 var classCsmaAloha_1_1AlohaTimer =
 [
     [ "AlohaTimer", "classCsmaAloha_1_1AlohaTimer.html#ad934792282613b4e8e3526b1bf99854c", null ],
-    [ "~AlohaTimer", "classCsmaAloha_1_1AlohaTimer.html#afb68824628d3e00ee2b2d86e8ac29659", null ],
+    [ "~AlohaTimer", "classCsmaAloha_1_1AlohaTimer.html#a0af4299081a151449c5d0390032a9fe9", null ],
     [ "freeze", "classCsmaAloha_1_1AlohaTimer.html#ab688d62359326f5d553a3d9793fe7b8f", null ],
-    [ "getCounter", "classCsmaAloha_1_1AlohaTimer.html#aa109ab11d08475262590c84417a85ce0", null ],
-    [ "getDuration", "classCsmaAloha_1_1AlohaTimer.html#a619ec279781472783576fe38bdc10645", null ],
+    [ "getCounter", "classCsmaAloha_1_1AlohaTimer.html#adfc70e660d1d148589e54969c9e0da58", null ],
+    [ "getDuration", "classCsmaAloha_1_1AlohaTimer.html#af61a32a6a3649b5d503941a86a213c91", null ],
     [ "incrCounter", "classCsmaAloha_1_1AlohaTimer.html#a1cc74cf91f0b70a1fc81f2988f9851dd", null ],
     [ "isActive", "classCsmaAloha_1_1AlohaTimer.html#a85b14486498ff5912979865db81ea438", null ],
     [ "isExpired", "classCsmaAloha_1_1AlohaTimer.html#afbc093873492d12ffe5484c9839a0e31", null ],
