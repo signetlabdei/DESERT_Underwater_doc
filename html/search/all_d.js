@@ -101,7 +101,7 @@ var searchData=
   ['log_5fsuffix_98',['log_suffix',['../classUWMPhy__modem.html#a4979ab2d6d6312ac59dc49ece72d1b25',1,'UWMPhy_modem::log_suffix'],['../classUwModem.html#a2405c2e3ed1aba5c6dbe1c692826a680',1,'UwModem::log_suffix'],['../classUwCbrModule.html#a3b95cdd91a32fbfd23990ce461a1d4ff',1,'UwCbrModule::log_suffix']]],
   ['logdbg_99',['LOGDBG',['../uw-csma-ca_8h.html#a8ca1480889b25918e0b62b86430ee0d6',1,'uw-csma-ca.h']]],
   ['logerr_100',['LOGERR',['../uw-csma-ca_8h.html#a7ab89dbd35f45477785b54fbef791537',1,'uw-csma-ca.h']]],
-  ['logfile_101',['logfile',['../classUWMPhy__modem.html#abe3d4fb9a80b5a436193ff5f725e504f',1,'UWMPhy_modem::logFile'],['../classUwModem.html#a93cbd810b64c61acb5455adb24d8ceca',1,'UwModem::logFile'],['../classCsmaCa.html#a03f4838c8b9483ebe7e44c68df9cb162',1,'CsmaCa::logfile']]],
+  ['logfile_101',['logfile',['../classUwModem.html#a93cbd810b64c61acb5455adb24d8ceca',1,'UwModem::logFile'],['../classCsmaCa.html#a03f4838c8b9483ebe7e44c68df9cb162',1,'CsmaCa::logfile'],['../classUWMPhy__modem.html#abe3d4fb9a80b5a436193ff5f725e504f',1,'UWMPhy_modem::logFile']]],
   ['logging_2eh_102',['logging.h',['../logging_8h.html',1,'']]],
   ['loginfo_103',['LOGINFO',['../uw-csma-ca_8h.html#a09a4fa208f1534c52b74c1b4ee430757',1,'uw-csma-ca.h']]],
   ['loglevel_104',['LogLevel',['../classUwModem.html#a0b459a7fe6912d1acc765e001f7949de',1,'UwModem']]],

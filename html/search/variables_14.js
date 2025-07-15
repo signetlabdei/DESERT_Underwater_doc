@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['t_0',['t',['../classUWMPhy__modem.html#a70e20178361d1ee072d7c51397b47c7a',1,'UWMPhy_modem::t'],['../classUwOpticalPhy.html#a1f3b68e5a84fd07dde7c3abc46a769a8',1,'UwOpticalPhy::T']]],
+  ['t_0',['t',['../classUwOpticalPhy.html#a1f3b68e5a84fd07dde7c3abc46a769a8',1,'UwOpticalPhy::T'],['../classUWMPhy__modem.html#a70e20178361d1ee072d7c51397b47c7a',1,'UWMPhy_modem::t']]],
   ['t_5f_1',['T_',['../classUwElectroMagneticMPropagation.html#a27d7b0253dd02783e16ff1e506cb7e45',1,'UwElectroMagneticMPropagation']]],
   ['t_5fack_5ftimer_2',['T_ack_timer',['../classUwpolling__AUV.html#ad2811e0aa006006b7972bf08d6974534',1,'Uwpolling_AUV']]],
   ['t_5fbck_5fchoice_5fsensor_5fbits_3',['t_bck_choice_sensor_Bits',['../classpacker__uwUFetch.html#a525fceacd911f081ff045d9ed76a9535',1,'packer_uwUFetch']]],
@@ -28,7 +28,7 @@ var searchData=
   ['t_5fmax_5fbck_5fprobe_5fnode_25',['T_max_bck_probe_node',['../classuwUFetch__NODE.html#a458f19b1f815ff1c117d5cc5ea47dad7',1,'uwUFetch_NODE']]],
   ['t_5fmax_5fbck_5frts_26',['T_max_bck_RTS',['../classuwUFetch__NODE.html#a505ab5f82663d1b78699dba512389e10',1,'uwUFetch_NODE']]],
   ['t_5fmax_5frts_27',['T_MAX_RTS',['../classuwUFetch__AUV.html#a62bc1e225b74a7d85ddf01cc0a80a6da',1,'uwUFetch_AUV']]],
-  ['t_5fmin_28',['t_min',['../classUwpolling__AUV.html#a9049c76f430c67ceb6c4c30f5aa3e683',1,'Uwpolling_AUV::T_min'],['../classMMacDACAP.html#ab6f1ec38c596af365685984ad5a93767',1,'MMacDACAP::t_min']]],
+  ['t_5fmin_28',['t_min',['../classMMacDACAP.html#ab6f1ec38c596af365685984ad5a93767',1,'MMacDACAP::t_min'],['../classUwpolling__AUV.html#a9049c76f430c67ceb6c4c30f5aa3e683',1,'Uwpolling_AUV::T_min']]],
   ['t_5fmin_5f_29',['t_min_',['../structhdr__TRIGGER__UFETCH.html#ab56882160085ef37b2550adb66c3ab36',1,'hdr_TRIGGER_UFETCH']]],
   ['t_5fmin_5fbackoff_5fprobe_30',['T_MIN_BACKOFF_PROBE',['../classuwUFetch__NODE.html#a1777c7d0373c4c81726c40904d094e1a',1,'uwUFetch_NODE']]],
   ['t_5fmin_5fbc_5f_31',['t_min_bc_',['../structhdr__BEACON__UFETCH.html#aaa9bdcf9539f66bc38f66d0189d04e40',1,'hdr_BEACON_UFETCH::t_min_bc_'],['../structhdr__CBEACON__UFETCH.html#ae8126db586be162d1465650ff92b9148',1,'hdr_CBEACON_UFETCH::t_min_bc_']]],
@@ -36,7 +36,7 @@ var searchData=
   ['t_5fmin_5fbck_5fprobe_5fnode_33',['T_min_bck_probe_node',['../classuwUFetch__NODE.html#a8aed26b621f59696fb49e18344790128',1,'uwUFetch_NODE']]],
   ['t_5fmin_5fbck_5frts_34',['T_min_bck_RTS',['../classuwUFetch__NODE.html#a5605e194240152959710d91add078428',1,'uwUFetch_NODE']]],
   ['t_5fmin_5frts_35',['T_MIN_RTS',['../classuwUFetch__AUV.html#a6dfd1c44030f40d6acd66e323c428775',1,'uwUFetch_AUV']]],
-  ['t_5fpoll_36',['t_poll',['../classuwUFetch__NODE.html#a2df4629ce70f04db5bb6ba17043b9bce',1,'uwUFetch_NODE::T_POLL'],['../classUwpolling__NODE.html#a5fa3c9c6922af70b276bb020ca68fae1',1,'Uwpolling_NODE::T_poll']]],
+  ['t_5fpoll_36',['t_poll',['../classUwpolling__NODE.html#a5fa3c9c6922af70b276bb020ca68fae1',1,'Uwpolling_NODE::T_poll'],['../classuwUFetch__NODE.html#a2df4629ce70f04db5bb6ba17043b9bce',1,'uwUFetch_NODE::T_POLL']]],
   ['t_5fpoll_5fguard_37',['T_poll_guard',['../classUwpolling__NODE.html#a30e9bb96f363fd93825e3423046e0bd4',1,'Uwpolling_NODE']]],
   ['t_5fprobe_38',['t_probe',['../classuwUFetch__NODE.html#a351cb78b87d8c3216365cf2d16032d99',1,'uwUFetch_NODE::T_PROBE'],['../classUwpolling__AUV.html#a5e47c64fde1999914c274efc4c24e959',1,'Uwpolling_AUV::T_probe'],['../classSunIPRoutingSink.html#ae057204e1b24c8f0da33ceea9aac6876',1,'SunIPRoutingSink::t_probe']]],
   ['t_5fprobe_5fguard_39',['T_probe_guard',['../classUwpolling__AUV.html#aba3774971ce953350355f1c0d2490c9f',1,'Uwpolling_AUV']]],
@@ -211,7 +211,7 @@ var searchData=
   ['tx_5ftries_208',['tx_tries',['../structhdr__dacap.html#a67ec4d032e04c1b48780195fb75ebd2f',1,'hdr_dacap']]],
   ['tx_5ftrigger_5ffinish_5ftime_209',['tx_TRIGGER_finish_time',['../classuwUFetch__AUV.html#a203b72ecb77b29124b3e9d2e9f0ea7d8',1,'uwUFetch_AUV']]],
   ['tx_5ftrigger_5fstart_5ftime_210',['tx_TRIGGER_start_time',['../classuwUFetch__AUV.html#a723b1c0879a3f23a2bdc18bb59bace08',1,'uwUFetch_AUV']]],
-  ['txactive_211',['txactive',['../classMPhy__WakeUp.html#a0432c6b43a2a9ff812ea947e524676e1',1,'MPhy_WakeUp::txActive'],['../classCsmaAloha.html#ac03072d4ba3f9c4ba7de8c0e476d5658',1,'CsmaAloha::TxActive'],['../classMMacDACAP.html#a6476f5b9ee5aa470dcb328ff764abc26',1,'MMacDACAP::TxActive'],['../classMMacTLOHI.html#a51918a435cd56e214f016d7e87689767',1,'MMacTLOHI::TxActive']]],
+  ['txactive_211',['txactive',['../classCsmaAloha.html#ac03072d4ba3f9c4ba7de8c0e476d5658',1,'CsmaAloha::TxActive'],['../classMMacDACAP.html#a6476f5b9ee5aa470dcb328ff764abc26',1,'MMacDACAP::TxActive'],['../classMMacTLOHI.html#a51918a435cd56e214f016d7e87689767',1,'MMacTLOHI::TxActive'],['../classMPhy__WakeUp.html#a0432c6b43a2a9ff812ea947e524676e1',1,'MPhy_WakeUp::txActive']]],
   ['txbeaconenabled_212',['txBEACONEnabled',['../classuwUFetch__NODE.html#a67eaa654c7d887a2633d495d5f996d47',1,'uwUFetch_NODE']]],
   ['txcbeaconenabled_213',['txCBEACONEnabled',['../classuwUFetch__NODE.html#ad5e3ccd4258a5fa7c1b3f3a55303925b',1,'uwUFetch_NODE']]],
   ['txctsenabled_214',['txCTSEnabled',['../classuwUFetch__AUV.html#aebb5abd5f2582084d78cf3d7a78d1683',1,'uwUFetch_AUV']]],
@@ -227,7 +227,7 @@ var searchData=
   ['txrtsbeforecbeacon_224',['txRTSbeforeCBEACON',['../classuwUFetch__NODE.html#ac5d0d0725fc11292b5ba4d6016e7a932',1,'uwUFetch_NODE']]],
   ['txrtsenabled_225',['txRTSEnabled',['../classuwUFetch__NODE.html#a5bfdda05aa05c4e37240bf333198f49b',1,'uwUFetch_NODE']]],
   ['txsn_226',['txsn',['../classuwApplicationModule.html#ae6e70855f202b18d27378e65062e26cd',1,'uwApplicationModule::txsn'],['../classUwCbrModule.html#a28a8b57dd6fa85462a55610f2c7841dc',1,'UwCbrModule::txsn'],['../classUwVbrModule.html#ab6c3a9a0c8605301b9e2855eeec656cc',1,'UwVbrModule::txsn'],['../classUWAloha.html#a097438a343928bbb541d6149f0af8cd3',1,'UWAloha::txsn'],['../classMMacDACAP.html#a3864041fa2a883425813d6d9fdd4f2cb',1,'MMacDACAP::txsn'],['../classUWOFDMAloha.html#aba7f433b666fb3760e4479ad2f389f63',1,'UWOFDMAloha::txsn'],['../classUWSmartOFDM.html#a266cd715a201d94ebc6768d59ee5d65f',1,'UWSmartOFDM::txsn'],['../classMMacUWSR.html#a50366b75270f7cb802a9aef5ac584575',1,'MMacUWSR::txsn'],['../classMMacTLOHI.html#a64e2a6eb69c2aaf54335450358c11e94',1,'MMacTLOHI::txsn']]],
-  ['txtime_5fbits_227',['txtime_bits',['../classpackerMAC.html#a1d520002b34a644f88f1c779081fe325',1,'packerMAC::TXtime_Bits'],['../classpackerUwCsmaCa.html#a579d653573bea41d6b3db0ab33796bb1',1,'packerUwCsmaCa::txtime_Bits'],['../classpackerCOMMON.html#a1341ba51a04e67c9dce74f65bc8cb08b',1,'packerCOMMON::TXTIME_Bits']]],
+  ['txtime_5fbits_227',['txtime_bits',['../classpackerUwCsmaCa.html#a579d653573bea41d6b3db0ab33796bb1',1,'packerUwCsmaCa::txtime_Bits'],['../classpackerMAC.html#a1d520002b34a644f88f1c779081fe325',1,'packerMAC::TXtime_Bits'],['../classpackerCOMMON.html#a1341ba51a04e67c9dce74f65bc8cb08b',1,'packerCOMMON::TXTIME_Bits']]],
   ['txtriggerenabled_228',['txTRIGGEREnabled',['../classuwUFetch__AUV.html#a2f39370ba2c1f03d37c0baa0dd1447b8',1,'uwUFetch_AUV']]],
   ['type_229',['type',['../classEndInterfEvent.html#a539f333e7ae22277634e0e5c416be6f1',1,'EndInterfEvent']]],
   ['type_5fof_5fnode_230',['type_of_node',['../classUnderwaterPhysicaldb.html#af75bd3c304a0ff0068f2c1828ee4bd3e',1,'UnderwaterPhysicaldb']]]

@@ -101,9 +101,9 @@ var searchData=
   ['rxcbeaconenabled_98',['rxCBEACONEnabled',['../classuwUFetch__NODE.html#a08c393deaff69e5dc51c883179b24cd1',1,'uwUFetch_NODE']]],
   ['rxctsenabled_99',['rxCTSEnabled',['../classuwUFetch__NODE.html#a3e1fea84ad62b4bfae5c9c6909d40dfd',1,'uwUFetch_NODE']]],
   ['rxdataenabled_100',['rxdataenabled',['../classUwpolling__AUV.html#aa9f604cf1a90de29949f7436bca05109',1,'Uwpolling_AUV::RxDataEnabled'],['../classUwpolling__SINK.html#aa1b59f85f3788bbe930f8bfefc3796f9',1,'Uwpolling_SINK::RxDataEnabled'],['../classuwUFetch__AUV.html#abaffb285768ffca04e9ebb9a72c84526',1,'uwUFetch_AUV::rxDATAEnabled'],['../classuwUFetch__NODE.html#afa7fad423d11a18780a74b7378bfab10',1,'uwUFetch_NODE::rxDATAEnabled']]],
-  ['rxpollenabled_101',['rxpollenabled',['../classUwpolling__NODE.html#aea43baeaac63d373b58ab5a043f6d6b5',1,'Uwpolling_NODE::RxPollEnabled'],['../classuwUFetch__NODE.html#aae3ad6467a96c55853727773018eeeba',1,'uwUFetch_NODE::rxPOLLEnabled']]],
+  ['rxpollenabled_101',['rxpollenabled',['../classuwUFetch__NODE.html#aae3ad6467a96c55853727773018eeeba',1,'uwUFetch_NODE::rxPOLLEnabled'],['../classUwpolling__NODE.html#aea43baeaac63d373b58ab5a043f6d6b5',1,'Uwpolling_NODE::RxPollEnabled']]],
   ['rxpowerthreshold_5f_102',['rxPowerThreshold_',['../classUwElectroMagneticPhy.html#a1d233acfd5615656734db07ff57ebf10',1,'UwElectroMagneticPhy']]],
-  ['rxprobeenabled_103',['rxprobeenabled',['../classUwpolling__AUV.html#a8280431841f7f5b0eb05f93997d5a314',1,'Uwpolling_AUV::RxProbeEnabled'],['../classuwUFetch__NODE.html#a6acbc2ce1aae6228296d340de3cb110b',1,'uwUFetch_NODE::rxPROBEEnabled']]],
+  ['rxprobeenabled_103',['rxprobeenabled',['../classuwUFetch__NODE.html#a6acbc2ce1aae6228296d340de3cb110b',1,'uwUFetch_NODE::rxPROBEEnabled'],['../classUwpolling__AUV.html#a8280431841f7f5b0eb05f93997d5a314',1,'Uwpolling_AUV::RxProbeEnabled']]],
   ['rxrtsenabled_104',['rxRTSEnabled',['../classuwUFetch__AUV.html#a7fcc220da1d8b8600b52dbea2685daae',1,'uwUFetch_AUV']]],
   ['rxtriggerenabled_105',['rxTRIGGEREnabled',['../classuwUFetch__NODE.html#a7f89d110c8a524fa3076851b4160496c',1,'uwUFetch_NODE']]]
 ];

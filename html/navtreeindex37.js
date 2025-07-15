@@ -1,5 +1,6 @@
 var NAVTREEINDEX37 =
 {
+"uwopticalbeampattern-hdr_8h.html#ab6a9bd811890b552925bac9f43423d58":[10,0,1,0,6,17,1,1],
 "uwopticalbeampattern-hdr_8h_source.html":[10,0,1,0,6,17,1],
 "uwopticalbeampattern_8cpp.html":[10,0,1,0,6,17,2],
 "uwopticalbeampattern_8cpp.html#a0acaf76e3c3bf903cb42ec001b388e9c":[10,0,1,0,6,17,2,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX37 =
 "uwsc-tracker-follower-packet_8h.html#a2d794676b592efdefbcb80f8f609589d":[10,0,0,17,9,1],
 "uwsc-tracker-follower-packet_8h_source.html":[10,0,0,17,9],
 "uwsc-tracker-module_8cc.html":[10,0,0,17,10],
-"uwsc-tracker-module_8cc.html#aa3109c9806b8ca1f90b1363a14a646ec":[10,0,0,17,10,2],
-"uwsc-tracker-module_8cc.html#ab264242aef790cea5d8d159ed9d2a29d":[10,0,0,17,10,1]
+"uwsc-tracker-module_8cc.html#aa3109c9806b8ca1f90b1363a14a646ec":[10,0,0,17,10,2]
 };

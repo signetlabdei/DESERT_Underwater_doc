@@ -52,6 +52,7 @@ var classUwInterpreterS2C =
     [ "getUSBLInfo", "classUwInterpreterS2C.html#a3238334ed4248aa4f6d29562c1a4efb1", null ],
     [ "parseResponse", "classUwInterpreterS2C.html#a88274afc2875d53ae4a121434831eb87", null ],
     [ "setExtProtoMode", "classUwInterpreterS2C.html#abd82d94e2261d8207e72e11063daef64", null ],
+    [ "setTerminator", "classUwInterpreterS2C.html#a85468312e656eb26a0c7d92aa27aa483", null ],
     [ "ext_proto_mode", "classUwInterpreterS2C.html#a2b4022951c5d209772d20266863905b9", null ],
     [ "r_term", "classUwInterpreterS2C.html#abed8d15472ef7e81e085cf3a3c7cd341", null ],
     [ "sep", "classUwInterpreterS2C.html#a9a95c6f329b252d4b6bc71e7382dc5a2", null ],

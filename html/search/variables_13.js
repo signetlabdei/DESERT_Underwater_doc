@@ -3,7 +3,7 @@ var searchData=
   ['s_0',['S',['../classUwOpticalPhy.html#a0cecec4c818b3b7eec7435c35e1adbcf',1,'UwOpticalPhy']]],
   ['s1_1',['s1',['../classUwrandomlib.html#a14640b2a3267a7fa7a55a01695643a87',1,'Uwrandomlib']]],
   ['s2_2',['s2',['../classUwrandomlib.html#a5421b80b81b329b319876694bad70af5',1,'Uwrandomlib']]],
-  ['s_5f_3',['s_',['../classUwTDMA__frame.html#a3862464d90dd4934681354c5399c35d8',1,'UwTDMA_frame::s_'],['../classUwElectroMagneticMPropagation.html#adeef0ac67593a67d20ffcb1ef5645335',1,'UwElectroMagneticMPropagation::S_']]],
+  ['s_5f_3',['s_',['../classUwElectroMagneticMPropagation.html#adeef0ac67593a67d20ffcb1ef5645335',1,'UwElectroMagneticMPropagation::S_'],['../classUwTDMA__frame.html#a3862464d90dd4934681354c5399c35d8',1,'UwTDMA_frame::s_']]],
   ['saddr_5f_4',['saddr_',['../structhdr__uwip.html#afde55f90dc43bede16840c864f315946',1,'hdr_uwip']]],
   ['saddr_5fbits_5',['SAddr_Bits',['../classpackerUWIP.html#a90b005952712453a3b4f186fcaf3e923',1,'packerUWIP']]],
   ['safe_5ftimer_5fbuffer_5f_6',['safe_timer_buffer_',['../classSunIPRoutingNode.html#af81830569caee48ee93139fbb9ab8b9d',1,'SunIPRoutingNode']]],

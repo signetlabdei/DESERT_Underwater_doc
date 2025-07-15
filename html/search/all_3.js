@@ -91,7 +91,7 @@ var searchData=
   ['bit_5ferrors_88',['bit_errors',['../classUwAhoiModem.html#a729c61beb0615f049cbed79f0991b1e5',1,'UwAhoiModem']]],
   ['bit_5frate_5finstant_89',['BIT_RATE_INSTANT',['../uwUFetch__cmn__hdr_8h.html#a7290ae5e4d642d8e710c095d9a70d9fd',1,'uwUFetch_cmn_hdr.h']]],
   ['bit_5frate_5fservice_90',['BIT_RATE_SERVICE',['../uwUFetch__cmn__hdr_8h.html#a9eb700d532bafa5cd89aae27f1f3d5c9',1,'uwUFetch_cmn_hdr.h']]],
-  ['bitrate_91',['bitrate',['../classUwInterpreterS2C.html#a5be37575f8a596c88ad71bc80769cfceabe314588af441633718b8a80aa72dd34',1,'UwInterpreterS2C::BITRATE'],['../classCsmaCa.html#ac218d7287aea59ecc81e7a686cb404d6',1,'CsmaCa::bitrate']]],
+  ['bitrate_91',['bitrate',['../classCsmaCa.html#ac218d7287aea59ecc81e7a686cb404d6',1,'CsmaCa::bitrate'],['../classUwInterpreterS2C.html#a5be37575f8a596c88ad71bc80769cfceabe314588af441633718b8a80aa72dd34',1,'UwInterpreterS2C::BITRATE']]],
   ['bitrate_5fi_92',['bitrate_i',['../classMS2C__Evo__lowlev.html#ab0dc5422f6f1b98fb015d6999c0444da',1,'MS2C_Evo_lowlev']]],
   ['bitratecar_93',['bitrateCar',['../classUWSmartOFDM.html#aa250c91bbde5a98c9804d3b00548a6ea',1,'UWSmartOFDM']]],
   ['blue_94',['Blue',['../namespaceConsoleColours.html#a21e89665e0b182ae8a509f646ada36d1',1,'ConsoleColours']]],

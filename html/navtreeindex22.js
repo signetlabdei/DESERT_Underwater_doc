@@ -1,5 +1,6 @@
 var NAVTREEINDEX22 =
 {
+"classUwpolling__AUV.html#aaec12ba28e1e594133fa76193ca79c91":[9,0,319,56],
 "classUwpolling__AUV.html#aaee3c8be0be2f9ea77eb1e69fc5020ec":[9,0,319,41],
 "classUwpolling__AUV.html#aafa5048c319611047f9cc29a62ebd77d":[9,0,319,100],
 "classUwpolling__AUV.html#ab14582e300ecb58f43a498949d262819":[9,0,319,92],
@@ -248,6 +249,5 @@ var NAVTREEINDEX22 =
 "classUwpolling__NODE_1_1Uwpolling__NODE__Timer.html#a9830113e0d6af1ec106a8a07e7210b0f":[9,0,320,3,11],
 "classUwpolling__NODE_1_1Uwpolling__NODE__Timer.html#aaa2af6a7c3c4a7ab3fd7ab2591ca2011":[9,0,320,3,16],
 "classUwpolling__NODE_1_1Uwpolling__NODE__Timer.html#acae1d4804951812d2662c73e5d0a9828":[9,0,320,3,4],
-"classUwpolling__NODE_1_1Uwpolling__NODE__Timer.html#ae1a14a3421661aa8919ce654f9ef76e7":[9,0,320,3,9],
-"classUwpolling__NODE_1_1Uwpolling__NODE__Timer.html#ae744867d950e0be57bb64b4ce1f2f16f":[9,0,320,3,1]
+"classUwpolling__NODE_1_1Uwpolling__NODE__Timer.html#ae1a14a3421661aa8919ce654f9ef76e7":[9,0,320,3,9]
 };

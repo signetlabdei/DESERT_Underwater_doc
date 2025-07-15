@@ -1,5 +1,6 @@
 var NAVTREEINDEX33 =
 {
+"structhdr__uwm__tr.html#a5a85a7efb949043cdd65c31691a2b228":[9,0,83,2],
 "structhdr__uwm__tr.html#a79ad78b916b83d5658e2f3c45829b1be":[9,0,83,1],
 "structhdr__uwm__tr.html#abc8cfe8a866f5f366524f8a563bed76c":[9,0,83,0],
 "structhdr__uwmultiphy__data.html":[9,0,84],
@@ -248,6 +249,5 @@ var NAVTREEINDEX33 =
 "uw-csma-aloha_8h.html#abc57bef6cfea703761ffc52aa0fe2b08":[10,0,1,0,2,0,2,6],
 "uw-csma-aloha_8h.html#ac589d550f0a7f63f1829b6589875fd4b":[10,0,1,0,2,0,2,9],
 "uw-csma-aloha_8h_source.html":[10,0,1,0,2,0,2],
-"uw-csma-ca-hdrs_8h.html":[10,0,1,0,2,2,1],
-"uw-csma-ca-hdrs_8h.html#a411da47d84b1c47df575b3a5d580d198":[10,0,1,0,2,2,1,2]
+"uw-csma-ca-hdrs_8h.html":[10,0,1,0,2,2,1]
 };
