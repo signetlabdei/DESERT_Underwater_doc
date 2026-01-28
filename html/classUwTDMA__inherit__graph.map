@@ -1,9 +1,9 @@
 <map id="UwTDMA" name="UwTDMA">
-<area shape="rect" id="Node000001" title="Class that represents a TDMA Node." alt="" coords="109,79,191,104"/>
-<area shape="rect" id="Node000003" href="$classUwRangingTDMA.html" title="Class that represents a UwRangingTDMA Node." alt="" coords="5,152,140,177"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="129,115,87,154,84,150,126,111"/>
-<area shape="rect" id="Node000004" href="$classUwTDMA__frame.html" title="Class that represents a TDMA_frame MAC layer of a Node." alt="" coords="165,152,293,177"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="175,111,218,150,214,154,171,115"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="119,5,181,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="153,44,153,79,147,79,147,44"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="104,119,285,704"/>
+<area shape="rect" id="Node000003" href="$classUwRangingTDMA.html" title=" " alt="" coords="5,762,168,1087"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="133,718,123,762,118,761,128,717"/>
+<area shape="rect" id="Node000004" href="$classUwTDMA__frame.html" title=" " alt="" coords="193,752,413,1097"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="262,717,269,751,264,752,256,718"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="168,5,221,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="197,84,197,119,192,119,192,84"/>
 </map>

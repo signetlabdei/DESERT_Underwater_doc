@@ -1,15 +1,15 @@
 <map id="UWOFDMAloha::AckTimer" name="UWOFDMAloha::AckTimer">
-<area shape="rect" id="Node000001" title="Base class of AckTimer, which is a derived class of UWOFDMAlohaTimer." alt="" coords="5,5,197,31"/>
-<area shape="rect" id="Node000004" href="$classUWOFDMAloha.html" title=" " alt="" coords="232,93,355,119"/>
-<area shape="poly" id="edge5_Node000004_Node000001" title=" " alt="" coords="141,34,268,91,266,96,139,39"/>
-<area shape="rect" id="Node000002" href="$classUWOFDMAloha_1_1UWOFDMAlohaTimer.html" title="Base class of all the timer used in this protocol." alt="" coords="33,181,263,221"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,173,96,148,81,119,77,95,80,70,93,30,98,32,85,71,83,95,87,118,101,146,120,170"/>
-<area shape="rect" id="Node000006" href="$classUWOFDMAloha_1_1BackOffTimer.html" title="Base class of BackoffTimer." alt="" coords="120,271,339,296"/>
-<area shape="poly" id="edge7_Node000006_Node000002" title=" " alt="" coords="179,229,219,269,216,272,175,233"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="97,93,207,119"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="154,132,151,181,146,181,148,132"/>
-<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="245,126,208,145,185,163,166,183,162,179,182,159,205,140,242,121"/>
-<area shape="rect" id="Node000005" title=" " alt="" coords="263,5,324,31"/>
-<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="296,45,296,93,291,93,291,45"/>
-<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="247,259,272,220,285,190,291,157,292,119,297,119,296,158,290,191,277,223,251,261"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,189,111"/>
+<area shape="rect" id="Node000004" href="$classUWOFDMAloha.html" title=" " alt="" coords="205,173,387,819"/>
+<area shape="poly" id="edge5_Node000004_Node000001" title=" " alt="" coords="149,109,173,139,194,172,200,183,196,186,190,175,169,142,145,112"/>
+<area shape="rect" id="Node000002" href="$classUWOFDMAloha_1_1UWOFDMAlohaTimer.html" title=" " alt="" coords="22,881,245,1281"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="71,868,63,819,42,638,34,496,41,354,63,173,77,110,82,112,68,174,46,354,40,496,47,638,68,818,76,868"/>
+<area shape="rect" id="Node000006" href="$classUWOFDMAloha_1_1BackOffTimer.html" title=" " alt="" coords="109,1331,320,1436"/>
+<area shape="poly" id="edge7_Node000006_Node000002" title=" " alt="" coords="193,1294,203,1330,198,1331,188,1295"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="78,463,181,529"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="132,542,135,881,129,881,127,543"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="208,788,194,820,181,844,174,866,169,864,176,842,190,818,203,786"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="269,25,323,91"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="299,104,299,173,293,173,293,104"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="237,1329,253,1281,274,1170,288,1056,297,943,301,835,306,835,302,943,293,1057,279,1171,259,1282,242,1331"/>
 </map>

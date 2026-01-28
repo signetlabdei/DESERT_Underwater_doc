@@ -1,19 +1,19 @@
 <map id="UWSmartOFDM::UWSmartOFDMTimer" name="UWSmartOFDM::UWSmartOFDMTimer">
-<area shape="rect" id="Node000001" title="Base class of all the timer used in this protocol." alt="" coords="164,169,436,195"/>
-<area shape="rect" id="Node000003" href="$classUWSmartOFDM_1_1AckTimer.html" title="Base class of AckTimer, which is a derived class of UWSmartOFDMTimer." alt="" coords="510,5,705,31"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="322,157,390,98,435,66,483,40,515,28,517,33,485,44,437,71,393,102,325,162"/>
-<area shape="rect" id="Node000004" href="$classUWSmartOFDM_1_1AssignmentTimer.html" title="Base class of AssignmentTimer." alt="" coords="484,55,731,80"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="333,160,401,125,483,90,529,78,530,83,485,95,404,129,336,165"/>
-<area shape="rect" id="Node000005" href="$classUWSmartOFDM_1_1AssignmentValidTimer.html" title="Base class of AssignmentValidTimer." alt="" coords="487,105,728,145"/>
-<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="382,164,499,142,500,147,383,169"/>
-<area shape="rect" id="Node000006" href="$classUWSmartOFDM_1_1BackOffTimer.html" title="Base class of BackoffTimer." alt="" coords="497,169,718,195"/>
-<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="450,179,496,179,496,185,450,185"/>
-<area shape="rect" id="Node000007" href="$classUWSmartOFDM_1_1CTSTimer.html" title="Base class of CTSTimer." alt="" coords="510,219,705,244"/>
-<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="394,194,528,216,527,221,393,200"/>
-<area shape="rect" id="Node000008" href="$classUWSmartOFDM_1_1DATATimer.html" title=" " alt="" coords="506,268,709,293"/>
-<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="342,198,408,227,485,254,530,265,529,271,483,259,406,232,339,203"/>
-<area shape="rect" id="Node000009" href="$classUWSmartOFDM_1_1RTSTimer.html" title="Base class of RTSTimer." alt="" coords="510,317,705,343"/>
-<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="328,201,396,253,439,281,485,304,520,315,518,320,483,308,437,285,393,258,324,206"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,169,116,195"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,179,164,179,164,185,130,185"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="712,119,976,444"/>
+<area shape="rect" id="Node000003" href="$classUWSmartOFDM_1_1AckTimer.html" title=" " alt="" coords="5,499,192,605"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="700,324,465,396,333,443,205,494,189,502,187,497,203,490,332,438,463,391,698,319"/>
+<area shape="rect" id="Node000004" href="$classUWSmartOFDM_1_1AssignmentTimer.html" title=" " alt="" coords="217,499,455,605"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="701,361,435,502,432,497,699,356"/>
+<area shape="rect" id="Node000005" href="$classUWSmartOFDM_1_1AssignmentValidTimer.html" title=" " alt="" coords="479,492,713,612"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="704,438,653,493,649,490,700,434"/>
+<area shape="rect" id="Node000006" href="$classUWSmartOFDM_1_1BackOffTimer.html" title=" " alt="" coords="737,499,951,605"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="847,458,847,499,841,499,841,458"/>
+<area shape="rect" id="Node000007" href="$classUWSmartOFDM_1_1CTSTimer.html" title=" " alt="" coords="975,499,1161,605"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="987,450,1027,497,1023,501,983,453"/>
+<area shape="rect" id="Node000008" href="$classUWSmartOFDM_1_1DATATimer.html" title=" " alt="" coords="1185,499,1380,605"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="989,368,1200,497,1197,501,986,373"/>
+<area shape="rect" id="Node000009" href="$classUWSmartOFDM_1_1RTSTimer.html" title=" " alt="" coords="1404,499,1591,605"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="990,329,1183,401,1393,490,1408,497,1406,502,1391,494,1181,406,988,334"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="793,5,895,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="847,84,847,118,841,118,841,84"/>
 </map>

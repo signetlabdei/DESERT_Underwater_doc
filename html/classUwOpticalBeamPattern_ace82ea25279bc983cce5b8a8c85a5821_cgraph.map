@@ -1,0 +1,9 @@
+<map id="UwOpticalBeamPattern::command" name="UwOpticalBeamPattern::command">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,179,75"/>
+<area shape="rect" id="Node000002" href="$classUwOpticalBeamPattern.html#a85e596e40308a5e3fea9db3a1d64d972" title=" " alt="" coords="233,5,406,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,41,219,36,220,41,179,46"/>
+<area shape="rect" id="Node000003" href="$classUwOpticalPhy.html#aefd3753399cf9e62aa4b0cfc8b8d7cc7" title=" " alt="" coords="227,70,412,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="179,63,213,67,213,72,179,68"/>
+<area shape="rect" id="Node000004" href="$classUwOpticalPhy.html#a04ed2c8dc0bb78710743b17a7d65a0d8" title=" " alt="" coords="460,70,661,95"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="412,80,446,80,446,85,412,85"/>
+</map>

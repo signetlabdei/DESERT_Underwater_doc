@@ -1,0 +1,24 @@
+<map id="UnderwaterPhysicalRogersModel::getGain" name="UnderwaterPhysicalRogersModel::getGain">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,129,203,169"/>
+<area shape="rect" id="Node000002" href="$classUnderwaterPhysicalRogersModel.html#a7412ea679f262d16d3ef7a41afddc61d" title=" " alt="" coords="251,129,448,169"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="203,147,237,147,237,152,203,152"/>
+<area shape="rect" id="Node000003" href="$classUnderwaterPhysicalRogersModel.html#a57b796f559b9ab917d1ffdb1ee6bd8e7" title=" " alt="" coords="741,69,939,109"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="371,127,424,86,458,66,495,51,530,43,566,38,639,39,707,49,767,63,765,68,706,54,638,45,567,44,531,48,497,56,461,71,427,90,374,131"/>
+<area shape="rect" id="Node000007" href="$classUnderwaterPhysicalRogersModel.html#a336121b431e9a20096a246a326145676" title=" " alt="" coords="496,65,693,105"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="426,127,504,106,505,111,427,132"/>
+<area shape="rect" id="Node000008" href="$classUnderwaterPhysicalRogersModel.html#afe6ad38d1789eb44538cd9c4a1df687d" title=" " alt="" coords="496,129,693,169"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="448,147,482,147,482,152,448,152"/>
+<area shape="rect" id="Node000009" href="$classUnderwaterPhysicalRogersModel.html#a0914df5836bf93502230239c748e04a3" title=" " alt="" coords="496,193,693,233"/>
+<area shape="poly" id="edge9_Node000002_Node000009" title=" " alt="" coords="427,167,505,187,504,192,426,172"/>
+<area shape="rect" id="Node000011" href="$classUnderwaterPhysicalRogersModel.html#a5bd500c411611b5efa0f9cb2d9f33184" title=" " alt="" coords="496,257,693,297"/>
+<area shape="poly" id="edge11_Node000002_Node000011" title=" " alt="" coords="378,167,432,205,497,243,513,250,511,255,495,248,429,210,375,172"/>
+<area shape="rect" id="Node000004" href="$classUnderwaterPhysicalRogersModel.html#a537ef7a6fa9bc8b962f9c0bb1037e42d" title=" " alt="" coords="987,5,1184,45"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="917,67,994,46,996,51,918,72"/>
+<area shape="rect" id="Node000005" href="$classUnderwaterPhysicalRogersModel.html#a1e4f27e1a35deed95607fc7670fc2d85" title=" " alt="" coords="987,69,1184,109"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="939,87,973,87,973,92,939,92"/>
+<area shape="rect" id="Node000006" href="$classUnderwaterPhysicalRogersModel.html#af5033d625cfbd5f4a5f27116edc96cb6" title=" " alt="" coords="987,133,1184,173"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="918,107,996,127,994,132,917,112"/>
+<area shape="poly" id="edge8_Node000008_Node000003" title=" " alt="" coords="677,127,744,110,745,115,678,132"/>
+<area shape="rect" id="Node000010" href="$classUnderwaterPhysicalRogersModel.html#a50f9054445a06852997f93ec65239687" title=" " alt="" coords="741,193,939,233"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="694,211,728,211,728,216,694,216"/>
+</map>

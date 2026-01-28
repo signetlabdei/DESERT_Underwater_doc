@@ -1,9 +1,0 @@
-<map id="uwip&#45;module.h" name="uwip&#45;module.h">
-<area shape="rect" id="Node000001" title="Provides the UWIP packets header description. Definition of the class that define the network layer." alt="" coords="93,5,211,31"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,79,88,104"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="137,33,76,73,74,69,134,28"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="112,79,192,104"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="155,31,155,65,149,65,149,31"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="216,79,275,104"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="169,29,221,68,218,72,165,33"/>
-</map>

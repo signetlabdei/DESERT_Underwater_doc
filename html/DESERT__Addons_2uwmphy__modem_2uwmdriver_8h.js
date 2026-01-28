@@ -1,7 +1,6 @@
 var DESERT__Addons_2uwmphy__modem_2uwmdriver_8h =
 [
     [ "UWMdriver", "classUWMdriver.html", "classUWMdriver" ],
-    [ "MAX_LOG_LEVEL", "DESERT__Addons_2uwmphy__modem_2uwmdriver_8h.html#a2edaaf7dffdc596274051c66a754f580", null ],
     [ "log_level_t", "DESERT__Addons_2uwmphy__modem_2uwmdriver_8h.html#ac9b03b42b7847f9480f500b0906a5690", null ],
     [ "modem_state_t", "DESERT__Addons_2uwmphy__modem_2uwmdriver_8h.html#ab0e02a2b35fc5b9e0b871a0321f7a822", null ],
     [ "LOG_LEVEL", "DESERT__Addons_2uwmphy__modem_2uwmdriver_8h.html#aa5a9053636a30269210c54e734e0d583", [

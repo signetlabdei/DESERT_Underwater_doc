@@ -1,0 +1,17 @@
+<map id="UwTokenBus::Phy2MacEndTx" name="UwTokenBus::Phy2MacEndTx">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,32,216,57"/>
+<area shape="rect" id="Node000002" href="$classUwTokenBus.html#aea29c16aefc2d0c7864d6382a2865665" title=" " alt="" coords="264,32,420,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,42,250,42,250,47,216,47"/>
+<area shape="rect" id="Node000003" href="$classUwTokenBus.html#a7c597bfdc734338baddc622c7b9edcf0" title=" " alt="" coords="696,5,915,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="394,29,468,17,578,10,682,10,682,15,578,15,468,22,395,35"/>
+<area shape="rect" id="Node000005" href="$classUwTokenBus.html#a7a86a655618465b6655a6150a152f0fd" title=" " alt="" coords="479,32,637,57"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="420,42,465,42,465,47,420,47"/>
+<area shape="rect" id="Node000006" href="$classUwTokenBus.html#ad772f32b89f62c9778e605771ffaf49d" title=" " alt="" coords="468,81,648,107"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="399,55,489,76,488,81,398,60"/>
+<area shape="rect" id="Node000004" href="$structhdr__tokenbus.html#aded32750ff6e413ff45e1ffe7391840b" title=" " alt="" coords="963,31,1128,56"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="915,27,949,31,949,36,915,32"/>
+<area shape="poly" id="edge7_Node000006_Node000003" title=" " alt="" coords="606,79,647,66,695,47,744,32,746,37,697,53,649,71,608,84"/>
+<area shape="poly" id="edge8_Node000006_Node000004" title=" " alt="" coords="648,82,949,51,949,56,649,87"/>
+<area shape="rect" id="Node000007" href="$structhdr__tokenbus.html#a42185a88446648452db10bd3327105bc" title=" " alt="" coords="723,107,888,132"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="648,101,709,107,709,112,648,106"/>
+</map>

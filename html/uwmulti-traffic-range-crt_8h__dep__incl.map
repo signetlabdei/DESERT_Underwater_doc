@@ -1,7 +1,0 @@
-<map id="uwmulti&#45;traffic&#45;range&#45;crt.h" name="uwmulti&#45;traffic&#45;range&#45;crt.h">
-<area shape="rect" id="Node000001" title=" " alt="" coords="35,5,195,45"/>
-<area shape="rect" id="Node000002" href="$DESERT__Addons_2uwmulti__traffic__control_2initlib_8cc.html" title="file to initialize the libuwphysical.so library" alt="" coords="5,101,83,126"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,58,56,102,52,99,88,54"/>
-<area shape="rect" id="Node000003" href="$uwmulti-traffic-range-crt_8cc.html" title="Implementation of UwMultiTrafficControl class." alt="" coords="107,93,267,133"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="141,54,173,91,169,95,137,58"/>
-</map>

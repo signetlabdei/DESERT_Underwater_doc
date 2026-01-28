@@ -1,5 +1,5 @@
 <map id="SinkProbeTimer" name="SinkProbeTimer">
-<area shape="rect" id="Node000001" title="SinkProbeTimer class is used to handle the validity time of a probe message." alt="" coords="5,79,131,104"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="13,5,123,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="71,44,71,79,65,79,65,44"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,119,147,204"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="25,5,127,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="79,85,79,119,73,119,73,85"/>
 </map>

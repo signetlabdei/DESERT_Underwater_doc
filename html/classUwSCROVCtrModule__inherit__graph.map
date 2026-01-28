@@ -1,9 +1,9 @@
 <map id="UwSCROVCtrModule" name="UwSCROVCtrModule">
-<area shape="rect" id="Node000001" title="UwSCROVCtrModule class adds to the UwROVCtrModule class the possibility to receive and send cross lay..." alt="" coords="5,225,160,251"/>
-<area shape="rect" id="Node000002" href="$classUwROVCtrModule.html" title="UwROVCtrModule class is used to manage UWROVCtr packets and to collect statistics about them." alt="" coords="13,152,152,177"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,191,85,225,80,225,80,191"/>
-<area shape="rect" id="Node000003" href="$classUwCbrModule.html" title="UwCbrModule class is used to manage UWCBR packets and to collect statistics about them." alt="" coords="26,79,139,104"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="85,118,85,152,80,152,80,118"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="47,5,118,31"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="85,44,85,79,80,79,80,44"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="9,1485,191,1651"/>
+<area shape="rect" id="Node000002" href="$classUwROVCtrModule.html" title=" " alt="" coords="5,952,195,1437"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,1451,103,1485,97,1485,97,1451"/>
+<area shape="rect" id="Node000003" href="$classUwCbrModule.html" title=" " alt="" coords="16,119,184,904"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="103,918,103,952,97,952,97,918"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="69,5,131,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="103,85,103,118,97,118,97,85"/>
 </map>

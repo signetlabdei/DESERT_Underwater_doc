@@ -1,9 +1,0 @@
-<map id="uwconnector.h" name="uwconnector.h">
-<area shape="rect" id="Node000001" title="Generic class that provides a method to interface with the devices. Will be specialized for,..." alt="" coords="57,5,173,31"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,79,61,104"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,33,59,72,55,68,100,29"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="85,79,144,104"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="117,31,117,65,112,65,112,31"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="169,79,231,104"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="130,29,177,68,174,72,127,33"/>
-</map>

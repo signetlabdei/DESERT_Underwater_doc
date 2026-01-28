@@ -1,0 +1,11 @@
+<map id="Uwjammer::stateIdle" name="Uwjammer::stateIdle">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,164,56"/>
+<area shape="rect" id="Node000002" href="$classUwjammer.html#a4580d3104191cb4fed1dfe0064515b3d" title=" " alt="" coords="212,31,352,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,41,198,41,198,46,164,46"/>
+<area shape="rect" id="Node000003" href="$structhdr__JAMMER.html#ad2d3054ef438c09b7b37eb556baf776c" title=" " alt="" coords="423,5,585,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="352,33,409,26,409,31,352,38"/>
+<area shape="rect" id="Node000004" href="$classUwjammer.html#af623f0947ec230f7b501160c9de18cb4" title=" " alt="" coords="400,55,608,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="352,48,387,52,386,57,352,54"/>
+<area shape="rect" id="Node000005" href="$classUwjammer.html#afbb433d2e5a35fd8562bacb6e4de9390" title=" " alt="" coords="656,55,839,80"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="608,65,642,65,642,70,608,70"/>
+</map>

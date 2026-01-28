@@ -3,7 +3,6 @@ var classUwCbrModule =
     [ "UwCbrModule", "classUwCbrModule.html#a04c946c55fe755a7a6b8888829ac59eb", null ],
     [ "~UwCbrModule", "classUwCbrModule.html#aa5d1b93e5283302884f76b35ce031af1", null ],
     [ "command", "classUwCbrModule.html#a1b4ea01c029ce26cd512df592eee66e9", null ],
-    [ "getCbrHeaderSize", "classUwCbrModule.html#a13292ab3598a97a89358da0da246778f", null ],
     [ "GetFTT", "classUwCbrModule.html#ab9aaf6666e084f2c47cc610c0a3c96bb", null ],
     [ "GetFTTstd", "classUwCbrModule.html#a58ada73b8f9ee1c9595a2b9eb3e93833", null ],
     [ "GetPER", "classUwCbrModule.html#ac4441b7ca69888c10635e7a8f2877fd5", null ],
@@ -69,6 +68,5 @@ var classUwCbrModule =
     [ "tracefile_enabler_", "classUwCbrModule.html#a78686bf4a41d2a6c81f03907e56e9ad8", null ],
     [ "tracefilename", "classUwCbrModule.html#a156a764a6643e6cc994715b79d57dacf", null ],
     [ "traffic_type_", "classUwCbrModule.html#a499b22f0e870772088d364eae5f27cf5", null ],
-    [ "txsn", "classUwCbrModule.html#a28a8b57dd6fa85462a55610f2c7841dc", null ],
-    [ "uidcnt_", "classUwCbrModule.html#a1a7e36ebf15e2046eba4409550eccef2", null ]
+    [ "txsn", "classUwCbrModule.html#a28a8b57dd6fa85462a55610f2c7841dc", null ]
 ];

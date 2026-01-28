@@ -1,9 +1,9 @@
 <map id="UwPosBasedRtROV" name="UwPosBasedRtROV">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,168,153,193"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="23,80,93,105"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="67,118,79,167,74,168,62,119"/>
-<area shape="rect" id="Node000003" href="$classUWSMPosition.html" title=" " alt="" coords="118,80,235,105"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="155,116,95,169,91,165,152,112"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="139,5,214,31"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="179,45,179,80,174,80,174,45"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,648,181,913"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="19,320,82,385"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="58,399,83,647,77,648,53,399"/>
+<area shape="rect" id="Node000003" href="$classUWSMPosition.html" title=" " alt="" coords="106,120,251,585"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="135,586,125,633,120,632,130,585"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="145,5,212,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="181,84,181,120,176,120,176,84"/>
 </map>

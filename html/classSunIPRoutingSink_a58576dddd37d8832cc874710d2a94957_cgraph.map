@@ -1,0 +1,27 @@
+<map id="SunIPRoutingSink::transmit" name="SunIPRoutingSink::transmit">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,77,204,103"/>
+<area shape="rect" id="Node000002" href="$classSunIPRoutingSink.html#a8abf9f778a7f3af135058f8bbdd25906" title=" " alt="" coords="257,41,459,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,76,243,71,243,77,205,81"/>
+<area shape="rect" id="Node000003" href="$classSunIPRoutingSink.html#a688f4fc449eea664dada66a81c23273b" title=" " alt="" coords="252,105,464,131"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="205,98,239,102,238,107,204,104"/>
+<area shape="rect" id="Node000004" href="$structhdr__uwip.html#a16e0de7381f90758f28f2900505a2b00" title=" " alt="" coords="810,5,937,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="423,103,463,90,487,77,511,64,586,43,662,30,796,17,797,23,662,35,587,49,513,68,489,81,465,95,425,108"/>
+<area shape="rect" id="Node000005" href="$classSunIPRoutingSink.html#a5f432aa39d57c4e44137fde89f454626" title=" " alt="" coords="520,155,723,180"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="427,128,540,149,539,155,426,133"/>
+<area shape="rect" id="Node000006" href="$classSunIPRoutingSink.html#aac1169f66fcca302f7171bbc1de2d1d1" title=" " alt="" coords="528,204,715,229"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="383,128,441,159,513,190,539,198,537,203,511,195,438,164,380,133"/>
+<area shape="rect" id="Node000007" href="$structhdr__uwip.html#aa83dd6cc09a137c0679ccdadb4e93694" title=" " alt="" coords="811,55,936,80"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="427,103,512,90,663,76,796,68,797,73,664,81,512,95,428,108"/>
+<area shape="rect" id="Node000008" href="$classSunIPRoutingSink.html#ad0ee555e71b2bf5a484311387f0c0266" title=" " alt="" coords="512,105,731,131"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="464,115,499,115,499,121,464,121"/>
+<area shape="poly" id="edge9_Node000008_Node000004" title=" " alt="" coords="644,103,704,72,778,40,801,32,802,37,780,44,706,77,647,108"/>
+<area shape="poly" id="edge10_Node000008_Node000007" title=" " alt="" coords="685,103,797,80,798,85,686,108"/>
+<area shape="rect" id="Node000009" href="$classSunIPRoutingSink.html#a8f223c329f91ff7b1f65d09032b693ba" title=" " alt="" coords="781,218,966,258"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="709,128,732,140,749,156,757,172,765,188,780,204,789,209,786,214,777,208,761,191,753,175,745,159,729,144,706,133"/>
+<area shape="rect" id="Node000010" href="$structhdr__uwcbr.html#abb8022a5c1cd16fa5c4f258193d13e1d" title=" " alt="" coords="817,283,929,308"/>
+<area shape="poly" id="edge11_Node000008_Node000010" title=" " alt="" coords="715,129,732,140,746,156,754,172,758,205,761,238,768,253,780,268,806,283,803,288,777,272,763,256,756,239,752,206,749,174,742,159,729,144,712,133"/>
+<area shape="rect" id="Node000011" href="$structhdr__sun__ack.html#aed3388d72aa0d2c0eea96c0271c73ba8" title=" " alt="" coords="808,104,939,129"/>
+<area shape="poly" id="edge12_Node000008_Node000011" title=" " alt="" coords="731,115,794,114,794,120,731,120"/>
+<area shape="rect" id="Node000012" href="$classSunIPRoutingSink.html#ac59d78df3c990805335e284bd055031d" title=" " alt="" coords="779,154,968,194"/>
+<area shape="poly" id="edge13_Node000008_Node000012" title=" " alt="" coords="681,128,731,139,771,148,770,154,730,145,680,133"/>
+</map>

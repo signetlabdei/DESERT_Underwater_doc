@@ -1,0 +1,16 @@
+<map id="UwOpticalMPropagation::getGain" name="UwOpticalMPropagation::getGain">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,105,184,145"/>
+<area shape="rect" id="Node000002" href="$classUwOpticalMPropagation.html#a97d6385d5bae519ad5d27e9aa4550ee8" title=" " alt="" coords="232,5,411,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,103,231,55,248,48,250,53,233,60,135,107"/>
+<area shape="rect" id="Node000004" href="$classUwOpticalMPropagation.html#a25364a447895a391c35ebd8e1f51fd80" title=" " alt="" coords="232,69,411,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="184,108,218,103,219,108,185,114"/>
+<area shape="rect" id="Node000005" href="$classUwOpticalMPropagation.html#a269e458c92b245877deeef904ecdd05f" title=" " alt="" coords="232,134,411,189"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="185,137,219,142,218,148,184,142"/>
+<area shape="rect" id="Node000007" href="$classUwOpticalMPropagation.html#a629e899418a56a48a5603a1d4493a64a" title=" " alt="" coords="232,213,411,253"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="130,143,233,199,249,206,247,211,231,204,127,148"/>
+<area shape="rect" id="Node000003" href="$classUwOpticalMPropagation.html#a5406277e596df8d332df05a43d668433" title=" " alt="" coords="459,5,637,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="411,23,445,23,445,28,411,28"/>
+<area shape="rect" id="Node000006" href="$classUwOpticalMPropagation.html#a18944d73c8f01ab32e336c397475691d" title=" " alt="" coords="459,177,637,217"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="412,173,446,178,445,184,411,178"/>
+<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="411,216,445,211,446,216,412,222"/>
+</map>

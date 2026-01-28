@@ -1,0 +1,8 @@
+<map id="UWSMPosition::command" name="UWSMPosition::command">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,196,56"/>
+<area shape="rect" id="Node000002" href="$classUWSMPosition.html#a85ef54b4c1cad23f5cd5615c85d125b8" title=" " alt="" coords="244,5,417,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,30,230,26,231,32,197,35"/>
+<area shape="rect" id="Node000003" href="$classUWSMPosition.html#a67f97e5d9dafad7b5b85aad760d675f7" title=" " alt="" coords="465,31,636,56"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="196,41,452,41,452,46,196,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="418,25,452,29,451,35,418,31"/>
+</map>

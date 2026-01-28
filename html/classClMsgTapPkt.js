@@ -8,7 +8,6 @@ var classClMsgTapPkt =
     [ "getTimestamp", "classClMsgTapPkt.html#a48c4abdc167d8dfd096e8771c339ad9d", null ],
     [ "getTxDuration", "classClMsgTapPkt.html#a7e82150ec52ecfcc8c613e2e714ddce4", null ],
     [ "setPacket", "classClMsgTapPkt.html#a4261ea007c27605c74e9c1aeb08caef1", null ],
-    [ "CLMSG_TAP_VERBOSITY", "classClMsgTapPkt.html#a3937a016d7f1b1f0b81931762058532c", null ],
     [ "clmsg_type", "classClMsgTapPkt.html#a1f6ea8736b0c87d9f4cbe22ca07f9927", null ],
     [ "pkt", "classClMsgTapPkt.html#a98d115a72cc327c4405e54959d0ebb94", null ],
     [ "timestamp", "classClMsgTapPkt.html#aeab94529ca4fbc72d4e22326abaa5f73", null ],

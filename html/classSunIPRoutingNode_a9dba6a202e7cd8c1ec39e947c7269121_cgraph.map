@@ -1,0 +1,13 @@
+<map id="SunIPRoutingNode::lostSink" name="SunIPRoutingNode::lostSink">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,32,208,58"/>
+<area shape="rect" id="Node000002" href="$classSunIPRoutingNode.html#a3097c71cedeb36a4f0124a05460de43d" title=" " alt="" coords="260,90,475,115"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="166,55,296,84,295,89,165,60"/>
+<area shape="rect" id="Node000003" href="$classSunIPRoutingNode.html#a3dc5bb033e8a90dfb03df4c666a7c80a" title=" " alt="" coords="527,25,749,65"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="154,30,203,19,256,10,367,3,479,10,541,20,540,25,478,16,367,8,256,16,204,24,155,35"/>
+<area shape="rect" id="Node000005" href="$classSunIPRoutingNode.html#a836499d7ee07e35e580e45fe74b0cd7d" title=" " alt="" coords="256,25,479,65"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="208,42,242,42,242,48,208,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="428,87,529,65,531,70,429,92"/>
+<area shape="rect" id="Node000004" href="$classSunIPRoutingNode.html#a013478fc79d0541087a38cfa4d53e0c1" title=" " alt="" coords="542,90,734,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="475,100,528,100,528,105,475,105"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="479,42,513,42,513,48,479,48"/>
+</map>

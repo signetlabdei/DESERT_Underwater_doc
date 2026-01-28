@@ -1,0 +1,9 @@
+<map id="UwAloha_Q_Sync_SINK" name="UwAloha_Q_Sync_SINK">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,268,207,833"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="58,130,111,195"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="90,209,93,268,88,268,84,209"/>
+<area shape="rect" id="Node000003" href="$classUwAlohaQSyncTimerSink.html" title=" " alt="" coords="136,120,340,205"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="226,206,210,253,205,252,221,205"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="187,5,289,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="241,84,241,120,235,120,235,84"/>
+</map>

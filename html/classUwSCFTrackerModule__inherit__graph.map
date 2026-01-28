@@ -1,9 +1,9 @@
 <map id="UwSCFTrackerModule" name="UwSCFTrackerModule">
-<area shape="rect" id="Node000001" title="UwSCFTrackerModule class is used to track mines via sonar and share tracking information via packets." alt="" coords="5,225,167,251"/>
-<area shape="rect" id="Node000002" href="$classUwTrackerModule.html" title="UwTrackerModule class is used to track mobile nodes via sonar and share tracking information via pack..." alt="" coords="17,152,155,177"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,191,89,225,83,225,83,191"/>
-<area shape="rect" id="Node000003" href="$classUwCbrModule.html" title="UwCbrModule class is used to manage UWCBR packets and to collect statistics about them." alt="" coords="29,79,143,104"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="89,118,89,152,83,152,83,118"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="51,5,121,31"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="89,44,89,79,83,79,83,44"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,1365,195,1691"/>
+<area shape="rect" id="Node000002" href="$classUwTrackerModule.html" title=" " alt="" coords="9,952,191,1317"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,1331,103,1365,97,1365,97,1331"/>
+<area shape="rect" id="Node000003" href="$classUwCbrModule.html" title=" " alt="" coords="16,119,184,904"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="103,918,103,952,97,952,97,918"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="69,5,131,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="103,85,103,118,97,118,97,85"/>
 </map>

@@ -22,11 +22,9 @@ var classUwjammer =
     [ "curr_data_pkt", "classUwjammer.html#aec6aeeb2c716f193df28d3e1d4284157", null ],
     [ "curr_state", "classUwjammer.html#a2fbb2ae470a63322555f108b38da6cf3", null ],
     [ "JAMMER_uid", "classUwjammer.html#a8be208ad6b2379b20909d33d3e85a6f4", null ],
-    [ "MAX_BUFFER_SIZE", "classUwjammer.html#ad2ada5a298b3f4785812416909ad3f68", null ],
     [ "n_data_discarded", "classUwjammer.html#a2887ee6c41e69ff439a9c871bce370ec", null ],
     [ "n_jam_discarded", "classUwjammer.html#ad50cb523454613e58fd74b427bd9f834", null ],
     [ "n_jam_sent", "classUwjammer.html#a56bf5d7df0758c40461255e6f039431b", null ],
     [ "node_id", "classUwjammer.html#aad1f9ec07aefe3ca28462681202413c9", null ],
-    [ "Q_data", "classUwjammer.html#a645af0e15b1ae81e8632ec5a0339189d", null ],
-    [ "status_info", "classUwjammer.html#aecff203694d1da0f0dd279f8d3ded089", null ]
+    [ "Q_data", "classUwjammer.html#a645af0e15b1ae81e8632ec5a0339189d", null ]
 ];

@@ -4,11 +4,6 @@ var uw_mac_TLohi_8h =
     [ "Timer", "classTimer.html", "classTimer" ],
     [ "DataTimer", "classDataTimer.html", "classDataTimer" ],
     [ "MMacTLOHI", "classMMacTLOHI.html", "classMMacTLOHI" ],
-    [ "HDR_TLOHI", "uw-mac-TLohi_8h.html#a0cea01440a3e4a53649aec559fca213e", null ],
-    [ "TLOHI_DROP_REASON_BUFFER_FULL", "uw-mac-TLohi_8h.html#a414a484abb384569e8a481cfb2d54154", null ],
-    [ "TLOHI_DROP_REASON_UNKNOWN_TYPE", "uw-mac-TLohi_8h.html#a6006b835614e67d25e1990f3f9abe5ce", null ],
-    [ "TLOHI_DROP_REASON_WRONG_RECEIVER", "uw-mac-TLohi_8h.html#a688345c92b8bd0c8d476f6ab5dc89df9", null ],
-    [ "TLOHI_DROP_REASON_WRONG_STATE", "uw-mac-TLohi_8h.html#ad3076044a74bd566b26c9b4ad04c3069", null ],
     [ "hdr_tlohi", "uw-mac-TLohi_8h.html#a8d4feff2d5da4cf7d87ed7856b2b110e", null ],
     [ "TIMER_STATUS", "uw-mac-TLohi_8h.html#a281140103fd59ea6dd5c4b72273ceffc", [
       [ "RUNNING", "uw-mac-TLohi_8h.html#a281140103fd59ea6dd5c4b72273ceffca1061be6c3fb88d32829cba6f6b2be304", null ],
@@ -70,6 +65,5 @@ var uw_mac_TLohi_8h =
       [ "STATE_WAIT_XACK", "uw-mac-TLohi_8h.html#a44dbabc1c6ac2167634e2cff04c1045ca593151b31f43d80f23435e9ed3a8347d", null ],
       [ "STATE_NOT_SET", "uw-mac-TLohi_8h.html#a44dbabc1c6ac2167634e2cff04c1045cacadfbea696c5812edcf2a1ae0c670c0a", null ]
     ] ],
-    [ "prop_speed", "uw-mac-TLohi_8h.html#a0e32df3139676d905686ef5f6cf472d7", null ],
     [ "PT_TLOHI", "uw-mac-TLohi_8h.html#aae59b3be4bdd897b016cd2ddf8d9e855", null ]
 ];

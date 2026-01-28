@@ -1,5 +1,5 @@
 <map id="TLohiTracer" name="TLohiTracer">
-<area shape="rect" id="Node000001" title="Class that represents a Tracer for T&#45;LOHI protocol." alt="" coords="5,79,101,104"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="23,5,84,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="56,44,56,79,51,79,51,44"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,119,119,224"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="35,5,89,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="65,85,65,118,59,118,59,85"/>
 </map>

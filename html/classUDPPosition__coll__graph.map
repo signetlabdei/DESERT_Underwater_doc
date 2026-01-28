@@ -1,10 +1,13 @@
 <map id="UDPPosition" name="UDPPosition">
-<area shape="rect" id="Node000001" title=" " alt="" coords="164,80,267,105"/>
-<area shape="rect" id="Node000003" href="$classPositionListener.html" title=" " alt="" coords="5,168,241,193"/>
-<area shape="poly" id="edge4_Node000003_Node000001" title=" " alt="" coords="157,112,135,121,122,131,117,149,121,167,116,168,112,149,117,128,132,117,155,107"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="178,5,253,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="218,45,218,80,213,80,213,45"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="161,159,184,142,199,123,208,104,213,107,203,126,188,146,164,164"/>
-<area shape="rect" id="Node000004" href="$classStoppableThread.html" title="A stoppable C++11 thread implementation." alt="" coords="8,80,140,105"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="84,117,96,143,114,166,110,169,92,145,80,120"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="316,320,495,645"/>
+<area shape="rect" id="Node000003" href="$classPositionListener.html" title=" " alt="" coords="123,708,351,873"/>
+<area shape="poly" id="edge4_Node000003_Node000001" title=" " alt="" coords="319,647,292,695,288,692,314,644"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="372,105,439,171"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="408,184,408,320,403,320,403,184"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="350,722,368,704,383,683,394,660,399,662,388,685,372,707,354,726"/>
+<area shape="rect" id="Node000004" href="$classStoppableThread.html" title=" " alt="" coords="5,5,165,271"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="49,285,37,369,33,462,36,509,42,555,54,601,70,644,94,682,125,714,121,718,90,685,66,647,49,602,37,557,30,509,28,462,32,369,44,284"/>
+<area shape="rect" id="Node000005" href="$classPositionListener.html" title=" " alt="" coords="81,390,271,575"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="126,284,154,389,149,391,121,285"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="161,589,161,637,169,683,179,707,174,709,164,685,155,637,155,589"/>
 </map>

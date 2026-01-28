@@ -1,5 +1,5 @@
 <map id="packer" name="packer">
-<area shape="rect" id="Node000001" title="Class exploited by the Uwal module to map an NS&#45;Miracle packet into a bit stream, and vice&#45;versa." alt="" coords="13,79,79,104"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,87,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="49,44,49,79,43,79,43,44"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,119,197,1004"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="65,5,138,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="104,84,104,118,99,118,99,84"/>
 </map>

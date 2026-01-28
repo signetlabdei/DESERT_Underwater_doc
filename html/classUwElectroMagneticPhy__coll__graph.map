@@ -1,5 +1,5 @@
 <map id="UwElectroMagneticPhy" name="UwElectroMagneticPhy">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,79,177,104"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="43,5,140,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="94,44,94,79,89,79,89,44"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,119,205,404"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="61,5,150,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,84,108,119,103,119,103,84"/>
 </map>

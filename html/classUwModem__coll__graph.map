@@ -1,31 +1,31 @@
 <map id="UwModem" name="UwModem">
-<area shape="rect" id="Node000001" title="Class that implements the interface to DESERT, as used through Tcl scripts." alt="" coords="226,80,318,105"/>
-<area shape="rect" id="Node000003" href="$classCheckTimer.html" title="The class used by UwModem to handle simulator&#39;s event expirations; it is exploited to schedule the re..." alt="" coords="110,168,210,193"/>
-<area shape="poly" id="edge6_Node000003_Node000001" title=" " alt="" coords="264,120,245,146,224,160,201,170,199,166,221,156,241,142,260,116"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="349,5,408,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="352,41,291,82,288,78,349,36"/>
-<area shape="rect" id="Node000005" href="$classUWMPhy__modem.html" title="The main class implementing the module used to implement the interface between ns2/NS&#45;Miracle and rea..." alt="" coords="207,256,345,281"/>
-<area shape="poly" id="edge8_Node000005_Node000002" title=" " alt="" coords="375,45,364,133,350,185,325,234,311,248,296,258,293,254,308,244,321,230,345,183,359,132,370,44"/>
-<area shape="poly" id="edge9_Node000005_Node000002" title=" " alt="" coords="390,44,391,83,387,133,373,185,349,234,335,248,318,258,315,253,332,244,345,230,368,183,381,132,386,83,384,44"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="152,154,154,141,159,128,173,114,189,105,225,94,226,99,191,109,176,119,164,131,159,142,158,155"/>
-<area shape="poly" id="edge10_Node000005_Node000003" title=" " alt="" coords="156,207,156,220,161,230,181,248,207,259,205,264,179,253,157,234,151,221,151,207"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="37,80,147,105"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="97,116,116,142,140,166,136,170,112,146,93,119"/>
-<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="112,115,153,166,148,169,108,118"/>
-<area shape="poly" id="edge5_Node000003_Node000004" title=" " alt="" coords="126,113,150,140,166,166,161,169,146,144,122,116"/>
-<area shape="rect" id="Node000009" href="$classDropTimer.html" title=" " alt="" coords="5,344,96,369"/>
-<area shape="poly" id="edge18_Node000009_Node000004" title=" " alt="" coords="85,119,63,237,51,344,46,344,58,237,80,118"/>
-<area shape="poly" id="edge19_Node000009_Node000004" title=" " alt="" coords="96,119,81,238,59,344,54,343,76,237,91,119"/>
-<area shape="poly" id="edge7_Node000003_Node000005" title=" " alt="" coords="262,246,240,219,219,206,197,196,199,191,221,201,243,215,266,242"/>
-<area shape="rect" id="Node000006" href="$classUWMdriver.html" title="The class needed by UWMPhy_modem to handle the different transmissions cases and corresponding protoc..." alt="" coords="283,344,378,369"/>
-<area shape="poly" id="edge12_Node000006_Node000005" title=" " alt="" coords="333,286,352,304,355,315,353,326,343,345,338,342,348,324,350,315,347,307,329,290"/>
-<area shape="poly" id="edge20_Node000009_Node000005" title=" " alt="" coords="194,281,130,292,104,299,86,308,68,325,57,345,53,343,64,322,82,303,102,294,129,287,193,276"/>
-<area shape="poly" id="edge11_Node000005_Node000006" title=" " alt="" coords="296,338,282,321,274,301,273,282,278,281,280,300,286,319,300,334"/>
-<area shape="rect" id="Node000007" href="$classUWMinterpreter.html" title="This class is in charge of building/parsing the necessary messages to make the UWMdriver able to comm..." alt="" coords="175,432,302,457"/>
-<area shape="poly" id="edge14_Node000007_Node000006" title=" " alt="" coords="270,368,220,379,201,386,189,395,186,404,191,413,214,430,211,434,186,416,181,404,184,392,198,382,218,374,269,363"/>
-<area shape="rect" id="Node000008" href="$classUWMconnector.html" title="The class needed by UWMPhy_modem to manage string exchange with the modem." alt="" coords="362,432,483,457"/>
-<area shape="poly" id="edge16_Node000008_Node000006" title=" " alt="" coords="355,377,412,430,408,433,351,381"/>
-<area shape="poly" id="edge13_Node000006_Node000007" title=" " alt="" coords="248,418,267,391,303,367,306,372,271,395,252,421"/>
-<area shape="poly" id="edge15_Node000006_Node000008" title=" " alt="" coords="450,421,460,407,460,401,458,395,446,386,427,379,378,367,379,362,428,374,449,382,462,392,466,400,465,409,454,424"/>
-<area shape="poly" id="edge17_Node000005_Node000009" title=" " alt="" coords="93,336,245,279,247,284,95,341"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="197,120,359,905"/>
+<area shape="rect" id="Node000003" href="$classCheckTimer.html" title=" " alt="" coords="110,968,227,1133"/>
+<area shape="poly" id="edge6_Node000003_Node000001" title=" " alt="" coords="278,906,264,945,240,986,236,983,260,943,273,905"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="383,5,434,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="386,84,380,96,362,147,357,146,376,94,381,82"/>
+<area shape="rect" id="Node000005" href="$classUWMPhy__modem.html" title=" " alt="" coords="219,1196,385,1921"/>
+<area shape="poly" id="edge8_Node000005_Node000002" title=" " alt="" coords="406,85,388,528,372,846,346,1172,344,1196,338,1196,341,1172,366,846,383,528,401,85"/>
+<area shape="poly" id="edge9_Node000005_Node000002" title=" " alt="" coords="416,85,417,260,410,528,395,846,370,1172,368,1196,362,1196,365,1172,390,846,405,528,411,260,410,85"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="164,968,167,929,190,804,196,805,173,930,170,968"/>
+<area shape="poly" id="edge10_Node000005_Node000003" title=" " alt="" coords="166,1133,170,1172,190,1259,216,1345,211,1347,184,1261,165,1172,161,1134"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="49,480,152,545"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="91,559,91,633,96,729,107,836,122,944,127,967,121,968,117,944,101,836,91,729,85,633,86,559"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="106,559,119,729,130,836,146,944,151,967,145,968,141,944,125,836,113,729,100,559"/>
+<area shape="poly" id="edge5_Node000003_Node000004" title=" " alt="" coords="120,558,142,728,170,944,174,967,169,968,165,944,136,729,115,559"/>
+<area shape="rect" id="Node000009" href="$classDropTimer.html" title=" " alt="" coords="5,2194,113,2319"/>
+<area shape="poly" id="edge18_Node000009_Node000004" title=" " alt="" coords="99,559,87,876,74,1362,64,1856,60,2194,55,2194,58,1856,69,1362,82,876,94,559"/>
+<area shape="poly" id="edge19_Node000009_Node000004" title=" " alt="" coords="105,559,102,876,92,1362,79,1856,67,2194,62,2194,74,1855,87,1362,97,876,100,559"/>
+<area shape="poly" id="edge7_Node000003_Node000005" title=" " alt="" coords="273,1197,258,1158,235,1120,240,1118,263,1156,278,1195"/>
+<area shape="rect" id="Node000006" href="$classUWMdriver.html" title=" " alt="" coords="288,1984,449,2529"/>
+<area shape="poly" id="edge12_Node000006_Node000005" title=" " alt="" coords="387,1831,395,1896,397,1960,396,1968,391,1968,391,1960,390,1896,382,1831"/>
+<area shape="poly" id="edge20_Node000009_Node000005" title=" " alt="" coords="221,1680,150,1805,117,1875,91,1946,77,2005,67,2067,61,2178,55,2177,62,2066,71,2004,86,1945,112,1873,145,1803,217,1678"/>
+<area shape="poly" id="edge11_Node000005_Node000006" title=" " alt="" coords="317,1984,314,1960,312,1938,317,1938,319,1960,322,1984"/>
+<area shape="rect" id="Node000007" href="$classUWMinterpreter.html" title=" " alt="" coords="183,2682,336,2807"/>
+<area shape="poly" id="edge14_Node000007_Node000006" title=" " alt="" coords="290,2384,249,2466,232,2510,219,2554,215,2582,216,2610,228,2666,223,2667,211,2611,210,2582,214,2553,227,2508,245,2464,285,2381"/>
+<area shape="rect" id="Node000008" href="$classUWMconnector.html" title=" " alt="" coords="385,2592,571,2897"/>
+<area shape="poly" id="edge16_Node000008_Node000006" title=" " alt="" coords="427,2529,435,2567,437,2576,432,2577,430,2569,421,2530"/>
+<area shape="poly" id="edge13_Node000006_Node000007" title=" " alt="" coords="271,2681,299,2553,301,2545,306,2546,305,2554,276,2682"/>
+<area shape="poly" id="edge15_Node000006_Node000008" title=" " alt="" coords="517,2592,513,2554,488,2477,454,2403,459,2401,493,2475,518,2553,522,2591"/>
+<area shape="poly" id="edge17_Node000005_Node000009" title=" " alt="" coords="78,2193,211,1812,216,1814,83,2195"/>
 </map>

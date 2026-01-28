@@ -2,8 +2,6 @@ var uwranging__tdoa__hdr_8h =
 [
     [ "tdoa_entry", "structtdoa__entry.html", "structtdoa__entry" ],
     [ "hdr_ranging_tdoa", "structhdr__ranging__tdoa.html", "structhdr__ranging__tdoa" ],
-    [ "HDR_RANGING_TDOA", "uwranging__tdoa__hdr_8h.html#a5cba963e0cf45cfbfff6bde95d7eabf9", null ],
-    [ "MAX_NUM_NODES", "uwranging__tdoa__hdr_8h.html#a806f57980e647d9cc7e141084fad9409", null ],
     [ "hdr_ranging_tdoa", "uwranging__tdoa__hdr_8h.html#a0917b296578af1eb08553c154406f106", null ],
     [ "tdoa_entry", "uwranging__tdoa__hdr_8h.html#aa2ff7f5a776354975721528be8229442", null ],
     [ "uwrange_node_t", "uwranging__tdoa__hdr_8h.html#adba00890cf86f370024d3e30552e550a", null ],

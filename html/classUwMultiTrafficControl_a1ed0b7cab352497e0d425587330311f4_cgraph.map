@@ -1,0 +1,15 @@
+<map id="UwMultiTrafficControl::command" name="UwMultiTrafficControl::command">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,101,168,141"/>
+<area shape="rect" id="Node000002" href="$classUwMultiTrafficControl.html#a05478527cd96274c84ab7ddd2c613b41" title=" " alt="" coords="216,5,387,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="124,99,215,55,231,48,233,53,217,60,127,104"/>
+<area shape="rect" id="Node000004" href="$classUwMultiTrafficControl.html#a540d7cb34317aeda530ad07c290165b2" title=" " alt="" coords="220,69,383,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="168,107,206,101,207,106,169,112"/>
+<area shape="rect" id="Node000006" href="$classUwMultiTrafficControl.html#ace96f18b9cf51d2f3d450e3eca2823b7" title=" " alt="" coords="220,133,383,173"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="169,131,207,137,206,142,168,136"/>
+<area shape="rect" id="Node000007" href="$classUwMultiTrafficControl.html#a1c5b9175f93c6f2ce08e46cc6e44bfe9" title=" " alt="" coords="220,197,383,237"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="127,139,217,183,233,190,231,195,215,188,124,144"/>
+<area shape="rect" id="Node000003" href="$classUwMultiTrafficControl.html#ae54d44bcb4d068a2a355b9260df3b5f3" title=" " alt="" coords="435,5,624,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="387,23,421,23,421,28,387,28"/>
+<area shape="rect" id="Node000005" href="$classUwMultiTrafficControl.html#ae3fb6f0e9d4df31baf6a1f86e126342c" title=" " alt="" coords="445,69,613,109"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="383,87,432,87,432,92,383,92"/>
+</map>

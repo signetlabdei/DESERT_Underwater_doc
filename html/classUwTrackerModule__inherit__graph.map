@@ -1,11 +1,11 @@
 <map id="UwTrackerModule" name="UwTrackerModule">
-<area shape="rect" id="Node000001" title="UwTrackerModule class is used to track mobile nodes via sonar and share tracking information via pack..." alt="" coords="108,152,245,177"/>
-<area shape="rect" id="Node000004" href="$classUwSCFTrackerModule.html" title="UwSCFTrackerModule class is used to track mines via sonar and share tracking information via packets." alt="" coords="5,225,167,251"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="153,188,102,227,99,223,150,184"/>
-<area shape="rect" id="Node000005" href="$classUwSCTrackerModule.html" title="UwSCTrackerModule class adds to the UwTrackerModule class the possibility to send cross layer message..." alt="" coords="191,225,346,251"/>
-<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="204,183,255,223,252,227,200,188"/>
-<area shape="rect" id="Node000002" href="$classUwCbrModule.html" title="UwCbrModule class is used to manage UWCBR packets and to collect statistics about them." alt="" coords="120,79,233,104"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,118,179,152,174,152,174,118"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="141,5,212,31"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="179,44,179,79,174,79,174,44"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="113,952,295,1317"/>
+<area shape="rect" id="Node000004" href="$classUwSCFTrackerModule.html" title=" " alt="" coords="5,1365,195,1691"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="155,1331,146,1365,141,1364,150,1330"/>
+<area shape="rect" id="Node000005" href="$classUwSCTrackerModule.html" title=" " alt="" coords="219,1455,400,1601"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="259,1330,293,1455,287,1456,254,1331"/>
+<area shape="rect" id="Node000002" href="$classUwCbrModule.html" title=" " alt="" coords="120,119,288,904"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="207,918,207,952,201,952,201,918"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="173,5,235,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="207,85,207,118,201,118,201,85"/>
 </map>

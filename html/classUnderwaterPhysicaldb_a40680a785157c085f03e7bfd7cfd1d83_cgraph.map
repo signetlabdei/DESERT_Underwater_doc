@@ -1,0 +1,9 @@
+<map id="UnderwaterPhysicaldb::getPERfromSNR" name="UnderwaterPhysicaldb::getPERfromSNR">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,69,173,109"/>
+<area shape="rect" id="Node000002" href="$classUnderwaterPhysicaldb.html#ae6825c88277820acd308c3efad288c3d" title=" " alt="" coords="221,5,389,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="157,67,223,47,225,52,158,72"/>
+<area shape="rect" id="Node000003" href="$classUnderwaterPhysicaldb.html#a2e43a1ce78fd2d4e53bc500cdff3512f" title=" " alt="" coords="221,69,389,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="174,87,208,87,208,92,174,92"/>
+<area shape="rect" id="Node000004" href="$classUnderwaterPhysicaldb.html#ad3a9d0abbf92d8e652edb9ed39b55241" title=" " alt="" coords="221,133,389,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="158,107,225,127,223,132,157,112"/>
+</map>

@@ -4,7 +4,6 @@ var uwmulti_traffic_range_crt_8h =
     [ "hdr_uwm_tr", "structhdr__uwm__tr.html", "structhdr__uwm__tr" ],
     [ "UwMultiTrafficRangeCtr", "classUwMultiTrafficRangeCtr.html", "classUwMultiTrafficRangeCtr" ],
     [ "UwMultiTrafficRangeCtr::UwCheckRangeTimer", "classUwMultiTrafficRangeCtr_1_1UwCheckRangeTimer.html", "classUwMultiTrafficRangeCtr_1_1UwCheckRangeTimer" ],
-    [ "HDR_UWMTR", "uwmulti-traffic-range-crt_8h.html#a3812157e6a78c8998a5875cd571f540e", null ],
     [ "CounterMap", "uwmulti-traffic-range-crt_8h.html#abed437d85e804a83feb2ab22c5d2a607", null ],
     [ "hdr_uwm_tr", "uwmulti-traffic-range-crt_8h.html#a96e154dec783ded768081faa7e1ef844", null ],
     [ "StatusMap", "uwmulti-traffic-range-crt_8h.html#af339a3ddaae06e1fac2b954210e68431", null ],

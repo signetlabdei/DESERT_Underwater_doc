@@ -1,18 +1,18 @@
 <map id="CsmaAloha::AckTimer" name="CsmaAloha::AckTimer">
-<area shape="rect" id="Node000001" title="Class used to handle the timer for waiting the ACK." alt="" coords="5,5,172,31"/>
-<area shape="rect" id="Node000004" href="$classCsmaAloha.html" title="Class that describes a CsmaAloha module." alt="" coords="221,93,317,119"/>
-<area shape="poly" id="edge5_Node000004_Node000001" title=" " alt="" coords="127,34,195,67,246,91,243,96,193,72,124,39"/>
-<area shape="rect" id="Node000002" href="$classCsmaAloha_1_1AlohaTimer.html" title="Class that describes the timers in the node." alt="" coords="47,181,226,207"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,175,80,151,60,120,55,95,60,69,78,30,83,32,65,71,61,95,64,118,84,147,109,171"/>
-<area shape="rect" id="Node000006" href="$classCsmaAloha_1_1BackOffTimer.html" title="Class used to handle the timer of the backoff period." alt="" coords="83,256,276,281"/>
-<area shape="poly" id="edge7_Node000006_Node000002" title=" " alt="" coords="153,218,175,254,170,257,148,220"/>
-<area shape="rect" id="Node000007" href="$classCsmaAloha_1_1ListenTimer.html" title="Class used to handle the Listen Timer." alt="" coords="317,256,498,281"/>
-<area shape="poly" id="edge9_Node000007_Node000002" title=" " alt="" coords="193,208,365,253,364,259,192,213"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="75,93,185,119"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="135,132,138,181,133,181,129,133"/>
-<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="209,124,170,145,154,163,144,182,139,180,150,160,167,141,206,119"/>
-<area shape="rect" id="Node000005" title=" " alt="" coords="238,5,299,31"/>
-<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="271,45,271,93,266,93,266,45"/>
-<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="202,245,220,226,236,205,255,159,264,119,270,120,260,160,240,208,224,230,206,249"/>
-<area shape="poly" id="edge8_Node000004_Node000007" title=" " alt="" coords="391,246,347,183,313,148,281,121,285,117,316,144,351,180,396,242"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,164,111"/>
+<area shape="rect" id="Node000004" href="$classCsmaAloha.html" title=" " alt="" coords="187,173,369,819"/>
+<area shape="poly" id="edge5_Node000004_Node000001" title=" " alt="" coords="134,110,156,140,176,172,182,184,178,186,172,175,152,143,129,113"/>
+<area shape="rect" id="Node000002" href="$classCsmaAloha_1_1AlohaTimer.html" title=" " alt="" coords="54,881,225,1267"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="56,869,45,819,17,639,11,565,9,496,12,427,19,354,45,173,61,110,67,111,50,174,24,354,17,428,14,496,16,565,23,638,50,818,61,867"/>
+<area shape="rect" id="Node000006" href="$classCsmaAloha_1_1BackOffTimer.html" title=" " alt="" coords="85,1316,271,1421"/>
+<area shape="poly" id="edge7_Node000006_Node000002" title=" " alt="" coords="169,1280,174,1315,169,1316,164,1281"/>
+<area shape="rect" id="Node000007" href="$classCsmaAloha_1_1ListenTimer.html" title=" " alt="" coords="319,1316,493,1421"/>
+<area shape="poly" id="edge9_Node000007_Node000002" title=" " alt="" coords="235,1254,245,1265,281,1296,321,1323,318,1327,278,1301,241,1269,231,1257"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="60,463,163,529"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="116,542,133,881,127,881,111,542"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="190,792,176,820,167,832,159,844,152,866,147,864,154,842,163,829,172,817,185,790"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="251,25,305,91"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="281,104,281,173,275,173,275,104"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="212,1315,234,1266,250,1189,261,1084,273,835,278,835,266,1084,255,1190,239,1267,217,1317"/>
+<area shape="poly" id="edge8_Node000004_Node000007" title=" " alt="" coords="405,1316,403,1124,396,1003,382,882,370,816,375,815,387,881,402,1003,409,1124,410,1316"/>
 </map>

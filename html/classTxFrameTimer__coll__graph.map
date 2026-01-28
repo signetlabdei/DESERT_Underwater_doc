@@ -1,14 +1,14 @@
 <map id="TxFrameTimer" name="TxFrameTimer">
-<area shape="rect" id="Node000001" title="The class used by Uwal to handle simulator&#39;s event expirations; it is exploited to schedule the sendD..." alt="" coords="209,80,327,105"/>
-<area shape="rect" id="Node000003" href="$classUwal.html" title="The main class implementing the module used to implement the adaptation layer between ns2/NS&#45;Miracle ..." alt="" coords="115,168,170,193"/>
-<area shape="poly" id="edge6_Node000003_Node000001" title=" " alt="" coords="216,113,183,131,165,150,151,170,147,166,160,147,180,127,214,108"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="213,5,323,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="271,45,271,80,265,80,265,45"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="183,172,244,161,269,153,285,142,288,134,286,125,276,107,281,104,292,124,293,135,289,146,272,157,245,166,184,177"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="5,80,64,105"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="60,112,96,142,128,166,125,170,93,146,57,116"/>
-<area shape="rect" id="Node000005" href="$classpacker.html" title="Class exploited by the Uwal module to map an NS&#45;Miracle packet into a bit stream, and vice&#45;versa." alt="" coords="89,80,154,105"/>
-<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="107,118,102,131,104,143,113,156,125,166,121,170,109,159,99,145,97,130,101,116"/>
-<area shape="rect" id="Node000006" title=" " alt="" coords="81,5,162,31"/>
-<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="124,45,124,80,119,80,119,45"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="319,520,452,605"/>
+<area shape="rect" id="Node000003" href="$classUwal.html" title=" " alt="" coords="131,1068,293,1793"/>
+<area shape="poly" id="edge6_Node000003_Node000001" title=" " alt="" coords="387,606,381,685,365,788,352,844,335,900,313,955,286,1007,279,1015,271,1019,264,1023,258,1031,247,1054,242,1051,254,1028,261,1019,268,1015,275,1011,282,1004,308,953,330,898,347,842,360,787,376,684,382,605"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="334,5,437,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="388,85,388,520,383,520,383,85"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="291,1262,332,1155,364,1043,382,928,389,811,390,706,387,622,392,622,395,705,395,811,387,928,369,1045,337,1157,296,1264"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,530,56,595"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="34,609,41,784,52,894,71,1005,99,1115,133,1222,128,1223,93,1116,65,1006,47,895,36,784,28,609"/>
+<area shape="rect" id="Node000005" href="$classpacker.html" title=" " alt="" coords="80,120,272,1005"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="166,1005,168,1044,168,1052,163,1052,163,1044,161,1006"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="139,5,213,71"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="179,84,179,120,173,120,173,84"/>
 </map>

@@ -1,0 +1,19 @@
+<map id="UwMODAModem::receivingData" name="UwMODAModem::receivingData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,128,237,153"/>
+<area shape="rect" id="Node000002" href="$classUwMODAModem.html#a1a3ba88772492f5d9fef48436dc16cde" title=" " alt="" coords="285,55,527,80"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,125,342,81,343,86,172,130"/>
+<area shape="rect" id="Node000005" href="$classUwModem.html#aa63a3ab7d722b6bc1a2a5a034191cfdc" title=" " alt="" coords="321,128,491,153"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="237,138,307,138,307,143,237,143"/>
+<area shape="rect" id="Node000009" href="$classUwModem.html#a4fc532c24d294651c1c054a1fc8ee95d" title=" " alt="" coords="342,177,470,203"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="196,151,329,174,328,179,195,156"/>
+<area shape="rect" id="Node000003" href="$structhdr__uwal.html#a6d8f63d7938cf8b978321411a490a268" title=" " alt="" coords="599,5,729,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="473,52,585,30,586,36,474,57"/>
+<area shape="rect" id="Node000004" href="$structhdr__uwal.html#aa87168db8203850caf4b63305a8c1d93" title=" " alt="" coords="577,55,751,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="527,65,563,65,563,70,527,70"/>
+<area shape="rect" id="Node000006" href="$classUwModem.html#afb2af7572f53771dacf4c335a1e70216" title=" " alt="" coords="581,104,747,129"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="491,130,567,123,567,128,492,135"/>
+<area shape="rect" id="Node000007" href="$classUwModem.html#ade7987148dd186f4fc3cc608c168a877" title=" " alt="" coords="575,153,753,179"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="492,146,561,153,561,159,491,152"/>
+<area shape="rect" id="Node000008" href="$classUwModem.html#a66a5da471c180d44d6e78aa1397f1142" title=" " alt="" coords="581,203,747,228"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="488,151,528,162,552,175,576,188,600,196,598,201,574,192,550,179,526,167,486,156"/>
+</map>

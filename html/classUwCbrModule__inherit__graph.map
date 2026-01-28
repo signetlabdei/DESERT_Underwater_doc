@@ -1,17 +1,19 @@
 <map id="UwCbrModule" name="UwCbrModule">
-<area shape="rect" id="Node000001" title="UwCbrModule class is used to manage UWCBR packets and to collect statistics about them." alt="" coords="179,79,293,104"/>
-<area shape="rect" id="Node000003" href="$classUwROVCtrModule.html" title="UwROVCtrModule class is used to manage UWROVCtr packets and to collect statistics about them." alt="" coords="13,152,152,177"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="200,112,109,154,107,149,198,107"/>
-<area shape="rect" id="Node000005" href="$classUwROVModule.html" title="UwROVModule class is used to manage UWROV packets and to collect statistics about them." alt="" coords="177,152,295,177"/>
-<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="239,118,239,152,233,152,233,118"/>
-<area shape="rect" id="Node000006" href="$classUwTrackerModule.html" title="UwTrackerModule class is used to track mobile nodes via sonar and share tracking information via pack..." alt="" coords="319,152,457,177"/>
-<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="274,107,364,149,362,154,271,112"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="201,5,271,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="239,44,239,79,233,79,233,44"/>
-<area shape="rect" id="Node000004" href="$classUwSCROVCtrModule.html" title="UwSCROVCtrModule class adds to the UwROVCtrModule class the possibility to receive and send cross lay..." alt="" coords="5,225,160,251"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="85,191,85,225,80,225,80,191"/>
-<area shape="rect" id="Node000007" href="$classUwSCFTrackerModule.html" title="UwSCFTrackerModule class is used to track mines via sonar and share tracking information via packets." alt="" coords="246,225,407,251"/>
-<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="371,190,339,227,335,223,367,186"/>
-<area shape="rect" id="Node000008" href="$classUwSCTrackerModule.html" title="UwSCTrackerModule class adds to the UwTrackerModule class the possibility to send cross layer message..." alt="" coords="432,225,587,251"/>
-<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="421,182,491,223,488,227,418,187"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="296,119,464,904"/>
+<area shape="rect" id="Node000003" href="$classCoolAddon.html" title=" " alt="" coords="5,1062,155,1327"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="292,688,230,817,169,953,127,1062,122,1061,164,951,225,815,288,686"/>
+<area shape="rect" id="Node000004" href="$classUwROVCtrModule.html" title=" " alt="" coords="179,952,368,1437"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="319,918,314,952,309,952,314,917"/>
+<area shape="rect" id="Node000006" href="$classUwROVModule.html" title=" " alt="" coords="392,982,581,1407"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="446,917,456,981,451,982,441,918"/>
+<area shape="rect" id="Node000007" href="$classUwTrackerModule.html" title=" " alt="" coords="605,1012,787,1377"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="472,692,596,951,622,1011,617,1013,591,953,468,694"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="349,5,411,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="383,85,383,118,377,118,377,85"/>
+<area shape="rect" id="Node000005" href="$classUwSCROVCtrModule.html" title=" " alt="" coords="182,1565,365,1731"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="276,1451,276,1565,271,1565,271,1451"/>
+<area shape="rect" id="Node000008" href="$classUwSCFTrackerModule.html" title=" " alt="" coords="496,1485,685,1811"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="653,1391,631,1486,626,1485,648,1390"/>
+<area shape="rect" id="Node000009" href="$classUwSCTrackerModule.html" title=" " alt="" coords="709,1575,891,1721"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="743,1390,786,1574,781,1575,738,1391"/>
 </map>

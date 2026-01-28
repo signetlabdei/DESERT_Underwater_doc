@@ -1,11 +1,8 @@
 var uwmulti_cmn_hdr_8h =
 [
-    [ "hdr_uwmultiphy_data", "structhdr__uwmultiphy__data.html", "structhdr__uwmultiphy__data" ],
-    [ "hdr_uwmultiphy_pong", "structhdr__uwmultiphy__pong.html", "structhdr__uwmultiphy__pong" ],
-    [ "hdr_uwmultiphy_ping", "structhdr__uwmultiphy__ping.html", "structhdr__uwmultiphy__ping" ],
-    [ "HDR_UWMULTIPHY_DATA", "uwmulti-cmn-hdr_8h.html#ae3674f724d31593ff2641eccee38a87a", null ],
-    [ "HDR_UWMULTIPHY_PING", "uwmulti-cmn-hdr_8h.html#a309c2332e7905712cf0de59262dd7b9c", null ],
-    [ "HDR_UWMULTIPHY_PONG", "uwmulti-cmn-hdr_8h.html#a6fffe19ff0283eb9dc637ae0c0422e63", null ],
+    [ "hdr_uwmultiphy_data", "structhdr__uwmultiphy__data.html", null ],
+    [ "hdr_uwmultiphy_pong", "structhdr__uwmultiphy__pong.html", null ],
+    [ "hdr_uwmultiphy_ping", "structhdr__uwmultiphy__ping.html", null ],
     [ "hdr_uwmultiphy_data", "uwmulti-cmn-hdr_8h.html#aff704fec6cc6db5a3cc472a329fbd2d3", null ],
     [ "hdr_uwmultiphy_ping", "uwmulti-cmn-hdr_8h.html#a02b425e52c40ca2f2339212b1e67cce2", null ],
     [ "hdr_uwmultiphy_pong", "uwmulti-cmn-hdr_8h.html#a9d598cd70b5dcca0a1421337bbfe02b1", null ],

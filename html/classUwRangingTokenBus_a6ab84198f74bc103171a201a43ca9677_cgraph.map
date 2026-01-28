@@ -1,0 +1,9 @@
+<map id="UwRangingTokenBus::computeDist" name="UwRangingTokenBus::computeDist">
+<area shape="rect" id="Node000001" title="compute the linear regression and updates the distances vector" alt="" coords="5,47,171,87"/>
+<area shape="rect" id="Node000002" href="$classUwTokenBus.html#a8f28622731e18796a414923530084071" title=" " alt="" coords="225,5,379,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,46,232,31,233,36,172,51"/>
+<area shape="rect" id="Node000003" href="$namespaceLSSQ.html#ac16206d3952aae0cda93b69847d8e63f" title=" " alt="" coords="219,55,385,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="171,65,205,65,205,70,171,70"/>
+<area shape="rect" id="Node000004" href="$classUwTokenBus.html#a7a86a655618465b6655a6150a152f0fd" title=" " alt="" coords="223,104,381,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="172,84,233,98,232,103,170,89"/>
+</map>

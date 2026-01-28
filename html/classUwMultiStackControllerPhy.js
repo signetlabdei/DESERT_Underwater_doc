@@ -15,6 +15,5 @@ var classUwMultiStackControllerPhy =
     [ "stateBusy2Tx", "classUwMultiStackControllerPhy.html#a5148de02a47b135469bcab02b2608e12", null ],
     [ "stateIdle", "classUwMultiStackControllerPhy.html#afcb659f7667b88b4ec765500835db003", null ],
     [ "current_state", "classUwMultiStackControllerPhy.html#ad355d581cc3def7b4f89b3f026d283c0", null ],
-    [ "receiving_id", "classUwMultiStackControllerPhy.html#acc1e3306f1f3abf340cf60143effd9b2", null ],
-    [ "state_info", "classUwMultiStackControllerPhy.html#a3783d1faa0edbacdf59ac23d80cbbc91", null ]
+    [ "receiving_id", "classUwMultiStackControllerPhy.html#acc1e3306f1f3abf340cf60143effd9b2", null ]
 ];

@@ -1,0 +1,27 @@
+<map id="UwAhoiModem::transmittingData" name="UwAhoiModem::transmittingData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,129,245,155"/>
+<area shape="rect" id="Node000002" href="$classUwModem.html#aa63a3ab7d722b6bc1a2a5a034191cfdc" title=" " alt="" coords="545,80,716,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="158,127,220,106,293,89,355,82,417,79,532,82,532,87,417,85,355,87,294,94,221,111,159,132"/>
+<area shape="rect" id="Node000006" href="$classUwModem.html#a07d6a52536dc2bb0288ce1ce75f0fc0f" title=" " alt="" coords="299,203,480,228"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="169,152,294,189,324,197,323,202,293,194,167,157"/>
+<area shape="rect" id="Node000008" href="$classUwAhoiModem.html#a26afc89a20ad2cd888aef147bd12937c" title=" " alt="" coords="302,153,477,179"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="246,150,289,154,288,160,245,156"/>
+<area shape="rect" id="Node000012" href="$classUwAhoiModem.html#a0de24002523196e0a23f9a6b9c50dc33" title=" " alt="" coords="293,104,485,129"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="245,128,279,125,280,130,246,133"/>
+<area shape="rect" id="Node000003" href="$classUwModem.html#afb2af7572f53771dacf4c335a1e70216" title=" " alt="" coords="782,104,949,129"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="717,99,769,104,768,109,716,104"/>
+<area shape="rect" id="Node000004" href="$classUwModem.html#ade7987148dd186f4fc3cc608c168a877" title=" " alt="" coords="776,5,955,31"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="665,77,775,39,801,32,802,37,777,45,667,82"/>
+<area shape="rect" id="Node000005" href="$classUwModem.html#a66a5da471c180d44d6e78aa1397f1142" title=" " alt="" coords="783,55,948,80"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="716,81,768,75,769,80,717,86"/>
+<area shape="rect" id="Node000007" href="$classUwModem.html#ab89527800dfa987c90e9e0f0d7dfbb16" title=" " alt="" coords="561,203,701,228"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="480,213,547,213,547,218,480,218"/>
+<area shape="poly" id="edge11_Node000008_Node000002" title=" " alt="" coords="443,151,485,139,581,107,583,112,486,145,445,156"/>
+<area shape="rect" id="Node000009" href="$classUwAhoiModem.html#a374647ed66d1eaf218e55269c4181f82" title=" " alt="" coords="533,153,728,179"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="477,163,520,163,520,169,477,169"/>
+<area shape="rect" id="Node000010" href="$structhdr__uwal.html#a6d8f63d7938cf8b978321411a490a268" title=" " alt="" coords="800,203,931,228"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="692,176,791,197,790,202,691,181"/>
+<area shape="rect" id="Node000011" href="$structhdr__uwal.html#aa87168db8203850caf4b63305a8c1d93" title=" " alt="" coords="778,153,953,179"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="728,163,764,163,764,169,728,169"/>
+<area shape="poly" id="edge13_Node000012_Node000002" title=" " alt="" coords="485,104,532,100,532,105,486,110"/>
+</map>

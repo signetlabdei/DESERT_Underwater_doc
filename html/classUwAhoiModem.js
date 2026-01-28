@@ -32,11 +32,8 @@ var classUwAhoiModem =
     [ "agc_min", "classUwAhoiModem.html#aa3661cf3bf3cf64ac7c8e3854a49ed8a", null ],
     [ "baud_rate", "classUwAhoiModem.html#ad6754f75dee2da28ef31345ae6f19589", null ],
     [ "bit_errors", "classUwAhoiModem.html#a729c61beb0615f049cbed79f0991b1e5", null ],
-    [ "EPSILON_S", "classUwAhoiModem.html#ab5e71fa9c9fba6c71d1e506c12f58490", null ],
     [ "flow_control", "classUwAhoiModem.html#a93da0e89fa2768888ed021977fec7020", null ],
     [ "id", "classUwAhoiModem.html#a251506207beda4a6314df311c65ad393", null ],
-    [ "MAX_RETX", "classUwAhoiModem.html#a8167bf86e99f051b6c1951ef39384cfc", null ],
-    [ "MODEM_TIMEOUT", "classUwAhoiModem.html#a9d9e23132300cb151e8b3f9554c83d26", null ],
     [ "p_connector", "classUwAhoiModem.html#a3b4a3a2c8583dc3be12880f908dffd4a", null ],
     [ "p_interpreter", "classUwAhoiModem.html#aa9aef0c66efc68c02253474334a1c94f", null ],
     [ "parity_bit", "classUwAhoiModem.html#abe35915878462fd8438f393febb1c8c1", null ],
@@ -45,7 +42,6 @@ var classUwAhoiModem =
     [ "rssi", "classUwAhoiModem.html#a48479fad0aaddc11109abe3a8fc7036e", null ],
     [ "rx_payload", "classUwAhoiModem.html#acde535ce4a685fa16e18db2619b8e91c", null ],
     [ "rx_thread", "classUwAhoiModem.html#ab3e9be798277eafea777a2d3db89a684", null ],
-    [ "sn", "classUwAhoiModem.html#ae1c426d923c4804d6fa101b35ba056d6", null ],
     [ "status", "classUwAhoiModem.html#a8984ab6729f94118c4e3172c6c0ecfb1", null ],
     [ "status_cv", "classUwAhoiModem.html#ac256f60923170d2c09288a0c6dc124d3", null ],
     [ "status_m", "classUwAhoiModem.html#a787269e447899bbc5ec8cf5cdc69a28c", null ],
@@ -59,6 +55,5 @@ var classUwAhoiModem =
     [ "tx_status_m", "classUwAhoiModem.html#a71f8c333da4f3eb8a40e5591057a1e3f", null ],
     [ "tx_thread", "classUwAhoiModem.html#ab599c285a68ec1ac2180f449415a57ec", null ],
     [ "virtual_time_ref", "classUwAhoiModem.html#a54012a337e06d6cb8029d7c7b208db5b", null ],
-    [ "WAIT_DELIVERY", "classUwAhoiModem.html#a85b0ff7e994ee9369d6cf8d56910e531", null ],
-    [ "WAIT_DELIVERY_INT", "classUwAhoiModem.html#a9226d8c820042f68f94630d8a3811b69", null ]
+    [ "WAIT_DELIVERY", "classUwAhoiModem.html#a85b0ff7e994ee9369d6cf8d56910e531", null ]
 ];

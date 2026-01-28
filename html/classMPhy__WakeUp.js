@@ -18,9 +18,7 @@ var classMPhy__WakeUp =
     [ "waitForUser", "classMPhy__WakeUp.html#a5861056bbd890b0f2e4327ffa5f25e97", null ],
     [ "AcquisitionThreshold_dB_", "classMPhy__WakeUp.html#ae1ff1d428bade70e5404caf14621a967", null ],
     [ "droppedPktsTxPending", "classMPhy__WakeUp.html#a70907aa6c4f3638d6af1f6ae400d29fa", null ],
-    [ "initialized", "classMPhy__WakeUp.html#a9bf5366e7373d8fe303fc2cbe338e3a1", null ],
     [ "MaxTxRange_", "classMPhy__WakeUp.html#a1ae2a66b35ab860a8c30fed7e4030aed", null ],
-    [ "modid", "classMPhy__WakeUp.html#ac8e55516cbfef891e0f6451c1295782a", null ],
     [ "PktRx", "classMPhy__WakeUp.html#a19cc87500d98a64ea2d25ba6b8e83226", null ],
     [ "ToneDuration_", "classMPhy__WakeUp.html#aa92445574bf6bbc0eafe8bb37ffc68b3", null ],
     [ "txActive", "classMPhy__WakeUp.html#a0432c6b43a2a9ff812ea947e524676e1", null ]

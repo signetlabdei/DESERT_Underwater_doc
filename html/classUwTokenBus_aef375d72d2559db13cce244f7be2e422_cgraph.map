@@ -1,0 +1,14 @@
+<map id="UwTokenBus::expireTokenPass" name="UwTokenBus::expireTokenPass">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,224,56"/>
+<area shape="rect" id="Node000002" href="$classUwTokenBus.html#a7a86a655618465b6655a6150a152f0fd" title=" " alt="" coords="283,5,441,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="224,29,269,25,270,30,224,35"/>
+<area shape="rect" id="Node000003" href="$classUwTokenBus.html#ad772f32b89f62c9778e605771ffaf49d" title=" " alt="" coords="272,55,452,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="224,51,259,55,258,60,224,57"/>
+<area shape="rect" id="Node000004" href="$structhdr__tokenbus.html#a42185a88446648452db10bd3327105bc" title=" " alt="" coords="527,5,692,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="426,52,531,31,532,36,427,57"/>
+<area shape="rect" id="Node000005" href="$classUwTokenBus.html#a7c597bfdc734338baddc622c7b9edcf0" title=" " alt="" coords="500,55,719,80"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="452,65,486,65,486,70,452,70"/>
+<area shape="rect" id="Node000006" href="$structhdr__tokenbus.html#aded32750ff6e413ff45e1ffe7391840b" title=" " alt="" coords="767,80,932,105"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="423,77,500,89,632,95,753,94,753,99,632,100,500,94,423,83"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="719,76,753,80,753,85,719,82"/>
+</map>

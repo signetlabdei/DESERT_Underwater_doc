@@ -21,7 +21,6 @@ var classUwMultiStackController =
     [ "setThreshold", "classUwMultiStackController.html#aba851a9fb0a642ec33fcc1dd77e2c300", null ],
     [ "debug_", "classUwMultiStackController.html#a186ae52641645c51f9a36bba1771b265", null ],
     [ "id2order", "classUwMultiStackController.html#ae54d78372f748025c28b0ab5a2a75970", null ],
-    [ "layer_not_exist", "classUwMultiStackController.html#aaf1e99565457f4330f49a8be742825d6", null ],
     [ "lower_id_active_", "classUwMultiStackController.html#a746cae3e473adf1a7f8a31a94f7fa5d8", null ],
     [ "min_delay_", "classUwMultiStackController.html#ac8204029bc34a7961354a400810a820d", null ],
     [ "order2id", "classUwMultiStackController.html#a5461f9a8ebc8110b76e5f4e1fb98cc5f", null ],

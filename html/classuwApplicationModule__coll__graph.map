@@ -1,9 +1,9 @@
 <map id="uwApplicationModule" name="uwApplicationModule">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,168,168,193"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="9,80,79,105"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="58,117,83,166,78,169,53,119"/>
-<area shape="rect" id="Node000003" href="$classuwSendTimerAppl.html" title="uwSendTimerAppl is used to handle the scheduling period of uwApplicationModule packets." alt="" coords="103,80,243,105"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="154,117,101,169,97,166,150,113"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="118,5,229,31"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="176,45,176,80,171,80,171,45"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,268,195,973"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="47,130,110,195"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="83,209,86,268,81,268,78,209"/>
+<area shape="rect" id="Node000003" href="$classuwSendTimerAppl.html" title=" " alt="" coords="135,120,292,205"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="206,206,194,253,189,251,200,205"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="162,5,265,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="216,84,216,120,211,120,211,84"/>
 </map>

@@ -1,5 +1,5 @@
 <map id="WossGroupMob3D::UpdatePositionTimer" name="WossGroupMob3D::UpdatePositionTimer">
-<area shape="rect" id="Node000001" title="Base class of UpdateTimerPosition class which is inherited from TimerHandler class." alt="" coords="5,79,253,119"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="74,5,185,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,44,132,79,127,79,127,44"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,119,245,259"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="74,5,177,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="128,84,128,118,123,118,123,84"/>
 </map>

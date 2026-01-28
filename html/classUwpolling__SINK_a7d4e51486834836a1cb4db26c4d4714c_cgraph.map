@@ -1,0 +1,15 @@
+<map id="Uwpolling_SINK::stateRxTrigger" name="Uwpolling_SINK::stateRxTrigger">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,149,232,175"/>
+<area shape="rect" id="Node000002" href="$classUwpolling__SINK.html#a517ac733f3fb5d1c913d92a6b373de70" title=" " alt="" coords="280,5,519,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,147,192,95,234,66,279,41,303,32,305,37,281,46,236,70,195,99,135,151"/>
+<area shape="rect" id="Node000003" href="$classUwpolling__SINK.html#a3c4c7d5b14207038ca00080c77dbb9f0" title=" " alt="" coords="299,55,500,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="155,147,279,105,307,97,309,102,281,110,156,152"/>
+<area shape="rect" id="Node000004" href="$classUwpolling__SINK.html#a3a3f5aa8bea826fd24a0fe8786803945" title=" " alt="" coords="293,120,506,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="232,148,279,143,279,148,233,153"/>
+<area shape="rect" id="Node000005" href="$classUwpolling__SINK_1_1Uwpolling__SINK__Timer.html#ab308d45241b9de3aa2c29c0cf8b4f32a" title=" " alt="" coords="300,170,499,210"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="233,171,286,176,286,181,232,176"/>
+<area shape="rect" id="Node000006" href="$structhdr__TRIGGER.html#aeddeefd5ec3db806566a84d592f75d7f" title=" " alt="" coords="327,235,471,260"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="151,172,211,196,281,219,318,229,316,234,279,225,209,201,149,177"/>
+<area shape="rect" id="Node000007" href="$structhdr__TRIGGER.html#ae5c4d4590fe050d6bf9c05a676969fce" title=" " alt="" coords="329,284,469,309"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="136,173,197,220,238,247,281,269,317,281,315,286,279,274,235,251,194,225,133,177"/>
+</map>

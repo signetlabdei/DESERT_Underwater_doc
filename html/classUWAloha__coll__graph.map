@@ -1,15 +1,15 @@
 <map id="UWAloha" name="UWAloha">
-<area shape="rect" id="Node000001" title="This is the base class of UWAloha protocol, which is a derived class of MMac." alt="" coords="240,80,321,105"/>
-<area shape="rect" id="Node000004" href="$classUWAloha_1_1UWAlohaTimer.html" title="Base class of all the timer used in this protocol." alt="" coords="187,168,374,193"/>
-<area shape="poly" id="edge5_Node000004_Node000001" title=" " alt="" coords="283,119,283,167,278,167,278,119"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="250,5,311,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="283,45,283,80,278,80,278,45"/>
-<area shape="rect" id="Node000003" href="$classUWAloha_1_1AckTimer.html" title="Base class of AckTimer, which is a derived class of UWAlohaTimer." alt="" coords="53,243,204,268"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="110,232,98,200,98,183,104,167,132,137,167,117,205,103,239,96,241,101,206,109,170,122,135,141,108,169,103,184,104,199,115,230"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="245,202,154,245,151,240,243,197"/>
-<area shape="rect" id="Node000006" href="$classUWAloha_1_1BackOffTimer.html" title="Base class of BackoffTimer." alt="" coords="298,243,477,268"/>
-<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="311,199,372,240,369,245,308,203"/>
-<area shape="rect" id="Node000005" title=" " alt="" coords="5,80,116,105"/>
-<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="104,108,252,165,250,170,102,113"/>
-<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="390,229,392,205,391,179,385,153,371,131,347,114,321,104,323,99,350,110,375,128,389,151,396,178,397,205,395,229"/>
+<area shape="rect" id="Node000001" title="This is the base class of UWAloha protocol, which is a derived class of MMac." alt="" coords="194,120,375,745"/>
+<area shape="rect" id="Node000004" href="$classUWAloha_1_1UWAlohaTimer.html" title=" " alt="" coords="195,808,374,1193"/>
+<area shape="poly" id="edge5_Node000004_Node000001" title=" " alt="" coords="287,746,287,792,282,792,282,746"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="258,5,311,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="287,84,287,120,282,120,282,84"/>
+<area shape="rect" id="Node000003" href="$classUWAloha_1_1AckTimer.html" title=" " alt="" coords="57,1243,200,1348"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="110,1243,99,1194,85,1085,77,1000,80,914,99,807,111,771,131,724,184,614,189,617,136,726,116,772,105,809,85,915,82,999,90,1085,105,1193,115,1242"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="191,1183,159,1244,154,1241,186,1180"/>
+<area shape="rect" id="Node000006" href="$classUWAloha_1_1BackOffTimer.html" title=" " alt="" coords="299,1243,470,1348"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="357,1205,369,1241,364,1243,352,1207"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="5,400,108,465"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="77,477,184,744,210,807,205,809,180,746,72,479"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="387,1242,394,1153,399,1035,397,903,385,770,376,723,381,722,390,769,403,902,404,1035,400,1153,393,1243"/>
 </map>

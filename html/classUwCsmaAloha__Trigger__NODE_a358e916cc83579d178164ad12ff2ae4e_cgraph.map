@@ -1,0 +1,12 @@
+<map id="UwCsmaAloha_Trigger_NODE::Phy2MacStartRx" name="UwCsmaAloha_Trigger_NODE::Phy2MacStartRx">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,69,188,109"/>
+<area shape="rect" id="Node000002" href="$classUwCsmaAloha__Trigger__NODE.html#afe685c1868fc043b39935c4ef4bf7c05" title=" " alt="" coords="236,5,405,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="167,67,236,47,238,52,168,72"/>
+<area shape="rect" id="Node000003" href="$classUwCsmaAloha__Trigger__NODE.html#a4826e881e5676bf460f52c096636330a" title=" " alt="" coords="237,69,405,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="188,87,223,87,223,92,188,92"/>
+<area shape="rect" id="Node000005" href="$classUwCsmaAloha__Trigger__NODE.html#a624b6d87f7789334f36b364a3c6e324a" title=" " alt="" coords="237,133,405,173"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="168,107,238,127,236,132,167,112"/>
+<area shape="rect" id="Node000004" href="$classUwCsmaAloha__Trigger__NODE.html#a2ae2bb69a98385ac82ab7c175a3eac41" title=" " alt="" coords="453,101,621,141"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="405,99,440,104,439,110,404,104"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="404,138,439,133,440,138,405,144"/>
+</map>

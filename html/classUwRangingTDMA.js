@@ -8,7 +8,6 @@ var classUwRangingTDMA =
     [ "Phy2MacStartRx", "classUwRangingTDMA.html#a395ab08916b7902170f9551139e2d47a", null ],
     [ "sendRange", "classUwRangingTDMA.html#a2caa74c68cf05f82cc83c497bed5e0a1", null ],
     [ "stateTxData", "classUwRangingTDMA.html#acefdc3762cfa9ad9b6fe6a7028fc4728", null ],
-    [ "count_nodes", "classUwRangingTDMA.html#a56734bbec9e2600d3006b9d773599c4a", null ],
     [ "n_nodes", "classUwRangingTDMA.html#a13f7366597a2a827ed41d2a376531afe", null ],
     [ "node_id", "classUwRangingTDMA.html#a02cacd65fc49adc9c37e1132c9df779d", null ],
     [ "owtt_map", "classUwRangingTDMA.html#a514c8400b631d82359011cba691efa5a", null ],

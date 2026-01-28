@@ -1,7 +1,7 @@
 <map id="UWSmartOFDM::RTSTimer" name="UWSmartOFDM::RTSTimer">
-<area shape="rect" id="Node000001" title="Base class of RTSTimer." alt="" coords="44,152,239,177"/>
-<area shape="rect" id="Node000002" href="$classUWSmartOFDM_1_1UWSmartOFDMTimer.html" title="Base class of all the timer used in this protocol." alt="" coords="5,79,277,104"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="144,118,144,152,139,152,139,118"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="86,5,197,31"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="144,44,144,79,139,79,139,44"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="44,492,231,597"/>
+<area shape="rect" id="Node000002" href="$classUWSmartOFDM_1_1UWSmartOFDMTimer.html" title=" " alt="" coords="5,119,269,444"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="140,457,140,492,135,492,135,457"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="86,5,189,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="140,84,140,118,135,118,135,84"/>
 </map>

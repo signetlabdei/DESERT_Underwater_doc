@@ -1,5 +1,0 @@
-<map id="woss&#45;groupmobility&#45;3d.h" name="woss&#45;groupmobility&#45;3d.h">
-<area shape="rect" id="Node000001" title="This is a implementation of a leader&#45;follower mobility model for WOSS (World Ocean Simulation System)..." alt="" coords="5,5,189,31"/>
-<area shape="rect" id="Node000002" href="$woss-groupmobility-3d_8cpp.html" title="Implementation of GroupMobility&#45;3D for WOSS framework." alt="" coords="22,79,173,119"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,44,100,79,95,79,95,44"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="uwranging_tdoa_hdr.h" name="uwranging_tdoa_hdr.h">
-<area shape="rect" id="Node000001" title="Common structures and variables in the protocol." alt="" coords="72,5,237,31"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,79,83,104"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="138,33,75,73,72,69,135,28"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="107,79,203,104"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="157,31,157,65,152,65,152,31"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="227,79,290,104"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="173,28,232,68,229,73,170,33"/>
-</map>

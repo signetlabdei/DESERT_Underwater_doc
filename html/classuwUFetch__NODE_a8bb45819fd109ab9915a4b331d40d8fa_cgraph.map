@@ -1,0 +1,17 @@
+<map id="uwUFetch_NODE::state_wait_first_DATA" name="uwUFetch_NODE::state_wait_first_DATA">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,127,177,167"/>
+<area shape="rect" id="Node000002" href="$classuwUFetch__NODE.html#a2c837be7af3ee731caf096de9bd5340c" title=" " alt="" coords="233,5,447,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="116,124,164,89,224,55,242,47,244,52,227,60,167,94,119,129"/>
+<area shape="rect" id="Node000003" href="$classuwUFetch__NODE.html#a5c6d8cb311951fc1f59bab4d342e17b5" title=" " alt="" coords="225,69,455,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="177,124,239,110,240,115,178,129"/>
+<area shape="rect" id="Node000006" href="$classuwUFetch__NODE.html#a4222cc6e6f7da20670c01e89f89a431c" title=" " alt="" coords="226,134,454,159"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="178,144,212,144,212,149,178,149"/>
+<area shape="rect" id="Node000007" href="$classuwUFetch__NODE.html#afd11eb4abf6184c41d4ba38a2366780e" title=" " alt="" coords="231,183,449,209"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="178,161,263,178,262,183,177,166"/>
+<area shape="rect" id="Node000008" href="$classuwUFetch__NODE_1_1uwUFetch__NODE__timer.html#ae26a81468799b16a28f1487012479200" title=" " alt="" coords="239,233,441,273"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="125,165,172,192,226,219,247,227,245,232,224,224,169,197,122,169"/>
+<area shape="rect" id="Node000004" href="$classuwUFetch__NODE.html#a410dd402c0dbc5d27b505c19f9164c76" title=" " alt="" coords="503,41,715,81"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="455,75,489,71,490,76,455,80"/>
+<area shape="rect" id="Node000005" href="$classuwUFetch__NODE.html#a8b49c2659ef5f769c677ddf77a437b95" title=" " alt="" coords="517,106,701,131"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="455,99,503,105,503,110,455,105"/>
+</map>

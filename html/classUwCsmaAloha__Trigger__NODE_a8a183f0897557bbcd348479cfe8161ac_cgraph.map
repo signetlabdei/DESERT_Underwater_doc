@@ -1,0 +1,17 @@
+<map id="UwCsmaAloha_Trigger_NODE::stateIdle" name="UwCsmaAloha_Trigger_NODE::stateIdle">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,92,173,132"/>
+<area shape="rect" id="Node000002" href="$classUwCsmaAloha__Trigger__NODE.html#afe685c1868fc043b39935c4ef4bf7c05" title=" " alt="" coords="221,5,391,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="139,89,241,48,243,53,141,94"/>
+<area shape="rect" id="Node000003" href="$classUwCsmaAloha__Trigger__NODE.html#a2ae2bb69a98385ac82ab7c175a3eac41" title=" " alt="" coords="466,8,634,48"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="173,94,390,55,452,43,453,49,391,60,174,100"/>
+<area shape="rect" id="Node000004" href="$classUwCsmaAloha__Trigger__NODE.html#ae6e52752d709575f3e97f852309c5336" title=" " alt="" coords="222,120,390,160"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="174,120,209,125,208,130,173,125"/>
+<area shape="rect" id="Node000007" href="$classUwCsmaAloha__Trigger__NODE_1_1Csma__Aloha__Triggered__Timer.html#aeaa6d2d95b9b2d093bd3ab1c6b6e7f1b" title=" " alt="" coords="439,230,661,285"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="131,130,222,170,326,202,426,228,425,233,324,207,220,174,129,135"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="355,118,389,99,413,78,437,58,452,51,454,55,440,62,416,82,392,104,358,122"/>
+<area shape="rect" id="Node000005" href="$classUwCsmaAloha__Trigger__NODE_1_1Csma__Aloha__Triggered__Timer.html#a6d0d1db51f25ece1e43fe99381001dc0" title=" " alt="" coords="439,73,661,127"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="390,124,425,118,425,123,390,129"/>
+<area shape="rect" id="Node000006" href="$classUwCsmaAloha__Trigger__NODE_1_1Csma__Aloha__Triggered__Timer.html#a1d1959163b15616828a97f970997aeb7" title=" " alt="" coords="439,151,661,206"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="390,151,425,156,425,161,390,156"/>
+<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="343,158,392,187,440,216,453,222,451,227,437,221,389,192,340,162"/>
+</map>

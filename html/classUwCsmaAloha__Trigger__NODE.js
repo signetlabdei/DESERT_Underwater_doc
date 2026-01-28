@@ -73,7 +73,6 @@ var classUwCsmaAloha__Trigger__NODE =
     [ "fout", "classUwCsmaAloha__Trigger__NODE.html#a73a7cc8c46a03eaec0436f3c1af9b56c", null ],
     [ "has_buffer_queue", "classUwCsmaAloha__Trigger__NODE.html#a337984cd4869642835c731f1408e8f81", null ],
     [ "HDR_size", "classUwCsmaAloha__Trigger__NODE.html#a721406e464581ee9f0d0e6302a119f92", null ],
-    [ "initialized", "classUwCsmaAloha__Trigger__NODE.html#a08f8a9a89f183a3ce7882624b4fc883c", null ],
     [ "last_data_id_rx", "classUwCsmaAloha__Trigger__NODE.html#af571e992bef84bb6610762c9a97ee19c", null ],
     [ "last_reason", "classUwCsmaAloha__Trigger__NODE.html#a2daf56ff597c8f5ca2c263450e229194", null ],
     [ "last_sent_data_id", "classUwCsmaAloha__Trigger__NODE.html#ab7b4a281b451ca6609176e51a4ceefb8", null ],
@@ -82,13 +81,9 @@ var classUwCsmaAloha__Trigger__NODE =
     [ "max_payload", "classUwCsmaAloha__Trigger__NODE.html#a98c312795c3e8bd2c86661788ff352d5", null ],
     [ "prev_prev_state", "classUwCsmaAloha__Trigger__NODE.html#a3813cf21ea0a16b69c242d48f950f051", null ],
     [ "prev_state", "classUwCsmaAloha__Trigger__NODE.html#a28177e1d203721a0dc387c9e8b7451c3", null ],
-    [ "prop_speed", "classUwCsmaAloha__Trigger__NODE.html#a242601674ed20e692debcdecd03deb7b", null ],
     [ "Q", "classUwCsmaAloha__Trigger__NODE.html#ab0449c061fd1684897379907af316bb9", null ],
-    [ "reason_info", "classUwCsmaAloha__Trigger__NODE.html#a8c58145f2821d6cef92bea813749b658", null ],
-    [ "status_info", "classUwCsmaAloha__Trigger__NODE.html#a5f7e3e07729fe12b95c733e1cba2b217", null ],
     [ "tx_timer", "classUwCsmaAloha__Trigger__NODE.html#a9512215319afcf9c0eff6f9b5615990d", null ],
     [ "tx_timer_duration", "classUwCsmaAloha__Trigger__NODE.html#a5fb9b318d4a635984417718efdb59749", null ],
     [ "u_data_id", "classUwCsmaAloha__Trigger__NODE.html#a6b05212ea1c88b2dd4e8f904c8a10738", null ],
-    [ "u_pkt_id", "classUwCsmaAloha__Trigger__NODE.html#aa0f31ca449221dffba70db4d059d3629", null ],
     [ "wait_costant", "classUwCsmaAloha__Trigger__NODE.html#a217c52264dcb87e4edef20091dfdef28", null ]
 ];

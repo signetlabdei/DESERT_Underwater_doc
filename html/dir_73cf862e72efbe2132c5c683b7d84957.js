@@ -4,8 +4,8 @@ var dir_73cf862e72efbe2132c5c683b7d84957 =
     [ "uwmulti-cmn-hdr.h", "uwmulti-cmn-hdr_8h.html", "uwmulti-cmn-hdr_8h" ],
     [ "uwmulti-multiphy-controller.cpp", "uwmulti-multiphy-controller_8cpp.html", "uwmulti-multiphy-controller_8cpp" ],
     [ "uwmulti-multiphy-controller.h", "uwmulti-multiphy-controller_8h.html", "uwmulti-multiphy-controller_8h" ],
-    [ "uwmulti-traffic-control.cc", "uwmulti-traffic-control_8cc.html", "uwmulti-traffic-control_8cc" ],
+    [ "uwmulti-traffic-control.cc", "uwmulti-traffic-control_8cc.html", null ],
     [ "uwmulti-traffic-control.h", "uwmulti-traffic-control_8h.html", "uwmulti-traffic-control_8h" ],
-    [ "uwmulti-traffic-range-crt.cc", "uwmulti-traffic-range-crt_8cc.html", "uwmulti-traffic-range-crt_8cc" ],
+    [ "uwmulti-traffic-range-crt.cc", "uwmulti-traffic-range-crt_8cc.html", null ],
     [ "uwmulti-traffic-range-crt.h", "uwmulti-traffic-range-crt_8h.html", "uwmulti-traffic-range-crt_8h" ]
 ];

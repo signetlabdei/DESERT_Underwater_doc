@@ -1,0 +1,17 @@
+<map id="UwCsmaAloha_Trigger_SINK::stateIdle" name="UwCsmaAloha_Trigger_SINK::stateIdle">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,9,173,49"/>
+<area shape="rect" id="Node000002" href="$classUwCsmaAloha__Trigger__SINK.html#ac0b89d42b71a20a3ceb6e6ac82683ca8" title=" " alt="" coords="680,5,848,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,24,221,23,612,21,666,22,666,27,612,27,221,28,174,29"/>
+<area shape="rect" id="Node000003" href="$classUwCsmaAloha__Trigger__SINK.html#a9e07792bc1271964af52bb45a9d4e79b" title=" " alt="" coords="221,37,396,77"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="174,37,208,42,208,47,173,43"/>
+<area shape="poly" id="edge4_Node000003_Node000002" title=" " alt="" coords="396,49,666,29,666,35,396,54"/>
+<area shape="rect" id="Node000004" href="$classUwCsmaAloha__Trigger__SINK.html#a7f9410851da2cfb4345279f520710b26" title=" " alt="" coords="444,63,612,103"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="397,65,431,69,430,74,396,70"/>
+<area shape="rect" id="Node000005" href="$classUwCsmaAloha__Trigger__SINK.html#a8f5c918a99fd76843e2ee26b9e5efb06" title=" " alt="" coords="444,127,612,167"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="357,75,445,112,462,119,460,124,443,117,355,80"/>
+<area shape="poly" id="edge8_Node000005_Node000002" title=" " alt="" coords="584,124,611,112,659,83,715,50,717,55,661,88,613,117,587,129"/>
+<area shape="rect" id="Node000006" href="$classUwCsmaAloha__Trigger__SINK.html#a52062fce8b07b174eea907cdd6623d06" title=" " alt="" coords="660,97,868,137"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="612,134,646,129,647,135,613,139"/>
+<area shape="rect" id="Node000007" href="$classUwCsmaAloha__Trigger__SINK.html#ac43f1fe38a0066a25c63c312ee90b76f" title=" " alt="" coords="677,161,851,201"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="613,156,663,164,663,169,612,162"/>
+</map>

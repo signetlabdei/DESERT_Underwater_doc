@@ -1,23 +1,23 @@
 <map id="uwUFetch_NODE::uwUFetch_NODE_timer" name="uwUFetch_NODE::uwUFetch_NODE_timer">
-<area shape="rect" id="Node000001" title="Class that handle the timers of SN or HN." alt="" coords="164,261,367,301"/>
-<area shape="rect" id="Node000003" href="$classuwUFetch__NODE_1_1uwUFetch__BEACON__timer.html" title="Timer associated to the HN." alt="" coords="415,5,617,45"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="277,248,298,204,328,153,366,100,413,55,433,43,436,48,416,59,370,104,332,155,303,207,282,250"/>
-<area shape="rect" id="Node000004" href="$classuwUFetch__NODE_1_1uwUFetch__BackOffTimer.html" title="Class (inherited from uwUFetch_NODE_Timer) used to handle the time of back&#45;off of the node before tra..." alt="" coords="415,69,617,109"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="286,248,339,183,374,149,413,119,436,107,439,112,416,124,378,153,343,187,290,251"/>
-<area shape="rect" id="Node000005" href="$classuwUFetch__NODE_1_1uwUFetch__CBeacon__timer.html" title="Class inherited the method and variable of uwUFetch_NODE_timer that handle the timer of CBEACON packe..." alt="" coords="415,133,617,173"/>
-<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="303,251,354,216,414,183,443,171,445,176,416,188,357,221,306,255"/>
-<area shape="rect" id="Node000006" href="$classuwUFetch__NODE_1_1uwUFetch__CTS__timer.html" title="Class inherited the method and variable of uwUFetch_NODE_timer that handle the timer of CTS packets." alt="" coords="415,197,617,237"/>
-<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="357,255,436,235,438,240,358,260"/>
-<area shape="rect" id="Node000007" href="$classuwUFetch__NODE_1_1uwUFetch__DATA__BEFORE__TX__timer.html" title="Class inherited the method and variable of uwUFetch_NODE_timer that handle the timer of DATA packets." alt="" coords="415,261,617,301"/>
-<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="380,279,415,279,415,284,380,284"/>
-<area shape="rect" id="Node000008" href="$classuwUFetch__NODE_1_1uwUFetch__DATA__timer.html" title="Class inherited the method and variable of uwUFetch_NODE_timer that handle the timer of DATA packets." alt="" coords="415,325,617,365"/>
-<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="358,302,438,323,436,328,357,307"/>
-<area shape="rect" id="Node000009" href="$classuwUFetch__NODE_1_1uwUFetch__POLL__timer.html" title="Class inherited the method and variable of uwUFetch_NODE_timer that handle the timer of POLL packets." alt="" coords="415,389,617,429"/>
-<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="306,307,357,342,416,375,445,387,443,392,414,380,354,346,303,312"/>
-<area shape="rect" id="Node000010" href="$classuwUFetch__NODE_1_1uwUFetch__PROBE__timer.html" title="Class inherited the method and variable of uwUFetch_NODE_timer that handle the timer of PROBE packets..." alt="" coords="415,453,617,493"/>
-<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="290,311,343,376,378,410,416,439,439,451,436,456,413,444,374,414,339,380,286,315"/>
-<area shape="rect" id="Node000011" href="$classuwUFetch__NODE_1_1uwUFetch__TRIGGER__timer.html" title="Class inherited the method and variable of uwUFetch_NODE_timer that handle the timer of TRIGGER packe..." alt="" coords="415,517,617,557"/>
-<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="282,313,303,356,332,407,370,459,416,503,436,515,433,520,413,507,366,462,328,410,298,358,277,315"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,269,116,294"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,279,164,279,164,284,130,284"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="945,119,1147,539"/>
+<area shape="rect" id="Node000003" href="$classuwUFetch__NODE_1_1uwUFetch__BEACON__timer.html" title=" " alt="" coords="5,601,223,721"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="932,359,790,397,613,448,422,513,327,550,235,589,206,604,204,599,233,584,325,545,421,508,612,443,788,391,931,354"/>
+<area shape="rect" id="Node000004" href="$classuwUFetch__NODE_1_1uwUFetch__BackOffTimer.html" title=" " alt="" coords="247,601,456,721"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="933,377,715,470,591,527,469,589,443,603,440,599,466,584,588,522,713,465,931,372"/>
+<area shape="rect" id="Node000005" href="$classuwUFetch__NODE_1_1uwUFetch__CBeacon__timer.html" title=" " alt="" coords="480,601,700,721"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="935,414,673,603,670,599,932,409"/>
+<area shape="rect" id="Node000006" href="$classuwUFetch__NODE_1_1uwUFetch__CTS__timer.html" title=" " alt="" coords="725,601,919,721"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="940,491,864,603,860,600,935,488"/>
+<area shape="rect" id="Node000007" href="$classuwUFetch__NODE_1_1uwUFetch__DATA__BEFORE__TX__timer.html" title=" " alt="" coords="944,587,1148,736"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1049,553,1049,587,1043,587,1043,553"/>
+<area shape="rect" id="Node000008" href="$classuwUFetch__NODE_1_1uwUFetch__DATA__timer.html" title=" " alt="" coords="1173,601,1370,721"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="1157,487,1233,599,1229,602,1152,490"/>
+<area shape="rect" id="Node000009" href="$classuwUFetch__NODE_1_1uwUFetch__POLL__timer.html" title=" " alt="" coords="1394,601,1589,721"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="1160,411,1414,599,1411,603,1156,415"/>
+<area shape="rect" id="Node000010" href="$classuwUFetch__NODE_1_1uwUFetch__PROBE__timer.html" title=" " alt="" coords="1613,601,1820,721"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="1161,375,1368,467,1486,524,1602,584,1627,599,1625,604,1599,589,1484,529,1366,472,1159,380"/>
+<area shape="rect" id="Node000011" href="$classuwUFetch__NODE_1_1uwUFetch__TRIGGER__timer.html" title=" " alt="" coords="1845,601,2066,721"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="1161,356,1299,394,1469,446,1653,510,1834,584,1863,599,1861,604,1832,589,1651,515,1467,451,1298,399,1159,361"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="995,5,1097,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1049,84,1049,118,1043,118,1043,84"/>
 </map>

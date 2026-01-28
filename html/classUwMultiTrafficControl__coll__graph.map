@@ -1,5 +1,5 @@
 <map id="UwMultiTrafficControl" name="UwMultiTrafficControl">
-<area shape="rect" id="Node000001" title="Class used to represents the UwMultiTrafficControl layer of a node." alt="" coords="5,79,168,104"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="51,5,122,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,44,89,79,84,79,84,44"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,119,203,544"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="73,5,135,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,85,107,119,101,119,101,85"/>
 </map>

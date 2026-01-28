@@ -1,5 +1,5 @@
 <map id="MinterpreterTEL" name="MinterpreterTEL">
-<area shape="rect" id="Node000001" title="Class used to build and parse TELEGRAMS (this class derives UWMinterpreter); currently,..." alt="" coords="5,79,132,104"/>
-<area shape="rect" id="Node000002" href="$classUWMinterpreter.html" title="This class is in charge of building/parsing the necessary messages to make the UWMdriver able to comm..." alt="" coords="5,5,132,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="71,44,71,79,66,79,66,44"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,199,173,504"/>
+<area shape="rect" id="Node000002" href="$classUWMinterpreter.html" title=" " alt="" coords="13,5,166,151"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,164,92,198,87,198,87,164"/>
 </map>

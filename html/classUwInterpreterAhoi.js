@@ -25,12 +25,7 @@ var classUwInterpreterAhoi =
     [ "parseResponse", "classUwInterpreterAhoi.html#a46095fa9225d7c81cbf7623512fa361b", null ],
     [ "serializePacket", "classUwInterpreterAhoi.html#aa068d53be5138e003c43c4c7ae4ff956", null ],
     [ "beg_del", "classUwInterpreterAhoi.html#a5066d5912f5cd9ee377ae3600612dcdb", null ],
-    [ "dle", "classUwInterpreterAhoi.html#a809edc55f892bd2d07c3586e2de5d7e7", null ],
     [ "end_del", "classUwInterpreterAhoi.html#ac4d32eaaf5986ae89d7be00278ef288e", null ],
-    [ "etx", "classUwInterpreterAhoi.html#a20b5a963ddf868467452fe5458762358", null ],
-    [ "footer_size", "classUwInterpreterAhoi.html#a61ebbef9c0e740eaf91c2c527f9c1d36", null ],
-    [ "header_size", "classUwInterpreterAhoi.html#a75a86ad2ca24f000c5e924979fca0e07", null ],
     [ "id", "classUwInterpreterAhoi.html#aae77b340849f11741b28dea1a20e60cc", null ],
-    [ "sn", "classUwInterpreterAhoi.html#ab6e9c53d73806148d3a3c3cb760bf7e1", null ],
-    [ "stx", "classUwInterpreterAhoi.html#ae8e6d89769878f7cc77e1e45670acaac", null ]
+    [ "sn", "classUwInterpreterAhoi.html#ab6e9c53d73806148d3a3c3cb760bf7e1", null ]
 ];

@@ -1,9 +1,0 @@
-<map id="uw&#45;phy&#45;WakeUp.h" name="uw&#45;phy&#45;WakeUp.h">
-<area shape="rect" id="Node000001" title="Provides the declaration of WakeUp PHY." alt="" coords="55,5,193,31"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,79,75,104"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,33,66,72,63,67,109,29"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="99,79,149,104"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="127,31,127,65,121,65,121,31"/>
-<area shape="rect" id="Node000004" href="$wake-up-pkt-hdr_8h.html" title="Provides the definition of the Wake Up Tone Packet Header." alt="" coords="174,79,314,104"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="145,28,214,69,211,74,142,33"/>
-</map>

@@ -1,7 +1,7 @@
 <map id="UwPhysicalStats" name="UwPhysicalStats">
-<area shape="rect" id="Node000001" title=" " alt="" coords="22,79,153,104"/>
-<area shape="rect" id="Node000003" href="$classUwHMMPhysicalStats.html" title=" " alt="" coords="5,152,169,177"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="90,118,90,152,85,152,85,118"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="60,5,115,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="90,44,90,79,85,79,85,44"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="20,119,183,404"/>
+<area shape="rect" id="Node000003" href="$classUwHMMPhysicalStats.html" title=" " alt="" coords="5,452,197,557"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="104,417,104,452,99,452,99,417"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="78,5,125,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="104,84,104,119,99,119,99,84"/>
 </map>

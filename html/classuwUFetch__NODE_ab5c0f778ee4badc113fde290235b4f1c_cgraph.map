@@ -1,0 +1,19 @@
+<map id="uwUFetch_NODE::TRIGGER_rx_without" name="uwUFetch_NODE::TRIGGER_rx_without">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,176,203,216"/>
+<area shape="rect" id="Node000002" href="$classuwUFetch__NODE.html#a2c37e0ba0278c6c768f2e74efcd8409f" title=" " alt="" coords="258,5,471,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,174,172,115,209,83,249,55,262,48,265,53,252,60,212,87,176,119,123,178"/>
+<area shape="rect" id="Node000004" href="$structhdr__TRIGGER__UFETCH.html#a883f480d1f75717c3b9c9332c6ba9f2c" title=" " alt="" coords="281,69,448,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="138,174,190,146,250,119,271,111,273,116,252,124,192,151,141,178"/>
+<area shape="rect" id="Node000005" href="$classuwUFetch__NODE.html#a4222cc6e6f7da20670c01e89f89a431c" title=" " alt="" coords="251,134,479,159"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="202,175,283,159,284,165,203,180"/>
+<area shape="rect" id="Node000006" href="$classuwUFetch__NODE.html#afd11eb4abf6184c41d4ba38a2366780e" title=" " alt="" coords="255,183,474,209"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="203,193,242,193,242,199,203,199"/>
+<area shape="rect" id="Node000007" href="$classuwUFetch__NODE_1_1uwUFetch__NODE__timer.html#ae26a81468799b16a28f1487012479200" title=" " alt="" coords="263,233,466,273"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="196,213,261,228,259,233,195,219"/>
+<area shape="rect" id="Node000008" href="$structhdr__TRIGGER__UFETCH.html#a570a938ca709666bc9b112e67c7d0864" title=" " alt="" coords="281,297,448,337"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="134,214,188,249,252,283,271,290,269,295,250,288,185,253,132,218"/>
+<area shape="rect" id="Node000009" href="$structhdr__TRIGGER__UFETCH.html#a2a3de52ebd8427f93a26d9b49b8d81e3" title=" " alt="" coords="281,361,448,401"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="121,215,174,280,210,316,252,347,270,356,267,361,249,352,207,320,170,284,117,218"/>
+<area shape="rect" id="Node000003" href="$classuwUFetch__NODE.html#ab298e321f9aad1b652af0c41cb53d3c6" title=" " alt="" coords="527,13,797,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="472,23,513,23,513,28,472,28"/>
+</map>

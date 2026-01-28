@@ -1,5 +1,5 @@
 <map id="Uwpolling_NODE" name="Uwpolling_NODE">
-<area shape="rect" id="Node000001" title="Class used to represents the UWPOLLING MAC layer of a node." alt="" coords="5,79,137,104"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="41,5,102,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="74,44,74,79,69,79,69,44"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,119,187,744"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="69,5,123,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,85,99,118,93,118,93,85"/>
 </map>

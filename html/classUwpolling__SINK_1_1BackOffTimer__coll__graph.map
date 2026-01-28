@@ -1,15 +1,15 @@
 <map id="Uwpolling_SINK::BackOffTimer" name="Uwpolling_SINK::BackOffTimer">
-<area shape="rect" id="Node000001" title="Class (inherited from Uwpolling_SINK_Timer) used to handle the time of backoff of the node before tra..." alt="" coords="5,5,228,31"/>
-<area shape="rect" id="Node000004" href="$classUwpolling__SINK.html" title="Class used to represents the UWPOLLING MAC layer of a node." alt="" coords="254,93,379,119"/>
-<area shape="poly" id="edge5_Node000004_Node000001" title=" " alt="" coords="151,35,219,67,283,91,281,96,217,72,149,39"/>
-<area shape="rect" id="Node000002" href="$classUwpolling__SINK_1_1Uwpolling__SINK__Timer.html" title="Class that describes the timer in the SINK." alt="" coords="77,181,276,221"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="141,174,120,149,103,120,99,95,100,70,110,30,115,31,105,71,104,95,109,118,124,146,145,170"/>
-<area shape="rect" id="Node000006" href="$classUwpolling__SINK_1_1Rx__Data__Timer.html" title="Class (inherited from Uwpolling_SINK_Timer) used to handle the time in which the NODE wait for the DA..." alt="" coords="176,271,327,311"/>
-<area shape="poly" id="edge7_Node000006_Node000002" title=" " alt="" coords="204,230,237,269,233,272,200,233"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="119,93,229,119"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="177,132,179,181,173,181,172,132"/>
-<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="257,126,221,145,203,163,189,183,185,180,199,159,218,141,254,121"/>
-<area shape="rect" id="Node000005" title=" " alt="" coords="286,5,347,31"/>
-<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="319,45,319,93,314,93,314,45"/>
-<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="267,257,285,220,296,189,303,157,312,118,317,119,309,158,301,191,290,222,272,259"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,220,111"/>
+<area shape="rect" id="Node000004" href="$classUwpolling__SINK.html" title=" " alt="" coords="236,173,389,799"/>
+<area shape="poly" id="edge5_Node000004_Node000001" title=" " alt="" coords="166,109,225,172,231,181,226,184,221,175,162,113"/>
+<area shape="rect" id="Node000002" href="$classUwpolling__SINK_1_1Uwpolling__SINK__Timer.html" title=" " alt="" coords="70,861,267,1261"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,848,94,799,76,624,73,487,81,349,94,173,101,111,107,111,99,174,86,349,78,487,81,624,99,798,108,847"/>
+<area shape="rect" id="Node000006" href="$classUwpolling__SINK_1_1Rx__Data__Timer.html" title=" " alt="" coords="174,1311,323,1431"/>
+<area shape="poly" id="edge7_Node000006_Node000002" title=" " alt="" coords="227,1274,236,1310,231,1311,221,1275"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="109,453,212,519"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="164,532,169,861,163,861,159,533"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="238,772,226,800,217,812,208,824,200,847,195,845,204,821,212,809,221,797,233,770"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="286,25,339,91"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="315,104,315,173,310,173,310,104"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="265,1310,277,1261,292,1150,303,1036,314,815,319,815,309,1036,298,1150,282,1262,271,1311"/>
 </map>

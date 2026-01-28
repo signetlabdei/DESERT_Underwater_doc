@@ -1,0 +1,13 @@
+<map id="UwEvoLogicsS2CModem::getTxDuration" name="UwEvoLogicsS2CModem::getTxDuration">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,23,188,63"/>
+<area shape="rect" id="Node000002" href="$structhdr__uwal.html#aa87168db8203850caf4b63305a8c1d93" title=" " alt="" coords="236,5,411,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="188,30,222,27,223,32,189,36"/>
+<area shape="rect" id="Node000003" href="$classUwModem.html#aa63a3ab7d722b6bc1a2a5a034191cfdc" title=" " alt="" coords="238,55,409,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="189,50,225,54,224,60,188,56"/>
+<area shape="rect" id="Node000004" href="$classUwModem.html#afb2af7572f53771dacf4c335a1e70216" title=" " alt="" coords="465,5,631,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="381,52,476,31,477,36,382,57"/>
+<area shape="rect" id="Node000005" href="$classUwModem.html#ade7987148dd186f4fc3cc608c168a877" title=" " alt="" coords="459,55,637,80"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="409,65,445,65,445,70,409,70"/>
+<area shape="rect" id="Node000006" href="$classUwModem.html#a66a5da471c180d44d6e78aa1397f1142" title=" " alt="" coords="465,104,631,129"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="382,77,477,98,476,104,381,83"/>
+</map>

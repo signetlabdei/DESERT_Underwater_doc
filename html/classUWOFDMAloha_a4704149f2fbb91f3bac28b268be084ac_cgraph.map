@@ -1,0 +1,18 @@
+<map id="UWOFDMAloha::stateTxAck" name="UWOFDMAloha::stateTxAck">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,208,80"/>
+<area shape="rect" id="Node000002" href="$classUWOFDMAloha.html#ace3deddbeb80fcefc1a704bebf1bb221" title=" " alt="" coords="256,5,475,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="173,52,284,31,285,36,174,57"/>
+<area shape="rect" id="Node000003" href="$classUWOFDMAloha.html#a60b9149ec8f484eaf4c5203cced78e19" title=" " alt="" coords="260,55,471,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="208,65,246,65,246,70,208,70"/>
+<area shape="rect" id="Node000004" href="$classUWOFDMAloha.html#a189d77694c4f471d8d56a1d712a4b9dd" title=" " alt="" coords="282,104,449,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="174,77,285,99,284,104,173,83"/>
+<area shape="rect" id="Node000005" href="$classUWOFDMAloha.html#a62e4089ab966408613df57fd2eb3c81b" title=" " alt="" coords="555,79,727,104"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="449,106,541,98,541,103,449,112"/>
+<area shape="rect" id="Node000008" href="$classUWOFDMAloha.html#a84735dd93b749cb67c6e3e1af6b89c0d" title=" " alt="" coords="523,128,759,153"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="449,121,509,127,509,132,449,127"/>
+<area shape="rect" id="Node000006" href="$classUWOFDMAloha.html#ae52014d299527ef71019149413f78b9a" title=" " alt="" coords="807,79,1035,104"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="727,89,793,89,793,94,727,94"/>
+<area shape="rect" id="Node000007" href="$classUWOFDMAloha.html#a0825e4213c20d783b941b20902648ce3" title=" " alt="" coords="807,128,1034,153"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="714,101,835,123,834,128,713,107"/>
+<area shape="poly" id="edge8_Node000008_Node000007" title=" " alt="" coords="759,138,794,138,794,143,759,143"/>
+</map>

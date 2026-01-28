@@ -1,3 +1,7 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="Node000000" href="$structmsgModem.html" title=" " alt="" coords="5,5,104,31"/>
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,31,117,56"/>
+<area shape="rect" id="Node000001" href="$classUwElectroMagneticMPropagation.html" title=" " alt="" coords="165,5,404,31"/>
+<area shape="poly" id="edge105_Node000000_Node000001" title=" " alt="" coords="131,33,173,28,173,33,132,38"/>
+<area shape="rect" id="Node000002" href="$classUwOpticalMPropagation.html" title=" " alt="" coords="195,55,374,80"/>
+<area shape="poly" id="edge106_Node000000_Node000002" title=" " alt="" coords="132,48,195,55,195,60,131,53"/>
 </map>

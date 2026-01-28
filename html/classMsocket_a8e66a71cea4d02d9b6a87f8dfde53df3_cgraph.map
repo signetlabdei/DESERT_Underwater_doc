@@ -1,0 +1,9 @@
+<map id="Msocket::openConnection" name="Msocket::openConnection">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,42,195,67"/>
+<area shape="rect" id="Node000002" href="$DESERT__Addons_2uwmphy__modem_2msocket_8cpp.html#a401b0037441cb414f21d812c94f56ef9" title=" " alt="" coords="243,42,413,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="195,52,229,52,229,57,195,57"/>
+<area shape="rect" id="Node000003" href="$classUWMconnector.html#a2667b9cb4e03c79fe4e07c59c4c97d10" title=" " alt="" coords="461,5,693,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="413,42,447,38,448,43,414,47"/>
+<area shape="rect" id="Node000004" href="$classMsocket.html#a3186125b7b2c6bf053be691ad39e4adc" title=" " alt="" coords="503,70,651,95"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="414,62,490,70,490,76,413,67"/>
+</map>

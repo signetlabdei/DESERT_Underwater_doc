@@ -4,7 +4,6 @@ var classUwUdp =
     [ "~UwUdp", "classUwUdp.html#a503b6c41acd03ee31c52141d73f05cd3", null ],
     [ "assignPort", "classUwUdp.html#a5cd676a46073fdf3dc725cff9594d91b", null ],
     [ "command", "classUwUdp.html#a4a28ef3b03a577545037fb786eb0c888", null ],
-    [ "getUdpHeaderSize", "classUwUdp.html#a8ffe7a401f8c67edbf2aebe7e9f292ba", null ],
     [ "printIdsPkts", "classUwUdp.html#ae4e0dade08db4e8565aa4bbd2801a620", null ],
     [ "recv", "classUwUdp.html#a4a597d550eb2ba6076eb20acea48818c", null ],
     [ "recv", "classUwUdp.html#a8ce10251e6db171652bb468f92c8bd8e", null ],

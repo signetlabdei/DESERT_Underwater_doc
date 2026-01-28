@@ -14,6 +14,5 @@ var soundlevels_8h =
     [ "cruise_ship", "soundlevels_8h.html#ad0722fd714ea29a90573c66add6d2615", null ],
     [ "ferry", "soundlevels_8h.html#a5af82a69f648626f65fc0d75f68be88f", null ],
     [ "fishing_vessel", "soundlevels_8h.html#a92757a64e1801182d0233e6febdbbc0b", null ],
-    [ "getNoisefromCategory", "soundlevels_8h.html#a7226093c31c44c18aaae7aae58f52a69", null ],
-    [ "cat_dict", "soundlevels_8h.html#a7969f618638e04cd2d02dc596443d43b", null ]
+    [ "getNoisefromCategory", "soundlevels_8h.html#a7226093c31c44c18aaae7aae58f52a69", null ]
 ];

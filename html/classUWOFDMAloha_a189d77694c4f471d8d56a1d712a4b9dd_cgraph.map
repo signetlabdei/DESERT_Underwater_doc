@@ -1,0 +1,12 @@
+<map id="UWOFDMAloha::txAck" name="UWOFDMAloha::txAck">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,172,56"/>
+<area shape="rect" id="Node000002" href="$classUWOFDMAloha.html#a62e4089ab966408613df57fd2eb3c81b" title=" " alt="" coords="252,5,424,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,32,238,25,239,31,172,38"/>
+<area shape="rect" id="Node000005" href="$classUWOFDMAloha.html#a84735dd93b749cb67c6e3e1af6b89c0d" title=" " alt="" coords="220,55,456,80"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="172,49,206,52,206,57,172,54"/>
+<area shape="rect" id="Node000003" href="$classUWOFDMAloha.html#ae52014d299527ef71019149413f78b9a" title=" " alt="" coords="504,5,732,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="424,15,490,15,490,21,424,21"/>
+<area shape="rect" id="Node000004" href="$classUWOFDMAloha.html#a0825e4213c20d783b941b20902648ce3" title=" " alt="" coords="505,55,731,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="411,28,532,50,531,55,410,33"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="456,65,491,65,491,70,456,70"/>
+</map>

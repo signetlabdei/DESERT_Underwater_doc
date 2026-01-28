@@ -1,5 +1,5 @@
 <map id="UWMdriver" name="UWMdriver">
-<area shape="rect" id="Node000001" title="The class needed by UWMPhy_modem to handle the different transmissions cases and corresponding protoc..." alt="" coords="47,5,142,31"/>
-<area shape="rect" id="Node000002" href="$classMdriverS2C__Evo__lowlev.html" title="Class containing the basic functions to drive the S2C EvoLogics acoustic modem transmissions/receptio..." alt="" coords="5,79,184,104"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="97,44,97,79,92,79,92,44"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="27,5,189,611"/>
+<area shape="rect" id="Node000002" href="$classMdriverS2C__Evo__lowlev.html" title=" " alt="" coords="5,659,211,1304"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,624,111,658,105,658,105,624"/>
 </map>

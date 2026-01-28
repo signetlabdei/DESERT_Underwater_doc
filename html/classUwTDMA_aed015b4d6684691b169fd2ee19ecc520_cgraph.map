@@ -1,0 +1,13 @@
+<map id="UwTDMA::changeStatus" name="UwTDMA::changeStatus">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,184,31"/>
+<area shape="rect" id="Node000002" href="$classUwTDMA.html#aae7d76e1bcc0d742c10909c35d1483ed" title=" " alt="" coords="877,31,1028,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="184,12,471,8,650,11,830,22,865,26,865,31,829,27,650,17,471,13,184,17"/>
+<area shape="rect" id="Node000003" href="$classUwTDMA.html#a628c6ff994c380d8ce68b81334c936cf" title=" " alt="" coords="232,31,403,56"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="185,26,219,29,218,35,184,31"/>
+<area shape="rect" id="Node000004" href="$classUwTDMA.html#a34ed509056003ecd64f7bc694287fa16" title=" " alt="" coords="451,31,585,56"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="403,41,437,41,437,46,403,46"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="585,41,864,41,864,46,585,46"/>
+<area shape="rect" id="Node000005" href="$classUwTDMA.html#a9b42c6c964fe03ae3b4e5b35be3aea85" title=" " alt="" coords="633,81,829,107"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="573,54,665,76,663,81,572,59"/>
+<area shape="poly" id="edge6_Node000005_Node000002" title=" " alt="" coords="787,79,883,56,884,62,788,84"/>
+</map>

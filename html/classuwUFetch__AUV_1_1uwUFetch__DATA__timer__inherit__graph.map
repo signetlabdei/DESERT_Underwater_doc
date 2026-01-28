@@ -1,7 +1,7 @@
 <map id="uwUFetch_AUV::uwUFetch_DATA_timer" name="uwUFetch_AUV::uwUFetch_DATA_timer">
-<area shape="rect" id="Node000001" title="Class inherited the method and variable of uwUFetch_timer that handle the timer of DATA packets." alt="" coords="5,167,197,207"/>
-<area shape="rect" id="Node000002" href="$classuwUFetch__AUV_1_1uwUFetch__timer.html" title="Class that handle the timers of AUV node." alt="" coords="5,79,197,119"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="104,133,104,166,99,166,99,133"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="46,5,157,31"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="104,44,104,79,99,79,99,44"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,587,203,707"/>
+<area shape="rect" id="Node000002" href="$classuwUFetch__AUV_1_1uwUFetch__timer.html" title=" " alt="" coords="12,119,196,539"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,553,107,586,101,586,101,553"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="53,5,155,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="107,84,107,118,101,118,101,84"/>
 </map>

@@ -11,7 +11,6 @@ var classUnderwaterPhysicalNoise =
     [ "vesselNoisePower", "classUnderwaterPhysicalNoise.html#ac79943a62c8761aeaa415d3c5b77c14c", null ],
     [ "debug_noise", "classUnderwaterPhysicalNoise.html#a7c1ed6be2d3e673bc8ef965dfd2134a8", null ],
     [ "granularity", "classUnderwaterPhysicalNoise.html#aba9138cde1f4dce70bca843bdb4388b9", null ],
-    [ "MS_TO_KNOTS", "classUnderwaterPhysicalNoise.html#a58ff0dc496a08ccf7b66f08c0a318923", null ],
     [ "noise_src", "classUnderwaterPhysicalNoise.html#a83e6640a9710ee999b57d0e3c529598f", null ],
     [ "ship_stop", "classUnderwaterPhysicalNoise.html#a09c343e8898155b2c22cb08bb94dd19d", null ]
 ];

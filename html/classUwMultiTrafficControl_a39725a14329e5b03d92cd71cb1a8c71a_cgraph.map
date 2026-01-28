@@ -1,0 +1,7 @@
+<map id="UwMultiTrafficControl::manageBuffer" name="UwMultiTrafficControl::manageBuffer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,37,168,77"/>
+<area shape="rect" id="Node000002" href="$classUwMultiTrafficControl.html#a63e7f1c013b4b658eee1df7a8d7d590c" title=" " alt="" coords="216,5,379,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,42,202,37,203,42,169,48"/>
+<area shape="rect" id="Node000003" href="$classUwMultiTrafficControl.html#a7ed3fd9ae30368eb87b13000d067dc65" title=" " alt="" coords="216,69,379,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="169,67,203,72,202,78,168,72"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="uwUFetch_NODE::CBEACON_tx" name="uwUFetch_NODE::CBEACON_tx">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,60,228,85"/>
+<area shape="rect" id="Node000002" href="$classuwUFetch__NODE.html#a7c9257d54ebc8c7f93adb5ef8ff83464" title=" " alt="" coords="276,35,521,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="228,60,262,57,263,62,229,65"/>
+<area shape="rect" id="Node000006" href="$classuwUFetch__NODE.html#a62cbe89f690b9055159fc1f26439ba1a" title=" " alt="" coords="282,84,515,109"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="229,79,269,83,268,88,228,85"/>
+<area shape="rect" id="Node000003" href="$classuwUFetch__NODE.html#abcc78eba586e823e1b0b6dd01fbfea50" title=" " alt="" coords="575,5,793,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="521,32,561,28,561,33,522,37"/>
+<area shape="rect" id="Node000004" href="$classuwUFetch__NODE.html#a5bd3ad908386eaedcdea32445b3ff8b7" title=" " alt="" coords="569,55,799,95"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="522,57,556,60,556,65,521,62"/>
+<area shape="rect" id="Node000005" href="$classuwUFetch__NODE.html#a97e3c728b49791f8ba8ecf5211f88c4c" title=" " alt="" coords="847,55,1061,95"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="799,73,833,73,833,78,799,78"/>
+</map>

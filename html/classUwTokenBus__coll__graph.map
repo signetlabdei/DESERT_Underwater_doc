@@ -1,12 +1,12 @@
 <map id="UwTokenBus" name="UwTokenBus">
-<area shape="rect" id="Node000001" title="Class that represents a TokenBus Node." alt="" coords="147,168,251,193"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,80,67,105"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="71,109,178,165,175,170,69,114"/>
-<area shape="rect" id="Node000003" href="$classUwTokenBus_1_1TimerTokenPass.html" title="TimerTokenPass when expires it resends the token." alt="" coords="91,80,307,105"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="201,119,201,167,196,167,196,119"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="258,5,369,31"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="285,40,218,82,216,78,282,36"/>
-<area shape="rect" id="Node000005" href="$classUwTokenBus_1_1TimerBusIdle.html" title="TimerBusIdle when expires calls UwTokenBus::TxData() to start the transmission." alt="" coords="331,80,530,105"/>
-<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="345,36,413,78,410,82,343,40"/>
-<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="398,114,325,146,247,170,245,165,323,142,396,109"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="96,268,277,833"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,130,59,195"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="52,207,98,322,94,324,47,209"/>
+<area shape="rect" id="Node000003" href="$classUwTokenBus_1_1TimerTokenPass.html" title=" " alt="" coords="83,120,291,205"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="189,206,189,252,184,252,184,206"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="246,5,349,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="262,83,226,122,222,118,258,79"/>
+<area shape="rect" id="Node000005" href="$classUwTokenBus_1_1TimerBusIdle.html" title=" " alt="" coords="315,120,506,205"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="338,79,374,118,370,122,334,82"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="389,207,288,380,283,378,384,204"/>
 </map>

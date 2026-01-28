@@ -1,8 +1,6 @@
 var structhdr__uwpos__based__rt =
 [
-    [ "access", "structhdr__uwpos__based__rt.html#a8461e1ba49b11fcc35244ef821cc644d", null ],
     [ "IP_ROV", "structhdr__uwpos__based__rt.html#a45a12ee89632cce8375af5ff3ed223e7", null ],
-    [ "offset", "structhdr__uwpos__based__rt.html#afcbf9067222f56049db517d952911f33", null ],
     [ "ROV_speed", "structhdr__uwpos__based__rt.html#a2466f7d3d36c8951324fbd81b49f7eff", null ],
     [ "timestamp", "structhdr__uwpos__based__rt.html#ae762912c8ffbd10d28441ceb8e7a85d0", null ],
     [ "x_ROV", "structhdr__uwpos__based__rt.html#a277d45e38b789da0366a56c54fb5c0df", null ],
@@ -12,7 +10,6 @@ var structhdr__uwpos__based__rt =
     [ "z_ROV", "structhdr__uwpos__based__rt.html#ae0ce9c27c240b14b3e75d6f5bf779fdd", null ],
     [ "z_waypoint", "structhdr__uwpos__based__rt.html#a634c5dc039e3db4a392599c9c0afd95d", null ],
     [ "ipROV_", "structhdr__uwpos__based__rt.html#ae907cf2ffb310d2e57de438134797f89", null ],
-    [ "offset_", "structhdr__uwpos__based__rt.html#a9d4d44d64af52490cdcba9b53d554336", null ],
     [ "ROV_speed_", "structhdr__uwpos__based__rt.html#abd54e1903237bf8bacc94ecb365c142f", null ],
     [ "timestamp_", "structhdr__uwpos__based__rt.html#a99f96ca006e6383597aaaef9dff528cf", null ],
     [ "x_ROV_", "structhdr__uwpos__based__rt.html#ad57cdbb17df5737a301547822b708f0d", null ],

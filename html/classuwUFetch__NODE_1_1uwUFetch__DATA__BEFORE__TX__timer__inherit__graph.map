@@ -1,7 +1,7 @@
 <map id="uwUFetch_NODE::uwUFetch_DATA_BEFORE_TX_timer" name="uwUFetch_NODE::uwUFetch_DATA_BEFORE_TX_timer">
-<area shape="rect" id="Node000001" title="Class inherited the method and variable of uwUFetch_NODE_timer that handle the timer of DATA packets." alt="" coords="5,167,208,207"/>
-<area shape="rect" id="Node000002" href="$classuwUFetch__NODE_1_1uwUFetch__NODE__timer.html" title="Class that handle the timers of SN or HN." alt="" coords="5,79,208,119"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,133,109,166,104,166,104,133"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="51,5,162,31"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="109,44,109,79,104,79,104,44"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,587,209,736"/>
+<area shape="rect" id="Node000002" href="$classuwUFetch__NODE_1_1uwUFetch__NODE__timer.html" title=" " alt="" coords="7,119,208,539"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,553,110,587,105,587,105,553"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="56,5,159,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="110,84,110,118,105,118,105,84"/>
 </map>

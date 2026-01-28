@@ -1,0 +1,17 @@
+<map id="Uwpolling_AUV::stateWaitData" name="Uwpolling_AUV::stateWaitData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,183,228,208"/>
+<area shape="rect" id="Node000002" href="$classUwpolling__AUV.html#ad412e548fe314e54403aada8799c7089" title=" " alt="" coords="276,71,497,111"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="150,180,320,114,322,119,152,185"/>
+<area shape="rect" id="Node000004" href="$classUwpolling__AUV.html#ae63b909cf3ccb321935374870053f25f" title=" " alt="" coords="828,107,1017,132"/>
+<area shape="poly" id="edge6_Node000001_Node000004" title=" " alt="" coords="228,188,481,172,631,159,780,142,844,132,845,137,780,147,631,164,481,177,229,193"/>
+<area shape="rect" id="Node000006" href="$classUwpolling__AUV.html#a027a1065510fb54378113ff268c90aa2" title=" " alt="" coords="282,208,491,233"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="229,203,268,207,268,212,228,208"/>
+<area shape="rect" id="Node000007" href="$classUwpolling__AUV_1_1Uwpolling__AUV__Timer.html#a9bf2f957e890fbbfc45ddb59c5fa7d30" title=" " alt="" coords="289,258,484,298"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="158,206,277,243,303,252,302,257,275,249,156,211"/>
+<area shape="rect" id="Node000003" href="$classUwpolling__AUV.html#a7cc206446be9056dc01552e8cb424a49" title=" " alt="" coords="545,5,780,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="462,69,600,32,601,37,463,74"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="498,85,633,85,780,93,846,102,845,107,780,98,633,91,498,90"/>
+<area shape="rect" id="Node000005" href="$classUwpolling__AUV.html#a678b95a2c14f4ffe805e5089df22b1ec" title=" " alt="" coords="563,107,763,132"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="498,100,549,105,549,110,497,105"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="763,117,814,117,814,122,763,122"/>
+</map>

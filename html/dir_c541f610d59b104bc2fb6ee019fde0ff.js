@@ -9,5 +9,5 @@ var dir_c541f610d59b104bc2fb6ee019fde0ff =
     [ "uwicrp-module-node.h", "uwicrp-module-node_8h.html", "uwicrp-module-node_8h" ],
     [ "uwicrp-module-sink.cpp", "uwicrp-module-sink_8cpp.html", "uwicrp-module-sink_8cpp" ],
     [ "uwicrp-module-sink.h", "uwicrp-module-sink_8h.html", "uwicrp-module-sink_8h" ],
-    [ "uwicrp.cpp", "uwicrp_8cpp.html", "uwicrp_8cpp" ]
+    [ "uwicrp.cpp", "uwicrp_8cpp.html", null ]
 ];

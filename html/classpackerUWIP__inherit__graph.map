@@ -1,7 +1,7 @@
 <map id="packerUWIP" name="packerUWIP">
-<area shape="rect" id="Node000001" title="Class exploited by the Uwal module to map an NS&#45;Miracle packet into a bit stream, and vice&#45;versa." alt="" coords="5,152,105,177"/>
-<area shape="rect" id="Node000002" href="$classpacker.html" title="Class exploited by the Uwal module to map an NS&#45;Miracle packet into a bit stream, and vice&#45;versa." alt="" coords="23,79,88,104"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="58,118,58,152,53,152,53,118"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="15,5,96,31"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="58,44,58,79,53,79,53,44"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="27,1052,176,1257"/>
+<area shape="rect" id="Node000002" href="$classpacker.html" title=" " alt="" coords="5,119,197,1004"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="104,1018,104,1052,99,1052,99,1018"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="65,5,138,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="104,84,104,118,99,118,99,84"/>
 </map>

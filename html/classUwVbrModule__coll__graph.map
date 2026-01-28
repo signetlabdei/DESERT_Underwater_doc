@@ -1,12 +1,12 @@
 <map id="UwVbrModule" name="UwVbrModule">
-<area shape="rect" id="Node000001" title="UwVbrModule class is used to manage UWVBR packets, and to collect statistics about them." alt="" coords="111,168,224,193"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,80,76,105"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="71,111,152,166,149,170,68,115"/>
-<area shape="rect" id="Node000003" href="$classUwVbrSendTimer.html" title="UwVbrSendTimer class is used to handle the scheduling period of UWVBR packets." alt="" coords="100,80,235,105"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="170,119,170,167,165,167,165,119"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="197,5,308,31"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="230,42,183,82,180,78,227,38"/>
-<area shape="rect" id="Node000005" href="$classUwVbrPeriodSwitcher.html" title="UwVbrPeriodSwitcher class is used to handle the switch between different period used by a UwVbrModule..." alt="" coords="259,80,422,105"/>
-<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="279,38,328,77,325,82,276,42"/>
-<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="307,114,243,146,193,170,191,165,241,142,305,109"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="75,268,263,1093"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,130,68,195"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="51,208,77,311,72,312,46,209"/>
+<area shape="rect" id="Node000003" href="$classUwVbrSendTimer.html" title=" " alt="" coords="93,120,245,205"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="171,206,171,251,166,251,166,206"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="211,5,313,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="232,83,202,122,198,118,228,80"/>
+<area shape="rect" id="Node000005" href="$classUwVbrPeriodSwitcher.html" title=" " alt="" coords="269,120,447,205"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="297,80,327,118,323,122,293,83"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="345,207,271,409,266,407,340,205"/>
 </map>

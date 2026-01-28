@@ -1,0 +1,9 @@
+<map id="UwOpticalPhy::getNoisePower" name="UwOpticalPhy::getNoisePower">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,224,60"/>
+<area shape="rect" id="Node000002" href="$classUwOpticalPhy.html#a926af75b4a25a2732a552c892bc93b61" title=" " alt="" coords="272,5,516,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="224,33,259,29,260,35,224,39"/>
+<area shape="rect" id="Node000003" href="$classUwOpticalPhy.html#a078b1e2c4eca50fad3c0fa08b94e94e9" title=" " alt="" coords="295,55,493,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="224,56,281,61,281,67,224,61"/>
+<area shape="rect" id="Node000004" href="$classUwOpticalPhy.html#af77b21f1a36d1430ca048ea95336da95" title=" " alt="" coords="564,63,797,88"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="493,73,550,73,550,78,493,78"/>
+</map>

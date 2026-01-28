@@ -1,7 +1,8 @@
 <map id="StoppableThread" name="StoppableThread">
-<area shape="rect" id="Node000001" title="A stoppable C++11 thread implementation." alt="" coords="177,5,309,31"/>
-<area shape="rect" id="Node000002" href="$classPositionListener.html" title=" " alt="" coords="5,79,241,104"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="213,40,144,81,142,76,211,35"/>
-<area shape="rect" id="Node000003" href="$classPositionListener.html" title="Position listener thread with UDP socket." alt="" coords="265,79,464,104"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="276,35,346,76,343,81,274,40"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="34,5,194,271"/>
+<area shape="rect" id="Node000002" href="$classPositionListener.html" title=" " alt="" coords="5,568,233,753"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,285,121,568,116,568,113,285"/>
+<area shape="rect" id="Node000003" href="$classPositionListener.html" title=" " alt="" coords="136,320,327,505"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="179,282,194,319,189,321,174,284"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="186,519,163,569,159,567,181,517"/>
 </map>

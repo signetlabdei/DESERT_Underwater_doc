@@ -1,0 +1,7 @@
+<map id="CoolAddon::start" name="CoolAddon::start">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,13,136,38"/>
+<area shape="rect" id="Node000002" href="$classUwCbrModule.html#a9c898cf974de037285dde756aa6a00ad" title=" " alt="" coords="184,13,335,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="136,23,170,23,170,28,136,28"/>
+<area shape="rect" id="Node000003" href="$classUwCbrModule.html#a1cf9f7b0da98dfb432009007b0cf7ea1" title=" " alt="" coords="383,5,601,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="335,23,369,23,369,28,335,28"/>
+</map>

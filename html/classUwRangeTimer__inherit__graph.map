@@ -1,5 +1,5 @@
 <map id="UwRangeTimer" name="UwRangeTimer">
-<area shape="rect" id="Node000001" title="UwRangeTimer class is used to schedule the transmission of ranging packets." alt="" coords="5,79,128,104"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="11,5,122,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="69,44,69,79,64,79,64,44"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,119,144,204"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="23,5,126,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="77,85,77,119,72,119,72,85"/>
 </map>

@@ -1,11 +1,11 @@
 <map id="UwMultiStackController" name="UwMultiStackController">
-<area shape="rect" id="Node000001" title="Class used to represents the UwMultiStackController layer of a node." alt="" coords="129,79,305,104"/>
-<area shape="rect" id="Node000003" href="$classUwMultiStackControllerPhy.html" title=" " alt="" coords="117,152,317,177"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="220,118,220,152,215,152,215,118"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="182,5,253,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="220,44,220,79,215,79,215,44"/>
-<area shape="rect" id="Node000004" href="$classUwMultiStackControllerPhyMaster.html" title="Class used to represents the UwMultiStackControllerPhyMaster layer of a node." alt="" coords="5,225,205,265"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="191,187,134,227,131,223,188,183"/>
-<area shape="rect" id="Node000005" href="$classUwMultiStackControllerPhySlave.html" title="Class used to represents the UwMultiStackControllerPhySlave layer of a node." alt="" coords="229,225,429,265"/>
-<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="247,183,304,223,301,227,244,187"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="125,119,343,639"/>
+<area shape="rect" id="Node000003" href="$classUwMultiStackControllerPhy.html" title=" " alt="" coords="120,687,348,952"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="237,653,237,686,231,686,231,653"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="203,5,265,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="237,85,237,119,231,119,231,85"/>
+<area shape="rect" id="Node000004" href="$classUwMultiStackControllerPhyMaster.html" title=" " alt="" coords="5,1000,223,1489"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="196,966,186,1001,181,999,190,964"/>
+<area shape="rect" id="Node000005" href="$classUwMultiStackControllerPhySlave.html" title=" " alt="" coords="247,1110,464,1379"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="278,964,320,1109,314,1111,273,966"/>
 </map>

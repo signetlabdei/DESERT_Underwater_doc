@@ -1,0 +1,15 @@
+<map id="packerUWCBR::packMyHdr" name="packerUWCBR::packMyHdr">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,105,203,131"/>
+<area shape="rect" id="Node000002" href="$classpackerUWCBR.html#a32e280c12735ffaaf05551664caeb313" title=" " alt="" coords="251,80,485,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="203,106,237,103,237,108,203,111"/>
+<area shape="rect" id="Node000007" href="$classpacker.html#a49dde87c8010960e338690dd56ee6364" title=" " alt="" coords="321,129,415,155"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="203,124,307,134,307,139,203,130"/>
+<area shape="rect" id="Node000003" href="$structhdr__uwcbr.html#a083638694d16e2d08005e4db62aa5f75" title=" " alt="" coords="561,5,677,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="409,77,533,39,558,32,559,37,534,45,410,82"/>
+<area shape="rect" id="Node000004" href="$structhdr__uwcbr.html#a89772b02437a1a87c66314eb719002a5" title=" " alt="" coords="541,55,696,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="485,78,527,74,528,79,486,83"/>
+<area shape="rect" id="Node000005" href="$structhdr__uwcbr.html#abb8022a5c1cd16fa5c4f258193d13e1d" title=" " alt="" coords="563,104,675,129"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="486,101,550,107,549,113,485,107"/>
+<area shape="rect" id="Node000006" href="$structhdr__uwcbr.html#a68f55a5b2425e19bf717527e27675c33" title=" " alt="" coords="533,153,704,179"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="446,103,486,114,511,126,534,138,558,147,557,152,532,143,508,131,484,119,444,108"/>
+</map>

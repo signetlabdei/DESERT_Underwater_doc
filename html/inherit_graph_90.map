@@ -1,21 +1,21 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
 <area shape="rect" id="Node000000" title=" " alt="" coords="5,153,172,179"/>
 <area shape="rect" id="Node000001" href="$classUnderwaterPhysical.html" title=" " alt="" coords="220,153,372,179"/>
-<area shape="poly" id="edge367_Node000000_Node000001" title=" " alt="" coords="186,163,220,163,220,169,186,169"/>
+<area shape="poly" id="edge229_Node000000_Node000001" title=" " alt="" coords="186,163,220,163,220,169,186,169"/>
 <area shape="rect" id="Node000002" href="$classUnderwaterGainFromDb.html" title=" " alt="" coords="425,5,604,31"/>
-<area shape="poly" id="edge368_Node000001_Node000002" title=" " alt="" coords="312,141,356,89,386,62,419,40,445,28,447,33,421,44,389,67,360,93,316,144"/>
+<area shape="poly" id="edge230_Node000001_Node000002" title=" " alt="" coords="312,141,356,89,386,62,419,40,445,28,447,33,421,44,389,67,360,93,316,144"/>
 <area shape="rect" id="Node000004" href="$classUnderwaterHMMPhysical.html" title="UnderwaterHMMPhysical models an hidden Markov Model phy channel." alt="" coords="421,55,608,80"/>
-<area shape="poly" id="edge370_Node000001_Node000004" title=" " alt="" coords="325,143,368,115,419,89,452,78,454,83,421,94,371,120,328,147"/>
+<area shape="poly" id="edge232_Node000001_Node000004" title=" " alt="" coords="325,143,368,115,419,89,452,78,454,83,421,94,371,120,328,147"/>
 <area shape="rect" id="Node000005" href="$classUnderwaterPhysicalNoise.html" title=" " alt="" coords="420,104,609,129"/>
-<area shape="poly" id="edge371_Node000001_Node000005" title=" " alt="" coords="366,148,457,127,458,132,367,153"/>
+<area shape="poly" id="edge233_Node000001_Node000005" title=" " alt="" coords="366,148,457,127,458,132,367,153"/>
 <area shape="rect" id="Node000006" href="$classUnderwaterPhysicaldb.html" title=" " alt="" coords="431,153,599,179"/>
-<area shape="poly" id="edge372_Node000001_Node000006" title=" " alt="" coords="386,163,430,163,430,169,386,169"/>
+<area shape="poly" id="edge234_Node000001_Node000006" title=" " alt="" coords="386,163,430,163,430,169,386,169"/>
 <area shape="rect" id="Node000007" href="$classUwAhoiPhy.html" title=" " alt="" coords="467,203,563,228"/>
-<area shape="poly" id="edge373_Node000001_Node000007" title=" " alt="" coords="367,179,467,202,466,207,366,184"/>
+<area shape="poly" id="edge235_Node000001_Node000007" title=" " alt="" coords="367,179,467,202,466,207,366,184"/>
 <area shape="rect" id="Node000008" href="$classUwHermesPhy.html" title=" " alt="" coords="455,252,574,277"/>
-<area shape="poly" id="edge374_Node000001_Node000008" title=" " alt="" coords="328,184,371,211,421,237,458,249,456,254,419,242,368,216,325,189"/>
+<area shape="poly" id="edge236_Node000001_Node000008" title=" " alt="" coords="328,184,371,211,421,237,458,249,456,254,419,242,368,216,325,189"/>
 <area shape="rect" id="Node000009" href="$classUwOFDMPhy.html" title=" " alt="" coords="461,301,568,327"/>
-<area shape="poly" id="edge375_Node000001_Node000009" title=" " alt="" coords="317,188,361,238,390,264,421,286,462,302,460,307,419,291,386,268,357,242,313,191"/>
+<area shape="poly" id="edge237_Node000001_Node000009" title=" " alt="" coords="317,188,361,238,390,264,421,286,462,302,460,307,419,291,386,268,357,242,313,191"/>
 <area shape="rect" id="Node000003" href="$classUnderwaterPhysicalfromdb.html" title=" " alt="" coords="657,5,856,31"/>
-<area shape="poly" id="edge369_Node000002_Node000003" title=" " alt="" coords="618,15,657,15,657,21,618,21"/>
+<area shape="poly" id="edge231_Node000002_Node000003" title=" " alt="" coords="618,15,657,15,657,21,618,21"/>
 </map>

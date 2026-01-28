@@ -19,7 +19,7 @@ var classUwMultiPhyControl =
     [ "macIDs", "classUwMultiPhyControl.html#a1e56308ed011907cb317c047e36b5a9c", null ],
     [ "macResilience", "classUwMultiPhyControl.html#ad17605b1ee54a191163c045125105f6f", null ],
     [ "macTclIdLayerId", "classUwMultiPhyControl.html#a39e5dcd6710a214b8d63cb393aeb53fd", null ],
-    [ "packet_queue", "classUwMultiPhyControl.html#a36e0433574f1291b24ed3b181ee73c95", null ],
+    [ "packet_queue", "classUwMultiPhyControl.html#a2c594e5d092feb651f0b391f6468862d", null ],
     [ "priorityMap", "classUwMultiPhyControl.html#ac1e9250433578243eef8aca052b083b2", null ],
     [ "probeTimeouts", "classUwMultiPhyControl.html#ab60dc7585a909b8e1ab806d72966be51", null ],
     [ "probeTimers", "classUwMultiPhyControl.html#a7a2342a31f26a3b56b31132de502f586", null ],

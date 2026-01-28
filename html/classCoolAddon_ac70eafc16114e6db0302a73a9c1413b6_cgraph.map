@@ -1,0 +1,29 @@
+<map id="CoolAddon::sendTHRWarning" name="CoolAddon::sendTHRWarning">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,300,216,325"/>
+<area shape="rect" id="Node000002" href="$classUwCbrModule.html#a123f40fe56e06540a24bc2cc66d2a742" title=" " alt="" coords="281,251,443,276"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="176,297,283,276,284,281,177,303"/>
+<area shape="rect" id="Node000012" href="$classCoolAddon.html#a1c5a8791d378d639446b32ada23059cd" title=" " alt="" coords="267,300,457,325"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="216,310,253,310,253,315,216,315"/>
+<area shape="rect" id="Node000013" href="$structhdr__cooladdon.html#a1166d6b92c1cda346352a7b655417a6d" title=" " alt="" coords="264,349,460,375"/>
+<area shape="poly" id="edge14_Node000001_Node000013" title=" " alt="" coords="177,323,284,344,283,349,176,328"/>
+<area shape="rect" id="Node000003" href="$structhdr__uwip.html#af65ae6523ff3e2c6be7c6c71ae25350c" title=" " alt="" coords="527,29,660,55"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="367,249,385,213,415,162,456,109,480,85,506,64,516,58,519,63,510,68,484,89,460,113,420,165,390,215,371,252"/>
+<area shape="rect" id="Node000004" href="$structhdr__uwudp.html#a74a16cca5cfebb4ccaa2fc8eb19d5fbb" title=" " alt="" coords="521,103,666,128"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="373,248,427,195,465,164,507,137,521,130,523,135,509,142,468,168,431,199,377,252"/>
+<area shape="rect" id="Node000005" href="$structhdr__uwip.html#a16e0de7381f90758f28f2900505a2b00" title=" " alt="" coords="530,152,657,177"/>
+<area shape="poly" id="edge6_Node000002_Node000005" title=" " alt="" coords="383,248,439,218,507,186,527,179,529,184,509,191,441,223,386,253"/>
+<area shape="rect" id="Node000006" href="$structhdr__uwudp.html#ab4b211395535c9e27f0d8edf9bb4c23e" title=" " alt="" coords="526,201,661,227"/>
+<area shape="poly" id="edge7_Node000002_Node000006" title=" " alt="" coords="422,248,519,227,520,232,423,253"/>
+<area shape="rect" id="Node000007" href="$structhdr__uwcbr.html#a3e985d349c0925f64f4bd61890aac606" title=" " alt="" coords="521,251,665,276"/>
+<area shape="poly" id="edge8_Node000002_Node000007" title=" " alt="" coords="444,261,508,261,508,266,444,266"/>
+<area shape="rect" id="Node000008" href="$structhdr__uwcbr.html#a083638694d16e2d08005e4db62aa5f75" title=" " alt="" coords="535,300,651,325"/>
+<area shape="poly" id="edge9_Node000002_Node000008" title=" " alt="" coords="423,273,523,295,521,300,422,279"/>
+<area shape="rect" id="Node000009" href="$structhdr__uwcbr.html#a89772b02437a1a87c66314eb719002a5" title=" " alt="" coords="516,349,671,375"/>
+<area shape="poly" id="edge10_Node000002_Node000009" title=" " alt="" coords="435,274,461,285,477,297,486,310,495,323,509,334,524,342,522,347,507,339,491,326,482,313,473,301,459,290,433,279"/>
+<area shape="rect" id="Node000010" href="$structhdr__uwcbr.html#abb8022a5c1cd16fa5c4f258193d13e1d" title=" " alt="" coords="537,399,649,424"/>
+<area shape="poly" id="edge11_Node000002_Node000010" title=" " alt="" coords="443,274,462,285,474,297,481,310,487,336,493,361,499,372,510,384,526,394,523,399,506,388,495,375,488,363,482,337,476,312,469,301,458,289,440,278"/>
+<area shape="rect" id="Node000011" href="$structhdr__uwcbr.html#a68f55a5b2425e19bf717527e27675c33" title=" " alt="" coords="508,448,679,473"/>
+<area shape="poly" id="edge12_Node000002_Node000011" title=" " alt="" coords="445,274,462,285,477,304,484,323,487,361,489,398,496,416,510,433,516,439,513,443,506,437,492,418,484,399,482,361,479,324,472,307,458,289,442,278"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="556,31,548,21,552,11,568,5,593,3,626,7,638,16,635,20,624,11,593,8,569,10,556,15,553,20,560,27"/>
+<area shape="poly" id="edge5_Node000004_Node000004" title=" " alt="" coords="556,104,548,94,552,84,568,78,593,76,626,80,638,89,635,94,624,85,593,81,569,83,556,88,553,94,560,101"/>
+</map>

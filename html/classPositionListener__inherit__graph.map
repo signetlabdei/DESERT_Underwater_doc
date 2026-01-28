@@ -1,5 +1,7 @@
 <map id="PositionListener&lt; Owner &gt;" name="PositionListener&lt; Owner &gt;">
-<area shape="rect" id="Node000001" title="Position listener thread with UDP socket." alt="" coords="5,79,204,104"/>
-<area shape="rect" id="Node000002" href="$classStoppableThread.html" title="A stoppable C++11 thread implementation." alt="" coords="39,5,171,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,44,107,79,102,79,102,44"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="24,320,215,505"/>
+<area shape="rect" id="Node000003" href="$classPositionListener.html" title=" " alt="" coords="5,568,233,753"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="122,519,122,568,117,568,117,519"/>
+<area shape="rect" id="Node000002" href="$classStoppableThread.html" title=" " alt="" coords="39,5,199,271"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="122,285,122,320,117,320,117,285"/>
 </map>

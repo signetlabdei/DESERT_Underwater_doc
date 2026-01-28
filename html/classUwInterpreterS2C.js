@@ -56,7 +56,6 @@ var classUwInterpreterS2C =
     [ "ext_proto_mode", "classUwInterpreterS2C.html#a2b4022951c5d209772d20266863905b9", null ],
     [ "r_term", "classUwInterpreterS2C.html#abed8d15472ef7e81e085cf3a3c7cd341", null ],
     [ "sep", "classUwInterpreterS2C.html#a9a95c6f329b252d4b6bc71e7382dc5a2", null ],
-    [ "syntax_pool", "classUwInterpreterS2C.html#a0b5c309a6341726f46fcbd8e91d7be36", null ],
     [ "usbl_info", "classUwInterpreterS2C.html#adaac51e394376bedd36c31c1f5395606", null ],
     [ "w_term", "classUwInterpreterS2C.html#a7f4dccfbc9af7e17bea1ff41c79f9828", null ]
 ];

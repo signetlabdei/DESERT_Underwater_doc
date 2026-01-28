@@ -1,10 +1,10 @@
 <map id="CsmaCa::CsmaCaTimer" name="CsmaCa::CsmaCaTimer">
-<area shape="rect" id="Node000001" title=" " alt="" coords="101,80,277,105"/>
-<area shape="rect" id="Node000003" href="$classCsmaCa.html" title="Class that describes a CsmaAloha module." alt="" coords="42,212,118,237"/>
-<area shape="poly" id="edge4_Node000003_Node000001" title=" " alt="" coords="98,113,78,131,70,150,69,172,78,211,73,212,64,173,65,149,74,128,94,109"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="134,5,245,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="192,45,192,80,187,80,187,45"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="130,211,151,201,169,186,180,167,186,145,188,106,193,106,191,146,185,169,173,190,154,205,132,216"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="5,80,67,105"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="41,119,46,152,57,187,72,210,67,213,52,189,41,153,35,120"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="129,120,297,205"/>
+<area shape="rect" id="Node000003" href="$classCsmaCa.html" title=" " alt="" coords="5,312,199,1117"/>
+<area shape="poly" id="edge4_Node000003_Node000001" title=" " alt="" coords="130,200,113,214,100,231,89,258,82,296,77,295,84,257,96,228,109,210,127,196"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="161,5,264,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="215,84,215,120,210,120,210,84"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="196,324,202,288,208,221,214,222,207,288,201,325"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="31,130,85,195"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="64,209,73,312,67,312,59,209"/>
 </map>

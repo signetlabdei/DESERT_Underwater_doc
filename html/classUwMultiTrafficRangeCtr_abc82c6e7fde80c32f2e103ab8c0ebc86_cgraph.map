@@ -1,0 +1,34 @@
+<map id="UwMultiTrafficRangeCtr::timerExpired" name="UwMultiTrafficRangeCtr::timerExpired">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,429,180,469"/>
+<area shape="rect" id="Node000002" href="$classUwMultiTrafficRangeCtr.html#ab45df987d43248cd255409bf1876737f" title=" " alt="" coords="451,265,625,305"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="147,426,469,307,471,312,149,431"/>
+<area shape="rect" id="Node000011" href="$classUwMultiTrafficControl.html#a7d73e830853b212f68dd7839f6b0e006" title=" " alt="" coords="457,557,619,597"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="164,466,455,550,453,555,162,471"/>
+<area shape="rect" id="Node000012" href="$classUwMultiTrafficRangeCtr.html#a135a0a7060279e16cdb1cfc52a51bbc2" title=" " alt="" coords="228,429,403,469"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="180,446,214,446,214,451,180,451"/>
+<area shape="rect" id="Node000003" href="$structhdr__uwip.html#a16e0de7381f90758f28f2900505a2b00" title=" " alt="" coords="697,5,824,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="542,264,558,218,584,158,621,95,645,66,672,41,684,33,687,38,675,45,649,70,626,98,588,160,563,220,547,265"/>
+<area shape="rect" id="Node000004" href="$classUWIPClMsgSendAddr.html#a69e4a61afdeb562d270c50f431fa5154" title=" " alt="" coords="677,55,844,95"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="547,263,595,187,630,143,672,105,680,100,683,104,675,109,634,147,599,190,552,266"/>
+<area shape="rect" id="Node000005" href="$classUwMultiTrafficRangeCtr.html#a594ea2e935ec287d4be674b59df59328" title=" " alt="" coords="673,119,848,159"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="557,263,607,217,672,169,684,163,686,167,675,174,610,221,560,267"/>
+<area shape="rect" id="Node000006" href="$classUwMultiTrafficRangeCtr.html#a878f008fca082c9e67116c05ed24b7c3" title=" " alt="" coords="673,183,848,223"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="593,262,692,226,693,231,595,267"/>
+<area shape="rect" id="Node000007" href="$structhdr__uwcbr.html#a3e985d349c0925f64f4bd61890aac606" title=" " alt="" coords="689,248,833,273"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="625,273,675,267,675,273,626,278"/>
+<area shape="rect" id="Node000008" href="$structhdr__uwip.html#aa83dd6cc09a137c0679ccdadb4e93694" title=" " alt="" coords="698,297,823,323"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="626,292,685,299,684,304,625,297"/>
+<area shape="rect" id="Node000009" href="$classUwMultiTrafficRangeCtr.html#ab7ac4463e8779ed9ba12b4a17e234d0b" title=" " alt="" coords="673,397,848,437"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="564,303,614,341,675,381,690,389,687,393,672,386,611,346,561,307"/>
+<area shape="rect" id="Node000010" href="$structhdr__uwm__tr.html#a5a85a7efb949043cdd65c31691a2b228" title=" " alt="" coords="688,347,833,372"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="592,302,674,331,702,340,700,345,672,337,590,307"/>
+<area shape="poly" id="edge12_Node000012_Node000002" title=" " alt="" coords="342,426,497,311,500,315,345,431"/>
+<area shape="poly" id="edge17_Node000012_Node000009" title=" " alt="" coords="387,426,450,414,558,407,660,408,660,413,559,413,451,419,388,431"/>
+<area shape="poly" id="edge13_Node000012_Node000011" title=" " alt="" coords="342,467,391,504,452,542,465,549,463,554,449,547,388,509,339,471"/>
+<area shape="rect" id="Node000013" href="$classUwMultiTrafficControl.html#af8731cadcbb093ccc40c57c3f4b1c33d" title=" " alt="" coords="457,429,619,469"/>
+<area shape="poly" id="edge14_Node000012_Node000013" title=" " alt="" coords="403,446,443,446,443,451,403,451"/>
+<area shape="rect" id="Node000015" href="$classUwMultiTrafficControl.html#a7ed3fd9ae30368eb87b13000d067dc65" title=" " alt="" coords="457,493,619,533"/>
+<area shape="poly" id="edge16_Node000012_Node000015" title=" " alt="" coords="386,466,455,486,454,491,385,471"/>
+<area shape="rect" id="Node000014" href="$classUwMultiTrafficControl.html#ac7ceb376049e7dfc9f0e8110ae45c75b" title=" " alt="" coords="679,461,842,501"/>
+<area shape="poly" id="edge15_Node000013_Node000014" title=" " alt="" coords="620,458,666,464,665,470,619,463"/>
+</map>

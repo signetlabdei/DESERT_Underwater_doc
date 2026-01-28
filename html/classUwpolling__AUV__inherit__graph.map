@@ -1,5 +1,5 @@
 <map id="Uwpolling_AUV" name="Uwpolling_AUV">
-<area shape="rect" id="Node000001" title="Class used to represent the UWPOLLING MAC layer of the AUV." alt="" coords="5,79,128,104"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="36,5,97,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="69,44,69,79,64,79,64,44"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,119,204,744"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="78,5,131,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,85,107,118,102,118,102,85"/>
 </map>

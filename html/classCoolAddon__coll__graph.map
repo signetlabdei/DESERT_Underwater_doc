@@ -1,0 +1,14 @@
+<map id="CoolAddon" name="CoolAddon">
+<area shape="rect" id="Node000001" title=" " alt="" coords="94,1173,243,1419"/>
+<area shape="rect" id="Node000002" href="$classUwCbrModule.html" title=" " alt="" coords="11,339,179,1124"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="151,1137,155,1173,150,1174,146,1138"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,130,68,195"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="44,209,57,338,52,339,39,209"/>
+<area shape="rect" id="Node000004" href="$classUwSendTimer.html" title=" " alt="" coords="92,120,221,205"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="109,207,94,230,78,276,67,323,62,322,73,274,89,228,104,204"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="156,5,259,71"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="192,84,176,121,171,119,187,82"/>
+<area shape="rect" id="Node000006" href="$classTHRMonitorTimer.html" title=" " alt="" coords="183,229,336,315"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="225,83,235,119,256,228,251,229,230,121,220,84"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="259,315,236,650,217,884,194,1124,190,1157,185,1157,189,1124,212,884,231,649,254,315"/>
+</map>

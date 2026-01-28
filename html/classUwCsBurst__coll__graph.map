@@ -1,0 +1,10 @@
+<map id="UwCsBurst" name="UwCsBurst">
+<area shape="rect" id="Node000001" title=" " alt="" coords="132,120,317,565"/>
+<area shape="rect" id="Node000003" href="$classUwSensingTimer.html" title=" " alt="" coords="42,628,202,733"/>
+<area shape="poly" id="edge4_Node000003_Node000001" title=" " alt="" coords="135,539,121,590,118,612,113,611,115,589,129,537"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="198,5,251,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="227,85,227,120,222,120,222,85"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="178,627,193,603,202,580,207,582,198,605,182,629"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,310,108,375"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="62,389,73,488,95,603,103,627,98,629,90,605,68,489,57,389"/>
+</map>

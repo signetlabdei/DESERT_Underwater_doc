@@ -1,31 +1,31 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
 <area shape="rect" id="Node000000" title=" " alt="" coords="5,253,87,279"/>
-<area shape="rect" id="Node000001" href="$classMCLink.html" title="MCLink class models the BER of a directed link between two nodes." alt="" coords="135,117,205,143"/>
-<area shape="poly" id="edge260_Node000000_Node000001" title=" " alt="" coords="66,241,155,141,159,145,70,245"/>
-<area shape="rect" id="Node000003" href="$classpacker.html" title="Class exploited by the Uwal module to map an NS&#45;Miracle packet into a bit stream, and vice&#45;versa." alt="" coords="137,277,203,303"/>
-<area shape="poly" id="edge262_Node000000_Node000003" title=" " alt="" coords="101,274,138,281,137,286,100,279"/>
+<area shape="rect" id="Node000001" href="$classMCLink.html" title="MCLink class models the BER of a directed link between two nodes. The base class allows for GOOD/BAD ..." alt="" coords="135,117,205,143"/>
+<area shape="poly" id="edge117_Node000000_Node000001" title=" " alt="" coords="66,241,155,141,159,145,70,245"/>
+<area shape="rect" id="Node000003" href="$classpacker.html" title=" " alt="" coords="137,277,203,303"/>
+<area shape="poly" id="edge119_Node000000_Node000003" title=" " alt="" coords="101,274,138,281,137,286,100,279"/>
 <area shape="rect" id="Node000002" href="$classMCLinkExtended.html" title="MCLinkExtended class stores and updates the probabilities and the channel state for UnderwaterHMMPhys..." alt="" coords="279,5,409,31"/>
-<area shape="poly" id="edge261_Node000001_Node000002" title=" " alt="" coords="186,104,214,71,252,40,277,28,280,33,255,44,218,74,190,108"/>
-<area shape="rect" id="Node000004" href="$classPackerUwFlooding.html" title="Class exploited by the Uwal module to map an NS&#45;Miracle packet into a bit stream, and vice&#45;versa." alt="" coords="273,55,415,80"/>
-<area shape="poly" id="edge263_Node000003_Node000004" title=" " alt="" coords="172,263,180,224,195,177,218,130,233,108,252,89,272,77,274,81,255,93,237,112,222,133,200,179,185,226,177,264"/>
-<area shape="rect" id="Node000005" href="$classpackerCOMMON.html" title="Class to map a ns2 mac header into a bit stream, and vice&#45;versa." alt="" coords="280,104,408,129"/>
-<area shape="poly" id="edge264_Node000003_Node000005" title=" " alt="" coords="176,263,202,200,224,167,252,139,278,124,281,129,255,143,228,170,207,203,181,265"/>
-<area shape="rect" id="Node000006" href="$classpackerMAC.html" title="Class to map a ns2 mac header into a bit stream, and vice&#45;versa." alt="" coords="297,153,391,179"/>
-<area shape="poly" id="edge265_Node000003_Node000006" title=" " alt="" coords="183,264,211,225,230,205,252,188,273,177,296,170,297,175,275,182,255,192,234,209,215,228,187,267"/>
-<area shape="rect" id="Node000007" href="$classpackerUWCBR.html" title="Class exploited by the Uwal module to map an NS&#45;Miracle packet into a bit stream, and vice&#45;versa." alt="" coords="287,203,401,228"/>
-<area shape="poly" id="edge266_Node000003_Node000007" title=" " alt="" coords="199,267,252,237,286,225,287,230,254,242,201,272"/>
-<area shape="rect" id="Node000008" href="$classpackerUWIP.html" title="Class exploited by the Uwal module to map an NS&#45;Miracle packet into a bit stream, and vice&#45;versa." alt="" coords="294,252,394,277"/>
-<area shape="poly" id="edge267_Node000003_Node000008" title=" " alt="" coords="216,281,294,269,294,275,217,286"/>
-<area shape="rect" id="Node000009" href="$classpackerUWUDP.html" title="Class exploited by the Uwal module to map an NS&#45;Miracle packet into a bit stream, and vice&#45;versa." alt="" coords="286,301,402,327"/>
-<area shape="poly" id="edge268_Node000003_Node000009" title=" " alt="" coords="216,294,286,303,285,309,216,299"/>
-<area shape="rect" id="Node000010" href="$classpackerUwCsmaCa.html" title="Class to map a UwCsma&#45;Ca header into a bit stream, and vice&#45;versa." alt="" coords="274,351,414,376"/>
-<area shape="poly" id="edge269_Node000003_Node000010" title=" " alt="" coords="203,308,254,336,290,348,289,353,252,340,201,313"/>
-<area shape="rect" id="Node000011" href="$classpackerUwpolling.html" title="Class to map a Uwpolling header into a bit stream, and vice&#45;versa." alt="" coords="279,400,409,425"/>
-<area shape="poly" id="edge270_Node000003_Node000011" title=" " alt="" coords="188,313,216,351,234,369,255,385,281,398,278,402,252,390,231,373,212,354,184,316"/>
-<area shape="rect" id="Node000012" href="$classpacker__uwApplication.html" title="Class to map a ns2 mac header into a bit stream, and vice&#45;versa." alt="" coords="262,449,426,475"/>
-<area shape="poly" id="edge271_Node000003_Node000012" title=" " alt="" coords="181,315,208,375,229,407,255,435,277,447,274,452,252,439,224,411,203,378,176,317"/>
-<area shape="rect" id="Node000013" href="$classpacker__uwRangingTDOA.html" title="Class to map a ns2 uwRangingTDOA header into a bit stream, and vice&#45;versa." alt="" coords="253,499,435,524"/>
-<area shape="poly" id="edge272_Node000003_Node000013" title=" " alt="" coords="178,316,186,353,200,399,223,445,255,484,274,496,272,501,252,488,218,448,195,401,180,355,172,317"/>
-<area shape="rect" id="Node000014" href="$classpacker__uwUFetch.html" title="Class to map a ns2 mac header into a bit stream, and vice&#45;versa." alt="" coords="276,548,412,573"/>
-<area shape="poly" id="edge273_Node000003_Node000014" title=" " alt="" coords="175,316,180,363,193,421,217,482,234,509,255,533,277,547,274,552,252,537,230,512,212,484,188,423,175,364,170,317"/>
+<area shape="poly" id="edge118_Node000001_Node000002" title=" " alt="" coords="186,104,214,71,252,40,277,28,280,33,255,44,218,74,190,108"/>
+<area shape="rect" id="Node000004" href="$classPackerUwFlooding.html" title=" " alt="" coords="273,55,415,80"/>
+<area shape="poly" id="edge120_Node000003_Node000004" title=" " alt="" coords="172,263,180,224,195,177,218,130,233,108,252,89,272,77,274,81,255,93,237,112,222,133,200,179,185,226,177,264"/>
+<area shape="rect" id="Node000005" href="$classpackerCOMMON.html" title=" " alt="" coords="280,104,408,129"/>
+<area shape="poly" id="edge121_Node000003_Node000005" title=" " alt="" coords="176,263,202,200,224,167,252,139,278,124,281,129,255,143,228,170,207,203,181,265"/>
+<area shape="rect" id="Node000006" href="$classpackerMAC.html" title=" " alt="" coords="297,153,391,179"/>
+<area shape="poly" id="edge122_Node000003_Node000006" title=" " alt="" coords="183,264,211,225,230,205,252,188,273,177,296,170,297,175,275,182,255,192,234,209,215,228,187,267"/>
+<area shape="rect" id="Node000007" href="$classpackerUWCBR.html" title=" " alt="" coords="287,203,401,228"/>
+<area shape="poly" id="edge123_Node000003_Node000007" title=" " alt="" coords="199,267,252,237,286,225,287,230,254,242,201,272"/>
+<area shape="rect" id="Node000008" href="$classpackerUWIP.html" title=" " alt="" coords="294,252,394,277"/>
+<area shape="poly" id="edge124_Node000003_Node000008" title=" " alt="" coords="216,281,294,269,294,275,217,286"/>
+<area shape="rect" id="Node000009" href="$classpackerUWUDP.html" title=" " alt="" coords="286,301,402,327"/>
+<area shape="poly" id="edge125_Node000003_Node000009" title=" " alt="" coords="216,294,286,303,285,309,216,299"/>
+<area shape="rect" id="Node000010" href="$classpackerUwCsmaCa.html" title=" " alt="" coords="274,351,414,376"/>
+<area shape="poly" id="edge126_Node000003_Node000010" title=" " alt="" coords="203,308,254,336,290,348,289,353,252,340,201,313"/>
+<area shape="rect" id="Node000011" href="$classpackerUwpolling.html" title=" " alt="" coords="279,400,409,425"/>
+<area shape="poly" id="edge127_Node000003_Node000011" title=" " alt="" coords="188,313,216,351,234,369,255,385,281,398,278,402,252,390,231,373,212,354,184,316"/>
+<area shape="rect" id="Node000012" href="$classpacker__uwApplication.html" title=" " alt="" coords="262,449,426,475"/>
+<area shape="poly" id="edge128_Node000003_Node000012" title=" " alt="" coords="181,315,208,375,229,407,255,435,277,447,274,452,252,439,224,411,203,378,176,317"/>
+<area shape="rect" id="Node000013" href="$classpacker__uwRangingTDOA.html" title=" " alt="" coords="253,499,435,524"/>
+<area shape="poly" id="edge129_Node000003_Node000013" title=" " alt="" coords="178,316,186,353,200,399,223,445,255,484,274,496,272,501,252,488,218,448,195,401,180,355,172,317"/>
+<area shape="rect" id="Node000014" href="$classpacker__uwUFetch.html" title=" " alt="" coords="276,548,412,573"/>
+<area shape="poly" id="edge130_Node000003_Node000014" title=" " alt="" coords="175,316,180,363,193,421,217,482,234,509,255,533,277,547,274,552,252,537,230,512,212,484,188,423,175,364,170,317"/>
 </map>

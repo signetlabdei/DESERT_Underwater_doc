@@ -1,0 +1,24 @@
+<map id="UwOpticalBeamPattern::getMaxTxRange" name="UwOpticalBeamPattern::getMaxTxRange">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,197,179,237"/>
+<area shape="rect" id="Node000002" href="$classUwOpticalBeamPattern.html#add617a43b3283a825aeafca1874d4105" title=" " alt="" coords="239,5,413,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,195,150,127,185,88,225,55,235,49,238,54,228,60,189,92,155,130,107,199"/>
+<area shape="rect" id="Node000003" href="$classUwOpticalBeamPattern.html#af50ee549fbf74db3d48b90d5c5024ab2" title=" " alt="" coords="239,69,413,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="115,195,164,157,225,119,240,112,242,117,228,124,167,161,118,199"/>
+<area shape="rect" id="Node000005" href="$classUwOpticalBeamPattern.html#a664b220cd3737f05e448b7f69ff298a0" title=" " alt="" coords="239,133,413,173"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="165,195,238,174,240,180,167,200"/>
+<area shape="rect" id="Node000006" href="$classUwOpticalBeamPattern.html#abd6492268b7a782f7be2a8d6e0822c85" title=" " alt="" coords="239,197,413,237"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="179,215,226,215,226,220,179,220"/>
+<area shape="rect" id="Node000007" href="$classUwOpticalBeamPattern.html#a8006671c35cc8db98a380a451e69795c" title=" " alt="" coords="239,261,413,301"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="167,235,240,255,238,260,165,240"/>
+<area shape="rect" id="Node000009" href="$classUwOpticalBeamPattern.html#a68a45c676856e1d7b5238cb7ee9a1b30" title=" " alt="" coords="239,325,413,365"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="118,235,167,273,228,311,242,318,240,323,225,316,164,278,115,240"/>
+<area shape="rect" id="Node000010" href="$classUwOpticalPhy.html#a078b1e2c4eca50fad3c0fa08b94e94e9" title=" " alt="" coords="227,389,425,429"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="107,236,155,304,189,342,228,375,238,381,235,385,225,380,185,346,150,308,103,239"/>
+<area shape="rect" id="Node000004" href="$structhdr__uwopticalbeampattern.html#abfe34c1b977482fd21b9858ff9d6b849" title=" " alt="" coords="491,133,689,173"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="410,107,495,128,493,133,409,112"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="409,195,493,174,495,179,410,200"/>
+<area shape="rect" id="Node000008" href="$classUwOpticalPhy.html#af77b21f1a36d1430ca048ea95336da95" title=" " alt="" coords="473,333,707,358"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="410,299,524,327,523,332,409,304"/>
+<area shape="poly" id="edge10_Node000009_Node000008" title=" " alt="" coords="413,343,459,343,459,348,413,348"/>
+<area shape="poly" id="edge12_Node000010_Node000008" title=" " alt="" coords="409,387,523,359,524,364,410,392"/>
+</map>

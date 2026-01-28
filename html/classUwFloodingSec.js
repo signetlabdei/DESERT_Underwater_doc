@@ -11,7 +11,6 @@ var classUwFloodingSec =
     [ "checkUnconfirmedPkt", "classUwFloodingSec.html#a870acc52cb9d79beb194a489c651a867", null ],
     [ "command", "classUwFloodingSec.html#a46b73b558bd3fa5a91fa7c2321cab3df", null ],
     [ "getTTL", "classUwFloodingSec.html#af8d2fdf437e991a07a34af8e8458b504", null ],
-    [ "printIP", "classUwFloodingSec.html#afdf74297a47b4013c9ca14eed57f0e8b", null ],
     [ "printNeighbor", "classUwFloodingSec.html#abb2ee344f72784b3eac96ac1379dd1cf", null ],
     [ "recv", "classUwFloodingSec.html#a8689698f2a8cf95f3e4d25ab6b5111aa", null ],
     [ "recvAsyncClMsg", "classUwFloodingSec.html#a3cfd51608caa32d426d085b89e51abcc", null ],
@@ -19,7 +18,6 @@ var classUwFloodingSec =
     [ "retrieveInstantNoise", "classUwFloodingSec.html#a16aca8f58447b5f9077d483541c52bf2", null ],
     [ "sendDown", "classUwFloodingSec.html#afad436af1122145cfd1d0b8deb61ce05", null ],
     [ "sendStatsClMsg", "classUwFloodingSec.html#a7fcc593d86ce3838a2e7a2aa7fe1d24a", null ],
-    [ "str2addr", "classUwFloodingSec.html#ab682e2879b92c1eaf2dc80d53d7ba97f", null ],
     [ "writePathInTrace", "classUwFloodingSec.html#ae9d48e2f50c3be9bd24491b7434707e1", null ],
     [ "NeighborReputationHandler", "classUwFloodingSec.html#aedb83b0c121a597e3cebed73d060a838", null ],
     [ "alpha_snr", "classUwFloodingSec.html#a02544df476ee96380ab49fa0d35695a4", null ],
@@ -39,7 +37,7 @@ var classUwFloodingSec =
     [ "trace_file_path_name_", "classUwFloodingSec.html#ad66439328cfd1572255f35bc363128a2", null ],
     [ "trace_path_", "classUwFloodingSec.html#ac6aeca02e2b7bf2a656ba4983bf3f982", null ],
     [ "ttl_", "classUwFloodingSec.html#a8447c6c99d9c94cb53698e5d04a03d70", null ],
-    [ "ttl_traffic_map", "classUwFloodingSec.html#a30b9e9fbde5261fe913b55653038f7c1", null ],
+    [ "ttl_traffic_map", "classUwFloodingSec.html#a3e3a20e63bb2f44560f9eec8140a555b", null ],
     [ "use_reputation", "classUwFloodingSec.html#aae06ce90cd172f80c3acf6ae3b70a67c", null ],
     [ "valid_phy_id", "classUwFloodingSec.html#a3b53ec66949360fc24ae85878f45c356", null ]
 ];

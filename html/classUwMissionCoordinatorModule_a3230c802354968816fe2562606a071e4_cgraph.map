@@ -1,0 +1,11 @@
+<map id="UwMissionCoordinatorModule::recvSyncClMsg" name="UwMissionCoordinatorModule::recvSyncClMsg">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,69,223,109"/>
+<area shape="rect" id="Node000002" href="$classUwMissionCoordinatorModule.html#ad8a4d4c5d398a827fa6e56854424b551" title=" " alt="" coords="271,5,488,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="197,67,282,46,283,51,198,72"/>
+<area shape="rect" id="Node000003" href="$classUwMissionCoordinatorModule.html#aafd5c95e7e8d5d1858346a13033c655a" title=" " alt="" coords="271,69,488,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="223,87,257,87,257,92,223,92"/>
+<area shape="rect" id="Node000005" href="$classClMsgMc2CtrPosition.html#a4f282ce85fd57524d54d1c0032c62297" title=" " alt="" coords="299,133,459,173"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="198,107,287,128,285,134,197,112"/>
+<area shape="rect" id="Node000004" href="$classClMsgMc2CtrStatus.html#afdc86b9c9e48893e69d5ab11bccf5fb0" title=" " alt="" coords="536,69,693,109"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="488,87,522,87,522,92,488,92"/>
+</map>

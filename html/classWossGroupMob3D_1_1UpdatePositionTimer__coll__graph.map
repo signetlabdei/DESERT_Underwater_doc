@@ -1,12 +1,12 @@
 <map id="WossGroupMob3D::UpdatePositionTimer" name="WossGroupMob3D::UpdatePositionTimer">
-<area shape="rect" id="Node000001" title="Base class of UpdateTimerPosition class which is inherited from TimerHandler class." alt="" coords="301,80,549,120"/>
-<area shape="rect" id="Node000003" href="$classWossGroupMob3D.html" title="Base class of Group Mobility Model." alt="" coords="162,183,303,208"/>
-<area shape="poly" id="edge4_Node000003_Node000001" title=" " alt="" coords="307,127,270,146,252,164,240,184,236,181,248,161,267,142,304,122"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="369,5,480,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="427,44,427,80,422,80,422,44"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="317,186,382,176,407,167,423,157,429,140,428,121,433,120,434,141,427,160,410,172,383,181,318,192"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="5,87,113,113"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="94,117,212,180,210,185,91,121"/>
-<area shape="rect" id="Node000005" href="$classUwrandomlib.html" title=" " alt="" coords="138,87,247,113"/>
-<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="192,126,192,142,196,158,205,170,216,181,213,184,201,174,192,160,187,143,186,126"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="318,153,558,293"/>
+<area shape="rect" id="Node000003" href="$classWossGroupMob3D.html" title=" " alt="" coords="153,388,323,1093"/>
+<area shape="poly" id="edge4_Node000003_Node000001" title=" " alt="" coords="330,295,304,321,283,351,271,374,266,372,278,348,300,318,326,291"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="387,5,489,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="441,84,441,152,435,152,435,84"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="320,622,356,565,391,501,422,433,445,363,449,337,450,309,455,309,454,337,450,365,427,435,396,504,361,568,325,625"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,190,105,255"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="74,267,156,499,151,501,68,269"/>
+<area shape="rect" id="Node000005" href="$classUwrandomlib.html" title=" " alt="" coords="130,120,255,325"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="195,325,197,364,197,372,192,372,191,364,190,325"/>
 </map>

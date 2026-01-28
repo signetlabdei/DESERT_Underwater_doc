@@ -7,11 +7,9 @@ var classUwFlooding =
     [ "UwFlooding", "classUwFlooding.html#aaedb28a29809401cd17e61d63a01b864", null ],
     [ "command", "classUwFlooding.html#a5f204090e4e75c72ca1b40007c1a220f", null ],
     [ "getTTL", "classUwFlooding.html#a7eb630e386db60c6c5292dcc652fea09", null ],
-    [ "printIP", "classUwFlooding.html#a57c4553b06b05ee24742a4ab18cca094", null ],
     [ "recv", "classUwFlooding.html#a6ea9a3936550a16b35dc83b2fb63e11d", null ],
     [ "recvAsyncClMsg", "classUwFlooding.html#a6a9be665a697a6778129b65414f3b6a7", null ],
     [ "recvSyncClMsg", "classUwFlooding.html#aca56048c4e3bd70aec560a8887c599ea", null ],
-    [ "str2addr", "classUwFlooding.html#a1c78d9192fc85fcfd21e773ccd06c68c", null ],
     [ "writePathInTrace", "classUwFlooding.html#ad9e3fb78265eac9af0fc931d2b80de60", null ],
     [ "ipAddr_", "classUwFlooding.html#a3f047823df7518d378fad578a7056100", null ],
     [ "maximum_cache_time_", "classUwFlooding.html#a7430f84058398839fc2345e6fc7c60a9", null ],
@@ -23,5 +21,5 @@ var classUwFlooding =
     [ "trace_file_path_name_", "classUwFlooding.html#a914d7598c039651c503a338c3ac9cb8f", null ],
     [ "trace_path_", "classUwFlooding.html#ac74096ea08c1721659098e4fba22bac7", null ],
     [ "ttl_", "classUwFlooding.html#afbaeb249c7e924e6f95529f989315713", null ],
-    [ "ttl_traffic_map", "classUwFlooding.html#aae59e908950ef4a7f5b2a481eb1b283c", null ]
+    [ "ttl_traffic_map", "classUwFlooding.html#a69ec7d28165cae5dc723de24d05e0afb", null ]
 ];

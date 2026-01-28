@@ -1,12 +1,12 @@
 <map id="UwCsmaAloha_Trigger_SINK::GenericTimer" name="UwCsmaAloha_Trigger_SINK::GenericTimer">
-<area shape="rect" id="Node000001" title="Class that describes the timers in the node." alt="" coords="156,80,324,120"/>
-<area shape="rect" id="Node000005" href="$classUwCsmaAloha__Trigger__SINK_1_1ReceiveTimer.html" title="Class used to handle the timer of the reception period." alt="" coords="91,169,259,209"/>
-<area shape="poly" id="edge5_Node000005_Node000001" title=" " alt="" coords="220,133,191,171,187,168,215,130"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="185,5,295,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="243,44,243,80,237,80,237,44"/>
-<area shape="rect" id="Node000003" href="$classUwCsmaAloha__Trigger__SINK.html" title="Class that describes a UwCsmaAloha_Trigger_SINK module." alt="" coords="71,272,278,297"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="254,264,273,246,280,232,283,216,279,181,266,148,251,122,256,119,271,146,284,180,288,216,285,233,277,250,257,267"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="5,177,67,202"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="66,207,159,270,156,274,63,212"/>
-<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="177,223,177,272,172,272,172,223"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="147,120,307,520"/>
+<area shape="rect" id="Node000005" href="$classUwCsmaAloha__Trigger__SINK_1_1ReceiveTimer.html" title=" " alt="" coords="83,569,243,689"/>
+<area shape="poly" id="edge5_Node000005_Node000001" title=" " alt="" coords="185,534,178,570,172,568,180,533"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="175,5,278,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="229,84,229,120,224,120,224,84"/>
+<area shape="rect" id="Node000003" href="$classUwCsmaAloha__Trigger__SINK.html" title=" " alt="" coords="63,752,262,1267"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="259,770,269,728,276,680,278,632,272,537,277,536,283,632,281,681,275,728,265,772"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,597,59,662"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="50,674,77,751,71,753,45,676"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="165,690,165,736,160,736,160,690"/>
 </map>

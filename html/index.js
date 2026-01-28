@@ -1,8 +1,8 @@
 var index =
 [
-    [ "Introductory notes", "index.html#IntroNotes", [
-      [ "Brief history", "index.html#BriefHist", null ],
-      [ "DESERT Release", "index.html#NewVer", null ]
+    [ "Introductory Notes", "index.html#autotoc_md2", [
+      [ "Brief History", "index.html#autotoc_md3", null ],
+      [ "DESERT Release", "index.html#autotoc_md4", null ]
     ] ],
-    [ "References", "index.html#refs", null ]
+    [ "References", "index.html#autotoc_md6", null ]
 ];

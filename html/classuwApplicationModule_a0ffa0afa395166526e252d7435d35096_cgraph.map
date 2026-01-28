@@ -1,0 +1,11 @@
+<map id="uwApplicationModule::readFromTCP" name="uwApplicationModule::readFromTCP">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,69,168,109"/>
+<area shape="rect" id="Node000002" href="$classuwApplicationModule.html#a99598214c67d84cacde36e072bc05fe6" title=" " alt="" coords="223,5,385,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,67,222,47,224,52,156,72"/>
+<area shape="rect" id="Node000003" href="$structhdr__DATA__APPLICATION.html#ac86ec126e03958ca9962774bca791994" title=" " alt="" coords="216,69,392,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="169,87,202,87,202,92,169,92"/>
+<area shape="rect" id="Node000004" href="$classuwApplicationModule.html#a7d8fa079b1bfdd6d6b61dddf26bd9347" title=" " alt="" coords="223,133,385,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="156,107,224,127,222,132,155,112"/>
+<area shape="rect" id="Node000005" href="$classuwApplicationModule.html#ac39112ae58693b852d59748018c1457b" title=" " alt="" coords="440,133,603,173"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="386,151,426,151,426,156,386,156"/>
+</map>

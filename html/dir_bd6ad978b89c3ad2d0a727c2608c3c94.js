@@ -3,7 +3,7 @@ var dir_bd6ad978b89c3ad2d0a727c2608c3c94 =
     [ "initlib.cpp", "DESERT__Addons_2uwmphy__modem_2initlib_8cpp.html", "DESERT__Addons_2uwmphy__modem_2initlib_8cpp" ],
     [ "msocket.cpp", "DESERT__Addons_2uwmphy__modem_2msocket_8cpp.html", "DESERT__Addons_2uwmphy__modem_2msocket_8cpp" ],
     [ "msocket.h", "DESERT__Addons_2uwmphy__modem_2msocket_8h.html", "DESERT__Addons_2uwmphy__modem_2msocket_8h" ],
-    [ "uwmconnector.cpp", "DESERT__Addons_2uwmphy__modem_2uwmconnector_8cpp.html", "DESERT__Addons_2uwmphy__modem_2uwmconnector_8cpp" ],
+    [ "uwmconnector.cpp", "DESERT__Addons_2uwmphy__modem_2uwmconnector_8cpp.html", null ],
     [ "uwmconnector.h", "DESERT__Addons_2uwmphy__modem_2uwmconnector_8h.html", "DESERT__Addons_2uwmphy__modem_2uwmconnector_8h" ],
     [ "uwmdriver.cpp", "DESERT__Addons_2uwmphy__modem_2uwmdriver_8cpp.html", null ],
     [ "uwmdriver.h", "DESERT__Addons_2uwmphy__modem_2uwmdriver_8h.html", "DESERT__Addons_2uwmphy__modem_2uwmdriver_8h" ],

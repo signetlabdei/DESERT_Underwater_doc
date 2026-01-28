@@ -1,7 +1,7 @@
 <map id="UwTokenBus" name="UwTokenBus">
-<area shape="rect" id="Node000001" title="Class that represents a TokenBus Node." alt="" coords="32,79,136,104"/>
-<area shape="rect" id="Node000003" href="$classUwRangingTokenBus.html" title="Class that represents a TokenBus Node." alt="" coords="5,152,163,177"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="87,118,87,152,81,152,81,118"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="53,5,115,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,44,87,79,81,79,81,44"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="7,119,189,684"/>
+<area shape="rect" id="Node000003" href="$classUwRangingTokenBus.html" title=" " alt="" coords="5,732,191,1097"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="101,698,101,732,95,732,95,698"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="71,5,125,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,84,101,119,95,119,95,84"/>
 </map>

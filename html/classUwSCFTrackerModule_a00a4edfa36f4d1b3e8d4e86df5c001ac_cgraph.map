@@ -1,0 +1,25 @@
+<map id="UwSCFTrackerModule::updateMineRemove" name="UwSCFTrackerModule::updateMineRemove">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,129,167,169"/>
+<area shape="rect" id="Node000002" href="$structhdr__uwSCFTracker.html#ad8bc98de08b615fb2cca20066ea2b066" title=" " alt="" coords="215,7,395,47"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,126,157,92,213,57,227,50,230,55,216,62,160,96,114,131"/>
+<area shape="rect" id="Node000003" href="$classUwSCFTrackerModule.html#a727a415c961761da27286548428526ac" title=" " alt="" coords="224,71,385,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="162,126,214,112,215,117,164,131"/>
+<area shape="rect" id="Node000009" href="$structhdr__uwTracker.html#a5fcdbd2941f49c7df84f3837d8c77649" title=" " alt="" coords="239,136,370,161"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="167,146,225,146,225,151,167,151"/>
+<area shape="rect" id="Node000010" href="$structhdr__uwTracker.html#a66c72cd7ae9494bce48d0fa5979d6a8c" title=" " alt="" coords="239,185,370,211"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="168,164,234,180,233,185,167,169"/>
+<area shape="rect" id="Node000011" href="$structhdr__uwTracker.html#a61cb0996c7fae802068845e656d36a78" title=" " alt="" coords="239,235,370,260"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="118,167,163,194,216,221,235,228,233,233,214,226,160,199,115,171"/>
+<area shape="rect" id="Node000004" href="$classUWSMPosition.html#a69f4db2fdf7105d41ad7643db43e08b8" title=" " alt="" coords="475,5,629,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="361,69,394,57,442,39,473,31,474,36,443,45,396,62,363,74"/>
+<area shape="rect" id="Node000006" href="$classUWSMPosition.html#a16b28ece41975fb8cf7540a1778d6b6b" title=" " alt="" coords="475,55,629,80"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="385,81,461,73,461,79,386,86"/>
+<area shape="rect" id="Node000007" href="$classUWSMPosition.html#ace952c6bc91ac7290e24aa5f4c54e891" title=" " alt="" coords="475,104,629,129"/>
+<area shape="poly" id="edge7_Node000003_Node000007" title=" " alt="" coords="386,97,461,105,461,110,385,102"/>
+<area shape="rect" id="Node000008" href="$structhdr__uwSCFTracker.html#a6498ddf5560325af2c45f1960d3229a2" title=" " alt="" coords="443,153,661,179"/>
+<area shape="poly" id="edge9_Node000003_Node000008" title=" " alt="" coords="363,109,396,121,443,138,478,148,477,153,442,143,394,126,361,114"/>
+<area shape="rect" id="Node000005" href="$classUWSMPosition.html#a67f97e5d9dafad7b5b85aad760d675f7" title=" " alt="" coords="709,55,880,80"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="616,28,719,49,717,54,615,33"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="630,65,696,65,696,70,630,70"/>
+<area shape="poly" id="edge8_Node000007_Node000005" title=" " alt="" coords="615,101,717,80,719,85,616,107"/>
+</map>

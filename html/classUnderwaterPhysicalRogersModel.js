@@ -19,7 +19,6 @@ var classUnderwaterPhysicalRogersModel =
     [ "debug_", "classUnderwaterPhysicalRogersModel.html#a17cb6c71c03a822f34d3b00df83036b6", null ],
     [ "density_sediment", "classUnderwaterPhysicalRogersModel.html#a43d5d9f3fb024078a9a72c9d64904601", null ],
     [ "density_water", "classUnderwaterPhysicalRogersModel.html#a21498bba3189dc94765a6d1142533b3c", null ],
-    [ "FROMDBPERKYARDTODMPERM", "classUnderwaterPhysicalRogersModel.html#a4b1729be072a9f8458587605541cfad0", null ],
     [ "sound_speed_sediment", "classUnderwaterPhysicalRogersModel.html#ac86a7c8747b6cc52d988aa7f1257c81e", null ],
     [ "sound_speed_water_bottom", "classUnderwaterPhysicalRogersModel.html#a54ee7a8710145d45d6cc797714f30f96", null ],
     [ "sound_speed_water_surface", "classUnderwaterPhysicalRogersModel.html#a593e376b6b899b6e4e5ad5ebd8051f99", null ]

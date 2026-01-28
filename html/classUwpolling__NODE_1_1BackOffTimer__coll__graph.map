@@ -1,18 +1,18 @@
 <map id="Uwpolling_NODE::BackOffTimer" name="Uwpolling_NODE::BackOffTimer">
-<area shape="rect" id="Node000001" title="Class (inherited from Uwpolling_NODE_Timer) used to handle the time of backoff of the node before tra..." alt="" coords="5,5,235,31"/>
-<area shape="rect" id="Node000004" href="$classUwpolling__NODE.html" title="Class used to represents the UWPOLLING MAC layer of a node." alt="" coords="258,93,390,119"/>
-<area shape="poly" id="edge5_Node000004_Node000001" title=" " alt="" coords="156,34,226,67,290,91,289,96,224,72,154,39"/>
-<area shape="rect" id="Node000002" href="$classUwpolling__NODE_1_1Uwpolling__NODE__Timer.html" title="Class that describes the timer in the AUV." alt="" coords="72,181,277,221"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="141,173,121,149,105,120,101,95,102,70,113,30,118,31,108,71,106,95,111,118,125,146,145,170"/>
-<area shape="rect" id="Node000006" href="$classUwpolling__NODE_1_1Rx__Poll__Timer.html" title="Class (inherited from Uwpolling_NODE_Timer) used to handle the time in which the NODE wait for the PO..." alt="" coords="155,271,312,311"/>
-<area shape="poly" id="edge7_Node000006_Node000002" title=" " alt="" coords="197,231,223,269,218,272,193,234"/>
-<area shape="rect" id="Node000007" href="$classUwpolling__NODE_1_1Tx__Data__Timer.html" title="Class (inherited from Uwpolling_NODE_Timer) used to handle the time between the transmission of the D..." alt="" coords="349,271,505,311"/>
-<area shape="poly" id="edge9_Node000007_Node000002" title=" " alt="" coords="243,223,373,268,371,273,241,228"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="121,93,231,119"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="178,132,178,181,172,181,173,132"/>
-<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="260,126,222,145,202,163,188,183,183,180,198,159,218,140,257,121"/>
-<area shape="rect" id="Node000005" title=" " alt="" coords="293,5,355,31"/>
-<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="327,45,327,93,321,93,321,45"/>
-<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="259,259,287,220,309,164,319,118,325,120,314,166,292,223,264,262"/>
-<area shape="poly" id="edge8_Node000004_Node000007" title=" " alt="" coords="422,258,415,220,400,183,371,147,340,121,343,117,375,143,405,180,420,219,427,257"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,227,111"/>
+<area shape="rect" id="Node000004" href="$classUwpolling__NODE.html" title=" " alt="" coords="233,173,415,799"/>
+<area shape="poly" id="edge5_Node000004_Node000001" title=" " alt="" coords="173,109,199,139,222,172,228,182,223,184,218,175,195,142,169,112"/>
+<area shape="rect" id="Node000002" href="$classUwpolling__NODE_1_1Uwpolling__NODE__Timer.html" title=" " alt="" coords="65,861,271,1261"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,848,91,799,71,624,66,486,74,349,91,173,101,111,106,112,96,174,79,349,71,487,76,624,96,798,105,847"/>
+<area shape="rect" id="Node000006" href="$classUwpolling__NODE_1_1Rx__Poll__Timer.html" title=" " alt="" coords="157,1311,307,1431"/>
+<area shape="poly" id="edge7_Node000006_Node000002" title=" " alt="" coords="215,1274,222,1310,217,1311,210,1275"/>
+<area shape="rect" id="Node000007" href="$classUwpolling__NODE_1_1Tx__Data__Timer.html" title=" " alt="" coords="352,1311,501,1431"/>
+<area shape="poly" id="edge9_Node000007_Node000002" title=" " alt="" coords="281,1248,291,1260,321,1289,354,1316,350,1320,318,1293,287,1263,277,1251"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="106,453,209,519"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="161,532,167,861,162,861,156,533"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="236,773,222,800,213,812,205,824,197,847,192,845,200,821,209,809,218,797,231,770"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="297,25,351,91"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="327,104,327,173,321,173,321,104"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="262,1309,280,1261,303,1150,318,1036,327,923,332,815,337,815,333,923,324,1037,308,1151,285,1262,267,1311"/>
+<area shape="poly" id="edge8_Node000004_Node000007" title=" " alt="" coords="432,1310,441,1223,447,1111,447,986,436,862,416,765,421,764,441,861,452,986,453,1111,446,1223,437,1311"/>
 </map>

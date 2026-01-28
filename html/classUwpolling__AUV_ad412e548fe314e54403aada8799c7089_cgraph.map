@@ -1,0 +1,10 @@
+<map id="Uwpolling_AUV::GetDataTimerValue" name="Uwpolling_AUV::GetDataTimerValue">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,49,227,89"/>
+<area shape="rect" id="Node000002" href="$classUwpolling__AUV.html#a7cc206446be9056dc01552e8cb424a49" title=" " alt="" coords="275,5,509,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="225,46,308,31,309,36,226,51"/>
+<area shape="rect" id="Node000003" href="$classUwpolling__AUV.html#ae63b909cf3ccb321935374870053f25f" title=" " alt="" coords="557,81,747,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="227,71,543,86,543,92,227,77"/>
+<area shape="rect" id="Node000004" href="$classUwpolling__AUV.html#a678b95a2c14f4ffe805e5089df22b1ec" title=" " alt="" coords="292,107,492,132"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="226,86,309,102,308,107,225,91"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="492,107,543,102,544,107,492,112"/>
+</map>

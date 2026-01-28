@@ -1,7 +1,0 @@
-<map id="clmsg&#45;wakeUp&#45;tone.h" name="clmsg&#45;wakeUp&#45;tone.h">
-<area shape="rect" id="Node000001" title="Provides the implementation of the CrossLayerMessage that represent the WakeUP tone for data PHY laye..." alt="" coords="19,5,183,31"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,79,83,104"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="94,33,64,70,60,66,90,29"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="107,79,211,104"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="113,29,143,66,139,70,109,33"/>
-</map>

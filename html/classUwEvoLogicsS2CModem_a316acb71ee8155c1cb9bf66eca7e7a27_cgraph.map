@@ -1,0 +1,19 @@
+<map id="UwEvoLogicsS2CModem::updateStatus" name="UwEvoLogicsS2CModem::updateStatus">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,126,188,166"/>
+<area shape="rect" id="Node000002" href="$classUwEvoLogicsS2CModem.html#a3526def0951231b1dd598af51865f3d7" title=" " alt="" coords="236,47,419,87"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,123,254,89,256,94,157,128"/>
+<area shape="rect" id="Node000005" href="$classUwModem.html#aa63a3ab7d722b6bc1a2a5a034191cfdc" title=" " alt="" coords="242,133,413,159"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="188,143,228,143,228,149,188,149"/>
+<area shape="rect" id="Node000009" href="$classUwModem.html#a4fc532c24d294651c1c054a1fc8ee95d" title=" " alt="" coords="263,183,391,208"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="189,163,254,177,253,182,188,168"/>
+<area shape="rect" id="Node000003" href="$structhdr__uwal.html#a6d8f63d7938cf8b978321411a490a268" title=" " alt="" coords="491,5,621,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="419,45,483,31,484,36,420,50"/>
+<area shape="rect" id="Node000004" href="$structhdr__uwal.html#aa87168db8203850caf4b63305a8c1d93" title=" " alt="" coords="469,55,643,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="419,65,455,65,455,70,419,70"/>
+<area shape="rect" id="Node000006" href="$classUwModem.html#afb2af7572f53771dacf4c335a1e70216" title=" " alt="" coords="473,104,639,129"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="412,132,459,126,459,132,413,138"/>
+<area shape="rect" id="Node000007" href="$classUwModem.html#ade7987148dd186f4fc3cc608c168a877" title=" " alt="" coords="467,153,645,179"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="413,151,453,154,453,160,413,156"/>
+<area shape="rect" id="Node000008" href="$classUwModem.html#a66a5da471c180d44d6e78aa1397f1142" title=" " alt="" coords="473,203,639,228"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="382,156,420,167,468,187,495,196,493,201,466,193,418,173,381,161"/>
+</map>

@@ -15,7 +15,6 @@ var classUwMultiDestination =
     [ "debug_", "classUwMultiDestination.html#a77e93d9a3f364acd7745105e94cdb8a0", null ],
     [ "default_lower_id", "classUwMultiDestination.html#a287502a5a22b07c8cdc5249f2006642e", null ],
     [ "layer_list", "classUwMultiDestination.html#a2fd04fbda75c5d8d3deb78054f7ea638", null ],
-    [ "layer_not_exist", "classUwMultiDestination.html#a769e88658bd24048574b2a8e606d21c3", null ],
     [ "lower_id_active_", "classUwMultiDestination.html#a46873dee79979d59ceec7e2da5713346", null ],
     [ "min_delay_", "classUwMultiDestination.html#a62e928f14acdbc497292ad9bfb460ed1", null ],
     [ "switch_mode_", "classUwMultiDestination.html#acc65853590452cc7bced8321040ef4c9", null ]

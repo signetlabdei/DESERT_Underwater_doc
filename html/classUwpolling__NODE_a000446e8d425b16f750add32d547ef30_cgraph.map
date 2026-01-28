@@ -1,0 +1,11 @@
+<map id="Uwpolling_NODE::stateTxData" name="Uwpolling_NODE::stateTxData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,225,80"/>
+<area shape="rect" id="Node000002" href="$classUwpolling__NODE.html#a50741c14f61f99498be2f413d861c543" title=" " alt="" coords="283,5,483,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,52,300,31,301,36,185,57"/>
+<area shape="rect" id="Node000003" href="$classUwpolling__NODE.html#a6f33e42d41f90c0c523bbbf939100769" title=" " alt="" coords="273,55,493,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="225,65,260,65,260,70,225,70"/>
+<area shape="rect" id="Node000004" href="$classUwpolling__NODE.html#aa47fd58efeb50a13af7747262ac7860a" title=" " alt="" coords="290,104,477,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="185,77,301,99,300,104,185,83"/>
+<area shape="rect" id="Node000005" href="$classUwpolling__NODE.html#a5dd4bc7e155fe7def3eeb2f84c42020d" title=" " alt="" coords="541,104,788,129"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="477,114,527,114,527,119,477,119"/>
+</map>

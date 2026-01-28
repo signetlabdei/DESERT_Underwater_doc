@@ -1,18 +1,18 @@
 <map id="Uwpolling_NODE::Uwpolling_NODE_Timer" name="Uwpolling_NODE::Uwpolling_NODE_Timer">
-<area shape="rect" id="Node000001" title="Class that describes the timer in the AUV." alt="" coords="165,145,371,185"/>
-<area shape="rect" id="Node000005" href="$classUwpolling__NODE_1_1BackOffTimer.html" title="Class (inherited from Uwpolling_NODE_Timer) used to handle the time of backoff of the node before tra..." alt="" coords="420,55,649,80"/>
-<area shape="poly" id="edge5_Node000005_Node000001" title=" " alt="" coords="316,136,365,112,419,90,464,77,466,83,421,95,367,117,319,141"/>
-<area shape="rect" id="Node000006" href="$classUwpolling__NODE_1_1Rx__Poll__Timer.html" title="Class (inherited from Uwpolling_NODE_Timer) used to handle the time in which the NODE wait for the PO..." alt="" coords="456,105,613,145"/>
-<area shape="poly" id="edge7_Node000006_Node000001" title=" " alt="" coords="384,145,455,134,456,139,385,150"/>
-<area shape="rect" id="Node000007" href="$classUwpolling__NODE_1_1Tx__Data__Timer.html" title="Class (inherited from Uwpolling_NODE_Timer) used to handle the time between the transmission of the D..." alt="" coords="457,169,613,209"/>
-<area shape="poly" id="edge9_Node000007_Node000001" title=" " alt="" coords="385,172,457,179,456,184,384,178"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,152,116,177"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,162,165,162,165,167,130,167"/>
-<area shape="rect" id="Node000003" href="$classUwpolling__NODE.html" title="Class used to represents the UWPOLLING MAC layer of a node." alt="" coords="793,112,925,137"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="831,148,752,196,702,220,650,238,586,251,535,256,484,251,419,238,354,215,300,187,303,182,357,210,421,233,484,246,535,250,585,246,649,233,700,215,750,192,828,143"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="504,5,565,31"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="580,20,669,36,720,49,770,66,810,87,843,109,840,114,808,92,768,71,719,54,668,41,579,25"/>
-<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="638,80,770,102,805,109,804,115,769,107,637,85"/>
-<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="627,122,793,122,793,127,627,127"/>
-<area shape="poly" id="edge8_Node000003_Node000007" title=" " alt="" coords="625,170,769,142,803,135,804,140,770,147,627,175"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="369,120,575,520"/>
+<area shape="rect" id="Node000005" href="$classUwpolling__NODE_1_1BackOffTimer.html" title=" " alt="" coords="83,577,304,682"/>
+<area shape="poly" id="edge5_Node000005_Node000001" title=" " alt="" coords="362,447,242,578,238,575,358,443"/>
+<area shape="rect" id="Node000006" href="$classUwpolling__NODE_1_1Rx__Poll__Timer.html" title=" " alt="" coords="328,569,477,689"/>
+<area shape="poly" id="edge7_Node000006_Node000001" title=" " alt="" coords="427,534,419,570,413,568,421,533"/>
+<area shape="rect" id="Node000007" href="$classUwpolling__NODE_1_1Tx__Data__Timer.html" title=" " alt="" coords="501,569,651,689"/>
+<area shape="poly" id="edge9_Node000007_Node000001" title=" " alt="" coords="546,532,559,568,553,570,541,534"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="421,5,523,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="475,84,475,120,469,120,469,84"/>
+<area shape="rect" id="Node000003" href="$classUwpolling__NODE.html" title=" " alt="" coords="312,752,493,1377"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="492,983,546,924,598,854,620,815,639,774,652,732,660,689,668,628,668,602,660,570,646,535,627,501,583,438,587,435,632,498,650,533,665,569,673,602,674,629,665,690,657,734,644,776,625,817,602,857,550,927,496,986"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,597,59,662"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="61,672,73,688,196,837,314,967,310,970,192,840,69,691,57,675"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="221,681,307,860,302,862,216,684"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="405,689,405,735,400,735,400,689"/>
+<area shape="poly" id="edge8_Node000003_Node000007" title=" " alt="" coords="555,690,502,823,497,821,550,688"/>
 </map>

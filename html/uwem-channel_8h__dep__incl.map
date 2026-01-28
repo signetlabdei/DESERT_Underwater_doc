@@ -1,9 +1,0 @@
-<map id="uwem&#45;channel.h" name="uwem&#45;channel.h">
-<area shape="rect" id="Node000001" title="Provides class and APIs of the underwater elctromagnetic channel." alt="" coords="99,5,230,31"/>
-<area shape="rect" id="Node000002" href="$uwem-channel_8cpp.html" title=" " alt="" coords="5,79,151,104"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="142,41,94,81,90,76,139,37"/>
-<area shape="rect" id="Node000003" href="$uwoptical-channel_8h.html" title="Provides class and APIs of the underwater optical channel." alt="" coords="175,79,328,104"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="191,37,239,76,235,81,187,41"/>
-<area shape="rect" id="Node000004" href="$uwoptical-channel_8cpp.html" title=" " alt="" coords="167,152,335,177"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="254,118,254,152,249,152,249,118"/>
-</map>

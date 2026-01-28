@@ -11,7 +11,6 @@ var classUwVbrModule =
     [ "GetRTTstd", "classUwVbrModule.html#a38370ca49e8ca107206b082335730f8d", null ],
     [ "GetTHR", "classUwVbrModule.html#a5ae68d9d7b8c4166782703c5c1e7d258", null ],
     [ "getTimeBeforeNextPkt", "classUwVbrModule.html#a0f539cc1d2b3d5b8498a48732ab6e6a3", null ],
-    [ "getVbrHeaderSize", "classUwVbrModule.html#a6fdda0989330501586fc398f5d4114d3", null ],
     [ "incrPktInvalid", "classUwVbrModule.html#aa8328caa89a6797d301814d99aab2eda", null ],
     [ "incrPktLost", "classUwVbrModule.html#a95005fedecb1b044cd52c28bc7b9030d", null ],
     [ "incrPktOoseq", "classUwVbrModule.html#aa9aed6e937c85099703cb58752b9fc73", null ],
@@ -64,6 +63,5 @@ var classUwVbrModule =
     [ "sumrtt2", "classUwVbrModule.html#a566cc7a8757fae749a8683c5af110945", null ],
     [ "timer_switch_1_", "classUwVbrModule.html#a8f6604d84f797bdd1571e918bc4fa722", null ],
     [ "timer_switch_2_", "classUwVbrModule.html#a0825c269a5fc29652d69a23b4e411f12", null ],
-    [ "txsn", "classUwVbrModule.html#ab6c3a9a0c8605301b9e2855eeec656cc", null ],
-    [ "uidcnt_", "classUwVbrModule.html#a6a272efdcd786089b70e76c22ba05d53", null ]
+    [ "txsn", "classUwVbrModule.html#ab6c3a9a0c8605301b9e2855eeec656cc", null ]
 ];

@@ -1,0 +1,9 @@
+<map id="Uwpolling_AUV::TxPoll" name="Uwpolling_AUV::TxPoll">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,175,80"/>
+<area shape="rect" id="Node000002" href="$classUwpolling__AUV.html#ae63b909cf3ccb321935374870053f25f" title=" " alt="" coords="245,5,435,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,52,261,31,262,36,156,57"/>
+<area shape="rect" id="Node000003" href="$classUwpolling__AUV.html#a0d678409053c42cf45b69a21aed4c829" title=" " alt="" coords="243,55,437,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="175,65,230,65,230,70,175,70"/>
+<area shape="rect" id="Node000004" href="$classUwpolling__AUV.html#a2520b8e6d298f0431544e026e00ee080" title=" " alt="" coords="223,104,457,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="156,77,262,99,261,104,155,83"/>
+</map>

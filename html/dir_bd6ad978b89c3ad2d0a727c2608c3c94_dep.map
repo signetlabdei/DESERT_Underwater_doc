@@ -1,7 +1,4 @@
-<map id="uwmphy_modem" name="uwmphy_modem">
+<map id="DESERT_Addons/uwmphy_modem" name="DESERT_Addons/uwmphy_modem">
 <area shape="rect" id="node1" href="dir_bd6ad978b89c3ad2d0a727c2608c3c94.html" title="uwmphy_modem" alt="" coords="27,52,162,77"/>
-<area shape="rect" id="node2" href="dir_f005ed4eaea92841740b83a4e0617b95.html" title="DESERT_Framework" alt="" coords="19,125,171,151"/>
-<area shape="poly" id="edge1" href="dir_000065_000005.html" alt="" coords="97,78,97,112,92,112,92,78"/>
-<area shape="rect" id="edge1-headlabel" href="dir_000065_000005.html" title="3" alt="" coords="98,100,108,114"/>
 <area shape="rect" id="clust1" href="dir_08adb9e4b94062c0b7143ffffbc6188b.html" title="DESERT_Addons" alt="" coords="16,16,173,88"/>
 </map>

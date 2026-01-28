@@ -1,7 +1,7 @@
 <map id="ClMsgUwPhyBRate" name="ClMsgUwPhyBRate">
-<area shape="rect" id="Node000001" title="ClMsgUwPhyBRate should be and used to ask either to set or get the communication rate (can be bitrate..." alt="" coords="5,152,152,177"/>
-<area shape="rect" id="Node000002" href="$classClMsgUwPhy.html" title="ClMsgUwPhy should be extended and used to ask to set or get a parameter of a specific phy." alt="" coords="25,79,132,104"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="81,118,81,152,76,152,76,118"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="32,5,125,31"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="81,44,81,79,76,79,76,44"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,372,179,537"/>
+<area shape="rect" id="Node000002" href="$classClMsgUwPhy.html" title=" " alt="" coords="25,119,159,324"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="95,338,95,372,89,372,89,338"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="49,5,135,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="95,84,95,119,89,119,89,84"/>
 </map>

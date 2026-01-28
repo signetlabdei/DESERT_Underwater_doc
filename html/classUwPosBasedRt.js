@@ -14,7 +14,7 @@ var classUwPosBasedRt =
     [ "ipAddr", "classUwPosBasedRt.html#a4e6df4c32084351b1c0d5c992693a482", null ],
     [ "maxTxRange", "classUwPosBasedRt.html#a5eb9cf6cdec066d1670dafc02be2be2e", null ],
     [ "node_pos", "classUwPosBasedRt.html#ab26b072aecdaefe33bc5268ab63c3592", null ],
-    [ "ROV_routing", "classUwPosBasedRt.html#ae2563c10d4ed53b0b650def8203460e7", null ],
+    [ "ROV_routing", "classUwPosBasedRt.html#a0da2e1229617d229038a5cc899e073bc", null ],
     [ "ROV_speed", "classUwPosBasedRt.html#a10f05ec4d8fbc5340f3f6be912a03b8c", null ],
     [ "static_routing", "classUwPosBasedRt.html#a69c65545ae4df470e62dc9401d7977e2", null ],
     [ "timestamp", "classUwPosBasedRt.html#ab10cb89db2b015f1eee707380be0cc07", null ]

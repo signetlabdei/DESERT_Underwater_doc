@@ -37,11 +37,8 @@ var classUwEvoLogicsS2CModem =
     [ "updateStatus", "classUwEvoLogicsS2CModem.html#a316acb71ee8155c1cb9bf66eca7e7a27", null ],
     [ "ack_mode", "classUwEvoLogicsS2CModem.html#a5f1eb507e0b7f071887ec1f37aa2bf4d", null ],
     [ "curr_source_level", "classUwEvoLogicsS2CModem.html#acbd7ecfacc2303b9069b32670b864ba4", null ],
-    [ "EPSILON_S", "classUwEvoLogicsS2CModem.html#ab896ef55fcdf44146e3bcca56b69aee2", null ],
     [ "im_status_updated", "classUwEvoLogicsS2CModem.html#a21fcb1eaa13d09539eacaee55a3a8c13", null ],
     [ "initLUT_", "classUwEvoLogicsS2CModem.html#a12a1fbb49a5a4a58aec08e6845487c12", null ],
-    [ "MAX_N_STATUS_QUERIES", "classUwEvoLogicsS2CModem.html#a0d0d7e51918a8d1a95f0f9b3e5fd5066", null ],
-    [ "MODEM_TIMEOUT", "classUwEvoLogicsS2CModem.html#a56e6d06f0a70aace9d1272390c9c645b", null ],
     [ "n_rx_failed", "classUwEvoLogicsS2CModem.html#a0385b9fe81467e1d10325e9cc83fdc11", null ],
     [ "p_connector", "classUwEvoLogicsS2CModem.html#af33d6262272d394c12d82f49da072090", null ],
     [ "p_interpreter", "classUwEvoLogicsS2CModem.html#adc2050a31140901e8a997793f548a186", null ],
@@ -64,7 +61,5 @@ var classUwEvoLogicsS2CModem =
     [ "tx_thread", "classUwEvoLogicsS2CModem.html#aee4e38b40fd2f15b4b9ad6c4d71127be", null ],
     [ "txdur_file_name_", "classUwEvoLogicsS2CModem.html#acecc5dcb599f3a7dbd9da3a8c16d73fe", null ],
     [ "txdur_token_separator_", "classUwEvoLogicsS2CModem.html#ac3bcb9b82c1a5ae654751d3eb35f1411", null ],
-    [ "virtual_time_ref", "classUwEvoLogicsS2CModem.html#ac9e5ae9b332be45b131f5522e750c996", null ],
-    [ "WAIT_DELIVERY_BURST", "classUwEvoLogicsS2CModem.html#a4700ad17e1e796c860a1c0ea67b06790", null ],
-    [ "WAIT_DELIVERY_IM", "classUwEvoLogicsS2CModem.html#ad645fb96ab7c09b81657cd0613cdf6a4", null ]
+    [ "virtual_time_ref", "classUwEvoLogicsS2CModem.html#ac9e5ae9b332be45b131f5522e750c996", null ]
 ];

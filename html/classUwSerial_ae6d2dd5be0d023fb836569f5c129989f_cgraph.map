@@ -1,0 +1,9 @@
+<map id="UwSerial::refreshConnection" name="UwSerial::refreshConnection">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,212,56"/>
+<area shape="rect" id="Node000002" href="$classUwSerial.html#ac74c9fe6585dfc30cb86e79ed1135b0f" title=" " alt="" coords="260,5,455,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="212,30,246,27,246,32,212,35"/>
+<area shape="rect" id="Node000003" href="$classUwSerial.html#adb7963434db364f2bd5efd45bc16a8fc" title=" " alt="" coords="261,55,454,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="212,51,247,54,247,59,212,56"/>
+<area shape="rect" id="Node000004" href="$classUwSerial.html#a0f3b0aac2fb1f181b79429109083eb61" title=" " alt="" coords="503,55,677,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="454,65,489,65,489,70,454,70"/>
+</map>

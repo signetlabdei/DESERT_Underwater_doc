@@ -1,7 +1,6 @@
 var uwranging__tdma__hdr_8h =
 [
     [ "hdr_ranging_tdma", "structhdr__ranging__tdma.html", "structhdr__ranging__tdma" ],
-    [ "HDR_RANGING_TDMA", "uwranging__tdma__hdr_8h.html#ae4a4650cd66b5a8517f7b8838bbefa51", null ],
     [ "hdr_ranging_tdma", "uwranging__tdma__hdr_8h.html#a42330d4f68ae140434b79c930c3246ae", null ],
     [ "slotid_t", "uwranging__tdma__hdr_8h.html#a85df0bf9eb40a30d157983a6c20628aa", null ],
     [ "uwrange_time_t", "uwranging__tdma__hdr_8h.html#abf221f4518e393d206484f39c20e8da8", null ],

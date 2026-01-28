@@ -1,9 +1,9 @@
 <map id="UwRangingTDOA" name="UwRangingTDOA">
-<area shape="rect" id="Node000001" title="Class that represents a UwRangingTDOA Node." alt="" coords="5,168,139,193"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="15,80,86,105"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="59,118,72,167,66,168,54,119"/>
-<area shape="rect" id="Node000003" href="$classUwRangeTimer.html" title="UwRangeTimer class is used to schedule the transmission of ranging packets." alt="" coords="111,80,233,105"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="150,116,88,169,84,165,146,112"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="117,5,227,31"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="175,45,175,80,169,80,169,45"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,268,181,833"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="41,130,103,195"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="77,209,80,268,75,268,72,209"/>
+<area shape="rect" id="Node000003" href="$classUwRangeTimer.html" title=" " alt="" coords="128,120,267,205"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="189,206,176,253,171,251,184,205"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="146,5,249,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="200,84,200,120,195,120,195,84"/>
 </map>

@@ -1,6 +1,6 @@
 <map id="UWMconnector" name="UWMconnector">
-<area shape="rect" id="Node000001" title="The class needed by UWMPhy_modem to manage string exchange with the modem." alt="" coords="5,5,127,31"/>
-<area shape="rect" id="Node000002" href="$classMsocket.html" title="Class used to manage host/modem string exchange via TCP/IP connection (this class is a derived class ..." alt="" coords="28,79,104,104"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="60,44,62,78,56,79,55,45"/>
-<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="77,45,76,79,70,78,72,44"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,191,331"/>
+<area shape="rect" id="Node000002" href="$classMsocket.html" title=" " alt="" coords="11,379,185,864"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,344,92,378,86,378,87,344"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="109,344,110,378,104,378,104,344"/>
 </map>

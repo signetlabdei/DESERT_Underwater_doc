@@ -1,7 +1,0 @@
-<map id="uwjammer_cmn_hdr.h" name="uwjammer_cmn_hdr.h">
-<area shape="rect" id="Node000001" title="Header of a jammer packet." alt="" coords="28,5,195,31"/>
-<area shape="rect" id="Node000002" href="$DESERT__Framework_2DESERT_2data__link_2uwjammer_2initlib_8cpp.html" title="Provides the initialization of the uwpolling libraries." alt="" coords="5,79,92,104"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="94,43,61,80,57,77,90,39"/>
-<area shape="rect" id="Node000003" href="$uwjammer_8cpp.html" title="Implementation of Uwjammer class." alt="" coords="116,79,235,104"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="133,39,167,77,163,80,129,43"/>
-</map>

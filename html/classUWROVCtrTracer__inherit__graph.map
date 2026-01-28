@@ -1,5 +1,5 @@
 <map id="UWROVCtrTracer" name="UWROVCtrTracer">
-<area shape="rect" id="Node000001" title="Class that defines a tracer for hdr_uwROV_ctr packets." alt="" coords="5,79,136,104"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="40,5,101,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="73,44,73,79,68,79,68,44"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,119,153,204"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="53,5,106,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="82,85,82,119,77,119,77,85"/>
 </map>

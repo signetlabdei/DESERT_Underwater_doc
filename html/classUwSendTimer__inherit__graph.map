@@ -1,7 +1,7 @@
 <map id="UwSendTimer" name="UwSendTimer">
-<area shape="rect" id="Node000001" title="UwSendTimer class is used to handle the scheduling period of UWCBR packets." alt="" coords="29,79,142,104"/>
-<area shape="rect" id="Node000003" href="$classUwROVCtrSendTimer.html" title="UwROVCtrSendTimer class is used to handle the scheduling period of UWROV packets." alt="" coords="5,152,165,177"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="88,118,88,152,83,152,83,118"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="30,5,141,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="88,44,88,79,83,79,83,44"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="29,119,159,204"/>
+<area shape="rect" id="Node000003" href="$classUwROVCtrSendTimer.html" title=" " alt="" coords="5,252,183,317"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="97,218,97,252,91,252,91,218"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="43,5,145,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="97,85,97,119,91,119,91,85"/>
 </map>

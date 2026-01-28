@@ -1,0 +1,7 @@
+<map id="read_process_msocket" name="read_process_msocket">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,42,176,67"/>
+<area shape="rect" id="Node000002" href="$classUWMconnector.html#a2667b9cb4e03c79fe4e07c59c4c97d10" title=" " alt="" coords="224,5,456,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="176,42,210,38,211,43,177,47"/>
+<area shape="rect" id="Node000003" href="$classMsocket.html#a3186125b7b2c6bf053be691ad39e4adc" title=" " alt="" coords="266,70,414,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="176,62,253,70,252,76,176,67"/>
+</map>

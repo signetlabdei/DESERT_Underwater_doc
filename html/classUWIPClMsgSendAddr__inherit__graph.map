@@ -1,5 +1,5 @@
 <map id="UWIPClMsgSendAddr" name="UWIPClMsgSendAddr">
-<area shape="rect" id="Node000001" title="Class used to answer to UWIPClMsgReqAddr cross layer messages." alt="" coords="5,79,164,104"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="38,5,131,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,44,87,79,82,79,82,44"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,119,181,284"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="51,5,136,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,84,96,118,91,118,91,84"/>
 </map>

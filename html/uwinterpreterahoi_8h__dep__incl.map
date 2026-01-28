@@ -1,9 +1,0 @@
-<map id="uwinterpreterahoi.h" name="uwinterpreterahoi.h">
-<area shape="rect" id="Node000001" title="Interpreter for commands and responses for ahoi! modems, TUHH, Hamburg." alt="" coords="89,5,239,31"/>
-<area shape="rect" id="Node000002" href="$uwahoimodem_8h.html" title="Driver for ahoi! acoustic UW modems: developed by TUUH, Hamburg." alt="" coords="13,79,144,104"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="142,41,94,80,91,76,138,37"/>
-<area shape="rect" id="Node000004" href="$uwinterpreterahoi_8cpp.html" title=" " alt="" coords="168,79,333,104"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="190,37,238,76,235,81,187,41"/>
-<area shape="rect" id="Node000003" href="$uwahoimodem_8cpp.html" title=" " alt="" coords="5,152,152,177"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="81,118,81,152,76,152,76,118"/>
-</map>

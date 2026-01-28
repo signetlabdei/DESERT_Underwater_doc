@@ -1,11 +1,11 @@
 <map id="UwIcrpNode" name="UwIcrpNode">
-<area shape="rect" id="Node000001" title="UwIcrpNode class is used to represent the routing layer of a node." alt="" coords="125,168,226,193"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,80,76,105"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="72,111,158,165,156,170,69,115"/>
-<area shape="rect" id="Node000003" href="$structrouting__table__entry.html" title="routing_table_entry describes an entry in the routing table used by UWICRP." alt="" coords="101,80,250,105"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="178,119,178,167,173,167,173,119"/>
-<area shape="rect" id="Node000004" href="$classAckWaiting.html" title="AckWaiting class is used to handle the timer of acks." alt="" coords="275,80,369,105"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="301,117,261,146,209,170,207,165,258,142,298,112"/>
-<area shape="rect" id="Node000005" title=" " alt="" coords="267,5,377,31"/>
-<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="325,45,325,80,319,80,319,45"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="65,328,261,833"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,160,68,225"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="54,237,83,327,78,328,49,239"/>
+<area shape="rect" id="Node000003" href="$structrouting__table__entry.html" title=" " alt="" coords="93,120,234,265"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="166,266,166,311,161,311,161,266"/>
+<area shape="rect" id="Node000004" href="$classAckWaiting.html" title=" " alt="" coords="258,150,370,235"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="300,237,270,314,265,312,295,235"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="263,5,365,71"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="317,84,317,149,311,149,311,84"/>
 </map>

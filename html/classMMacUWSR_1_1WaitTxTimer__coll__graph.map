@@ -1,21 +1,21 @@
 <map id="MMacUWSR::WaitTxTimer" name="MMacUWSR::WaitTxTimer">
-<area shape="rect" id="Node000001" title="Base class of WaitTxTimer, which is a derived class of UWSRTimer." alt="" coords="5,5,197,31"/>
-<area shape="rect" id="Node000004" href="$classMMacUWSR.html" title="This is the base class of MMacUWSR protocol, which is a derived class of MMac." alt="" coords="237,93,339,119"/>
-<area shape="poly" id="edge11_Node000004_Node000001" title=" " alt="" coords="132,36,189,67,252,91,250,96,187,72,130,41"/>
-<area shape="rect" id="Node000002" href="$classMMacUWSR_1_1UWSRTimer.html" title="Base class of all the timer used in this protocol." alt="" coords="52,181,239,207"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,174,95,150,77,120,73,95,77,70,92,30,97,32,82,71,79,95,83,118,100,147,122,170"/>
-<area shape="rect" id="Node000006" href="$classMMacUWSR_1_1AckTimer.html" title="Base class of AckTimer, which is a derived class of UWSRTimer." alt="" coords="261,256,432,281"/>
-<area shape="poly" id="edge6_Node000006_Node000002" title=" " alt="" coords="191,209,316,253,314,258,189,214"/>
-<area shape="rect" id="Node000007" href="$classMMacUWSR_1_1BackOffTimer.html" title="Base class of BackoffTimer." alt="" coords="38,256,237,281"/>
-<area shape="poly" id="edge8_Node000007_Node000002" title=" " alt="" coords="145,221,141,256,136,255,140,220"/>
-<area shape="rect" id="Node000008" href="$classMMacUWSR_1_1ListenTimer.html" title="Base class of ListenTimer, which is a derived class of UWSRTimer." alt="" coords="456,256,643,281"/>
-<area shape="poly" id="edge10_Node000008_Node000002" title=" " alt="" coords="223,206,486,253,485,259,222,212"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="93,93,203,119"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="150,133,148,181,143,181,145,132"/>
-<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="225,124,184,145,166,163,153,183,149,180,162,160,181,141,223,120"/>
-<area shape="rect" id="Node000005" title=" " alt="" coords="257,5,319,31"/>
-<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="291,45,291,93,285,93,285,45"/>
-<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="366,244,385,214,388,198,384,182,370,162,352,145,313,121,316,116,356,141,374,159,389,180,393,198,389,216,371,247"/>
-<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="184,248,218,230,249,205,263,184,273,160,284,118,289,120,278,162,268,186,253,208,221,235,187,253"/>
-<area shape="poly" id="edge9_Node000004_Node000008" title=" " alt="" coords="529,247,499,215,462,183,429,163,393,146,327,121,329,116,395,141,431,158,466,179,503,211,533,243"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,189,111"/>
+<area shape="rect" id="Node000004" href="$classMMacUWSR.html" title="This is the base class of MMacUWSR protocol, which is a derived class of MMac." alt="" coords="205,173,387,799"/>
+<area shape="poly" id="edge11_Node000004_Node000001" title=" " alt="" coords="149,109,173,139,194,172,200,183,196,186,190,175,169,142,145,112"/>
+<area shape="rect" id="Node000002" href="$classMMacUWSR_1_1UWSRTimer.html" title=" " alt="" coords="64,861,243,1167"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="76,849,63,799,35,625,29,554,28,487,39,349,63,173,77,110,82,112,68,174,44,349,34,487,34,553,40,624,68,798,81,847"/>
+<area shape="rect" id="Node000006" href="$classMMacUWSR_1_1AckTimer.html" title=" " alt="" coords="287,1216,449,1321"/>
+<area shape="poly" id="edge6_Node000006_Node000002" title=" " alt="" coords="254,1153,263,1165,311,1214,308,1218,259,1168,250,1157"/>
+<area shape="rect" id="Node000007" href="$classMMacUWSR_1_1BackOffTimer.html" title=" " alt="" coords="69,1216,259,1321"/>
+<area shape="poly" id="edge8_Node000007_Node000002" title=" " alt="" coords="163,1181,164,1215,159,1216,158,1181"/>
+<area shape="rect" id="Node000008" href="$classMMacUWSR_1_1ListenTimer.html" title=" " alt="" coords="479,1216,657,1321"/>
+<area shape="poly" id="edge10_Node000008_Node000002" title=" " alt="" coords="255,1159,263,1164,289,1180,313,1189,358,1196,405,1200,462,1213,479,1220,477,1225,461,1219,404,1205,357,1202,312,1194,287,1185,260,1169,252,1163"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="78,453,181,519"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="134,532,149,861,144,861,129,533"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="208,773,194,800,185,812,177,824,170,846,165,844,172,821,181,809,190,797,203,770"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="269,25,323,91"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="299,104,299,173,293,173,293,104"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="386,1215,399,1166,410,1081,414,1014,410,947,399,862,387,797,393,796,404,861,415,947,419,1014,416,1082,404,1167,391,1217"/>
+<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="220,1214,238,1191,252,1166,262,1119,270,1037,283,815,288,815,276,1037,267,1120,257,1168,243,1194,224,1217"/>
+<area shape="poly" id="edge9_Node000004_Node000008" title=" " alt="" coords="563,1216,557,1145,545,1056,527,958,500,862,478,804,451,747,393,640,397,637,456,745,483,802,505,860,532,957,551,1055,562,1144,568,1216"/>
 </map>

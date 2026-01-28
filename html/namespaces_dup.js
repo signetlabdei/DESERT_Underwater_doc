@@ -68,8 +68,7 @@ var namespaces_dup =
       [ "cruise_ship", "namespaceship__noise.html#ad0722fd714ea29a90573c66add6d2615", null ],
       [ "ferry", "namespaceship__noise.html#a5af82a69f648626f65fc0d75f68be88f", null ],
       [ "fishing_vessel", "namespaceship__noise.html#a92757a64e1801182d0233e6febdbbc0b", null ],
-      [ "getNoisefromCategory", "namespaceship__noise.html#a7226093c31c44c18aaae7aae58f52a69", null ],
-      [ "cat_dict", "namespaceship__noise.html#a7969f618638e04cd2d02dc596443d43b", null ]
+      [ "getNoisefromCategory", "namespaceship__noise.html#a7226093c31c44c18aaae7aae58f52a69", null ]
     ] ],
     [ "StatsEnum", "namespaceStatsEnum.html", [
       [ "StatsEnum", "namespaceStatsEnum.html#a91072f7f84ffb02f43bb582b618e9877", [
@@ -80,7 +79,5 @@ var namespaces_dup =
         [ "STATS_APP_LAYER", "namespaceStatsEnum.html#a91072f7f84ffb02f43bb582b618e9877af848316f005b941fa24309d4d5d27084", null ]
       ] ]
     ] ],
-    [ "uwphysicaldb", "namespaceuwphysicaldb.html", [
-      [ "FROMKMTOMILES", "namespaceuwphysicaldb.html#a66b25f750a94ab8fe1a44bf2ef420f91", null ]
-    ] ]
+    [ "uwphysicaldb", "namespaceuwphysicaldb.html", null ]
 ];

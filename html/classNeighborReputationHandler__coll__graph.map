@@ -1,9 +1,9 @@
 <map id="NeighborReputationHandler" name="NeighborReputationHandler">
-<area shape="rect" id="Node000001" title="This class defines the timer used to check the packet forwarding by the neighbor and handle reputatio..." alt="" coords="5,168,208,193"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="30,80,141,105"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="94,118,106,167,101,168,89,119"/>
-<area shape="rect" id="Node000003" href="$classUwFloodingSec.html" title="UwFloodingSec class is used to represent the routing layer of a node." alt="" coords="165,80,288,105"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="201,116,125,170,121,166,198,111"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="191,5,262,31"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="229,45,229,80,224,80,224,45"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,768,236,1153"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="48,380,151,445"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="104,459,116,768,111,768,98,459"/>
+<area shape="rect" id="Node000003" href="$classUwFloodingSec.html" title=" " alt="" coords="175,120,362,705"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="192,706,179,753,174,751,187,705"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="237,5,300,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="271,84,271,120,266,120,266,84"/>
 </map>

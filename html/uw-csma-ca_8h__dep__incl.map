@@ -1,9 +1,0 @@
-<map id="uw&#45;csma&#45;ca.h" name="uw&#45;csma&#45;ca.h">
-<area shape="rect" id="Node000001" title="Provides the description of CsmaCa Class." alt="" coords="117,5,230,31"/>
-<area shape="rect" id="Node000002" href="$packer-uwcsma-ca_8h.html" title="Header of the class responsible to map the ns2 packet of UwCsma&#45;Ca." alt="" coords="13,79,169,104"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="151,42,106,80,102,76,148,38"/>
-<area shape="rect" id="Node000004" href="$uw-csma-ca_8cpp.html" title="Provides the implementation of CsmaCa Class." alt="" coords="193,79,321,104"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="199,38,245,76,242,80,196,42"/>
-<area shape="rect" id="Node000003" href="$packer-uwcsma-ca_8cpp.html" title="Implementation of the class responsible to map the ns2 packet of csma&#45;ca into a bit stream,..." alt="" coords="5,152,176,177"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="93,118,93,152,88,152,88,118"/>
-</map>

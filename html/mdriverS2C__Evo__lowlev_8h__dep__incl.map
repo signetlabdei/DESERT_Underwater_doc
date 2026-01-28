@@ -1,9 +1,0 @@
-<map id="mdriverS2C_Evo_lowlev.h" name="mdriverS2C_Evo_lowlev.h">
-<area shape="rect" id="Node000001" title="Class derived from UWMdriver to interface ns2/NS&#45;Miracle with the S2C EvoLogics acoustic modems throu..." alt="" coords="95,5,285,31"/>
-<area shape="rect" id="Node000002" href="$mS2C__Evo__lowlev_8h.html" title="Header of the main class that implements the general interface between ns2/NS&#45;Miracle and the S2C Evo..." alt="" coords="13,79,165,104"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,41,107,81,104,76,161,36"/>
-<area shape="rect" id="Node000004" href="$mdriverS2C__Evo__lowlev_8cpp.html" title=" " alt="" coords="189,79,394,104"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="219,36,276,76,273,81,216,41"/>
-<area shape="rect" id="Node000003" href="$mS2C__Evo__lowlev_8cpp.html" title="Implementation of the MS2C_Evo_lowlev class." alt="" coords="5,152,172,177"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="91,118,91,152,86,152,86,118"/>
-</map>

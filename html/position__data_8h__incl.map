@@ -1,7 +1,0 @@
-<map id="position_data.h" name="position_data.h">
-<area shape="rect" id="Node000001" title="Provides the definition of PositionData struct." alt="" coords="31,5,154,31"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,79,84,104"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,33,62,69,58,66,83,30"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="109,79,175,104"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="103,29,128,66,124,69,99,33"/>
-</map>

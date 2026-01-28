@@ -1,0 +1,7 @@
+<map id="uwinterference::getInterferencePower" name="uwinterference::getInterferencePower">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,233,69"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="68,30,65,20,73,10,91,5,119,3,151,5,169,13,167,18,150,11,119,8,92,10,76,15,70,21,73,28"/>
+<area shape="rect" id="Node000002" href="$classuwinterference.html#a6b50ef8987b8c83ac2dc795703855ff7" title=" " alt="" coords="281,37,515,62"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="234,47,267,47,267,52,234,52"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="353,38,344,28,349,18,367,12,398,10,438,14,449,19,452,26,448,28,445,23,437,19,398,15,368,17,352,22,349,28,357,35"/>
+</map>

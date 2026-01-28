@@ -8,8 +8,6 @@ var classUwROVModule =
     [ "UwROVModule", "classUwROVModule.html#a7791249e23b25950557d774ca902702c", null ],
     [ "~UwROVModule", "classUwROVModule.html#a83f2663144de3087912bbf2b561a55d9", null ],
     [ "command", "classUwROVModule.html#adc949860f3fd958ee9886482254cafaf", null ],
-    [ "getROVCTRHeaderSize", "classUwROVModule.html#aefa5d02f4318e1e07f6e682e160f8572", null ],
-    [ "getROVMonHeaderSize", "classUwROVModule.html#a7a704484d9c30fe253f02345ab64028e", null ],
     [ "initPkt", "classUwROVModule.html#ad0aa5d1ee540f1c028dd638d4172b093", null ],
     [ "recv", "classUwROVModule.html#aae35d86f699635645dbe36f206b41aeb", null ],
     [ "recv", "classUwROVModule.html#aebfa62f1e2f548818d181aef4cf6ebbf", null ],

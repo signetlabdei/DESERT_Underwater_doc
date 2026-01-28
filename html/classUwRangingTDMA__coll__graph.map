@@ -1,11 +1,11 @@
 <map id="UwRangingTDMA" name="UwRangingTDMA">
-<area shape="rect" id="Node000001" title="Class that represents a UwRangingTDMA Node." alt="" coords="5,243,140,268"/>
-<area shape="rect" id="Node000002" href="$classUwTDMA.html" title="Class that represents a TDMA Node." alt="" coords="31,168,114,193"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="75,208,75,242,70,242,70,208"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="21,80,82,105"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="60,118,72,167,67,168,55,119"/>
-<area shape="rect" id="Node000004" href="$classUwTDMATimer.html" title="UwTDMATimer class is used to handle the scheduling period of UWTDMA slots." alt="" coords="107,80,225,105"/>
-<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="145,117,87,169,84,165,141,113"/>
-<area shape="rect" id="Node000005" title=" " alt="" coords="111,5,221,31"/>
-<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="169,45,169,80,163,80,163,45"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="15,903,177,1228"/>
+<area shape="rect" id="Node000002" href="$classUwTDMA.html" title=" " alt="" coords="5,268,187,853"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,867,99,903,93,903,93,867"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="29,130,83,195"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="63,209,69,268,64,268,58,209"/>
+<area shape="rect" id="Node000004" href="$classUwTDMATimer.html" title=" " alt="" coords="107,120,243,205"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="169,206,160,253,155,252,164,205"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="123,5,226,71"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="177,84,177,120,172,120,172,84"/>
 </map>

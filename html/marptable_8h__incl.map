@@ -1,7 +1,0 @@
-<map id="marptable.h" name="marptable.h">
-<area shape="rect" id="Node000001" title="Provides the definition of the ARP table of MLL module." alt="" coords="37,5,139,31"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,79,83,104"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="83,32,61,68,56,66,78,30"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="107,79,157,104"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="98,30,120,66,115,68,93,32"/>
-</map>

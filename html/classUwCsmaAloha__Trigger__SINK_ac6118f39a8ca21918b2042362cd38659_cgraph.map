@@ -1,0 +1,21 @@
+<map id="UwCsmaAloha_Trigger_SINK::command" name="UwCsmaAloha_Trigger_SINK::command">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,37,173,77"/>
+<area shape="rect" id="Node000002" href="$classUwCsmaAloha__Trigger__SINK.html#a55a8848e9ed127e37b673b9cdc3bc8c9" title=" " alt="" coords="221,5,411,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="173,43,207,38,208,43,174,48"/>
+<area shape="rect" id="Node000003" href="$classUwCsmaAloha__Trigger__SINK.html#aa47adede75aa3e19a47654a879b80021" title=" " alt="" coords="232,69,400,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="174,67,219,73,218,78,173,72"/>
+<area shape="rect" id="Node000004" href="$classUwCsmaAloha__Trigger__SINK.html#ac0b89d42b71a20a3ceb6e6ac82683ca8" title=" " alt="" coords="917,65,1085,105"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="400,84,459,83,903,82,904,87,459,88,400,89"/>
+<area shape="rect" id="Node000005" href="$classUwCsmaAloha__Trigger__SINK.html#a9e07792bc1271964af52bb45a9d4e79b" title=" " alt="" coords="459,97,633,137"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="400,97,445,102,445,108,400,102"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="633,109,903,89,904,95,634,114"/>
+<area shape="rect" id="Node000006" href="$classUwCsmaAloha__Trigger__SINK.html#a7f9410851da2cfb4345279f520710b26" title=" " alt="" coords="681,123,849,163"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="634,125,668,129,668,134,633,130"/>
+<area shape="rect" id="Node000007" href="$classUwCsmaAloha__Trigger__SINK.html#a8f5c918a99fd76843e2ee26b9e5efb06" title=" " alt="" coords="681,187,849,227"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="594,135,682,172,700,179,698,184,680,177,592,140"/>
+<area shape="poly" id="edge10_Node000007_Node000004" title=" " alt="" coords="822,184,848,172,896,143,952,110,955,115,899,148,851,177,824,189"/>
+<area shape="rect" id="Node000008" href="$classUwCsmaAloha__Trigger__SINK.html#a52062fce8b07b174eea907cdd6623d06" title=" " alt="" coords="897,157,1105,197"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="849,194,883,189,884,195,850,199"/>
+<area shape="rect" id="Node000009" href="$classUwCsmaAloha__Trigger__SINK.html#ac43f1fe38a0066a25c63c312ee90b76f" title=" " alt="" coords="914,221,1089,261"/>
+<area shape="poly" id="edge9_Node000007_Node000009" title=" " alt="" coords="850,216,901,224,900,229,849,222"/>
+</map>

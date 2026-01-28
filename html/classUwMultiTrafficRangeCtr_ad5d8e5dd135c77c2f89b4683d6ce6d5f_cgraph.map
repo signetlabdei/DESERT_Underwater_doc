@@ -1,0 +1,22 @@
+<map id="UwMultiTrafficRangeCtr::getBestLowerLayer" name="UwMultiTrafficRangeCtr::getBestLowerLayer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,156,180,196"/>
+<area shape="rect" id="Node000002" href="$classUwMultiTrafficRangeCtr.html#ab45df987d43248cd255409bf1876737f" title=" " alt="" coords="228,184,403,224"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="181,184,215,189,214,194,180,190"/>
+<area shape="rect" id="Node000006" href="$classUwMultiTrafficRangeCtr.html#a878f008fca082c9e67116c05ed24b7c3" title=" " alt="" coords="451,5,625,45"/>
+<area shape="poly" id="edge10_Node000001_Node000006" title=" " alt="" coords="152,153,464,47,466,52,154,159"/>
+<area shape="rect" id="Node000003" href="$structhdr__uwip.html#a16e0de7381f90758f28f2900505a2b00" title=" " alt="" coords="475,70,601,95"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="338,182,387,143,449,106,469,97,471,102,452,110,391,148,341,186"/>
+<area shape="rect" id="Node000004" href="$classUWIPClMsgSendAddr.html#a69e4a61afdeb562d270c50f431fa5154" title=" " alt="" coords="455,120,621,160"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="385,181,454,161,455,166,386,186"/>
+<area shape="rect" id="Node000005" href="$classUwMultiTrafficRangeCtr.html#a594ea2e935ec287d4be674b59df59328" title=" " alt="" coords="451,184,625,224"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="403,201,437,201,437,207,403,207"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="333,182,398,108,449,55,459,49,461,54,452,59,402,111,337,185"/>
+<area shape="rect" id="Node000007" href="$structhdr__uwcbr.html#a3e985d349c0925f64f4bd61890aac606" title=" " alt="" coords="466,249,610,274"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="394,221,475,243,474,248,393,227"/>
+<area shape="rect" id="Node000008" href="$structhdr__uwip.html#aa83dd6cc09a137c0679ccdadb4e93694" title=" " alt="" coords="475,298,601,323"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="346,222,394,254,452,284,470,291,468,296,450,289,391,258,343,226"/>
+<area shape="rect" id="Node000009" href="$classUwMultiTrafficRangeCtr.html#ab7ac4463e8779ed9ba12b4a17e234d0b" title=" " alt="" coords="451,348,625,388"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="334,222,384,277,416,307,452,334,462,340,460,344,449,338,413,311,380,281,330,226"/>
+<area shape="rect" id="Node000010" href="$structhdr__uwm__tr.html#a5a85a7efb949043cdd65c31691a2b228" title=" " alt="" coords="465,413,611,438"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="327,223,345,260,372,308,408,356,452,398,463,405,461,409,449,402,404,360,368,311,340,263,322,225"/>
+</map>

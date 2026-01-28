@@ -1,0 +1,9 @@
+<map id="UnderwaterPhysicalRogersModel::getBeta" name="UnderwaterPhysicalRogersModel::getBeta">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,69,203,109"/>
+<area shape="rect" id="Node000002" href="$classUnderwaterPhysicalRogersModel.html#a537ef7a6fa9bc8b962f9c0bb1037e42d" title=" " alt="" coords="251,5,448,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="181,67,258,46,260,51,182,72"/>
+<area shape="rect" id="Node000003" href="$classUnderwaterPhysicalRogersModel.html#a1e4f27e1a35deed95607fc7670fc2d85" title=" " alt="" coords="251,69,448,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="203,87,237,87,237,92,203,92"/>
+<area shape="rect" id="Node000004" href="$classUnderwaterPhysicalRogersModel.html#af5033d625cfbd5f4a5f27116edc96cb6" title=" " alt="" coords="251,133,448,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="182,107,260,127,258,132,181,112"/>
+</map>

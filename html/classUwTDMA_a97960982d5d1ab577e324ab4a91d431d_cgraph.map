@@ -1,0 +1,14 @@
+<map id="UwTDMA::recvSyncClMsg" name="UwTDMA::recvSyncClMsg">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,195,55"/>
+<area shape="rect" id="Node000002" href="$classUwTDMA.html#a7778d17fb24f67eb53e2216982b6755a" title=" " alt="" coords="243,29,397,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="195,39,229,39,229,45,195,45"/>
+<area shape="rect" id="Node000003" href="$classUwTDMA.html#a4acd3e887e2157744a1e092b64220a37" title=" " alt="" coords="445,5,565,31"/>
+<area shape="poly" id="edge6_Node000001_Node000003" title=" " alt="" coords="158,27,242,14,320,12,397,14,432,14,432,20,397,19,320,17,243,19,159,32"/>
+<area shape="rect" id="Node000005" href="$classUwTDMA.html#aae75813a6814a16d3c49e2c541d58452" title=" " alt="" coords="446,55,565,80"/>
+<area shape="poly" id="edge7_Node000001_Node000005" title=" " alt="" coords="163,52,243,63,342,68,432,67,432,73,342,73,242,69,163,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="397,29,431,25,432,30,398,35"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="398,50,433,55,432,60,397,55"/>
+<area shape="rect" id="Node000004" href="$classUwTDMA.html#aae7d76e1bcc0d742c10909c35d1483ed" title=" " alt="" coords="613,31,764,56"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="566,24,600,28,599,34,565,29"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="564,57,599,52,600,58,565,62"/>
+</map>

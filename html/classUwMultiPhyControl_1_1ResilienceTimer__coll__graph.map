@@ -1,11 +1,11 @@
 <map id="UwMultiPhyControl::ResilienceTimer" name="UwMultiPhyControl::ResilienceTimer">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,181,160,221"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="6,93,117,119"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="70,131,81,181,76,182,64,133"/>
-<area shape="rect" id="Node000003" href="$classUwMultiPhyControl.html" title="Class used to represents the UwMultiPhyControl layer of a node." alt="" coords="141,93,288,119"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="189,129,111,183,108,179,186,124"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="126,5,197,31"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="178,41,210,91,205,94,174,44"/>
-<area shape="rect" id="Node000005" href="$classPriorityMap.html" title=" " alt="" coords="221,5,318,31"/>
-<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="257,44,225,94,220,91,252,41"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,781,160,921"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="10,453,113,519"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="67,532,81,781,76,781,61,533"/>
+<area shape="rect" id="Node000003" href="$classUwMultiPhyControl.html" title=" " alt="" coords="137,253,319,719"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="140,715,119,767,114,765,135,713"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="129,65,191,131"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="171,144,190,253,185,254,165,145"/>
+<area shape="rect" id="Node000005" href="$classPriorityMap.html" title=" " alt="" coords="216,5,376,191"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="282,192,274,237,269,236,277,191"/>
 </map>

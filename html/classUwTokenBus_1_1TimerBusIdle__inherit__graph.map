@@ -1,5 +1,5 @@
 <map id="UwTokenBus::TimerBusIdle" name="UwTokenBus::TimerBusIdle">
-<area shape="rect" id="Node000001" title="TimerBusIdle when expires calls UwTokenBus::TxData() to start the transmission." alt="" coords="5,79,204,104"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="49,5,160,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,44,107,79,102,79,102,44"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,119,196,204"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="49,5,152,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,85,103,119,98,119,98,85"/>
 </map>

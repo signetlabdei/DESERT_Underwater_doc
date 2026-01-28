@@ -1,9 +1,0 @@
-<map id="interference&#45;uw&#45;WakeUp.cpp" name="interference&#45;uw&#45;WakeUp.cpp">
-<area shape="rect" id="Node000001" title="Provides the implementations of the inteference model for the Tone channel." alt="" coords="75,5,285,31"/>
-<area shape="rect" id="Node000002" href="$interference-uw-WakeUp_8h.html" title="Provides the declaration of the inteference model for the Tone channel." alt="" coords="5,79,200,104"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="169,33,127,71,124,67,166,29"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="224,79,293,104"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="194,29,238,68,234,71,191,33"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="31,152,175,177"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="105,104,105,138,100,138,100,104"/>
-</map>

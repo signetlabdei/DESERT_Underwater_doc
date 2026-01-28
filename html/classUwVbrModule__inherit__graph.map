@@ -1,5 +1,5 @@
 <map id="UwVbrModule" name="UwVbrModule">
-<area shape="rect" id="Node000001" title="UwVbrModule class is used to manage UWVBR packets, and to collect statistics about them." alt="" coords="5,79,119,104"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="27,5,97,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="65,44,65,79,59,79,59,44"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,119,193,944"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="68,5,131,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="102,84,102,118,97,118,97,84"/>
 </map>

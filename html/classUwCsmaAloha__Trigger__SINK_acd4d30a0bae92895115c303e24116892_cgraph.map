@@ -1,0 +1,11 @@
+<map id="UwCsmaAloha_Trigger_SINK::Phy2MacEndRx" name="UwCsmaAloha_Trigger_SINK::Phy2MacEndRx">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,69,173,109"/>
+<area shape="rect" id="Node000002" href="$classUwCsmaAloha__Trigger__SINK.html#a272648651bc4988e5efaf9b9a7dabe9d" title=" " alt="" coords="249,5,417,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="165,67,242,46,244,51,167,72"/>
+<area shape="rect" id="Node000003" href="$classUwCsmaAloha__Trigger__SINK.html#a784d762f9ebd79b933afbe95b22b54fb" title=" " alt="" coords="249,69,417,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="173,87,235,87,235,92,173,92"/>
+<area shape="rect" id="Node000005" href="$classUwCsmaAloha__Trigger__SINK.html#a88a80bf683db2451d8f9577ad036bb51" title=" " alt="" coords="221,133,444,173"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="167,107,244,127,242,132,165,112"/>
+<area shape="rect" id="Node000004" href="$classUwCsmaAloha__Trigger__SINK.html#ac0b89d42b71a20a3ceb6e6ac82683ca8" title=" " alt="" coords="492,69,660,109"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="417,87,478,87,478,92,417,92"/>
+</map>

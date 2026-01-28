@@ -1,0 +1,22 @@
+<map id="UwRangingTokenBus::sendToken" name="UwRangingTokenBus::sendToken">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,214,171,254"/>
+<area shape="rect" id="Node000002" href="$structhdr__tokenbus.html#a42185a88446648452db10bd3327105bc" title=" " alt="" coords="245,5,411,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="95,213,112,175,138,129,173,81,217,41,231,33,234,38,220,45,177,85,142,132,116,178,100,215"/>
+<area shape="rect" id="Node000003" href="$structhdr__uwranging__tokenbus.html#a8d93e73cd75a0cae37f761595b5971b8" title=" " alt="" coords="236,55,420,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="103,212,150,159,182,130,217,105,230,98,232,103,220,110,185,134,154,163,107,216"/>
+<area shape="rect" id="Node000004" href="$classUwTokenBus.html#a7c597bfdc734338baddc622c7b9edcf0" title=" " alt="" coords="219,120,437,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="121,211,166,186,218,162,262,147,264,152,220,167,169,191,124,216"/>
+<area shape="rect" id="Node000005" href="$structhdr__tokenbus.html#aded32750ff6e413ff45e1ffe7391840b" title=" " alt="" coords="485,145,651,171"/>
+<area shape="poly" id="edge10_Node000001_Node000005" title=" " alt="" coords="170,215,218,206,471,168,472,173,219,211,171,220"/>
+<area shape="rect" id="Node000006" href="$classUwTokenBus.html#a8f28622731e18796a414923530084071" title=" " alt="" coords="251,221,405,247"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="171,231,237,231,237,237,171,237"/>
+<area shape="rect" id="Node000007" href="$classUwTokenBus.html#a7a86a655618465b6655a6150a152f0fd" title=" " alt="" coords="249,271,407,296"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="172,248,253,265,252,270,170,254"/>
+<area shape="rect" id="Node000008" href="$structhdr__uwranging__tokenbus.html#a50b53e00f5783595c985fe4f42ceddd5" title=" " alt="" coords="236,321,420,361"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="122,252,167,279,220,305,242,314,240,319,218,310,165,283,119,256"/>
+<area shape="rect" id="Node000009" href="$structhdr__uwranging__tokenbus.html#af40d8c2fd4ef7ec31841826f0a751bab" title=" " alt="" coords="236,385,420,425"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="105,252,151,311,184,343,220,370,231,376,228,381,217,375,180,347,148,315,101,256"/>
+<area shape="rect" id="Node000010" href="$structhdr__uwranging__tokenbus.html#aea265b7a4daa95037071820c79e50d66" title=" " alt="" coords="236,449,420,489"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="99,253,115,292,141,341,176,391,220,435,228,440,225,444,217,439,172,395,137,344,111,294,94,255"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="438,142,472,145,471,151,437,147"/>
+</map>

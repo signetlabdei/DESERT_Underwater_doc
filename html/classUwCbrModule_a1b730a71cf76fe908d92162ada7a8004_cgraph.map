@@ -1,0 +1,27 @@
+<map id="UwCbrModule::sendPktLowPriority" name="UwCbrModule::sendPktLowPriority">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,397,252,423"/>
+<area shape="rect" id="Node000002" href="$classUwCbrModule.html#a123f40fe56e06540a24bc2cc66d2a742" title=" " alt="" coords="300,252,463,277"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="151,395,345,282,348,287,154,399"/>
+<area shape="rect" id="Node000007" href="$structhdr__uwcbr.html#a3e985d349c0925f64f4bd61890aac606" title=" " alt="" coords="524,399,668,424"/>
+<area shape="poly" id="edge13_Node000001_Node000007" title=" " alt="" coords="252,408,510,408,510,414,252,413"/>
+<area shape="rect" id="Node000010" href="$structhdr__uwcbr.html#abb8022a5c1cd16fa5c4f258193d13e1d" title=" " alt="" coords="540,448,652,473"/>
+<area shape="poly" id="edge14_Node000001_Node000010" title=" " alt="" coords="247,420,526,451,526,456,246,425"/>
+<area shape="rect" id="Node000003" href="$structhdr__uwip.html#af65ae6523ff3e2c6be7c6c71ae25350c" title=" " alt="" coords="529,349,663,375"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="411,275,556,341,554,346,409,280"/>
+<area shape="rect" id="Node000004" href="$structhdr__uwudp.html#a74a16cca5cfebb4ccaa2fc8eb19d5fbb" title=" " alt="" coords="523,29,669,55"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="385,251,400,214,426,163,462,110,484,85,509,64,517,59,520,63,512,68,488,89,466,113,431,166,405,216,390,253"/>
+<area shape="rect" id="Node000005" href="$structhdr__uwip.html#a16e0de7381f90758f28f2900505a2b00" title=" " alt="" coords="533,79,659,104"/>
+<area shape="poly" id="edge6_Node000002_Node000005" title=" " alt="" coords="388,250,433,185,468,146,509,113,520,107,522,112,512,118,472,150,437,188,392,253"/>
+<area shape="rect" id="Node000006" href="$structhdr__uwudp.html#ab4b211395535c9e27f0d8edf9bb4c23e" title=" " alt="" coords="529,128,663,153"/>
+<area shape="poly" id="edge7_Node000002_Node000006" title=" " alt="" coords="394,250,442,207,475,183,509,162,525,155,527,160,512,167,478,188,446,211,397,254"/>
+<area shape="poly" id="edge8_Node000002_Node000007" title=" " alt="" coords="395,276,442,328,475,358,512,384,527,391,525,396,509,388,472,362,438,332,391,279"/>
+<area shape="rect" id="Node000008" href="$structhdr__uwcbr.html#a083638694d16e2d08005e4db62aa5f75" title=" " alt="" coords="538,177,654,203"/>
+<area shape="poly" id="edge9_Node000002_Node000008" title=" " alt="" coords="411,249,510,211,533,204,535,209,512,217,413,254"/>
+<area shape="rect" id="Node000009" href="$structhdr__uwcbr.html#a89772b02437a1a87c66314eb719002a5" title=" " alt="" coords="519,227,673,252"/>
+<area shape="poly" id="edge10_Node000002_Node000009" title=" " alt="" coords="462,252,505,247,506,253,463,258"/>
+<area shape="poly" id="edge11_Node000002_Node000010" title=" " alt="" coords="391,277,408,309,434,352,469,396,512,434,528,443,526,448,509,439,465,400,430,355,403,311,386,279"/>
+<area shape="rect" id="Node000011" href="$structhdr__uwcbr.html#a68f55a5b2425e19bf717527e27675c33" title=" " alt="" coords="511,276,681,301"/>
+<area shape="poly" id="edge12_Node000002_Node000011" title=" " alt="" coords="463,271,497,275,497,280,463,276"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="561,351,554,341,557,331,572,325,596,323,626,326,637,335,634,340,624,331,596,328,573,330,561,335,559,340,565,348"/>
+<area shape="poly" id="edge5_Node000004_Node000004" title=" " alt="" coords="561,31,554,21,557,11,572,5,596,3,626,6,637,15,634,20,624,11,596,8,573,10,561,15,559,20,565,28"/>
+</map>

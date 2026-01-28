@@ -1,7 +1,7 @@
 <map id="UWAloha::BackOffTimer" name="UWAloha::BackOffTimer">
-<area shape="rect" id="Node000001" title="Base class of BackoffTimer." alt="" coords="9,152,188,177"/>
-<area shape="rect" id="Node000002" href="$classUWAloha_1_1UWAlohaTimer.html" title="Base class of all the timer used in this protocol." alt="" coords="5,79,192,104"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,118,101,152,96,152,96,118"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="43,5,154,31"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="101,44,101,79,96,79,96,44"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="9,572,180,677"/>
+<area shape="rect" id="Node000002" href="$classUWAloha_1_1UWAlohaTimer.html" title=" " alt="" coords="5,119,184,524"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="97,538,97,572,92,572,92,538"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="43,5,146,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="97,84,97,118,92,118,92,84"/>
 </map>

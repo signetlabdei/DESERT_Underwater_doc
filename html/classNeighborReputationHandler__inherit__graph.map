@@ -1,5 +1,5 @@
 <map id="NeighborReputationHandler" name="NeighborReputationHandler">
-<area shape="rect" id="Node000001" title="This class defines the timer used to check the packet forwarding by the neighbor and handle reputatio..." alt="" coords="5,79,208,104"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="51,5,162,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,44,109,79,104,79,104,44"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,119,236,524"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="69,5,172,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,84,123,118,118,118,118,84"/>
 </map>

@@ -2,8 +2,8 @@ var classUwMultiTrafficControl =
 [
     [ "UwMultiTrafficControl", "classUwMultiTrafficControl.html#a23fff5f9d71cbca8b3510bd6549843eb", null ],
     [ "~UwMultiTrafficControl", "classUwMultiTrafficControl.html#a1a4ef4941ed9f0b98c8f78a47fd4cf58", null ],
-    [ "addLowLayerFromTag", "classUwMultiTrafficControl.html#a37227f83784cb96128d7813fc3533a84", null ],
-    [ "addUpLayerFromTag", "classUwMultiTrafficControl.html#a945617e8cc991b84d270283acb906aba", null ],
+    [ "addLowLayerFromTag", "classUwMultiTrafficControl.html#a05478527cd96274c84ab7ddd2c613b41", null ],
+    [ "addUpLayerFromTag", "classUwMultiTrafficControl.html#a540d7cb34317aeda530ad07c290165b2", null ],
     [ "command", "classUwMultiTrafficControl.html#a1ed0b7cab352497e0d425587330311f4", null ],
     [ "eraseTraffic2Low", "classUwMultiTrafficControl.html#a841e74aed01d705ae3bfd1aaa51f14bf", null ],
     [ "eraseTraffic2LowerLayer", "classUwMultiTrafficControl.html#ab47cc7352c520b69c91e446c70bc364f", null ],

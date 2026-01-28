@@ -3,8 +3,6 @@ var classUwROVCtrModule =
     [ "UwROVCtrModule", "classUwROVCtrModule.html#afdd8173677565f17c4c55b86023a50ac", null ],
     [ "~UwROVCtrModule", "classUwROVCtrModule.html#acd04c6c1014128209ad180264475b1a0", null ],
     [ "command", "classUwROVCtrModule.html#a608d7511f90663e140935f007cbce934", null ],
-    [ "getROVCTRHeaderSize", "classUwROVCtrModule.html#a8d80033c9c6e0525824763be8595d8dd", null ],
-    [ "getROVMonHeaderSize", "classUwROVCtrModule.html#acc6fd9f7cb367880dd8e1afcaa2bb07f", null ],
     [ "initPkt", "classUwROVCtrModule.html#a7e6d8ceee734f38af508c57e20178a1f", null ],
     [ "recv", "classUwROVCtrModule.html#a8a7ab47410b0acacfa51f1bebd3e05b2", null ],
     [ "recv", "classUwROVCtrModule.html#a5768483736a6dd10cdca76b8dc0610f3", null ],

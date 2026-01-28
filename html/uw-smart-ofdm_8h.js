@@ -9,11 +9,6 @@ var uw_smart_ofdm_8h =
     [ "UWSmartOFDM::AssignmentTimer", "classUWSmartOFDM_1_1AssignmentTimer.html", "classUWSmartOFDM_1_1AssignmentTimer" ],
     [ "UWSmartOFDM::AssignmentValidTimer", "classUWSmartOFDM_1_1AssignmentValidTimer.html", "classUWSmartOFDM_1_1AssignmentValidTimer" ],
     [ "UWSmartOFDM::DATATimer", "classUWSmartOFDM_1_1DATATimer.html", "classUWSmartOFDM_1_1DATATimer" ],
-    [ "UWSMARTOFDM_DROP_REASON_BUFFER_FULL", "uw-smart-ofdm_8h.html#a46ea860314d5218e3e2c43172aee2941", null ],
-    [ "UWSMARTOFDM_DROP_REASON_ERROR", "uw-smart-ofdm_8h.html#a0d78589d7d6727b5ac8c0b8051825926", null ],
-    [ "UWSMARTOFDM_DROP_REASON_UNKNOWN_TYPE", "uw-smart-ofdm_8h.html#a2a8fd3589078358885a8e17006f55b0f", null ],
-    [ "UWSMARTOFDM_DROP_REASON_WRONG_RECEIVER", "uw-smart-ofdm_8h.html#a854f90fb1cbac26999a5e50e7c80a495", null ],
-    [ "UWSMARTOFDM_DROP_REASON_WRONG_STATE", "uw-smart-ofdm_8h.html#a24dafd129a343825f82c7e544e7625b6", null ],
     [ "pktSeqNum", "uw-smart-ofdm_8h.html#a290a6c73e78183b0627b629515581603", null ],
     [ "criticalLevel", "uw-smart-ofdm_8h.html#a8a2023bfc16cc55735a67ff50ecea39b", [
       [ "LOW", "uw-smart-ofdm_8h.html#a8a2023bfc16cc55735a67ff50ecea39ba6a226f4143ca3b18999551694cdb72a8", null ],

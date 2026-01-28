@@ -1,0 +1,9 @@
+<map id="UwRangingTokenBus::validToken" name="UwRangingTokenBus::validToken">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,23,171,63"/>
+<area shape="rect" id="Node000002" href="$classUwTokenBus.html#a7a86a655618465b6655a6150a152f0fd" title=" " alt="" coords="230,5,389,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,31,216,26,216,31,171,37"/>
+<area shape="rect" id="Node000003" href="$classUwTokenBus.html#aee03c6e2b8e14717e3ccfee975a2318a" title=" " alt="" coords="219,55,400,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="171,50,205,53,205,59,170,55"/>
+<area shape="rect" id="Node000004" href="$structhdr__tokenbus.html#aded32750ff6e413ff45e1ffe7391840b" title=" " alt="" coords="448,55,613,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="400,65,434,65,434,70,400,70"/>
+</map>

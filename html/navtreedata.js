@@ -26,41 +26,52 @@ var NAVTREE =
 [
   [ "DESERT", "index.html", [
     [ "The DESERT Underwater Libraries", "index.html", "index" ],
-    [ "Installation Guidelines", "INSTALL1.html", [
-      [ "Installation requirements", "INSTALL1.html#requirements", [
-        [ "Debian", "INSTALL1.html#debian", null ],
-        [ "Archlinux", "INSTALL1.html#arch-requirements", null ],
-        [ "Fedora", "INSTALL1.html#fed-requirements", null ]
+    [ "Installation Guidelines", "md_DESERT__Framework_2Installer_2INSTALL.html", [
+      [ "Installation Requirements", "md_DESERT__Framework_2Installer_2INSTALL.html#autotoc_md8", [
+        [ "Debian", "md_DESERT__Framework_2Installer_2INSTALL.html#autotoc_md9", null ],
+        [ "Arch Linux", "md_DESERT__Framework_2Installer_2INSTALL.html#autotoc_md10", null ],
+        [ "Fedora", "md_DESERT__Framework_2Installer_2INSTALL.html#autotoc_md11", null ]
       ] ],
-      [ "Download and install", "INSTALL1.html#download-install", [
-        [ "After the installation has been completed", "INSTALL1.html#todoafter", null ]
+      [ "Download and install", "md_DESERT__Framework_2Installer_2INSTALL.html#autotoc_md12", [
+        [ "After the installation has been completed", "md_DESERT__Framework_2Installer_2INSTALL.html#autotoc_md13", null ]
       ] ],
-      [ "Use Docker", "INSTALL1.html#docker-install", null ]
+      [ "Use Docker", "md_DESERT__Framework_2Installer_2INSTALL.html#autotoc_md14", null ]
     ] ],
-    [ "How to cross-compile DESERT for Raspberry Pi Zero (32bit)", "CROSS-COMPILE-RPI.html", [
-      [ "Cross-compilation on Debian/Ubuntu workstation", "CROSS-COMPILE-RPI.html#CROSS-COMPILE-RPI-bare", null ],
-      [ "Use docker", "CROSS-COMPILE-RPI.html#CROSS-COMPILE-RPI-docker", null ]
+    [ "How to cross-compile DESERT for EvoLogics ARM Debian Sandbox", "md_DESERT__Framework_2Installer_2INSTALL__Evologics.html", [
+      [ "Cross-compilation on Debian/Ubuntu workstation", "md_DESERT__Framework_2Installer_2INSTALL__Evologics.html#autotoc_md16", null ],
+      [ "Use docker", "md_DESERT__Framework_2Installer_2INSTALL__Evologics.html#autotoc_md17", null ]
     ] ],
-    [ "How to cross-compile DESERT for EvoLogics ARM Debian Sandbox", "CROSS-COMPILE-EVO.html", [
-      [ "Cross-compilation on Debian/Ubuntu workstation", "CROSS-COMPILE-EVO.html#CROSS-COMPILE-EVO-bare", null ],
-      [ "Use docker", "CROSS-COMPILE-EVO.html#CROSS-COMPILE-EVO-docker", null ]
+    [ "How to cross-compile DESERT for Raspberry Pi Zero (32bit)", "md_DESERT__Framework_2Installer_2INSTALL__Raspberry__Pi__zero.html", [
+      [ "Cross-compilation on Debian/Ubuntu workstation", "md_DESERT__Framework_2Installer_2INSTALL__Raspberry__Pi__zero.html#autotoc_md19", null ],
+      [ "Use docker", "md_DESERT__Framework_2Installer_2INSTALL__Raspberry__Pi__zero.html#autotoc_md21", null ]
     ] ],
-    [ "ROS Integration for DESERT", "ROS.html", [
-      [ "ROS middleware", "ROS.html#FRAMEWORK", null ]
+    [ "ROS Integration for DESERT", "md_doc_2ROS__integration.html", [
+      [ "ROS middleware", "md_doc_2ROS__integration.html#autotoc_md23", null ]
     ] ],
-    [ "Developer guide", "DEV.html", [
-      [ "DESERT Structure", "DEV.html#desstruct", null ],
-      [ "How to create a new tcl script", "DEV.html#howtcl", null ],
-      [ "How to add a new module", "DEV.html#howmod", [
-        [ "The command method", "DEV.html#cmdMet", null ],
-        [ "The printOnLog method", "DEV.html#pLog", null ]
+    [ "Developer guide", "md_doc_2Developer__guide.html", [
+      [ "DESERT Structure", "md_doc_2Developer__guide.html#autotoc_md25", null ],
+      [ "How to create a new tcl script", "md_doc_2Developer__guide.html#autotoc_md26", null ],
+      [ "How to add a new module", "md_doc_2Developer__guide.html#autotoc_md27", [
+        [ "The command method", "md_doc_2Developer__guide.html#autotoc_md28", null ],
+        [ "The printOnLog method", "md_doc_2Developer__guide.html#autotoc_md29", null ]
       ] ],
-      [ "How to add a new Packet headers", "DEV.html#newheader", null ],
-      [ "How to add a new DESERT Add-on", "DEV.html#newaddon", null ],
-      [ "How to add a new custom installer", "DEV.html#HowTo", null ]
+      [ "How to add a new Packet headers", "md_doc_2Developer__guide.html#autotoc_md30", null ],
+      [ "How to add a new DESERT Add-on", "md_doc_2Developer__guide.html#autotoc_md31", null ],
+      [ "How to add a new custom installer", "md_doc_2Developer__guide.html#autotoc_md32", null ]
     ] ],
-    [ "License Terms", "License.html", null ],
-    [ "In memory of Giovanni Toso", "Giovanni.html", null ],
+    [ "Coding rules", "md_coding__rules.html", [
+      [ "Indentation", "md_coding__rules.html#autotoc_md34", null ],
+      [ "Naming", "md_coding__rules.html#autotoc_md35", null ],
+      [ "Functions/Methods", "md_coding__rules.html#autotoc_md36", null ],
+      [ "Control flow", "md_coding__rules.html#autotoc_md37", null ],
+      [ "Doxygen", "md_coding__rules.html#autotoc_md38", null ],
+      [ "Clang-format", "md_coding__rules.html#autotoc_md39", null ]
+    ] ],
+    [ "Contributing", "md_CONTRIBUTING.html", null ],
+    [ "In memory of Giovanni Toso", "md_doc_2Giovanni__Toso.html", null ],
+    [ "Release notes - DESERT - 3.5.0", "md_CHANGELOG.html", null ],
+    [ "License terms", "md_LICENSE.html", null ],
+    [ "Acknowledgements", "md_ACKNOWLEDGEMENTS.html", null ],
     [ "Namespaces", "namespaces.html", [
       [ "Namespace List", "namespaces.html", "namespaces_dup" ],
       [ "Namespace Members", "namespacemembers.html", [
@@ -73,7 +84,6 @@ var NAVTREE =
     ] ],
     [ "Classes", "annotated.html", [
       [ "Class List", "annotated.html", "annotated_dup" ],
-      [ "Class Index", "classes.html", null ],
       [ "Class Hierarchy", "hierarchy.html", "hierarchy" ],
       [ "Class Members", "functions.html", [
         [ "All", "functions.html", "functions_dup" ],
@@ -93,8 +103,7 @@ var NAVTREE =
         [ "Variables", "globals_vars.html", "globals_vars" ],
         [ "Typedefs", "globals_type.html", null ],
         [ "Enumerations", "globals_enum.html", null ],
-        [ "Enumerator", "globals_eval.html", "globals_eval" ],
-        [ "Macros", "globals_defs.html", "globals_defs" ]
+        [ "Enumerator", "globals_eval.html", "globals_eval" ]
       ] ]
     ] ]
   ] ]
@@ -102,45 +111,41 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"CROSS-COMPILE-EVO.html",
-"DESERT__Framework_2DESERT_2data__link_2uwUFetch_2initlib_8cpp.html#a29629aa3857f612245af6f1c4d0a9adf",
-"DESERT__Framework_2DESERT_2physical_2uwmphy__modem_2uwmdriver_8h.html#af33ab3fa9a13c6a72e78a766fac5b597a46694256bc3660af1ced12f9bc9fa2d6",
-"classClMsgMc2CtrPosition.html#a1c0c85f7b59bf5447f762e3a88c9f1ef",
-"classCsmaAloha.html#a8c77fe0b32775315ab624d736a6221bb",
-"classMCLinkExtended.html#a21aaf24c58e8ddea6429f24e85c117f7",
-"classMMacTLOHI.html#ab3ea358e61eb7880bd7e8379c4e5ec78",
-"classMMacUWSR_1_1UWSRTimer.html#a92f7f5b1ba2ef46f68942de07fa82100",
-"classRxFrameSet.html#a60ae5b3445cfef34c60523302deed896",
-"classTriggerHeaderClass.html",
-"classUWMPhy__modem.html#a4979ab2d6d6312ac59dc49ece72d1b25",
-"classUWOFDMAloha.html#a5d7695e7ac639e33ed82df9ed9f2c042",
-"classUWSmartOFDM.html#a6ccf106efdb7768d60611afffe41f245ae3761dca57ef1e57e46fb50c260a68da",
-"classUnderwaterPhysical.html#a3a5ea74afef9ccb55396c7fa6d761e7e",
-"classUwCbrModule.html#a8d5a74bae9359e2a5c76d20d8ef9c777",
-"classUwElectroMagneticChannel.html#a1d18b1056146f5545a2e21b66dd7366c",
-"classUwIcrpNode.html#a02f5a2558ecce1b38ee04556484a03b0",
-"classUwModem.html#aa1d0b178fa087877c46b00f41f27a099",
-"classUwMultiTrafficRangeCtr.html#a890aa88b4aa6340be6e7846437516536",
-"classUwPosEstimation.html",
-"classUwSocket.html#a710b94cc914a2e24466877c10f0d9263ab136ef5f6a01d816991fe3cf7a6ac763",
-"classUwVbrModule.html#a9e55c828b63d301831473eb35e0fb618",
-"classUwpolling__AUV.html#aaec12ba28e1e594133fa76193ca79c91",
-"classUwpolling__NODE_1_1Uwpolling__NODE__Timer.html#ae744867d950e0be57bb64b4ce1f2f16f",
-"classWossGroupMob3D.html#a722bc241a8b6070c1ec6a3a3f0c7e9a2",
-"classpackerUwpolling.html#ad0cac0f622ba4c35731f6689b83f3a15",
-"classuwUFetch__AUV.html#a4948f7c487cedc616e7fccf695630ef9abe75c9a56eb3b1becdf4192d91519a29",
-"classuwUFetch__NODE.html#a5165952a764fb8b7af4843d5fce32485",
-"classuwUFetch__NODE.html#af0fa7108592778ae4505b07d62743944",
-"dir_d855ef6b825e8ca924637ede253b3148.html",
-"logging_8h.html#aa2d5d5e3dbae51fce8ce90d7a95b7454",
-"soundlevels_8h.html#a206f45645b7a2cc8afa9bd10ddb13a2b",
-"structhdr__TRIGGER.html",
-"structhdr__uwm__tr.html#a5a85a7efb949043cdd65c31691a2b228",
-"uw-csma-ca-hdrs_8h.html#a411da47d84b1c47df575b3a5d580d198",
-"uwUFetch__AUV_8h.html#af9b935a86c25710ff511170331b29bff",
-"uwinterference_8h.html#ae53c019d6f0d18778035f4e81439055aa5ea73cf9a3f5928257b1e6bc796d8490",
-"uwopticalbeampattern-hdr_8h.html#ab6a9bd811890b552925bac9f43423d58",
-"uwsc-tracker-module_8cc.html#ab264242aef790cea5d8d159ed9d2a29d"
+"DESERT__Addons_2cool-addon_2initlib_8cpp.html",
+"DESERT__Framework_2DESERT_2data__link_2uwtdma_2initlib_8cpp.html#a3fdfd8cab47c814b39e994ad119e01ae",
+"ahoitypes_8h.html#a570d3c094ade8b6979d3d8a987f5023c",
+"classCsmaAloha.html#a0c4acb721e6c6597c0614b9fe8986496",
+"classDropTimer.html#a51d6a5fa67fbce727e73e6b6990926fe",
+"classMMacTLOHI.html#a36a6952c721f006da8fde1491eebede7",
+"classMMacUWSR.html#adcdf8c1899acf729d8822a05fbb3959b",
+"classSinkProbeTimer.html#a0178866fb11d60361086f3db22941e84",
+"classUWAloha.html#a6671593d74fc83c1dfa501d302113d07",
+"classUWMdriver.html#a194dfb7d4f5c9f188ae033533cec1086",
+"classUWOFDMAloha_1_1UWOFDMAlohaTimer.html#aa3c6e54f9ef0d3b068e5e84a4000ff99",
+"classUWSmartOFDM.html#ae7ebc6e1769b9cc286373f23a5c6e3ed",
+"classUwAhoiModem.html#a2664a2596e256bda35c7299ddb072988",
+"classUwCbrModule.html#a035e2a11b16877c6cf077e7d74e38ed6",
+"classUwCsmaAloha__Trigger__SINK.html#a99c7c0ca1dc3b9a45428b8aae252f1f4",
+"classUwGMPosition.html#a2e5c17d1f7c970cc885e119b556092bd",
+"classUwModem.html#a93cbd810b64c61acb5455adb24d8ceca",
+"classUwOFDMPhy.html#a068d1709ecf616b1322453ece41ae74f",
+"classUwROVModule.html#ae515c596508d39c98703488b3c28d418a86094d496f1f3d174e8c2c103a0e8e63",
+"classUwTap.html#ad3359405f4ea0f1657c74f552ac1a79c",
+"classUwpolling__AUV.html#a22d485e92372351592e27a7ea1a0b2fc",
+"classUwpolling__NODE.html#a87fbae44ef439326e7720e6aa4387eb1",
+"classWossGMMob3D.html#a1b4aa0a02d9e0a3c5400081352eb9b8ca66666dec641171f3dbba052b9e20f12f",
+"classpackerUwCsmaCa.html",
+"classuwUFetch__AUV.html#a23086ce821eaeef0841607cb13c4d78d",
+"classuwUFetch__NODE.html#a387173f54ef1984a1d28ea570536cfea",
+"classuwUFetch__NODE.html#ad9fd8eb8b8e823e5e7aeebcd5eceba30",
+"dir_8ac95ee73b297f858ba739c4bc53bfbe.html",
+"logging_8h.html#ac397ecc3251ef3ba0d0b8027448b816f",
+"structIP__range.html#acecf572ae7568a2e0f1d0a86a85a3d79",
+"structhdr__tokenbus.html",
+"uw-aloha-q-node_8h.html#aaf6d83e5f679d3377362ccfd6927a361",
+"uwaloha_8h_source.html",
+"uwofdmphy_8h.html#ad10f0e2855f31a2f76b7c6966498294f",
+"uwvbr-module_8h_source.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

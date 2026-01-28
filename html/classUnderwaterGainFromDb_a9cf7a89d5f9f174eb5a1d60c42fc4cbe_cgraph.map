@@ -1,0 +1,9 @@
+<map id="UnderwaterGainFromDb::getGain" name="UnderwaterGainFromDb::getGain">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,37,184,77"/>
+<area shape="rect" id="Node000002" href="$classUnderwaterGainFromDb.html#ad491db5527e617bda0f665a1463d65a7" title=" " alt="" coords="232,5,411,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="184,42,218,37,219,42,185,47"/>
+<area shape="rect" id="Node000003" href="$classUnderwaterGainFromDb.html#a972a00a5945913218243a6ba79d60184" title=" " alt="" coords="232,69,411,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="185,67,219,72,218,77,184,73"/>
+<area shape="rect" id="Node000004" href="$classUnderwaterGainFromDb.html#a044e41a15fc74edf0d63a8dfac3468c7" title=" " alt="" coords="459,69,637,109"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="411,87,445,87,445,92,411,92"/>
+</map>

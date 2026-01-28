@@ -1,0 +1,15 @@
+<map id="MCLinkExtended::command" name="MCLinkExtended::command">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,42,209,67"/>
+<area shape="rect" id="Node000002" href="$classMCLinkExtended.html#a1b19dffcfd9cdc84dfa9f757171f2c35" title=" " alt="" coords="257,15,444,41"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="209,41,244,37,244,42,210,46"/>
+<area shape="rect" id="Node000006" href="$classMCLink.html#a69296bb3da835fab98eb2df520307b5f" title=" " alt="" coords="275,66,426,91"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="210,62,262,67,261,73,209,67"/>
+<area shape="rect" id="Node000003" href="$classMCLinkExtended.html#a4637d91e239d832411395565ab4d6364" title=" " alt="" coords="492,5,693,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="444,24,478,24,478,29,444,30"/>
+<area shape="rect" id="Node000004" href="$classMCLinkExtended.html#ac044e8b12802657d0c867a1d79f95604" title=" " alt="" coords="741,5,908,45"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="694,23,728,23,728,28,694,28"/>
+<area shape="rect" id="Node000005" href="$classMCLinkExtended.html#aeee67838bd8866f7ab4faf7103661f15" title=" " alt="" coords="956,5,1120,45"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="908,23,943,23,943,28,908,28"/>
+<area shape="rect" id="Node000007" href="$classMCLink.html#a837d48a13d376c5dd7f4d332a8d0e335" title=" " alt="" coords="505,70,680,95"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="426,77,492,78,492,84,426,83"/>
+</map>

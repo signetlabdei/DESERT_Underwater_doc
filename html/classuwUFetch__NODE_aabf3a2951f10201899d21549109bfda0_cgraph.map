@@ -1,0 +1,30 @@
+<map id="uwUFetch_NODE::CBEACON_rx" name="uwUFetch_NODE::CBEACON_rx">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,313,228,338"/>
+<area shape="rect" id="Node000002" href="$classuwUFetch__NODE.html#abeddaf8ea3052bf7d8578aca31825114" title=" " alt="" coords="290,5,503,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,311,136,263,167,194,213,119,241,85,274,55,282,50,285,54,278,59,245,89,217,122,172,196,141,265,124,313"/>
+<area shape="rect" id="Node000003" href="$classuwUFetch__NODE.html#a0516e0266a316d6376fa48dbba53c9c7" title=" " alt="" coords="288,69,505,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="122,311,142,273,175,221,220,166,246,141,275,119,285,113,288,118,277,124,250,145,224,170,180,224,147,276,126,314"/>
+<area shape="rect" id="Node000004" href="$classuwUFetch__NODE.html#a1e5cb82e90efe479029b92ccc2677435" title=" " alt="" coords="287,133,507,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="127,310,186,249,228,214,275,183,289,176,292,181,277,188,231,218,189,253,131,314"/>
+<area shape="rect" id="Node000005" href="$structhdr__CBEACON__UFETCH.html#ace1474cb7093b8c6246201a3d9e6a49c" title=" " alt="" coords="279,197,514,237"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="144,310,275,254,316,239,317,244,277,258,146,315"/>
+<area shape="rect" id="Node000006" href="$classuwUFetch__NODE.html#a4222cc6e6f7da20670c01e89f89a431c" title=" " alt="" coords="565,313,793,338"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="182,310,276,297,397,291,518,297,600,308,599,313,517,303,397,296,276,303,183,315"/>
+<area shape="rect" id="Node000007" href="$classuwUFetch__NODE.html#afd11eb4abf6184c41d4ba38a2366780e" title=" " alt="" coords="570,363,789,389"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="193,335,276,347,422,360,556,368,556,373,421,365,276,352,193,341"/>
+<area shape="rect" id="Node000008" href="$classuwUFetch__NODE_1_1uwUFetch__NODE__timer.html#ae26a81468799b16a28f1487012479200" title=" " alt="" coords="578,441,781,481"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="129,337,152,365,186,401,228,436,277,463,350,482,427,490,501,488,569,481,569,486,501,493,426,495,349,488,275,468,225,441,182,405,148,369,125,340"/>
+<area shape="rect" id="Node000009" href="$classuwUFetch__NODE.html#abc9cf7ab4fa41532d5dcd8f5b20fda3a" title=" " alt="" coords="311,413,483,453"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="146,336,277,392,317,406,316,412,275,397,144,341"/>
+<area shape="rect" id="Node000010" href="$classuwUFetch__NODE.html#ac5c8f007e1b50ad84e721ec33c39161e" title=" " alt="" coords="276,313,517,338"/>
+<area shape="poly" id="edge12_Node000001_Node000010" title=" " alt="" coords="228,323,262,323,262,328,228,328"/>
+<area shape="rect" id="Node000011" href="$structhdr__CBEACON__UFETCH.html#ab256df005299e25cd8bbc4eebec8fdca" title=" " alt="" coords="310,528,483,568"/>
+<area shape="poly" id="edge15_Node000001_Node000011" title=" " alt="" coords="128,337,149,371,183,417,227,465,277,507,302,520,299,525,275,512,223,469,179,420,145,374,123,340"/>
+<area shape="rect" id="Node000012" href="$structhdr__CBEACON__UFETCH.html#ab31aef876de395761b3493b61343ef00" title=" " alt="" coords="310,592,483,632"/>
+<area shape="poly" id="edge16_Node000001_Node000012" title=" " alt="" coords="125,337,142,383,173,449,218,519,246,550,278,578,298,590,295,595,274,582,242,554,214,522,169,451,137,385,120,339"/>
+<area shape="poly" id="edge9_Node000009_Node000006" title=" " alt="" coords="432,411,492,379,564,348,595,339,597,344,566,353,495,384,434,415"/>
+<area shape="poly" id="edge10_Node000009_Node000007" title=" " alt="" coords="482,413,602,389,603,394,483,419"/>
+<area shape="poly" id="edge11_Node000009_Node000008" title=" " alt="" coords="483,439,565,447,564,453,483,444"/>
+<area shape="poly" id="edge13_Node000010_Node000006" title=" " alt="" coords="518,323,551,323,551,328,518,328"/>
+<area shape="poly" id="edge14_Node000010_Node000007" title=" " alt="" coords="469,335,595,358,594,363,468,341"/>
+</map>
