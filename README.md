@@ -20,4 +20,4 @@ The code is hosted [on Github](https://github.com/signetlabdei/DESERT_Underwater
 
 # Doxygen
 
-Please find [here our doxygen documentation](./html/index.html)
+Please find [here our doxygen documentation](https://signetlabdei.github.io/DESERT_Underwater_doc/html/index.html)
